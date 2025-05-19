@@ -1,0 +1,413 @@
+[
+     {
+      "university_title": "National University of computer and emerging sciences",
+      "main_link": "https://www.nu.edu.pk/",
+      "social_links": {
+        "instagram": "https://www.instagram.com/fast_nuces/",
+        "facebook": "https://www.facebook.com/FastUniversityOfficial/",
+        "twitter": "https://www.twitter.com/FastNuOfficial"
+      },
+      "ranking": "2",
+      "contact_details": {
+        "info_email": "admissions.lhr@nu.edu.pk",
+        "call": "111-128-128 "
+      },
+      "introduction": "The National University of Computer & Emerging Sciences has the honor of being the first multi-campus private sector university set up under the Federal Charter granted by Ordinance No.XXIII of 2000, dated July 01, 2000.",
+      "programs": {
+        "software_engineering": {
+          "program_title": "BS Software Engineering",
+          "program_description": "Fundamental Knowledge of Software Engineering To have competence in applying Software Engineering principles & best practices across various phases of Software/System Development Life Cycle (SDLC) in diverse professional roles. Ethical and Societal Responsibilities To demonstrate a sound sense of ethical and social responsibilities for sustainable societal development. Communication Skills To effectively communicate ideas clearly and persuasively in written and oral forms. Your career prospects will be excellent: You may become software quality assurance engineer, systems programmer, embedded software engineer, software architect, Chief Technology Officer, Chief Information Officer, User Interface designer, Information Systems manager or computer graphic designer etc.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "10,000 PKR",
+              "total_tution_fee": "1,300,000. PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "May 20 (Mon) - Jul 5 (Fri)",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Jul 8 (Mon) - Jul 19 (Fri)",
+              "daedline_SAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+              "deadline_admission_test_ECAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+              "admission_decision":"Jul 23 (Tue)",
+              "commencement_of_classes": "Aug 19 (Mon)"
+            }
+          ],        
+          "merit": "50%",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "Intermediate of Statistics (ICS) with at least 60% obtained marks"
+            },
+            {
+              "s.no": 4,
+              "criteria": "At least 3 A-Level passes in relevant subjects with a minimum of 60% equivalence as determined by IBCC."
+            },
+            {
+               "s.no": 5,
+               "criteria": "Pass the Fast test with 50% marks or NTS with 50%"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://www.nu.edu.pk/Program/BS(SE)#"
+        },
+        "computer_science": {
+          "program_title": "BS Computer Science",
+          "program_description": "Impart in-depth understanding of Computer Science field according to international standards. Convert understanding to innovations. Build diverse careers in Computer Science as productive IT professionals and entrepreneurs for the socio-economic development. Prepare students for the graduate level studies and research. Develop effective communication, management and leadership skills. Impart professional ethics and collaborative team player abilities.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+  
+          "fee": [
+            {
+              "per_credit_hour_fee": "10,000 PKR",
+              "total_tution_fee": "1,300,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+                "deadline_application_submission": "May 20 (Mon) - Jul 5 (Fri)",
+                "deadline_pay_application_fee": null,
+                "deadline_finencial_aid_application": null,
+                "daedline_ACT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "daedline_SAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "deadline_admission_test_ECAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "admission_decision":"Jul 23 (Tue)",
+                "commencement_of_classes": "Aug 19 (Mon)"
+            }
+          ],       
+          "merit": "50%",
+          "admission_criteria": [
+            {
+                "s.no": 1,
+                "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 2,
+                "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+              },
+              {
+                "s.no": 3,
+                "criteria": "Intermediate of Statistics (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 4,
+                "criteria": "At least 3 A-Level passes in relevant subjects with a minimum of 60% equivalence as determined by IBCC."
+              },
+              {
+                 "s.no": 5,
+                 "criteria": "Pass the Fast test with 50% marks or NTS with 50%"
+              }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://www.nu.edu.pk/Program/BS(CS)"
+        },
+        "artificial_intelligence": {
+          "program_title": "BS Artificial Intelligence",
+          "program_description": "Knowledge of the fundamentals of Computing and Artificial Intelligence - A graduate who is performing his/her professional roles with understanding of fundamental knowledge of computing and artificial intelligence acquired during his studies. Ethical and Societal Responsibilities - A graduate who is fulfilling his/her professional responsibilities taking into account ethical and societal concerns with special emphasis on artificial intelligence and its applications. A graduate who is effective in oral and written communication of technical and managerial information. A graduate who is effective in a leadership role of a group/team assigned to him/her or in an entrepreneurial environment. A graduate who keeps on exploring new fields and areas in computing and artificial intelligence for his/her organization or conducts research for academic pursuits.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "10,000 PKR",
+              "total_tution_fee": "1,300,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+                "deadline_application_submission": "May 20 (Mon) - Jul 5 (Fri)",
+                "deadline_pay_application_fee": null,
+                "deadline_finencial_aid_application": null,
+                "daedline_ACT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "daedline_SAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "deadline_admission_test_ECAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "admission_decision":"Jul 23 (Tue)",
+                "commencement_of_classes": "Aug 19 (Mon)"
+            }
+          ],       
+          "merit": "50%",
+          "admission_criteria": [
+            {
+                "s.no": 1,
+                "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 2,
+                "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+              },
+              {
+                "s.no": 3,
+                "criteria": "Intermediate of Statistics (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 4,
+                "criteria": "At least 3 A-Level passes in relevant subjects with a minimum of 60% equivalence as determined by IBCC."
+              },
+              {
+                 "s.no": 5,
+                 "criteria": "Pass the Fast test with 50% marks or NTS with 50%"
+              }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://www.nu.edu.pk/Program/BS(AI)"
+        },
+        "cyber_security": {
+          "program_title": "BS Cyber Security",
+          "program_description": "Completion of an accredited program (BS CY) of study designed to prepare graduates as computing professionals. Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements. Identify, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines. Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "10,000 PKR",
+              "total_tution_fee": "1,300,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+                "deadline_application_submission": "May 20 (Mon) - Jul 5 (Fri)",
+                "deadline_pay_application_fee": null,
+                "deadline_finencial_aid_application": null,
+                "daedline_ACT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "daedline_SAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "deadline_admission_test_ECAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "admission_decision":"Jul 23 (Tue)",
+                "commencement_of_classes": "Aug 19 (Mon)"
+            }
+          ],       
+          "merit": "50%",
+          "admission_criteria": [
+            {
+                "s.no": 1,
+                "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 2,
+                "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+              },
+              {
+                "s.no": 3,
+                "criteria": "Intermediate of Statistics (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 4,
+                "criteria": "At least 3 A-Level passes in relevant subjects with a minimum of 60% equivalence as determined by IBCC."
+              },
+              {
+                 "s.no": 5,
+                 "criteria": "Pass the Fast test with 50% marks or NTS with 50%"
+              }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://www.nu.edu.pk/Program/BS(CY)"
+        },
+        "data_science": {
+          "program_title": "BS Data Science",
+          "program_description": "Fundamental Computing and Data Science Knowledge - A graduate who is performing his/her professional roles with understanding of fundamental computing and data science knowledge acquired during his/her studies. Ethical and Societal Responsibilities - A graduate who is fulfilling his/her professional responsibilities taking into account ethical and societal concerns with special emphasis to data protection and usage. Communication Skills - A graduate who is effective in oral and written communication of technical and managerial information.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "10,000 PKR",
+              "total_tution_fee": "1,300,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+                "deadline_application_submission": "May 20 (Mon) - Jul 5 (Fri)",
+                "deadline_pay_application_fee": null,
+                "deadline_finencial_aid_application": null,
+                "daedline_ACT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "daedline_SAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "deadline_admission_test_ECAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "admission_decision":"Jul 23 (Tue)",
+                "commencement_of_classes": "Aug 19 (Mon)"
+            }
+          ],       
+          "merit": "50%",
+          "admission_criteria": [
+            {
+                "s.no": 1,
+                "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 2,
+                "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+              },
+              {
+                "s.no": 3,
+                "criteria": "Intermediate of Statistics (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 4,
+                "criteria": "At least 3 A-Level passes in relevant subjects with a minimum of 60% equivalence as determined by IBCC."
+              },
+              {
+                 "s.no": 5,
+                 "criteria": "Pass the Fast test with 50% marks or NTS with 50%"
+              }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://www.nu.edu.pk/Program/BS(AI)"
+        },
+        "electrical_engineering ": {
+          "program_title": "BS Electrical Engineering",
+          "program_description": "The mission of School of Electrical Engineering is to provide graduates with a strong and stable foundation in the traditional and contemporary areas of electrical engineering. The graduates of this program are able to conceive, formulate and effectively communicate solutions to technological problems in society. They are a responsible and productive member of the society upholding high moral standards having an aptitude and attitude towards the betterment of the society through their knowledge and skills. The undergraduate programs prepare the graduates for corporate and governmental entry level jobs and/or to pursue further education at the graduate level worldwide.",
+          "program_duration": "4 years",
+          "credit_hours": "138",
+          "fee": [
+            {
+              "per_credit_hour_fee": "10,000 PKR",
+              "total_tution_fee": "13,480,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "May 20 (Mon) - Jul 5 (Fri)",
+                "deadline_pay_application_fee": null,
+                "deadline_finencial_aid_application": null,
+                "daedline_ACT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "daedline_SAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "deadline_admission_test_ECAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "admission_decision":"Jul 23 (Tue)",
+                "commencement_of_classes": "Aug 19 (Mon)"
+            }
+          ],
+          "merit": "60%",
+          "admission_criteria": [
+            {
+                "s.no": 1,
+                "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 2,
+                "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+              },
+              {
+                "s.no": 3,
+                "criteria": "SAT-I with a minimum score of 1,000 and SAT-II with a minimum of 550 in each subject (Physics, Mathematics)"
+              },
+              {
+                "s.no": 4,
+                "criteria": "At least 3 A-Level passes in relevant subjects with a minimum of 60% equivalence as determined by IBCC."
+              },
+              {
+                 "s.no": 5,
+                 "criteria": "Pass the Fast test with 50% marks or NTS with 50%"
+              }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "60%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://www.nu.edu.pk/Program/BS(EE)"
+        },
+        "civil_engineering ": {
+          "program_title": "BS Civil Engineering",
+          "program_description": "Successfully engage in contemporary civil engineering practice to solve real-world problems. Pursue professional growth through continuous learning and experience. Maintain high ethical standards in the conduct of professional practice. Attain increasing level of responsibility with interpersonal and communication skills.",
+          "program_duration": "4 years",
+          "credit_hours": "138",
+          "fee": [
+            {
+              "per_credit_hour_fee": "10,000 PKR",
+              "total_tution_fee": "13,480,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "May 20 (Mon) - Jul 5 (Fri)",
+                "deadline_pay_application_fee": null,
+                "deadline_finencial_aid_application": null,
+                "daedline_ACT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "daedline_SAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "deadline_admission_test_ECAT": "Jul 8 (Mon) - Jul 19 (Fri)",
+                "admission_decision":"Jul 23 (Tue)",
+                "commencement_of_classes": "Aug 19 (Mon)"
+            }
+          ],
+          "merit": "60%",
+          "admission_criteria": [
+            {
+                "s.no": 1,
+                "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+              },
+              {
+                "s.no": 2,
+                "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+              },
+              {
+                "s.no": 3,
+                "criteria": "SAT-I with a minimum score of 1,000 and SAT-II with a minimum of 550 in each subject (Physics, Mathematics)"
+              },
+              {
+                "s.no": 4,
+                "criteria": "At least 3 A-Level passes in relevant subjects with a minimum of 60% equivalence as determined by IBCC."
+              },
+              {
+                 "s.no": 5,
+                 "criteria": "Pass the Fast test with 50% marks or NTS with 50%"
+              }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "60%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://www.nu.edu.pk/Program/BS(CV)"
+      },
+      "campuses": {
+        "islamabad_campus: ": "http://isb.nu.edu.pk/",
+        "lahore_campus": "https://www.nu.edu.pk/",
+        "chinot_faislabad": "https://cfd.nu.edu.pk/",
+        "karachi_campus": "https://khi.nu.edu.pk/",
+        "peshawar_campus": "http://pwr.nu.edu.pk/"
+      }
+     } 
+    }
+  ]
+  

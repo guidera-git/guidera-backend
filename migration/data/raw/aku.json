@@ -1,0 +1,69 @@
+[
+    {
+      "university_title": "The Aga Khan University",
+      "main_link": "https://www.aku.edu/Pages/home.aspx",
+      "social_links": {
+        "instagram": "https://www.instagram.com/akuglobal/",
+        "facebook": "https://twitter.com/akuglobal",
+        "twitter": "https://www.facebook.com/AKUGlobal"
+      },
+      "qs_ranking": "250",
+      "contact_details": {
+        "info_email": "communications@aku.edu​​",
+        "call": "+92 21 3493 0051​​​​​​​​​​"
+      },
+      "introduction": "The mission of the Aga Khan University (AKU) is to improve the quality of life in the developing world and beyond through world-class teaching, research and health-care delivery. The University educates students about local and global leadership, generates new knowledge to solve problems that affect millions of people, and raises standards and aspirations in the countries in which it works. We empower women and the disadvantaged, build support for pluralism, and collaborate with local partners and world-renowned organizations to achieve shared goals. Founded in 1983 as Pakistan’s first private university, AKU is a not-for-profit institution and an agency of the Aga Khan Development Network. Starting in 2000, the University expa​​nded​ to Kenya, Tanzania, Uganda, Afghanistan, and the United Kingdom. ​AKU began life as a health-sciences university. We are among the largest private health-care providers in Pakistan and East Africa. Our hospitals were the first in those regions accredited by the U.S.-based Joint Commission International, and our research and our graduates have influenced health policy and practice nationally and internationally. ",
+      "programs": {
+        "mbbs": {
+          "program_title": "Bachelor of Medicine, Bachelor of Surgery​",
+          "program_description": "he Medical College offers a five-y​​ear Bachelor of Medicine, Bachelor of Surgery (MBBS) programme. The programme is open to all academically qualified candidates without consideration to gender, religion, race, creed, colour or domicile. Students from anywhere in Pakistan and overseas may app​ly. There are no quotas, reserved seats or admissions against donations. Merit-based admissions are open to candidates from around the world.​​ Under University’s core principles of quality, relevance, impact and access, the Programme prepares students to lead change in their so​cieties and to thrive in the global economy. Our merit-based, transparent admissions process and needs-sensitive financial assistance programme attempt to ensure that a diversity of high calibre students are able to attend the programmes at AKU.",
+          "program_duration": "5 years",
+          "credit_hours": "Not Available",
+          "fee": [
+            {
+              "per_credit_hour_fee": "Not Available",
+              "total_tution_fee": "10,193,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": null,
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": null,
+              "daedline_SAT": null,
+              "deadline_admission_test_LCAT": null,
+              "admission_decision": null,
+              "commencement_of_classes": null
+            }
+          ],
+          "merit": "Not Available",
+          "teaching_system": "Year System",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Submission of valid MDCAT scores as administered by PMDC."
+            },
+            {
+              "s.no": 2,
+              "criteria": "The admission regulations as described in the PMDC notification (Admission regulations 2022) allow candidates who have passed biology, chemistry and either physics or mathematics in the Higher Secondary School Certificate or an equivalent 12th grade qualification recognised in Pakistan are eligible to apply to the MBBS programme."
+            },
+            {
+                "sr.no":3,
+                "criteria":"AKU Test for shortlisting."
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": null,
+              "Entry Test": null
+            }
+          ],
+          "course_outline": "https://www.aku.edu/admissions/mbbs/Pages/home.aspx"
+        }
+      },
+      "campuses": null
+    }
+  ]
+  

@@ -1,0 +1,424 @@
+[
+  {
+    "university_title": "University of Central Punjab",
+    "main_link": "https://ucp.edu.pk/",
+    "social_links": {
+      "instagram": "https://www.instagram.com/ucpofficial/",
+      "facebook": "https://www.facebook.com/UCPofficial",
+      "twitter": "https://www.twitter.com/UCPofficial"
+    },
+    "qs_ranking": "1021",
+    "contact_details": {
+      "info_email": "info@ucp.edu.pk",
+      "call": "+92-42-35880007"
+    },
+    "introduction": "The University of Central Punjab provides its students with innumerable academic, extra and co-curricular experiences, which equip them with skills and knowledge that stay with them beyond their years at university. Students and alumni have succeeded in contributing to the fields of health, business, technology, law, engineering, media, and science. Students are given the opportunity to discover their area of interest as each of our nine faculties offers a range of programmes. Highly qualified and professionally experienced faculty members, trained from national and international institutes incorporate new teaching and research methods and work ceaselessly to help students achieve academic excellence. Furthermore, University of Central Punjab has numerous societies which promote education, socialization, entrepreneurship, social causes and different forms of art.",
+    "programs": {
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "The BSCS programme offers a wide range of courses helping the students in acquiring expertise in computer applications, modern theoretical aspects of computer science, programming techniques and efficient utilization of technology. Students will participate in seminars, workshops as well as competitions to ensure that they keep up the latest trends in the field. The programme ensures highly skilled graduates who are equipped with the required knowledge to lead a successful career in the field of computer science and contribute to the technical community.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "15,232 PKR",
+            "total_tution_fee": "2,050,856 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 50% marks in F.Sc. Pre-Medical/Pre-Engineering/ICS/A-level or equivalent with mathematics."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Applicant has to clear UCP test/NTS/HAT."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-information-technology-and-computer-science/programmes/undergraduate/bs-cs-2/"
+      },
+      "software_engineering": {
+        "program_title": "BS Software Engineering",
+        "program_description": "Software Engineering is the application of a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software systems. It is the practice of designing and implementing large, reliable, efficient, and economical software by applying the principles and practices of software engineering. To meet the challenging requirements of today’s software (systems and applications), specialized individuals are required, trained specifically in the latest software development skills. In order to meet the above-mentioned needs, a four-years bachelor’s degree program, Bachelor of Science Software Engineering (BSSE) is the need of the hour. The proposed Software Engineering Department at UCP aims to train students in all aspects of the software development life cycle, from specification through analysis and design to testing, maintenance and evolution of software products.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "13,776 PKR",
+            "total_tution_fee": "18,57,208 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 50% marks in F.Sc. Pre-Medical/Pre-Engineering/ICS/A-level or equivalent with mathematics."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Applicant has to clear UCP test/NTS/HAT."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-information-technology-and-computer-science/programmes/undergraduate/bs-se/"
+      },
+      "pharm_d": {
+        "program_title": "Doctor of Pharmacy",
+        "program_description": "The Pharm.D programme aims at consolidating rigorous basic science education with extensive and clinical experiences so that graduates will be equipped to contribute to revolutionizing the future of health care through new discoveries and developments to improve health and lives of others. The programme instills an in-depth understanding of medicines to prepare the next generation of healthcare leaders who may discover tomorrow’s cures and treating today’s most commplex diseases.",
+        "program_duration": "5 years",
+        "credit_hours": "198",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,650 PKR",
+            "total_tution_fee": "25,31,700 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 60% marks in F.Sc. (Pre-Medical) / A Levels (Biology, Chemistry & Physics) or equivalent"
+          },
+          {
+            "s.no": 2,
+            "criteria": "All applicants are required to pass the UCP Admission Test"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-pharmacy/programmes/undergraduate/pharm-d/"
+      },
+      "data_science": {
+        "program_title": "BS Data Science",
+        "program_description": "The BSDS Programme is an exciting initiative of the Department of Computer Science, Faculty of IT. The programme explores the theoretical foundations of information and data science and chooses a practical approach to applied data analytics as a profession. The world we know today is inundated with information from databases, sensors, digital images, streaming video, online and financial transactions, satellite and medical imagery and more. A novel mix of subjects including computer programming, statistics, data analytics, relational and schema-less database environments, web development, programming for big data, software engineering, digital communications, machine learning, artificial intelligence and natural language processing help them build their skills and knowledge base to contribute professionally to the Big Data and IT industries and academia.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "11,270 PKR",
+            "total_tution_fee": "15,23,910 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 50% marks in F.Sc. Pre-Medical/Pre-Engineering/ICS/A-level or equivalent with mathematics."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Applicant has to clear UCP test/NTS/HAT."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-information-technology-and-computer-science/programmes/undergraduate/bs-data-sciences/"
+      },
+      "artificial_intelligence": {
+        "program_title": "BS Artificial Intelligence",
+        "program_description": "The  Bachelor  of Artificial  Intelligence  (AI)  will equip  students with  the  knowledge and skills necessary to design, develop, and evolve software solutions that  harness the latest  advances in artificial intelligence (AI). The BS AI program enables students to get hands-on experience, developing AI-driven software solutions with the support of state-of-the-art research labs under the guidance of world-class faculty.  We transform students into leaders who accept challenges, solve complex problems, fulfill industry expectations and yield a cross-cutting research environment.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "11,270 PKR",
+            "total_tution_fee": "15,23,910 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 50% marks in F.Sc. Pre-Medical/Pre-Engineering/ICS/A-level or equivalent with mathematics."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Applicant has to clear UCP test/NTS/HAT."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-information-technology-and-computer-science/programmes/undergraduate/bs-artificial-intelligence/"
+      },
+      "electrical_engineering": {
+        "program_title": "B.Sc. Electrical Engineering",
+        "program_description": "The B.Sc Electrical Engineering programme focuses on providing a good understanding of development, maintenance and management in the field of robotics, control systems, telecommunication and building services. Students are taught to analyse, test and modify processes based on findings, providing them with hands-on experience using highly updated technology and equipment. Our students can become future technologists and enter the engineering workforce. They can contribute positively to the public and private sector. With highly experienced faculty, we guide our students to face every challenge in the field of electrical engineering.",
+        "program_duration": "4 years",
+        "credit_hours": "136",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,198 PKR",
+            "total_tution_fee": "16,83,928 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 60% marks in F.Sc. Pre-Engineering/ICS with (Maths, Physics & Computer Science/Studies) A levels with (Maths, Physics & Chemistry)/DAE in Electrical/Electronic Technology or equivalent."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Applicant has to clear UCP test/NTS/HAT."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-engineering/programmes-2/undergraduate/b-sc-electrical-engineering/"
+      },
+      "mechanical_engineering": {
+        "program_title": "B.Sc. Mechanical Engineering",
+        "program_description": "The B.Sc. Mechanical Engineering is a programme that is best fit for people whose strengths lie in math and science with interests in materials, robotics, design, high-performance machinery, manufacturing and mechanical operations. The B.Sc. Mechanical Engineering cultivates learning and problem-solving abilities needed to modify, develop and exercise responsible leadership through times of swift change.  Providing hands-on experience and co-operative training prepares the students to develop career opportunities as engineers.",
+        "program_duration": "4 years",
+        "credit_hours": "135",
+        "fee": [
+          {
+            "per_credit_hour_fee": "14,338 PKR",
+            "total_tution_fee": "19,60,630 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Minimum 60% marks in F.Sc. Pre-Engineering/F.Sc. Pre-Medical/ICS with Mathematics, Physics or Equivalent with Physics, Chemistry, and Mathematics. In the case of a foreign qualification, equivalence from IBCC will be required."
+          },
+          {
+            "s.no": 2,
+            "criteria": "A Diploma of Associate Engineer (DAE) Examination in Mechanical with any specialization, or Aerospace, Auto & Diesel, Automation, Bio-Medical, or Dies & Mould, Mechatronics, Precision Mechanical and Instruments, Refrigeration and Air Conditioning, or Vacuum or any relevant discipline securing at least 60% marks in aggregate."
+          },
+          {
+            "s.no": 3,
+            "criteria": "A combination of Biology, Physics, and Chemistry is also allowed for admission subject to the successful completion of an Eight-week condensed course in Mathematics. A total of 40% of seats within the allowed intake are available for pre-medical students. A separate admission test after the qualifying mathematics course will be conducted to determine the merit of admission."
+          },
+          {
+            "s.no": 4,
+            "criteria": "All applicants are required to pass the PEC-approved test or UCP Admission Test."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/bs-mechanical-engineering/"
+      },
+      "civil_engineering": {
+        "program_title": "B.Sc. Civil Engineering",
+        "program_description": "The B.Sc Civil Engineering programme at UCP provides a learning environment for people who have an interest in natural and man-made environments. The programme focuses on technical knowledge of design, construction, implementation and maintenance of several kinds of infrastructures. With studying real-world design problems, students are trained to develop feasible solutions. The faculty focuses on ensuring that students make the best decisions for their academic programme and future career success.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "14,873 PKR",
+            "total_tution_fee": "20,03,109 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 60% marks in F.Sc. Pre-Engineering/ICS with (Maths, Physics & Computer Science/Studies) A levels with (Maths, Physics & Chemistry)/DAE in Civil Technology or equivalent."
+          },
+          {
+            "s.no": 2,
+            "criteria": "ICS background students taking admission in engineering programs are required to take an additional course in Chemistry in the 1st semester of their degree program."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-engineering/department-civil-engineering/programmes/undergraduate/b-sc-civil-engineering/"
+      },
+      "cyber_security": {
+        "program_title": "BS Cyber Security",
+        "program_description": "A Bachelor of Science in Cyber Security program is designed to educate students on the growing risks and challenges in the digital landscape and how to safeguard data, systems, and networks from malicious attacks, breaches, and unauthorized access. As industries undergo rapid digital transformation, cyber threats such as hacking, phishing, ransomware, and data breaches have become increasingly common. This structured academic program aims to equip future cybersecurity professionals with the knowledge and tools necessary to effectively detect, prevent, and respond to these evolving threats.",
+        "program_duration": "4 years",
+        "credit_hours": "132",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "Not Available"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 50% marks in F.Sc. Pre-Medical/Pre-Engineering/ICS/A-level or equivalent with mathematics."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Applicant has to clear UCP test/NTS/HAT."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "45%"
+          }
+        ],
+        "course_outline": "https://ucp.edu.pk/faculty-of-information-technology-and-computer-science/programmes/undergraduate/bs-cyber-security/"
+      }
+    },
+    "campuses": null
+  }
+]

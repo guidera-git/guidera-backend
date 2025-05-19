@@ -1,0 +1,377 @@
+[
+  {
+    "university_title": "University of Engineering and Technology, Lahore",
+    "main_link": "https://www.uet.edu.pk",
+    "social_links": {
+      "instagram": "https://www.instagram.com/uet_lahore_official/",
+      "facebook": "https://www.facebook.com/UETLahore.official/",
+      "twitter": null
+    },
+    "ranking": "751",
+    "contact_details": {
+      "info_email": "info@uet.edu.pk",
+      "call": "042-99029216"
+    },
+    "introduction": "The University of Engineering and Technology (UET) is one of Pakistan's premier institutions for higher education in engineering, technology, and applied sciences. Established with a vision to advance technical knowledge and innovation, UET has campuses across the country, offering a diverse range of undergraduate, postgraduate, and doctoral programs. Known for its rigorous academic standards, state-of-the-art facilities, and highly qualified faculty, UET plays a pivotal role in shaping future engineers and technologists. The university emphasizes research and development, fostering innovation to address real-world challenges and contribute to national and global progress in engineering and technology.",
+    "programs": {
+      "computer_science": {
+        "program_title": "Bachelor of Science in Computer Science",
+        "program_description": "The Bachelor of Science in Computer Science is a professional degree program aimed at producing graduates for the job market as software engineers, entrepreneurs, IT consultants, and academic professionals. This program is tailored to introduce, develop, and ingrain the understanding of computing discipline in students. We offer market-oriented courses as indicated in the degree roadmap. To achieve the objective of producing highly talented computer professionals, our program inculcates necessary problem-solving abilities in the students. It enables students to analyze real-life problems, transform them into suitable abstract models, design optimal solutions, and successfully implement them using the latest tools and technologies.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "11,500 PKR",
+            "total_tution_fee": "1,495,500 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "12 Year of Education, , Intermediate (HSSC) examination, FSc (Pre-Engineering)/ ICS/ I.Com, A-Level, DAE(computer) with Mathematics and minimum 50% marks or equivalent qualification with Mathematics certified by IBCC."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Students having FSc (Pre-Medical) with minimum 50% marks are also eligible for admission but according to National Computing Education Accreditation Council (NCEAC) of HEC such students must pass deficiency courses of Mathematics of 6 credit hours within one year."
+          },
+          {
+            "s.no": 3,
+            "criteria": "UOL Entry Test is mandatory."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://csksk.uet.edu.pk/computer-science/"
+      },
+      "software_engineering": {
+        "program_title": "B.Sc. Software Engineering",
+        "program_description": "Software plays a central and underpinning role in almost all aspects of daily life: communications, government, manufacturing, banking and finance, education, transportation, entertainment, medicine, agriculture, and law. The number, size, and application domains of computer programs have grown dramatically; as a result, huge sums are being spent on software development. Most people’s lives and livelihoods depend on this development’s effectiveness. Software products help us to be more efficient and productive. They provide information, make us  more effective problem solvers, and  provide  us with safer, more flexible, and less confining work, entertainment, and recreation environments. Software Engineering is the application of a systematic, disciplined and quantifiable approach to the design, development, operation, and maintenance of software systems.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,099 PKR",
+            "total_tution_fee": "1,693,954 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Minimum 60% marks in Intermediate/12 years schooling/A- Level (HSSC) or Equivalent with Mathematics are required for admission in BS (Software Engineering)."
+          },
+          {
+            "s.no": 2,
+            "criteria": "ECAT is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://csksk.uet.edu.pk/software-engineering/"
+      },
+      "artificial_intelligence": {
+        "program_title": "Bachelor of Science in Artificial Intelligence",
+        "program_description": "The Bachelor of Science (BS) in Robotics and Artificial Intelligence (AI) program. In this dynamic and interdisciplinary field, students embark on a journey to explore the realms of cutting-edge technology, innovation, and problem-solving. Robotics and AI are revolutionizing industries, from manufacturing to healthcare, and reshaping the way we interact with technology and the world around us.Our curriculum is intended to provide students with a firm foundation in both academic knowledge and practical skills required to succeed in this continuously changing sector. Through a blend of challenging coursework, hands-on projects, industrial training and internship, students will build expertise in fields such as robotics engineering, machine learning, computer vision, human-robot interaction, and more.",
+        "program_duration": "4 years",
+        "credit_hours": "136",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,099 PKR",
+            "total_tution_fee": "1,693,954 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "12 Years education F.Sc. (Pre-engineering, Pre-medical) or ICS (with Math) or DAE in relevant field or F.A (IT) or Equivalent with Minimum 45% Marks. Students with minimum 45% marks in F.Sc (PreMedical)/FA (IT) must complete a deficiency course in Mathematics.."
+          },
+          {
+            "s.no": 2,
+            "criteria": "ECAT is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://ee.uet.edu.pk/b-sc-artificial-intelligence/"
+      },
+      "bio_medical": {
+        "program_title": "BS Biomedical Engineering",
+        "program_description": "The aim of Bachelor of Science in Bio-Medical Engineering Technology (BS BMET) program is to produces graduates in the country. The graduates will be competent to identify, assess, evaluate, manage and trouble shoot all the problems and errors in biomedical equipment and are eligible enough to get hands on the biomedical equipment and machines to maintain and to repair them. This program produces the graduates having research knowledge and skills. On the basis of knowledge and skills, they will be able to revolutionize the medical technology world.",
+        "program_duration": "4 years",
+        "credit_hours": "133+",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,099 PKR",
+            "total_tution_fee": "1,693,954 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "50% marks in F.Sc. (Pre-Engineering), ICS (Math, phy.) / D.A.E (Electrical, Electronics, Instrumentation, Telecommunication, Computer Technology) / A-Level or Equivalent"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://bmec.uet.edu.pk/bs-biomedical-engineering/"
+      },
+      "data_science": {
+        "program_title": "B.Sc. Data Science",
+        "program_description": "The department introduced a 4-year B.Sc. Data Science program in 2024. It offers specializations in Data Science, Artificial Intelligence, Machine learning, Big Data or Cybersecurity.",
+        "program_duration": "4 years",
+        "credit_hours": "135",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,099 PKR",
+            "total_tution_fee": "1,693,954 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "FSc (Pre-Medical)/Grade 12/High School Certificate/Equivalent with a minimum of 60% marks."
+          },
+          {
+            "s.no": 2,
+            "criteria": "ECAT is mandatory."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
+          }
+        ],
+        "course_outline": "https://ids.uet.edu.pk/b-sc-data-science/"
+      },
+      "electrical_engineering": {
+        "program_title": "Bachelor of Science in Electrical Engineering",
+        "program_description": "The department has been accorded level II accreditation (substantially equivalent to Washington accord) by PEC with effect from Batch-2016. The undergraduate Electrical Engineering program is based on solid foundation in Mathematics, Natural Sciences, Computer programming and core engineering knowledge to ensure successful completion of the program and to equip the students with future professional growth, rational reasoning and analysis. The program provides a broad engineering core competence which enables students to communicate & interact effectively with engineers in different areas of specialization & to make technological decisions with confidence. On successful completion, the student possesses the ability to perform integrated problems solving ability, problem identification, analysis, hypothesis testing, solution verification, and its implementation. Course Learning Outcomes (CLOs) at appropriate Bloom’s taxonomy level in the three learning domains, namely, Cognitive, Psychomotor and Affective have been developed in accordance with Outcome Based Education. These CLOs are linked with twelve graduate attributes that Department of Electrical Engineering has adopted from Washington Accord/PEC. All the assessments are linked with course learning outcomes. Final Year Projects and Lab experiments etc are marked according to developed scoring rubrics. Problem and activity-based learning is strongly encouraged and students are also prepared for Complex Engineering Problems",
+        "program_duration": "4 years",
+        "credit_hours": "136",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,099 PKR",
+            "total_tution_fee": "1,693,954 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 60% marks in F.Sc. Pre-Engineering/ICS with (Maths, Physics & Computer Science/Studies) A levels with (Maths, Physics & Chemistry)/DAE in Electrical/Electronic Technology or equivalent."
+          },
+          {
+            "s.no": 2,
+            "criteria": "ECAT is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://ee.uet.edu.pk/curriculum-for-bsc-electrical-engineering/"
+      },
+      "mechanical_engineering": {
+        "program_title": "B.Sc Mechanical Engineering",
+        "program_description": "Mechanical Engineering is one of the oldest, and broadest engineering discipline, which is concerned with the utilization of principles of Energy, Mechanics, and Materials Sciences for the analysis, design, and manufacturing of a variety of mechanical systems including but not limited to Power Plants, Fluid Machinery, Refrigeration & Air Conditioning Systems, Mechanisms and Machinery, Pipelines, Transportation Systems of all kinds. Mechanical Engineering also encompasses the engineering management of engineering organizations, in addition to maintenance of engineering equipments. BSc Mechanical Engineering program, a four years degree program is a well established program of the Department of Mechanical Engineering. The program, ranking is 301-350 worldwide in QS Ranking. The program is accredited by Pakistan Engineering Council(PEC) under Outcome Based Education(OBE) in accordance with the Washington Accord(WA). The program is well structured with an up-to-date curriculum, and exposure to engineering activities like Complex Engineering Problems, Problem Based Learning, Open Ended Labs, and Projects. Students are provided with the opportunity of Internships at various engineering organizations for practical exposure. Mechanical Engineering graduates are employed in diversified engineering organizations.",
+        "program_duration": "4 years",
+        "credit_hours": "140",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,099 PKR",
+            "total_tution_fee": "1,693,954 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "12 years of Education, F.Sc. (Pre-Engineering), ICS (Math, phy.), D.A.E. (Mechanical, Auto & Diesel, HVAC), A-Level or Equivalent with minimum 50% marks."
+          },
+          {
+            "s.no": 2,
+            "criteria": "ECAT is mandatory."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://mechanical.uet.edu.pk/curriculum/"
+      },
+      "civil_engineering": {
+        "program_title": "Bachelor of Science in Civil Engineering Technology",
+        "program_description": "The main emphasis of the Civil  Engineering  Technology  Program is to provide the students with a  sound foundation of mathematics and other sciences to utilize their knowledge in solving problems of structure, irrigation and hydraulics, soil mechanics, foundations, highways transportation, and environmental engineering. It enables the students to know about the operation and maintenance of projects and gives them on-job training to work independently as well as team players on projects like infrastructure development and repair works of civil engineering technology. Our students are also trained to use modern engineering software for the construction industry.",
+        "program_duration": "4 years",
+        "credit_hours": "137",
+        "fee": [
+          {
+            "per_credit_hour_fee": "12,099 PKR",
+            "total_tution_fee": "1693,954 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "12 years of Education, F.Sc. (Pre-Engineering), ICS (Math, phy.), D.A.E. (Civil/Architecture/Mining), A-Level or Equivalent with minimum 50% marks."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Entry Test is mandatory."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://civil.uet.edu.pk/undergraduate-programs/"
+      }
+    },
+    "campuses": {
+      "faisalabad_campus": "https://fsd.uet.edu.pk/",
+      "narowal_campus": "https://nwl.uet.edu.pk/",
+      "rachna_campus": "https://rcet.uet.edu.pk/",
+      "new_campus": "https://newcampus.uet.edu.pk/"
+    }
+  }
+]

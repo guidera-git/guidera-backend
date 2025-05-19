@@ -1,0 +1,258 @@
+[
+    {
+      "university_title": "Information Technology University",
+      "main_link": "https://itu.edu.pk/",
+      "social_links": {
+        "instagram": "https://www.instagram.com/itu_punjab/",
+        "facebook": "https://www.facebook.com/ITU.punjab?fref=ts",
+        "twitter": null
+      },
+      "ranking": "Not available",
+      "contact_details": {
+        "info_email": "admission@itu.edu.pk",
+        "call": "0042-99046061 "
+      },
+      "introduction": "ITU, located in Lahore, came into being in 2012 in order to advance scholarship and innovation in the areas of science, technology and engineering. ITU aspires to emulate the success of Massachusetts Institute of Technology (MIT) through focus on cross-disciplinary applied research, the cultivation of an entrepreneurial culture in teaching and research, the maintenance of a close collaboration with the Information and Communication Technology industry and the development of strong ties with government funding agencies. With a structure that combines the best features of both public and private sector universities, ITU aims to serve as a center for excellence in academia, research, entrepreneurship and innovation.",
+      "programs": {
+        "software_engineering": {
+          "program_title": "BS Software Engineering",
+          "program_description": "Information Technology University of the Punjab (ITU) is a public sector university based in Lahore. The University has been able to achieve its distinct place among the leading HEIs of Pakistan through its competitive degree programs in IT, Engineering, and Social/Business studies. The University has been focused on providing world-class research-driven teaching and academics while providing solutions to local problems through the problem-solving and entrepreneurial skills developed in its graduates. The University finds its leading edge in its excellent faculty, which is well connected with national/intentional academia and the industry.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "13,082 PKR",
+              "total_tution_fee": "1,739,900 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "Friday, 09th August, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Wednesday, 07th August, 2024",
+              "daedline_SAT": "Wednesday, 07th August, 2024",
+              "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Monday, 19th August, 2024"
+            }
+          ],        
+          "merit": "50%",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "Passed the ITU Admission test"
+            },
+            {
+              "s.no": 4,
+              "criteria": "A’ Levels, High School Diploma or International Baccalaureate with at least 28 out of 45 points"
+            },
+            {
+              "s.no": 5,
+              "criteria": "Intermediate with Mathematics & Statistics with atleast 50% obtained marks"
+            },
+            {
+              "s.no": 6,
+              "criteria": "F.Sc. Pre-Medical with additional Math with atleast 50% obtained marks"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "50%",
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": null
+            }
+          ],
+          "course_outline": "https://itu.edu.pk/admissions/bs-software-engineering-bs-se/"
+        },
+        "computer_science": {
+          "program_title": "BS Computer Science",
+          "program_description": "The Bachelor’s of Science (BS) in Computer Science program at the Information Technology University of the Punjab (ITU) aims to impart a research-oriented and design-centered education producing individuals that would transform the IT industry of Pakistan. Our curriculum is intelligently tailored to meet the knowledge and skills gap in the industry. In addition, courses are taught by renowned faculty with diverse national and international experiences. Research at ITU’s multiple research centers is rigorous and is undertaken in active collaboration with foreign and local partners. By becoming involved with a diverse array of research projects, our students add to their classroom knowledge and, gain hands-on, practical work experience to sharpen their skills. Ultimately, the combination of our well-designed curriculum, highly experienced and foreign qualified faculty, and opportunities to hone skills through practical research experience means that our students graduate as highly skilled professionals ready for a competitive job market.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+  
+          "fee": [
+            {
+              "per_credit_hour_fee": "13,082 PKR",
+              "total_tution_fee": "1,739,900 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "Friday, 09th August, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Wednesday, 07th August, 2024",
+              "daedline_SAT": "Wednesday, 07th August, 2024",
+              "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Monday, 19th August, 2024"
+            }
+          ],       
+          "merit": "50%",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "Passed the ITU Admission test"
+            },
+            {
+              "s.no": 4,
+              "criteria": "A’ Levels, High School Diploma or International Baccalaureate with at least 28 out of 45 points"
+            },
+            {
+              "s.no": 5,
+              "criteria": "Intermediate with Mathematics & Statistics with atleast 50% obtained marks"
+            },
+            {
+              "s.no": 6,
+              "criteria": "F.Sc. Pre-Medical with additional Math with atleast 50% obtained marks"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "50%",
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": null
+            }
+          ],
+          "course_outline": "https://itu.edu.pk/admissions/bs-computer-science/#verticalTab1"
+        },
+        "artificial_intelligence": {
+          "program_title": "BS Artificial Intelligence",
+          "program_description": "The BS (AI) program gives the students an in-depth knowledge they need to transform large and complex scenarios into actionable decisions. The program and its curriculum focuses on how complex inputs — such as knowledge, vision, language and huge databases — can be used to make decisions to enhance human capabilities. The curriculum of the BS (AI) program includes coursework in computing, mathematics, automated reasoning, statistics, computational modeling, introduction to classical artificial intelligence languages and case studies, knowledge representation and reasoning, artificial neural networks, machine learning, natural language processing, vision and symbolic computation. The program also encourages students to take courses in ethics and social responsibility, with the opportunity to participate in long term projects in which artificial intelligence can be applied to solve problems that can change the world for the better — in areas like agriculture, defense, healthcare, governance, transportation, e-commerce, finance and education. Department of artificial intelligence has around eight faculty members teaching AI and related subjects.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "13,082 PKR",
+              "total_tution_fee": "1,739,900 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "Friday, 09th August, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Wednesday, 07th August, 2024",
+              "daedline_SAT": "Wednesday, 07th August, 2024",
+              "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Monday, 19th August, 2024"
+            }
+          ],       
+          "merit": "50%",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "Passed the ITU Admission test"
+            },
+            {
+              "s.no": 4,
+              "criteria": "A’ Levels, High School Diploma or International Baccalaureate with at least 28 out of 45 points"
+            },
+            {
+              "s.no": 5,
+              "criteria": "Intermediate with Mathematics & Statistics with atleast 50% obtained marks"
+            },
+            {
+              "s.no": 6,
+              "criteria": "F.Sc. Pre-Medical with additional Math with atleast 50% obtained marks"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "50%",
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": null
+            }
+          ],
+          "course_outline": "https://itu.edu.pk/admissions/bs-artificial-intelligence-bs-ai/"
+        },
+        "electrical_engineering ": {
+          "program_title": "BS Electrical Engineering",
+          "program_description": "Welcome to the Electrical Engineering Department (EED) at Information Technology University (ITU), Lahore. At ITU, our students have access to a wide array of subjects, including electronics, communication systems, control systems, power systems, microwave engineering, digital signal processing, renewable energy, bioelectronics, robotics and photonics. Our goal for students is to give them a high-quality engineering education that includes hands-on experience. Our department has one of the finest faculty in the country who have studied and worked for institutions of international repute. The faculty members are dedicated to carrying out research and involving capable students in individual projects. The Department of Electrical Engineering has a carefully designed curriculum which offers a wide range of knowledge, aiming at an integrated education and training of future technologists, entrepreneurs and engineering workforce for the private and public sector. It is important to highlight that both Higher Education Commission (HEC) and Pakistan Engineering Council (PEC) recognize BS in electrical engineering program at ITU.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "13,082 PKR",
+              "total_tution_fee": "1,739,900 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "Friday, 09th August, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Wednesday, 07th August, 2024",
+              "daedline_SAT": "Wednesday, 07th August, 2024",
+              "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Monday, 19th August, 2024"
+            }
+          ],
+          "merit": "60%",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "Passed the ITU Admission test"
+            },
+            {
+              "s.no": 4,
+              "criteria": "A’ Levels, High School Diploma or International Baccalaureate with at least 28 out of 45 points"
+            },
+            {
+              "s.no": 5,
+              "criteria": "Intermediate with Mathematics & Statistics with atleast 60% obtained marks"
+            },
+            {
+              "s.no": 6,
+              "criteria": "F.Sc. Pre-Medical with additional Math with atleast 60% obtained marks"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "50%",
+              "F.Sc./A-level/relevant DAE": "60%",
+              "Entry Test": null
+            }
+          ],
+          "course_outline": "https://itu.edu.pk/admissions/bs-electrical-engineering/#verticalTab1"
+        } 
+      },
+      "campuses": null
+    }
+  ]
+  

@@ -1,0 +1,436 @@
+[
+    {
+      "university_title": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+      "main_link": "https://giki.edu.pk/",
+      "social_links": {
+        "instagram": "https://www.instagram.com/officialgiki/#",
+        "facebook": "https://www.facebook.com/OfficialGIKI/",
+        "twitter": "https://twitter.com/OfficialGIKI"
+      },
+      "ranking": "2",
+      "contact_details": {
+        "info_email": "ugadmissions@giki.edu.pk",
+        "call": "0938-281026"
+      },
+      "introduction": "The Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, one of the most prestigious engineering institutes in Pakistan, seeks to promote excellence in engineering, sciences, emerging technologies, and other disciplines and to serve as a center of change in the country. GIK has set the standard for brilliance in Pakistani engineering by producing graduates who are working and making an impact in some of the most sought-after national and international organizations. Autonomous and privately funded, GIK prides itself on attracting and retaining outstanding faculty who are recognized as leaders in their fields. It hopes to produce graduates who distinguish themselves through their professional competence, humanistic outlook, ethical rectitude, pragmatic approach to problem-solving, organizational and managerial skills. The Institute aims to build a culture based on interdisciplinary research, learning with real-life application, and technical competence for the advancement of Pakistan’s economic development.GIK offers more than just academic excellence- there are a variety of extracurricular activities that let students explore their interests in science, art, and culture, as well as develop leadership skills. Currently, over 24 student societies are active on campus, each with their own goals and objectives. Many of these societies hold events such as contests, workshops, drama performances, excursions, and publish newsletters.",
+      "programs": {
+        "software_engineering": {
+          "program_title": "BS Software Engineering",
+          "program_description": "Graduates utilize their diverse technical skills and in-depth software engineering & development knowledge to build complex software systems in real-world settings. Graduates act responsibly and ethically in their profession and as informed citizens, and possibly make a socio-economic impact. Graduates demonstrate lifelong learning skills in Software Engineering and allied disciplines.Communicate effectively, demonstrate leadership, and work collaboratively in diverse teams/organizations.Communicate effectively, demonstrate leadership, and work collaboratively in diverse teams/organizations.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "27,593 PKR",
+              "total_tution_fee": "3,670,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "Dec 6, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Dec 22, 2024",
+              "daedline_SAT": "Dec 22, 2024",
+              "deadline_admission_test_ECAT": "Dec 22, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Jan 20, 2025"
+            }
+          ],        
+          "merit": null,
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "HSSC (Pre-Engineering i.e Mathematics, Physics and Chemistry) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 2,
+              "criteria": "HSSC (ICS i.e Mathematics, Physics and Computer Studies/Science/IT) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 3,
+              "criteria": "HSSC (Pre-Medical) with Additional Mathematics and 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 4,
+              "criteria": "Three years Diploma of Associate Engineering (DAE) in relevant technology from a Pakistani Board of Technical Education with at least 60% marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 5,
+              "criteria": "American or Canadian High School Diploma or International Baccalaureate Diploma with Mathematics (with Calculus), Physics and Chemistry with 60% or above marks, as per IBCC equivalence formula, each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 6,
+              "criteria": "A-Level in three subjects Mathematics, Physics and Computer Studies/IT with D or above grade each in Mathematics & Physics and O-Level in eight subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science, Urdu, Islamic Studies & Pakistan Studies) for local applicants and in five subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science/IT) for those applying from abroad."
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "7.5",
+              "F.Sc./A-level/relevant DAE": "7.5",
+              "Entry Test": "85"
+            }
+          ],
+          "course_outline": "https://giki.edu.pk/bs-se/"
+        },
+        "computer_science": {
+          "program_title": "BS Computer Science",
+          "program_description": "The Computer Science program offers a broad understanding of the field through introducing concepts, theory, and techniques with intensive education in the core areas of Computer Science, e.g., databases, graphics, software engineering, computer systems development, etc. This program encourages students to develop and use abstract models in addition to applying respective technologies in practical settings.",
+          "program_duration": "4 years",
+          "credit_hours": "133+",
+  
+          "fee": [
+            {
+              "per_credit_hour_fee": "27,593 PKR",
+              "total_tution_fee": "3.670,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "Dec 6, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Dec 22, 2024",
+              "daedline_SAT": "Dec 22, 2024",
+              "deadline_admission_test_ECAT": "Dec 22, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Jan 20, 2025"
+            }
+          ],       
+          "merit": null,
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "HSSC (Pre-Engineering i.e Mathematics, Physics and Chemistry) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 2,
+              "criteria": "HSSC (ICS i.e Mathematics, Physics and Computer Studies/Science/IT) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 3,
+              "criteria": "HSSC (Pre-Medical) with Additional Mathematics and 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 4,
+              "criteria": "Three years Diploma of Associate Engineering (DAE) in relevant technology from a Pakistani Board of Technical Education with at least 60% marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 5,
+              "criteria": "American or Canadian High School Diploma or International Baccalaureate Diploma with Mathematics (with Calculus), Physics and Chemistry with 60% or above marks, as per IBCC equivalence formula, each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 6,
+              "criteria": "A-Level in three subjects Mathematics, Physics and Computer Studies/IT with D or above grade each in Mathematics & Physics and O-Level in eight subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science, Urdu, Islamic Studies & Pakistan Studies) for local applicants and in five subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science/IT) for those applying from abroad."
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "7.5%",
+              "F.Sc./A-level/relevant DAE": "7.5%",
+              "Entry Test": "85"
+            }
+          ],
+          "course_outline": "https://giki.edu.pk/fcse/fcs-undergraduate/bs-cs/"
+        },
+        "artificial_intelligence": {
+          "program_title": "BS Artificial Intelligence",
+          "program_description": "The Artificial Intelligence program, partnered by Huawei, aims to give in-depth knowledge required to transform data (including Big Data) into intelligent decisions. The theme of the program and its curriculum is primarily based on inferring the machine-based decisions from the complex inputs, such as image, text, and databases. Upon completion of the coursework students will be able to select data driven technologies to mimic or enhance human capabilities. GIK Institute joins hands with Huawei (ranked 61st on Fortune Global 500 companies), to bring the cutting-edge technology along with the latest curriculum updates and equipment for the students in Artificial Intelligence program. Huawei Pakistan supports the program by providing student internships, certification opportunities in AI, faculty training and latest AI equipment for the students, which will enhance the skillset of the students and help secure better jobs in the market in future.",
+          "program_duration": "4 years",
+          "credit_hours": "133+",
+          "fee": [
+            {
+              "per_credit_hour_fee": "27,593 PKR",
+              "total_tution_fee": "3,670,000 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+             "deadline_application_submission": "Dec 6, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Dec 22, 2024",
+              "daedline_SAT": "Dec 22, 2024",
+              "deadline_admission_test_ECAT": "Dec 22, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Jan 20, 2025"
+            }
+          ],       
+          "merit": null,
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "HSSC (Pre-Engineering i.e Mathematics, Physics and Chemistry) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 2,
+              "criteria": "HSSC (ICS i.e Mathematics, Physics and Computer Studies/Science/IT) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 3,
+              "criteria": "HSSC (Pre-Medical) with Additional Mathematics and 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 4,
+              "criteria": "Three years Diploma of Associate Engineering (DAE) in relevant technology from a Pakistani Board of Technical Education with at least 60% marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 5,
+              "criteria": "American or Canadian High School Diploma or International Baccalaureate Diploma with Mathematics (with Calculus), Physics and Chemistry with 60% or above marks, as per IBCC equivalence formula, each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 6,
+              "criteria": "A-Level in three subjects Mathematics, Physics and Computer Studies/IT with D or above grade each in Mathematics & Physics and O-Level in eight subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science, Urdu, Islamic Studies & Pakistan Studies) for local applicants and in five subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science/IT) for those applying from abroad."
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "7.5%",
+              "F.Sc./A-level/relevant DAE": "7.5%",
+              "Entry Test": "85"  
+            }
+          ],
+          "course_outline": "https://giki.edu.pk/fcse/fcs-undergraduate/bs-ai/"
+        },
+        "data_science ": {
+          "program_title": "BS Data Science",
+          "program_description": " Graduates utilizing their skills and knowledge to solve complex problems in real-world settings. Graduates practicing in the area of Data Science in a socially and ethically responsible way. Graduates demonstrating lifelong learning skills in Data Science and allied disciplines.",
+          "program_duration": "4 years",
+          "credit_hours": "133",
+          "fee": [
+            {
+              "per_credit_hour_fee": "27,593 PKR",
+              "total_tution_fee": "1,49,835 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": "Dec 6, 2024",
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": "Dec 22, 2024",
+              "daedline_SAT": "Dec 22, 2024",
+              "deadline_admission_test_ECAT": "Dec 22, 2024",
+              "admission_decision":null,
+              "commencement_of_classes": "Jan 20, 2025"
+            }
+          ],
+          "merit": null,
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "HSSC (Pre-Engineering i.e Mathematics, Physics and Chemistry) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 2,
+              "criteria": "HSSC (ICS i.e Mathematics, Physics and Computer Studies/Science/IT) with 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 3,
+              "criteria": "HSSC (Pre-Medical) with Additional Mathematics and 60% or above marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 4,
+              "criteria": "Three years Diploma of Associate Engineering (DAE) in relevant technology from a Pakistani Board of Technical Education with at least 60% marks each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 5,
+              "criteria": "American or Canadian High School Diploma or International Baccalaureate Diploma with Mathematics (with Calculus), Physics and Chemistry with 60% or above marks, as per IBCC equivalence formula, each in Mathematics, Physics & Overall."
+            },
+            {
+              "s.no": 6,
+              "criteria": "A-Level in three subjects Mathematics, Physics and Computer Studies/IT with D or above grade each in Mathematics & Physics and O-Level in eight subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science, Urdu, Islamic Studies & Pakistan Studies) for local applicants and in five subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science/IT) for those applying from abroad."
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "7.5%",
+              "F.Sc./A-level/relevant DAE": "7.5%",
+              "Entry Test": "85"
+            }
+          ],
+          "course_outline": "https://giki.edu.pk/fcse/fcs-undergraduate/bs-ds//"
+        } 
+      },
+  
+      "cyber_security ": {
+        "program_title": "BS Cyber Security",
+        "program_description": "The field of Cyber Security (CyS) in recent times has played a crucial role in the field of business and security, and has become the lynchpin of automation processes. It is soon projected to become one of the most important factors in our daily lives. CyS has had widespread applications in all types of products – it is now central in each product we use, ranging from phones to manufacturing to flight safety to air conditioners and fridges to cars. In short, CyS is not only playing a significant role in changing our lives for good but is also shaping the economies of many countries. The honorable president of Pakistan, Dr. Arif-ur-Rehman Alvi, through his initiative (Presidential Initiative for Artificial Intelligence and Computing – PIAIC) and Government of Pakistan, led by Mr. Imran Khan, have continuously urged and encouraged higher education institutes to take up emerging fields like Artificial Intelligence, Internet of Things, Cyber Security and Block Chain at undergraduate and diploma level. Thus, Cyber Security will hopefully play a vital role in the economy of Pakistan and is projected to become a multi-billion industry in the near future.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "27,593 PKR",
+            "total_tution_fee": "3,670,000 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": "Dec 6, 2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": "Dec 22, 2024",
+            "daedline_SAT": "Dec 22, 2024",
+            "deadline_admission_test_ECAT": "Dec 22, 2024",
+            "admission_decision":null,
+            "commencement_of_classes": "Jan 20, 2025"
+          }
+        ],
+        "merit": null,
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "HSSC (Pre-Engineering i.e Mathematics, Physics and Chemistry) with 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 2,
+            "criteria": "HSSC (ICS i.e Mathematics, Physics and Computer Studies/Science/IT) with 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 3,
+            "criteria": "HSSC (Pre-Medical) with Additional Mathematics and 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 4,
+            "criteria": "Three years Diploma of Associate Engineering (DAE) in relevant technology from a Pakistani Board of Technical Education with at least 60% marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 5,
+            "criteria": "American or Canadian High School Diploma or International Baccalaureate Diploma with Mathematics (with Calculus), Physics and Chemistry with 60% or above marks, as per IBCC equivalence formula, each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 6,
+            "criteria": "A-Level in three subjects Mathematics, Physics and Computer Studies/IT with D or above grade each in Mathematics & Physics and O-Level in eight subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science, Urdu, Islamic Studies & Pakistan Studies) for local applicants and in five subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science/IT) for those applying from abroad."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "7.5%",
+            "F.Sc./A-level/relevant DAE": "7.5%",
+            "Entry Test": "85"
+          }
+        ],
+        "course_outline": "https://giki.edu.pk/bachelors-of-science-in-cyber-security/"
+      },
+      "chemical_engineering": {
+        "program_title": "BS Chemical Engineering",
+        "program_description": "Rapid commercialization of conventional and modern, man-made products gave birth to process industry. The dynamics of the industry requires group of highly trained professionals from almost all engineering disciplines. However chemical engineer organizes his/her coordination at the process plant and thus deemed as process brain. Such responsibility demands basic knowledge of all conventional trades of engineering in addition to in-depth knowledge of large-scale industrial dynamics. Continuous and safe process operation is an exclusive responsibility of this trade, in addition to design, problem investigation and troubleshooting. Well-versed chemical engineer, during his/her career, usually encounters a diverse field of application in thermodynamics dictating unit processes.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "27,593 PKR",
+            "total_tution_fee": "3,670,000 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": "Dec 6, 2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": "Dec 22, 2024",
+            "daedline_SAT": "Dec 22, 2024",
+            "deadline_admission_test_ECAT": "Dec 22, 2024",
+            "admission_decision":null,
+            "commencement_of_classes": "Jan 20, 2025"
+          }
+        ],
+        "merit": null,
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "HSSC (Pre-Engineering i.e Mathematics, Physics and Chemistry) with 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 2,
+            "criteria": "HSSC (ICS i.e Mathematics, Physics and Computer Studies/Science/IT) with 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 3,
+            "criteria": "HSSC (Pre-Medical) with Additional Mathematics and 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 4,
+            "criteria": "Three years Diploma of Associate Engineering (DAE) in relevant technology from a Pakistani Board of Technical Education with at least 60% marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 5,
+            "criteria": "American or Canadian High School Diploma or International Baccalaureate Diploma with Mathematics (with Calculus), Physics and Chemistry with 60% or above marks, as per IBCC equivalence formula, each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 6,
+            "criteria": "A-Level in three subjects Mathematics, Physics and Computer Studies/IT with D or above grade each in Mathematics & Physics and O-Level in eight subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science, Urdu, Islamic Studies & Pakistan Studies) for local applicants and in five subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science/IT) for those applying from abroad."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "7.5%",
+            "F.Sc./A-level/relevant DAE": "7.5%",
+            "Entry Test": "85"
+          }
+        ],
+        "course_outline": "https://giki.edu.pk/fmce/dche/dche-undergraduate/"
+      },
+      "civil": {
+        "program_title": "BS Civil Engineering",
+        "program_description": "Graduates become professional engineers to work in leading national and international organizations to address challenging issues in the domain of Civil Engineering. Graduates engage in a profession, academics, and research to keep abreast with the latest development and sustainable practices in the field. Graduates demonstrate the fundamentals of the professionalism, ethics, and quality performance that will enable them to be leaders and contributors to the society.",
+        "program_duration": "4 years",
+        "credit_hours": "133+",
+        "fee": [
+          {
+            "per_credit_hour_fee": "27,593 PKR",
+            "total_tution_fee": "3,670,000 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": "Dec 6, 2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": "Dec 22, 2024",
+            "daedline_SAT": "Dec 22, 2024",
+            "deadline_admission_test_ECAT": "Dec 22, 2024",
+            "admission_decision":null,
+            "commencement_of_classes": "Jan 20, 2025"
+          }
+        ],
+        "merit": null,
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "HSSC (Pre-Engineering i.e Mathematics, Physics and Chemistry) with 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 2,
+            "criteria": "HSSC (ICS i.e Mathematics, Physics and Computer Studies/Science/IT) with 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 3,
+            "criteria": "HSSC (Pre-Medical) with Additional Mathematics and 60% or above marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 4,
+            "criteria": "Three years Diploma of Associate Engineering (DAE) in relevant technology from a Pakistani Board of Technical Education with at least 60% marks each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 5,
+            "criteria": "American or Canadian High School Diploma or International Baccalaureate Diploma with Mathematics (with Calculus), Physics and Chemistry with 60% or above marks, as per IBCC equivalence formula, each in Mathematics, Physics & Overall."
+          },
+          {
+            "s.no": 6,
+            "criteria": "A-Level in three subjects Mathematics, Physics and Computer Studies/IT with D or above grade each in Mathematics & Physics and O-Level in eight subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science, Urdu, Islamic Studies & Pakistan Studies) for local applicants and in five subjects (English, Mathematics, Physics, Chemistry, Biology/Computer Science/IT) for those applying from abroad."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "7.5%",
+            "F.Sc./A-level/relevant DAE": "7.5%",
+            "Entry Test": "85"
+          }
+        ],
+        "course_outline": "https://giki.edu.pk/dce/"
+      },
+      "campuses": null
+    }
+  ]
+  

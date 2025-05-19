@@ -1,0 +1,359 @@
+[
+  {
+    "university_title": "University of the Punjab",
+    "main_link": "https://pu.edu.pk/",
+    "social_links": {
+      "instagram": "https://www.instagram.com/universityofthepunjab/",
+      "facebook": "https://www.facebook.com/UniversityOfThePunjab.Official",
+      "twitter": "https://twitter.com/PU_OfficialPK"
+    },
+    "ranking": "3",
+    "contact_details": {
+      "info_email": "infocell@pu.edu.pk",
+      "call": "0092-42-99230259"
+    },
+    "introduction": "Established in Lahore in 1882, the University of  Punjab is the largest and the oldest seat of higher learning in Pakistan. It  was the first to be established in the sub-continent in a Muslim majority area. Located in the historical and culturally alive city of  Lahore, this university has played a leading role in spreading higher education  in the country. The University strives to provide a conducive environment for  the pursuit of academic activities. On account of its highly qualified and internationalized  faculty, pleasant environment, and low tuition fees, the university remains the  institution of the first choice for students. The University comprises six campuses, 19 Faculties, 08  Constituent Colleges, and 138 departments, centers, and institutes. The  University also has 658 affiliated colleges. It has 991 full-time/regular and  300 part-time faculty members involved in teaching/research and 50,000+ on-campus students. (42,700+ BS Hons, 5,800+ M.Phil. and 1,500+ Ph.D. students). Allama Iqbal Campus, named after the great South Asian  thinker and poet-philosopher. Its Indo-Islamic architecture houses Colleges of Art  and Design, IT and Pharamacy along with the most historic Oriental College, the  first avatar of the University which was established in 1870. It is located on  the Mall Road of Lahore. Quaid-e-Azam Campus, located in an area spread over  1800 acres of lush green landscape, was designed by the renowned Greek  Architect A.C. Doxiadis who also designed Islamabad. This campus is the center  of academic and administrative activities of the university. A canal dividing  the academic blocks from the student lodgings adds to the beauty of the Campus. The University also has a summer campus at Khanaspur  located at a height of about 7,000 feet in the Himalayan range near Ayubia.  This campus, in addition to providing research facilities, is also used as a  recreational center for the faculty and the students.",
+    "programs": {
+      "software_engineering": {
+        "program_title": "BS Software Engineering (Morning)",
+        "program_description": "The BS Software Engineering program aims to produce graduates with a strong foundation in computing, capable of applying theoretical concepts to solve problems, using appropriate methodologies and tools for software design and testing. Graduates are well-prepared for careers in the IT industry, graduate studies, and lifelong learning, with strong communication skills.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "5,538 PKR",
+            "total_tution_fee": "720,000 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "89.23%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Intermediate with Mathematics & Physics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 4,
+            "criteria": "Intermediate with Mathematics & Computer Science with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 5,
+            "criteria": "Intermediate with Mathematics & Statistics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 6,
+            "criteria": "F.Sc. Pre-Medical with additional Math with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 7,
+            "criteria": "F.Sc. Pre-Medical with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 8,
+            "criteria": "At least 60% marks in DAE in a relevant discipline."
+          },
+          {
+            "s.no": 9,
+            "criteria": "A-Levels (with equivalence of mentioned above by IBCC) with at least 50% obtained marks"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": "67%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://pu.edu.pk/program/show/900079/Department-of-Software-Engineering"
+      },
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "The BS Computer Science program aims to produce graduates with a strong foundation in computing, capable of applying theoretical concepts to solve problems, using appropriate methodologies and tools for software design and testing. Graduates are well-prepared for careers in the IT industry, graduate studies, and lifelong learning, with strong communication skills.",
+        "program_duration": "4 years",
+        "credit_hours": "130+",
+        "fee": [
+          {
+            "per_credit_hour_fee": "5,538 PKR",
+            "total_tution_fee": "720,000 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "90.13%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Intermediate with Mathematics & Physics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 4,
+            "criteria": "Intermediate with Mathematics & Computer Science with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 5,
+            "criteria": "Intermediate with Mathematics & Statistics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 6,
+            "criteria": "F.Sc. Pre-Medical with additional Math with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 7,
+            "criteria": "F.Sc. Pre-Medical with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 8,
+            "criteria": "At least 60% marks in DAE in a relevant discipline."
+          },
+          {
+            "s.no": 9,
+            "criteria": "A-Levels (with equivalence of mentioned above by IBCC) with at least 50% obtained marks"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": "67%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://pu.edu.pk/program/show/900097/Department-of-Computer-Science"
+      },
+      "data_science": {
+        "program_title": "BS (Data Science) Morning",
+        "program_description": "The BS Data Science program aims to produce graduates with a strong foundation in computing, capable of applying theoretical concepts to solve problems, using appropriate methodologies and tools for software design and testing. Graduates are well-prepared for careers in the IT industry, graduate studies, and lifelong learning, with strong communication skills.",
+        "program_duration": "4 years",
+        "credit_hours": "130+",
+        "fee": [
+          {
+            "per_credit_hour_fee": "5,538 PKR",
+            "total_tution_fee": "720,000 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "88.72%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Intermediate with Mathematics & Physics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 4,
+            "criteria": "Intermediate with Mathematics & Computer Science with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 5,
+            "criteria": "Intermediate with Mathematics & Statistics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 6,
+            "criteria": "F.Sc. Pre-Medical with additional Math with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 7,
+            "criteria": "F.Sc. Pre-Medical with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 8,
+            "criteria": "At least 60% marks in DAE in a relevant discipline."
+          },
+          {
+            "s.no": 9,
+            "criteria": "A-Levels (with equivalence of mentioned above by IBCC) with at least 50% obtained marks"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "25%"
+          }
+        ],
+        "course_outline": "will be updated soon"
+      },
+      "information_technology": {
+        "program_title": "BS Information Technology (IT)",
+        "program_description": "The BS Information Technology program aims to produce graduates with a strong foundation in computing, capable of applying theoretical concepts to solve problems, using appropriate methodologies and tools for software design and testing. Graduates are well-prepared for careers in the IT industry, graduate studies, and lifelong learning, with strong communication skills.",
+        "program_duration": "4 years",
+        "credit_hours": "130+",
+        "fee": [
+          {
+            "per_credit_hour_fee": "5,538 PKR",
+            "total_tution_fee": "720,000 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "88.46%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Intermediate with Mathematics & Physics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 4,
+            "criteria": "Intermediate with Mathematics & Computer Science with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 5,
+            "criteria": "Intermediate with Mathematics & Statistics with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 6,
+            "criteria": "F.Sc. Pre-Medical with additional Math with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 7,
+            "criteria": "F.Sc. Pre-Medical with atleast 50% obtained marks"
+          },
+          {
+            "s.no": 8,
+            "criteria": "At least 60% marks in DAE in a relevant discipline."
+          },
+          {
+            "s.no": 9,
+            "criteria": "A-Levels (with equivalence of mentioned above by IBCC) with at least 50% obtained marks"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": "67%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://pu.edu.pk/program/show/900098/Department-of-Information-Technology"
+      },
+      "electrical_engineering": {
+        "program_title": "B.Sc (Engg.) Electrical Engineering",
+        "program_description": "Exhibit comprehensive competence in the field of electrical engineering, enabling graduates to achieve successful careers in both industry and higher education sectors. Pursue research and innovation, providing effective industrial solutions through the adoption and integration of emerging technologies. Capacity to lead or participate as an effective team member to provide environment-friendly, sustainable, and economical solutions with good communication skills and high moral values.",
+        "program_duration": "4 years",
+        "credit_hours": "139",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "Not Available"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "F.Sc. Pre-Engineering/DAE*/ICS (Physics, Mathematics and Computer Science)/A-Level or equivalent with minimum 60% marks."
+          },
+          {
+            "s.no": 2,
+            "criteria": "DAE* (Automation / Avionics / Computer / CIT / Electrical / Electronics / Information / Instrumentation / Instrumentation & Process Control / Mechatronics / Precision Mechanical & Instrument / Radar / Radio / Telecommunication)"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": "67%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://pu.edu.pk/images/image/Departments/IEECE/B.Sc-(Engg.)-Electrical-Engineering.pdf"
+      }
+    },
+    "campuses": {
+      "new_campus": "https://pu.edu.pk/home/campus/1",
+      "old_campus": "https://pu.edu.pk/home/campus/2",
+      "gujranwala_campus": "https://pu.edu.pk/home/campus/3",
+      "khanspur_campus": "https://pu.edu.pk/home/campus/4",
+      "jhelum_campus": "https://pu.edu.pk/home/campus/5",
+      "pothohar_campus": "https://pu.edu.pk/home/campus/6"
+    }
+  }
+]

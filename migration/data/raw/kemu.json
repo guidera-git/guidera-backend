@@ -1,0 +1,280 @@
+[
+    {
+      "university_title": "King Edward Medical University",
+      "main_link": "https://kemu.edu.pk/",
+      "social_links": {
+        "instagram": "https://www.instagram.com/kemulahore/",
+        "facebook": "https://www.facebook.com/kemulahore",
+        "twitter": "https://x.com/kemuofficial"
+      },
+      "ranking": "13",
+      "contact_details": {
+        "info_email": "info@kemu.edu.pk",
+        "call": "0092-42-99211145-54"
+      },
+      "introduction": "King Edward Medical University (KEMU), established in 1860 in Lahore, is Pakistan’s oldest and most prestigious medical institution. Originally founded as Lahore Medical School and renamed in 1911, KEMU is renowned for producing highly skilled medical professionals and pioneering healthcare education in South Asia.KEMU offers 5 undergraduate programs, 29 postgraduate programs, and numerous diplomas across medical and allied health sciences. Its faculty includes leading medical experts, fostering a legacy of excellence in education and research. The university is affiliated with premier teaching hospitals, including the historic Mayo Hospital, ensuring hands-on clinical training for its 1,500+ students annually.With a commitment to innovation, ethical practice, and quality healthcare education, KEMU continues to lead the medical sector in Pakistan, combining its historic legacy with modern advancements.",
+      "programs": {
+        "MBBS": {
+          "program_title": "Bachelor of Medicine, and Bachelor of Surgery",
+          "program_description": "The MBBS program at KEMU is a comprehensive five-year undergraduate degree designed to produce highly skilled and compassionate medical professionals. The curriculum combines foundational medical sciences, clinical training, and ethical practices to equip students with the knowledge and skills necessary to address complex health challenges. The program emphasizes hands-on experience through its affiliation with renowned teaching hospitals, including Mayo Hospital. Students are trained in various medical disciplines, including anatomy, physiology, pathology, pharmacology, community medicine, and clinical rotations in specialized fields such as surgery, internal medicine, pediatrics, and obstetrics.",
+          "program_duration": "5 years",
+          "credit_hours": "Not avaliable",
+          "fee": "97,830 PKR",
+          "merit": "90%",
+          "teaching_system": "Annual System",
+          "session_begin": "Annual System",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "F.Sc. Pre-Medical with at least 50% marks."
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 60% and obtained marks Biology as an additional subject."
+            },
+            {
+              "s.no": 3,
+              "criteria": "Intermediate with Mathematics & Physics with atleast 60% obtained marks and Biology as an additional subject."
+            },
+            {
+              "s.no": 4,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 5,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 6,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 7,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 8,
+              "criteria": "At least 60% marks in DAE in a relevant discipline."
+            },
+            {
+              "s.no": 9,
+              "criteria": "Must have studied Biology, Chemistry, and Physics/Mathematics in A-Level, Obtain an equivalence certificate from IBCC, showing at least 60% marks."
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "60%",
+              "Entry Test": "50%"
+            }
+          ],
+          "course_outline": "https://kemu.edu.pk/undergraduates-admissions/#tab-a452e49d1f3cc00cc8d"
+        },
+        "Doctor of Physiotherapy": {
+          "program_title": "BS Doctor of Physiotherapy",
+          "program_description": "The Doctor of Physiotherapy (DPT) program at King Edward Medical University (KEMU) is a 5-year professional degree designed to prepare students for a career in physical therapy and rehabilitation sciences. It focuses on the evaluation, diagnosis, treatment, and prevention of movement disorders and physical impairments. The program aims to develop skilled physiotherapists capable of addressing a wide range of musculoskeletal, neurological, and cardiopulmonary conditions through evidence-based practices.",
+          "program_duration": "5 years",
+          "credit_hours": "170+",
+          "fee": "90,000 PKR",
+          "merit": "90.9675%",
+          "teaching_system": "Annual System",
+          "session_begin": "Annual System",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "F.Sc. Pre-Engineering with at least 60% and obtained marks Biology as an additional subject."
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Medical with at least 60% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "Intermediate with Mathematics & Physics with atleast 50% obtained marks"
+            },
+            {
+              "s.no": 4,
+              "criteria": "Must have studied Biology, Chemistry, and Physics/Mathematics in A-Level, Obtain an equivalence certificate from IBCC, showing at least 60% marks.English proficiency as per HEC/University policy"
+            },
+            {
+              "s.no": 5,
+              "criteria": "Intermediate with Mathematics & Physics with atleast 60% obtained marks and Biology as an additional subject."
+            },
+            {
+              "s.no": 6,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 7,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 8,
+              "criteria": "At least 60% marks in DAE in a relevant discipline."
+            },
+            {
+              "s.no": 9,
+              "criteria": "A-Levels (with equivalence of mentioned above by IBCC) with at least 50% obtained marks"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "70%",
+              "Entry Test": "30%"
+            }
+          ],
+          "course_outline": "https://kemu.edu.pk/undergraduates-admissions/#tab-a452e49d1f3cc00cc8d"
+        },
+        "Post RN BSN": {
+          "program_title": "Bachelor of Science in Nursing",
+          "program_description": "The Post RN Bachelor of Science in Nursing (Post RN BSN) program at King Edward Medical University (KEMU) is a 3-year undergraduate degree designed for registered nurses (RNs) who wish to advance their careers in nursing education, clinical practice, and healthcare leadership. This program equips nurses with advanced theoretical knowledge, clinical skills, and professional competencies to meet the growing demands of the healthcare sector.",
+          "program_duration": "3 years",
+          "credit_hours": "65+",
+          "fee": "90,000 PKR",
+          "merit": "Not Available",
+          "teaching_system": "Semester System",
+          "session_begin": "Semester System",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Intermediate in Computer Science (ICS) with Statistics as one of the subjects and obtained at least 50% marks."
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "F.Sc. Pre-Medical with at least 50% obtained marks"
+            },
+            {
+              "s.no": 4,
+              "criteria": "Obtain an equivalence certificate from IBCC, showing at least 60% marks."
+            },
+            {
+              "s.no": 5,
+              "criteria": "Intermediate in Computer Science (ICS) with Physics as one of the subjects and obtained at least 50% markss"
+            },
+            {
+              "s.no": 6,
+              "criteria": "Not avalibale."
+            },
+            {
+              "s.no": 7,
+              "criteria": "Not avalibale."
+            },
+            {
+              "s.no": 8,
+              "criteria": "Not avalibale."
+            },
+            {
+              "s.no": 9,
+              "criteria": "Not avalibale."
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": "null",
+              "F.Sc./A-level/relevant DAE": "50%",
+              "Entry Test": "10%"
+            }
+          ],
+          "course_outline": "Not Avaliable"
+        },
+        "ALLIED VISION SCIENCES": {
+          "program_title": "BS ALLIED VISION SCIENCES",
+          "program_description": "The Allied Vision Sciences program is designed to equip students with the necessary skills and knowledge to become proficient in various aspects of vision care. It focuses on understanding the anatomy, physiology, and disorders of the human eye, as well as training students in modern techniques for diagnosing, treating, and managing eye-related conditions. The program aims to produce professionals who are capable of working in both clinical and research settings, including hospitals, clinics, and vision care centers.",
+          "program_duration": "4 years",
+          "credit_hours": "130+",
+          "fee": "80,000 PKR",
+          "merit": "Not Available",
+          "teaching_system": "Semester System",
+          "session_begin": "Semester System",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Must have studied Biology, Chemistry, and Physics/Mathematics in A-Level, Obtain an equivalence certificate from IBCC, showing at least 50% marks"
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks."
+            },
+            {
+              "s.no": 3,
+              "criteria": "F.Sc. Pre-Medical with at least 50% obtained marks."
+            },
+            {
+              "s.no": 4,
+              "criteria": "Intermediate in Computer Science (ICS) with Statistics as one of the subjects and obtained at least 50% marks."
+            },
+            {
+              "s.no": 5,
+              "criteria": "Intermediate in Computer Science (ICS) with Physics as one of the subjects and obtained at least 50% markss"
+            },
+            {
+              "s.no": 6,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 7,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 8,
+              "criteria": "Not avalibale"
+            },
+            {
+              "s.no": 9,
+              "criteria": "Not avalibale"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "67%",
+              "Entry Test": "33%"
+            }
+          ],
+          "course_outline": "https://pu.edu.pk/program/show/900098/Department-of-Information-Technology"
+        },
+        "electrical_engineering": {
+          "program_title": "B.Sc Allied Heal",
+          "program_description": "The Allied Health Sciences program at King Edward Medical University (KEMU) trains students to support healthcare professionals in various medical fields. The program covers areas like medical laboratory sciences, physiotherapy, radiology, and healthcare management. Students gain both theoretical knowledge and practical skills through hands-on training in hospitals and medical facilities. Graduates are prepared for careers in hospitals, diagnostic labs, rehabilitation centers, and health management roles. This program is ideal for those who want to contribute to healthcare without becoming a doctor.",
+          "program_duration": "4 years",
+          "credit_hours": "139",
+          "fee": "Not available",
+          "merit": "Not Available",
+          "teaching_system": "Semester System",
+          "session_begin": "Semester System",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "F.Sc. Pre-Engineering/DAE*/ICS (Physics, Mathematics and Computer Science)/A-Level or equivalent with minimum 60% marks."
+            },
+            {
+              "s.no": 2,
+              "criteria": "DAE* (Automation / Avionics / Computer / CIT / Electrical / Electronics / Information / Instrumentation / Instrumentation & Process Control / Mechatronics / Precision Mechanical & Instrument / Radar / Radio / Telecommunication)"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "67%",
+              "Entry Test": "33%"
+            }
+          ],
+          "course_outline": "https://pu.edu.pk/images/image/Departments/IEECE/B.Sc-(Engg.)-Electrical-Engineering.pdf"
+        }
+      },
+      "campuses": {
+        "new_campus": "https://pu.edu.pk/home/campus/1",
+        "old_campus": "https://pu.edu.pk/home/campus/2",
+        "gujranwala_campus": "https://pu.edu.pk/home/campus/3",
+        "khanspur_campus": "https://pu.edu.pk/home/campus/4",
+        "jhelum_campus": "https://pu.edu.pk/home/campus/5",
+        "pothohar_campus": "https://pu.edu.pk/home/campus/6"
+      }
+    }
+  ]
+  

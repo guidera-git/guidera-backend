@@ -1,0 +1,72 @@
+[
+    {
+      "university_title": "Quaid-i-Azam University",
+      "main_link": "https://qau.edu.pk/",
+      "social_links": {
+        "instagram": "https://www.instagram.com/quaid_i_azam_university_isb/",
+        "facebook": "https://www.facebook.com/QAUIslamabadofficial",
+        "twitter": "http://www.twitter.com/QAU_Official"
+      },
+      "ranking": 1,
+      "contact_details": {
+        "info_email": "info@qau.edu.pk",
+        "call": "0092-51-9064-0000"
+      },
+      "introduction": "Riphah International University is a private University, chartered by the Federal Government of Pakistan in 2002. The University was established to produce professionals with Islamic moral and ethical values. It is sponsored by a not-for-profit trust; namely, Islamic International Medical College Trust (IIMCT), created in 1995. The first project of the IIMCT was the Islamic International Medical College, Rawalpindi, established in 1996 by its Founding Managing Trustee.",
+      "programs": {
+        "computer_science": {
+          "program_title": "BS Computer Science",
+          "program_description": "The BS Computer Science program at QAU was started in 2013. It provides a well-integrated balance of theoretical and practical knowledge required for developing reliable and usable software tools for different fields. The program enables students to design, implement and manage systems combining scientific, computational, communication and multimedia facilities in different domains. The BS program is accredited by National Computing Education Accreditation Council.",
+          "program_duration": "4 years",
+          "credit_hours": "130",
+          "fee": [
+            {
+              "per_credit_hour_fee": "5502 PKR",
+              "total_tution_fee": "7,151160 PKR"
+            }
+          ],
+          "important_dates":[
+            {
+              "deadline_application_submission": null,
+              "deadline_pay_application_fee": null,
+              "deadline_finencial_aid_application": null,
+              "daedline_ACT": null,
+              "daedline_SAT": null,
+              "deadline_admission_test_ECAT": null,
+              "admission_decision":null,
+              "commencement_of_classes": null
+            }
+          ],        
+          "merit": "60%",
+          "admission_criteria": [
+            {
+              "s.no": 1,
+              "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            },
+            {
+              "s.no": 2,
+              "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+            },
+            {
+              "s.no": 3,
+              "criteria": "Passed the Quaid i Azam Admission test"
+            },
+            {
+              "s.no": 4,
+              "criteria": "A’ Levels (IBCC Equivalence Required)"
+            }
+          ],
+          "merit_formula": [
+            {
+              "Matric": null,
+              "F.Sc./A-level/relevant DAE": "60%",
+              "Entry Test": "33%"
+            }
+          ],
+          "course_outline": "https://cs.qau.edu.pk/"
+        }
+      },
+      "campuses": null
+    }
+  ]
+  

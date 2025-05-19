@@ -1,0 +1,176 @@
+[
+  {
+    "university_title": "Lahore University of Management Sciences (LUMS)",
+    "main_link": "https://lums.edu.pk/",
+    "social_links": {
+      "instagram": "https://www.instagram.com/lifeatlums/",
+      "facebook": "https://www.facebook.com/lahoreuniversityofmanagementsciences",
+      "twitter": "https://twitter.com/lifeatlums"
+    },
+    "qs_ranking": "535",
+    "contact_details": {
+      "info_email": "admissions@lums.edu.pk",
+      "call": "+92-42-3560-8000"
+    },
+    "introduction": "For over three decades, LUMS has nurtured visionary leaders and change makers who are equipped to anticipate and tackle the challenges of society. Our beautiful 100 acre campus is a place where extraordinary things happen: the brightest and most talented minds come together to engage in meaningful dialogue, question the ordinary and explore innovative solutions to real-life problems.",
+    "programs": {
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "A Computer Science (CS) degree is excellent preparation for the job market of the future and CS majors take up careers in every imaginable field. The Department was formed in 1994 and our graduates have enjoyed excellent job placements over the last fifteen years, both within Pakistan and internationally. Many have chosen to make their own successful companies. The acceptance of our graduates to top MS and PhD programmes abroad has also been excellent – just this year, students who have graduated can boast acceptances from Oxford, Cambridge, UIUC, Cornell, UT Dallas, Stony Brook and UC San Diego amongst others.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "37,070 PKR",
+            "total_tution_fee": "4819100 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": "February 04, 2025",
+            "deadline_pay_application_fee": "February 06, 2025",
+            "deadline_finencial_aid_application": "March 06, 2025",
+            "daedline_ACT": "April 05, 2025",
+            "daedline_SAT": "March 08, 2025",
+            "deadline_admission_test_LCAT":"February 23, 2025 (Tentative)",
+            "admission_decision":"April 2025 - July 2025",
+            "commencement_of_classes": "September 2025"
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Matric with 70% marks or above and FSc/ ICS with 70% marks or above"
+          },
+          {
+            "s.no": 2,
+            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least ‘B’ in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
+          },
+          {
+            "s.no": 3,
+            "criteria": "American High School Diploma (HSD) with 70% or above/Grade Point Average of B or above"
+          },
+          {
+            "s.no": 4,
+            "criteria": "International Baccalaureate Diploma Programme (IBDP) 3 with at least 28 out of 45 points"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://lums.edu.pk/programmes/bs-computer-science#b"
+      },
+      "chemical_engineering": {
+        "program_title": "BS Chemical Engineering",
+        "program_description": "The LUMS BS Chemical Engineering is a rigorous four-year programme that prepares students to compete in global markets. Pakistan’s chemical industry is rapidly expanding to provide products to enhance the standard of living, protect the environment, ensure industrial safety and create new processes that provide value added products. To keep up with this rapid development, the Department of Chemistry and Chemical Engineering at the Syed Babar Ali School of Science and Engineering (SBASSE) is educating tomorrow’s leaders in modern Chemical Engineering.",
+        "program_duration": "4 years",
+        "credit_hours": "138",
+        "fee": [
+          {
+            "per_credit_hour_fee": "37,070 PKR",
+            "total_tution_fee": "4819100 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": "February 04, 2025",
+            "deadline_pay_application_fee": "February 06, 2025",
+            "deadline_finencial_aid_application": "March 06, 2025",
+            "daedline_ACT": "April 05, 2025",
+            "daedline_SAT": "March 08, 2025",
+            "deadline_admission_test_LCAT":"February 23, 2025 (Tentative)",
+            "admission_decision":"April 2025 - July 2025",
+            "commencement_of_classes": "September 2025"
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Matric with 70% marks or above and FSc/ ICS with 70% marks or above"
+          },
+          {
+            "s.no": 2,
+            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least ‘B’ in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
+          },
+          {
+            "s.no": 3,
+            "criteria": "American High School Diploma (HSD) with 70% or above/Grade Point Average of B or above"
+          },
+          {
+            "s.no": 4,
+            "criteria": "International Baccalaureate Diploma Programme (IBDP) 3 with at least 28 out of 45 points"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://lums.edu.pk/programmes/bs-chemical-engineering"
+      },
+      "electrical_engineering": {
+        "program_title": "BS Electrical Engineering",
+        "program_description": "The curriculum of the BS Electrical Engineering programme at the Syed Babar Ali School of Science and Engineering (SBASSE) has been designed to teach students to apply knowledge of mathematics, science and engineering fundamentals to find solutions of complex engineering problems.",
+        "program_duration": "4 years",
+        "credit_hours": "135+",
+        "fee": [
+          {
+            "per_credit_hour_fee": "37,070 PKR",
+            "total_tution_fee": "48,19100 PKR"
+          }
+        ],
+        "important_dates":[
+          {
+            "deadline_application_submission": "February 04, 2025",
+            "deadline_pay_application_fee": "February 06, 2025",
+            "deadline_finencial_aid_application": "March 06, 2025",
+            "daedline_ACT": "April 05, 2025",
+            "daedline_SAT": "March 08, 2025",
+            "deadline_admission_test_LCAT":"February 23, 2025 (Tentative)",
+            "admission_decision":"April 2025 - July 2025",
+            "commencement_of_classes": "September 2025"
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Matric with 70% marks or above and FSc/ ICS with 70% marks or above"
+          },
+          {
+            "s.no": 2,
+            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least ‘B’ in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
+          },
+          {
+            "s.no": 3,
+            "criteria": "American High School Diploma (HSD) with 70% or above/Grade Point Average of B or above"
+          },
+          {
+            "s.no": 4,
+            "criteria": "International Baccalaureate Diploma Programme (IBDP) 3 with at least 28 out of 45 points"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://lums.edu.pk/programmes/bs-electrical-engineering"
+      }
+    },
+    "campuses": null
+  }
+]

@@ -15,7 +15,7 @@ const storage = multer.diskStorage({
 });
 const upload = multer({ storage });
 
-router.get('/:userId', async (req, res) => {
+router.get('/:userId/profile', async (req, res) => {
     const { userId } = req.params;
 
     try {
@@ -46,45 +46,65 @@ router.get('/:userId', async (req, res) => {
     }
 });
 
-// ✅ PUT /api/profile/:userId
-router.put('/:userId', upload.fields([
+router.put('/:userId/profile', upload.fields([
     { name: 'profile_image', maxCount: 1 },
     { name: 'background_image', maxCount: 1 }
 ]), async (req, res) => {
     const { userId } = req.params;
-    const { about_me, date_of_birth } = req.body;
+    const { full_name, email, date_of_birth, about_me } = req.body;
 
     const profileImageUrl = req.files['profile_image']?.[0]?.path;
     const backgroundImageUrl = req.files['background_image']?.[0]?.path;
 
     try {
-        const updateQuery = `
+        // Update users table
+        const userUpdateQuery = `
+            UPDATE users
+            SET full_name = COALESCE($1, full_name),
+                email = COALESCE($2, email)
+            WHERE id = $3;
+        `;
+
+        const userValues = [
+            full_name || null,
+            email || null,
+            userId
+        ];
+
+        // Update userdata table
+        const userdataUpdateQuery = `
             UPDATE userdata
-            SET 
-                about_me = COALESCE($1, about_me),
-                date_of_birth = COALESCE($2, date_of_birth),
+            SET date_of_birth = COALESCE($1, date_of_birth),
+                about_me = COALESCE($2, about_me),
                 profile_image_url = COALESCE($3, profile_image_url),
                 background_image_url = COALESCE($4, background_image_url)
             WHERE user_id = $5
             RETURNING *;
         `;
 
-        const values = [
-            about_me || null,
+        const userdataValues = [
             date_of_birth || null,
+            about_me || null,
             profileImageUrl || null,
             backgroundImageUrl || null,
             userId
         ];
 
-        const result = await client.query(updateQuery, values);
+        await client.query('BEGIN');
+        await client.query(userUpdateQuery, userValues);
+        const result = await client.query(userdataUpdateQuery, userdataValues);
+        await client.query('COMMIT');
 
-        res.status(200).json({ message: 'Profile updated successfully', data: result.rows[0] });
+        res.status(200).json({ message: 'Profile updated successfully' });
+
     } catch (err) {
+        await client.query('ROLLBACK');
         console.error('Error updating profile:', err);
         res.status(500).json({ error: 'Internal server error' });
     }
 });
+
+
 
 
 module.exports = router;

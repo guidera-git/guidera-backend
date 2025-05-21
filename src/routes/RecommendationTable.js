@@ -1,10 +1,8 @@
 const express = require('express');
 const router = express.Router();
 const client = require('../db');
+
 const multer = require('multer');
-const path = require('path');
-
-
 // Storage config
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
@@ -17,10 +15,50 @@ const storage = multer.diskStorage({
 });
 
 const upload = multer({ storage: storage });
+// ✅ GET user info and traits
+router.get('/:userId/full', async (req, res) => {
+    const { userId } = req.params;
 
+    try {
+        const result = await client.query(`
+            SELECT 
+                u.full_name,
+                u.email,
+                ud.about_me,
+                ud.date_of_birth,
+                ud.gender,
+                ud.location,
+                ud.student_type,
+                ud.matric_o,
+                ud.inter_a,
+                ud.study_stream,
+                ud.analytical,
+                ud.logical,
+                ud.explaining,
+                ud.creative,
+                ud.detail_oriented,
+                ud.helping,
+                ud.activity_preference,
+                ud.project_preference,
+                ud.profile_image_url,
+                ud.background_image_url
+            FROM users u
+            JOIN userdata ud ON u.id = ud.user_id
+            WHERE u.id = $1
+        `, [userId]);
 
-// POST /api/userdata
-router.post('/userdata', upload.fields([
+        if (result.rows.length === 0) {
+            return res.status(404).json({ error: 'User not found' });
+        }
+
+        res.status(200).json(result.rows[0]);
+    } catch (err) {
+        console.error('Error fetching user info:', err);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
+
+router.post('/userdata/:userId', upload.fields([
     { name: 'profile_image', maxCount: 1 },
     { name: 'background_image', maxCount: 1 }
 ]), async (req, res) => {
@@ -77,8 +115,6 @@ router.post('/userdata', upload.fields([
         res.status(500).json({ error: 'Internal server error' });
     }
 });
-
-
 
 
 module.exports = router;

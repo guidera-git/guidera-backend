@@ -14,13 +14,13 @@ app.use(cors({
 
 app.use(express.json());
 
-const authRoutes = require('./routes/auth');
+const authRoutes = require('./routes/login_signup');
 const UniRoutes = require('./routes/UniProgram');
 const UserDataRoutes = require('./routes/UserData');
 
 
 
-app.use('/api', authRoutes);
+app.use('/api/auth', authRoutes);
 app.use('/api', UniRoutes);
 app.use('/api', UserDataRoutes);
 

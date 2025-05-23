@@ -39,22 +39,22 @@ router.post(
 
     const { fullName, email, password } = req.body;
     try {
-      const dup = await client.query('SELECT 1 FROM users WHERE email=$1', [email]);
+      const dup = await client.query('SELECT 1 FROM student WHERE email=$1', [email]);
       if (dup.rowCount > 0) {
         return res.status(409).json({ error: 'Email already registered' });
       }
 
       const hashed = await bcrypt.hash(password, 10);
       const ins = await client.query(
-        `INSERT INTO users (full_name, email, password)
+        `INSERT INTO student (full_name, email, password)
          VALUES ($1,$2,$3)
-         RETURNING id, full_name, email`,
+         RETURNING student_id, full_name, email`,
         [fullName, email, hashed]
       );
 
       const user = ins.rows[0];
       return res.status(201).json({
-        id: user.id,
+        id: user.student_id,
         fullName: user.full_name,
         email: user.email
       });
@@ -84,7 +84,7 @@ router.post(
     const { email, password } = req.body;
     try {
       const userRes = await client.query(
-        'SELECT id, full_name, email, password FROM users WHERE email=$1',
+        'SELECT student_id, full_name, email, password FROM student WHERE email=$1',
         [email]
       );
       if (userRes.rowCount === 0) {
@@ -98,7 +98,7 @@ router.post(
       }
 
       const token = jwt.sign(
-        { userId: user.id, email: user.email },
+        { userId: user.student_id, email: user.email },
         JWT_SECRET,
         { expiresIn: TOKEN_EXPIRY }
       );
@@ -107,7 +107,7 @@ router.post(
         token,
         expiresIn: 3600,
         user: {
-          id: user.id,
+          id: user.student_id,
           fullName: user.full_name,
           email: user.email
         }

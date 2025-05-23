@@ -1,90 +1,170 @@
+// src/routes/profile.js
+
 const express = require('express');
-const router = express.Router();
-const client = require('../db');
-const multer = require('multer');
-const path = require('path');
+const router  = express.Router();
+const client  = require('../db');
 
-const storage = multer.diskStorage({
-    destination: (req, file, cb) => {
-        cb(null, 'uploads/');
-    },
-    filename: (req, file, cb) => {
-        const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1E9);
-        cb(null, uniqueSuffix + path.extname(file.originalname));
+/**
+ * GET /api/user/profile
+ * Fetch the logged-in student's profile.
+ */
+router.get('/user/profile', async (req, res) => {
+  const studentId = req.user.id;
+
+  try {
+    const { rows } = await client.query(
+      `SELECT
+         student_id      AS id,
+         full_name       AS fullName,
+         email,
+         profile_photo   AS profilePhoto,
+         background_photo AS backgroundPhoto,
+         gender,
+         birthdate,
+         about_me        AS aboutMe
+       FROM student
+       WHERE student_id = $1`,
+      [studentId]
+    );
+    if (rows.length === 0) {
+      return res.status(404).json({ error: 'Profile not found' });
     }
-});
-const upload = multer({ storage });
-
-router.get('/:userId', async (req, res) => {
-    const { userId } = req.params;
-
-    try {
-        const userResult = await client.query(
-            `SELECT full_name, email FROM users WHERE id = $1`,
-            [userId]
-        );
-
-        const dataResult = await client.query(
-            `SELECT date_of_birth, about_me, profile_image_url, background_image_url 
-             FROM userdata WHERE user_id = $1`,
-            [userId]
-        );
-
-        if (userResult.rows.length === 0) {
-            return res.status(404).json({ error: 'User not found' });
-        }
-
-        const profile = {
-            ...userResult.rows[0],
-            ...dataResult.rows[0]
-        };
-
-        res.status(200).json(profile);
-    } catch (err) {
-        console.error('Error fetching profile:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+    res.json(rows[0]);
+  } catch (err) {
+    console.error('Error fetching profile:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
-// ✅ PUT /api/profile/:userId
-router.put('/:userId', upload.fields([
-    { name: 'profile_image', maxCount: 1 },
-    { name: 'background_image', maxCount: 1 }
-]), async (req, res) => {
-    const { userId } = req.params;
-    const { about_me, date_of_birth } = req.body;
+/**
+ * PATCH /api/user/profile
+ * Update any combination of:
+ *   fullName, profilePhoto, backgroundPhoto, gender, birthdate, aboutMe
+ *
+ * To delete a photo via patch, set that field to null:
+ *   { "profilePhoto": null }
+ */
+router.patch('/user/profile', async (req, res) => {
+  const studentId = req.user.id;
+  const {
+    fullName,
+    profilePhoto,
+    backgroundPhoto,
+    gender,
+    birthdate,
+    aboutMe
+  } = req.body;
 
-    const profileImageUrl = req.files['profile_image']?.[0]?.path;
-    const backgroundImageUrl = req.files['background_image']?.[0]?.path;
+  // Build dynamic SET clause
+  const fields = [];
+  const values = [];
+  let idx = 1;
 
-    try {
-        const updateQuery = `
-            UPDATE userdata
-            SET 
-                about_me = COALESCE($1, about_me),
-                date_of_birth = COALESCE($2, date_of_birth),
-                profile_image_url = COALESCE($3, profile_image_url),
-                background_image_url = COALESCE($4, background_image_url)
-            WHERE user_id = $5
-            RETURNING *;
-        `;
+  if (fullName !== undefined) {
+    fields.push(`full_name = $${idx++}`);
+    values.push(fullName);
+  }
+  if (profilePhoto !== undefined) {
+    fields.push(`profile_photo = $${idx++}`);
+    values.push(profilePhoto);
+  }
+  if (backgroundPhoto !== undefined) {
+    fields.push(`background_photo = $${idx++}`);
+    values.push(backgroundPhoto);
+  }
+  if (gender !== undefined) {
+    fields.push(`gender = $${idx++}`);
+    values.push(gender);
+  }
+  if (birthdate !== undefined) {
+    fields.push(`birthdate = $${idx++}`);
+    values.push(birthdate);
+  }
+  if (aboutMe !== undefined) {
+    fields.push(`about_me = $${idx++}`);
+    values.push(aboutMe);
+  }
 
-        const values = [
-            about_me || null,
-            date_of_birth || null,
-            profileImageUrl || null,
-            backgroundImageUrl || null,
-            userId
-        ];
+  if (fields.length === 0) {
+    return res.status(400).json({ error: 'No fields provided to update' });
+  }
 
-        const result = await client.query(updateQuery, values);
+  // Add the studentId for the WHERE clause
+  values.push(studentId);
 
-        res.status(200).json({ message: 'Profile updated successfully', data: result.rows[0] });
-    } catch (err) {
-        console.error('Error updating profile:', err);
-        res.status(500).json({ error: 'Internal server error' });
+  const sql = `
+    UPDATE student
+       SET ${fields.join(', ')}
+     WHERE student_id = $${idx}
+     RETURNING
+       student_id      AS id,
+       full_name       AS fullName,
+       email,
+       profile_photo   AS profilePhoto,
+       background_photo AS backgroundPhoto,
+       gender,
+       birthdate,
+       about_me        AS aboutMe
+  `;
+
+  try {
+    const { rows } = await client.query(sql, values);
+    if (rows.length === 0) {
+      return res.status(404).json({ error: 'Profile not found' });
     }
+    res.json(rows[0]);
+  } catch (err) {
+    console.error('Error updating profile:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
+/**
+ * DELETE /api/user/profile/photo
+ * Remove only the profile photo (sets profile_photo = NULL).
+ */
+router.delete('/user/profile/photo', async (req, res) => {
+  const studentId = req.user.id;
+
+  try {
+    const { rowCount } = await client.query(
+      `UPDATE student
+          SET profile_photo = NULL
+        WHERE student_id = $1`,
+      [studentId]
+    );
+    if (rowCount === 0) {
+      return res.status(404).json({ error: 'Profile not found' });
+    }
+    res.status(204).end();
+  } catch (err) {
+    console.error('Error deleting profile photo:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+/**
+ * DELETE /api/user/profile/background-photo
+ * Remove only the background photo (sets background_photo = NULL).
+ */
+router.delete('/user/profile/background-photo', async (req, res) => {
+  const studentId = req.user.id;
+
+  try {
+    const { rowCount } = await client.query(
+      `UPDATE student
+          SET background_photo = NULL
+        WHERE student_id = $1`,
+      [studentId]
+    );
+    if (rowCount === 0) {
+      return res.status(404).json({ error: 'Profile not found' });
+    }
+    res.status(204).end();
+  } catch (err) {
+    console.error('Error deleting background photo:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
 
 module.exports = router;

@@ -6,6 +6,7 @@ const path           = require('path');
 const loginSignupRt  = require('./routes/login_signup');
 const authMiddleware = require('./middleware/auth');
 const profileRt      = require('./routes/profile');
+const degreeRt = require('./routes/degree');
 
 const app = express();
 app.use(cors());
@@ -19,7 +20,7 @@ app.use('/uploads', express.static(
 ));
 app.use('/api', authMiddleware);
 app.use('/api', profileRt);
-
+app.use('/api', degreeRt);  
 
 app.use((err, req, res, next) => {
   console.error(err.stack);

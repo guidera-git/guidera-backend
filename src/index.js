@@ -20,6 +20,7 @@ app.use('/uploads', express.static(
 app.use('/api', authMiddleware);
 app.use('/api', profileRt);
 
+
 app.use((err, req, res, next) => {
   console.error(err.stack);
   res.status(500).json({ error: 'Internal server error' });

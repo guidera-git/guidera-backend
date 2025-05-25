@@ -1,19 +1,26 @@
-require('dotenv').config({ path: '../.env' });
+// src/db.js
 
-const { Client } = require('pg');
+// Load environment variables from .env in project root
+require('dotenv').config();
 
-console.log('DB_PASSWORD:', process.env.DB_PASSWORD, typeof process.env.DB_PASSWORD);
+const { Pool } = require('pg');
 
-const client = new Client({
-  user: process.env.DB_USER,
-  host: process.env.DB_HOST,
+const pool = new Pool({
+  user:     process.env.DB_USER,
+  host:     process.env.DB_HOST,
   database: process.env.DB_DATABASE,
   password: process.env.DB_PASSWORD,
-  port: process.env.DB_PORT,
+  port:     parseInt(process.env.DB_PORT, 10),
+  // you can add max, idleTimeoutMillis, etc. here if desired
 });
 
-client.connect()
-  .then(() => console.log('Connected to PostgreSQL'))
-  .catch(err => console.error('Connection error', err.stack));
+pool.on('connect', () => {
+  console.log('Connected to PostgreSQL via pool');
+});
 
-module.exports = client;
+pool.on('error', (err) => {
+  console.error('Unexpected error on idle PostgreSQL client', err);
+  process.exit(-1);
+});
+
+module.exports = pool;

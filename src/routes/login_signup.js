@@ -1,8 +1,10 @@
-const express = require('express');
+// src/routes/login_signup.js
+
+const express               = require('express');
 const { body, validationResult } = require('express-validator');
-const bcrypt  = require('bcrypt');
-const jwt     = require('jsonwebtoken');
-const client  = require('../db');
+const bcrypt                = require('bcrypt');
+const jwt                   = require('jsonwebtoken');
+const pool                  = require('../db');
 
 const router     = express.Router();
 const JWT_SECRET = process.env.JWT_SECRET;
@@ -12,6 +14,7 @@ if (!JWT_SECRET) {
 }
 const TOKEN_EXPIRY = '1h';
 
+// Helper to format validation errors
 const formatErrors = errs =>
   errs.map(e => ({ field: e.param, message: e.msg }));
 
@@ -39,15 +42,20 @@ router.post(
 
     const { fullName, email, password } = req.body;
     try {
-      const dup = await client.query('SELECT 1 FROM student WHERE email=$1', [email]);
+      // Check for existing email
+      const dup = await pool.query(
+        'SELECT 1 FROM student WHERE email = $1',
+        [email]
+      );
       if (dup.rowCount > 0) {
         return res.status(409).json({ error: 'Email already registered' });
       }
 
+      // Hash and insert new user
       const hashed = await bcrypt.hash(password, 10);
-      const ins = await client.query(
+      const ins = await pool.query(
         `INSERT INTO student (full_name, email, password)
-         VALUES ($1,$2,$3)
+         VALUES ($1, $2, $3)
          RETURNING student_id, full_name, email`,
         [fullName, email, hashed]
       );
@@ -58,6 +66,7 @@ router.post(
         fullName: user.full_name,
         email: user.email
       });
+
     } catch (err) {
       console.error('Signup error:', err);
       return res.status(500).json({ error: 'Internal server error' });
@@ -83,8 +92,11 @@ router.post(
 
     const { email, password } = req.body;
     try {
-      const userRes = await client.query(
-        'SELECT student_id, full_name, email, password FROM student WHERE email=$1',
+      // Fetch user by email
+      const userRes = await pool.query(
+        `SELECT student_id, full_name, email, password
+         FROM student
+         WHERE email = $1`,
         [email]
       );
       if (userRes.rowCount === 0) {
@@ -97,6 +109,7 @@ router.post(
         return res.status(401).json({ error: 'Invalid email or password' });
       }
 
+      // Generate JWT
       const token = jwt.sign(
         { userId: user.student_id, email: user.email },
         JWT_SECRET,
@@ -112,6 +125,7 @@ router.post(
           email: user.email
         }
       });
+
     } catch (err) {
       console.error('Login error:', err);
       return res.status(500).json({ error: 'Internal server error' });

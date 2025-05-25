@@ -35,9 +35,9 @@ def main():
         deg, score = recommend_degree_inline(data, top_k=1)
 
         print(json.dumps({
-            "predicted_degree": str(deg),
-            "confidence_score": float(score)
-        }, indent=2), flush=True)
+        "predicted_degree": str(deg),
+        "confidence_score": float(score)
+        }), flush=True)
 
     except Exception as e:
         print(json.dumps({"error": str(e)}), flush=True)

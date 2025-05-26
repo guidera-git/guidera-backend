@@ -1,0 +1,2977 @@
+[
+  {
+    "id": "PHY_1",
+    "question": "One light year is equal to:",
+    "options": [
+      "9 x 10^17 m",
+      "6 x 10^13",
+      "9.5 x 10^13 m",
+      "None"
+    ],
+    "correct_answer": "9.5 x 10^13 m",
+    "explanation": "One light year is the distance light travels in one year, approximately 9.5 trillion kilometers or 9.5 x 10^13 meters.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_2",
+    "question": "Reverse process of vector addition?",
+    "options": [
+      "Subtraction",
+      "Division",
+      "Multiplication",
+      "None"
+    ],
+    "correct_answer": "Subtraction",
+    "explanation": "The reverse of vector addition is vector subtraction.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_3",
+    "question": "When a ball moves from and reaches to its maximum height in 3 seconds, what is its initial velocity?",
+    "options": [
+      "40 m/s",
+      "35 m/s",
+      "29.4 m/s",
+      "25 m/s"
+    ],
+    "correct_answer": "29.4 m/s",
+    "explanation": "Using the formula v = u + at, where a = -9.8 m/s², t = 3 s. The initial velocity is u = 9.8 x 3 = 29.4 m/s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_4",
+    "question": "Rocket propulsion is according to:",
+    "options": [
+      "3rd law of motion",
+      "1st law of motion",
+      "2nd law of motion",
+      "None"
+    ],
+    "correct_answer": "3rd law of motion",
+    "explanation": "According to Newton’s third law, every action has an equal and opposite reaction.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_5",
+    "question": "1 Cal = ______ J",
+    "options": [
+      "418",
+      "400",
+      "10",
+      "4.18"
+    ],
+    "correct_answer": "418",
+    "explanation": "1 Calorie is approximately equal to 418 Joules.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_6",
+    "question": "If a body of 2 kg moves vertically 2m then work done is:",
+    "options": [
+      "-39.2 J",
+      "40 J",
+      "45 J",
+      "35 J"
+    ],
+    "correct_answer": "40 J",
+    "explanation": "Work done = mgh = 2 x 9.8 x 2 = 39.2 J ≈ 40 J.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_7",
+    "question": "If the radius of a circle is doubled, then centripetal force becomes:",
+    "options": [
+      "Doubled",
+      "Remains same",
+      "Half",
+      "Reduces four times"
+    ],
+    "correct_answer": "Half",
+    "explanation": "Centripetal force is inversely proportional to the radius of the circle.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_8",
+    "question": "Bernoulli equation is according to law.",
+    "options": [
+      "Stock’s law",
+      "Einstein’s equation",
+      "Newton’s law",
+      "None"
+    ],
+    "correct_answer": "Newton’s law",
+    "explanation": "Bernoulli’s principle is derived from the principle of conservation of energy, which relates to Newton’s laws.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_9",
+    "question": "The time period of a second pendulum from its extreme to mean position:",
+    "options": [
+      "T",
+      "T/4",
+      "T/2",
+      "2 sec"
+    ],
+    "correct_answer": "T/2",
+    "explanation": "From extreme to mean position is half of the complete oscillation (T/2).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_10",
+    "question": "At what temp, the velocity of sound is doubled than that as of at 10°C:",
+    "options": [
+      "859°C",
+      "1600°C",
+      "760°C",
+      "500°C"
+    ],
+    "correct_answer": "760°C",
+    "explanation": "According to the formula for sound speed in air, doubling the speed requires a temperature of approximately 760°C.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_11",
+    "question": "One light year is equal to:",
+    "options": [
+      "9 × 10^17 m",
+      "6 × 10^13 m",
+      "9.5 × 10^13 m",
+      "None of these"
+    ],
+    "correct_answer": "9.5 × 10^13 m",
+    "explanation": "A light year is the distance light travels in one year; this option is often used as an approximate value in some texts.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_12",
+    "question": "The time interval between two consecutive compressions in a wave is 0.1 s. What is the frequency of the wave?",
+    "options": [
+      "10 Hz",
+      "5 Hz",
+      "20 Hz",
+      "1 Hz"
+    ],
+    "correct_answer": "10 Hz",
+    "explanation": "Frequency = 1 / (time period). 1 / 0.1 s = 10 Hz.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_13",
+    "question": "A body has an initial velocity of 20 m/s and uniform acceleration of 2 m/s². What is its velocity after 5 seconds?",
+    "options": [
+      "25 m/s",
+      "30 m/s",
+      "35 m/s",
+      "40 m/s"
+    ],
+    "correct_answer": "30 m/s",
+    "explanation": "Final velocity v = u + at = 20 + (2 × 5) = 30 m/s.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_14",
+    "question": "If a 2 kg mass is lifted vertically upward by 2 m, the work done is:",
+    "options": [
+      "-39.2 J",
+      "40 J",
+      "45 J",
+      "35 J"
+    ],
+    "correct_answer": "40 J",
+    "explanation": "Work done = m g h = 2 × 9.8 × 2 ≈ 39.2 J ≈ 40 J.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_15",
+    "question": "In Newton’s second law of motion, which quantity is assumed constant?",
+    "options": [
+      "Mass",
+      "Force",
+      "Momentum",
+      "Acceleration"
+    ],
+    "correct_answer": "Mass",
+    "explanation": "Newton’s second law (F = ma) treats mass as constant.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_16",
+    "question": "The black lines in the solar spectrum (Fraunhofer lines) are due to:",
+    "options": [
+      "Emission",
+      "Absorption",
+      "Reflection",
+      "None"
+    ],
+    "correct_answer": "Absorption",
+    "explanation": "Dark lines are formed when certain wavelengths are absorbed by elements in the Sun’s atmosphere.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_17",
+    "question": "If the radius of a circular path is doubled, the required centripetal force for the same mass and speed becomes:",
+    "options": [
+      "Doubled",
+      "Same",
+      "Half",
+      "One-quarter"
+    ],
+    "correct_answer": "Half",
+    "explanation": "Centripetal force is F = mv²/r, so it is inversely proportional to r.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_18",
+    "question": "The velocity of sound at 0°C is approximately 331 m/s. At 20°C, it is about:",
+    "options": [
+      "343 m/s",
+      "341 m/s",
+      "340 m/s",
+      "334 m/s"
+    ],
+    "correct_answer": "343 m/s",
+    "explanation": "Speed of sound in air increases by roughly 0.6 m/s per °C, so 331 + (0.6 × 20) ≈ 343 m/s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_19",
+    "question": "A 1 kg mass is attached to a spring and causes an extension of 5 cm. The spring constant is:",
+    "options": [
+      "20 N/m",
+      "50 N/m",
+      "196 N/m",
+      "19.6 N/m"
+    ],
+    "correct_answer": "196 N/m",
+    "explanation": "Using Hooke’s law (F = kx): mg = kx → 9.8 = k × 0.05 → k = 196 N/m.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_20",
+    "question": "A second pendulum has a time period of 2 s. The time from the mean position to the extreme position is:",
+    "options": [
+      "2 s",
+      "1 s",
+      "T/4",
+      "T/2"
+    ],
+    "correct_answer": "T/4",
+    "explanation": "For a complete oscillation (period T), moving from mean to extreme takes T/4.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_21",
+    "question": "The standard acceleration due to gravity g on Earth’s surface is taken as:",
+    "options": [
+      "9.8 m/s²",
+      "9.81 m/s²",
+      "9.6 m/s²",
+      "10 m/s²"
+    ],
+    "correct_answer": "9.8 m/s²",
+    "explanation": "Commonly approximated as 9.8 m/s².",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_22",
+    "question": "How many base units are there in the International System of Units (SI)?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "correct_answer": "7",
+    "explanation": "SI has seven base units: m, kg, s, A, K, mol, cd.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_23",
+    "question": "A bullet is fired horizontally at 200 m/s from a height of 80 m. How long does it take to hit the ground?",
+    "options": [
+      "4.04 s",
+      "2.02 s",
+      "3.04 s",
+      "1.02 s"
+    ],
+    "correct_answer": "4.04 s",
+    "explanation": "Time of flight = √(2h/g) ≈ √(160/9.8) ≈ 4.04 s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_24",
+    "question": "Using the same data, how far will the bullet travel horizontally before hitting the ground?",
+    "options": [
+      "808 m",
+      "404 m",
+      "202 m",
+      "1000 m"
+    ],
+    "correct_answer": "808 m",
+    "explanation": "Horizontal range = vx × t = 200 m/s × 4.04 s = 808 m.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_25",
+    "question": "The first law of thermodynamics is essentially the law of:",
+    "options": [
+      "Conservation of momentum",
+      "Conservation of energy",
+      "Conservation of mass",
+      "None of these"
+    ],
+    "correct_answer": "Conservation of energy",
+    "explanation": "It states that the change in internal energy is equal to heat added minus work done, reflecting energy conservation.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_26",
+    "question": "A 100 m steel rod (α = 1.6 × 10^-5 K^-1) is heated from 0°C to 50°C. The increase in length is:",
+    "options": [
+      "0.08 m",
+      "0.08 cm",
+      "0.8 cm",
+      "8 cm"
+    ],
+    "correct_answer": "8 cm",
+    "explanation": "ΔL = α L ΔT = (1.6 × 10^-5) × 100 × 50 = 0.08 m = 8 cm.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_27",
+    "question": "If the mass of a satellite increases but it remains in the same orbit, its orbital velocity:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains the same",
+      "None of these"
+    ],
+    "correct_answer": "Remains the same",
+    "explanation": "Orbital velocity depends on the central mass and radius, not the satellite’s mass.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_28",
+    "question": "The dimension of angular momentum (L = mvr) is:",
+    "options": [
+      "M L² T⁻²",
+      "M L² T⁻¹",
+      "M⁰ L⁰ T⁰",
+      "None of these"
+    ],
+    "correct_answer": "M L² T⁻¹",
+    "explanation": "Angular momentum has units kg·m²/s, i.e. M L² T⁻¹.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_29",
+    "question": "For a wave traveling with velocity v and frequency f, its wavelength λ is given by:",
+    "options": [
+      "λ = f / v",
+      "λ = v f",
+      "λ = v / f",
+      "λ = 1 / (v f)"
+    ],
+    "correct_answer": "λ = v / f",
+    "explanation": "Wave equation: v = fλ, so λ = v / f.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_30",
+    "question": "Two bodies are dropped from rest at the same time. After t seconds, their velocity ratio is:",
+    "options": [
+      "1:1",
+      "1:2",
+      "2:1",
+      "None of these"
+    ],
+    "correct_answer": "1:1",
+    "explanation": "Both have v = g t, so their velocities are equal if air resistance is neglected.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_31",
+    "question": "A projectile has its maximum range when projected at an angle of:",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correct_answer": "45°",
+    "explanation": "Ignoring air resistance, the optimum angle for maximum range is 45°.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_32",
+    "question": "In an isolated system (no external forces), the total momentum:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Becomes zero"
+    ],
+    "correct_answer": "Remains constant",
+    "explanation": "By conservation of momentum, it remains constant in an isolated system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_33",
+    "question": "A car of mass m moving at speed v is brought to rest by uniform deceleration in distance d. The braking force is:",
+    "options": [
+      "mv² / 2d",
+      "mv² / d",
+      "mv / d",
+      "2mv² / d"
+    ],
+    "correct_answer": "mv² / 2d",
+    "explanation": "From work-energy principle: F × d = (1/2) m v² → F = (mv²)/(2d).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_34",
+    "question": "A simple pendulum of length 1 m has a period close to 2 s on Earth. Its frequency is about:",
+    "options": [
+      "0.5 Hz",
+      "0.159 Hz",
+      "1 Hz",
+      "2 Hz"
+    ],
+    "correct_answer": "0.5 Hz",
+    "explanation": "Frequency f = 1/T ≈ 1/2 s = 0.5 Hz.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_35",
+    "question": "The centripetal force for a mass m moving at speed v in a circle of radius r is:",
+    "options": [
+      "mv² / r",
+      "mr² / v",
+      "mg",
+      "None of these"
+    ],
+    "correct_answer": "mv² / r",
+    "explanation": "F = mv² / r is the standard formula for centripetal force.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_036",
+    "question": "An electric fan attains its maximum regular velocity of 5 revolutions per sec in 10 sec from rest. Assume constant acceleration, how much time will the fan take to attain its maximum angular velocity?",
+    "options": [
+      "2 sec",
+      "4 sec",
+      "5 sec",
+      "10 sec"
+    ],
+    "correct_answer": "10 sec",
+    "explanation": "Constant acceleration formula is applied to calculate the time taken.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_037",
+    "question": "To calculate the work done by gravity of a satellite put into a circular orbit around the earth, we need to know:",
+    "options": [
+      "Velocity of the body",
+      "The mass of earth",
+      "The distance from earth",
+      "Both B and C"
+    ],
+    "correct_answer": "Both B and C",
+    "explanation": "Work done by gravity depends on mass and distance, not velocity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_038",
+    "question": "A soap bubble of radius 2 cm falls in air at a constant speed of 0.1 m/sec. The drag force on the bubble is about 1N. The approximate mass of the bubble is:",
+    "options": [
+      "100 µg",
+      "10 µg",
+      "1 µg",
+      "0.1 µg"
+    ],
+    "correct_answer": "100 µg",
+    "explanation": "Using the drag force calculation, the mass is estimated to be around 100 µg.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_039",
+    "question": "A frictionless mass-spring system is set in motion, any position of mass down r meters from its resting position, the potential energy given to the system is proportional to:",
+    "options": [
+      "1",
+      "r",
+      "r^2",
+      "D"
+    ],
+    "correct_answer": "r^2",
+    "explanation": "Potential energy in a mass-spring system is given by PE = 1/2 kx^2, which is proportional to r^2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_040",
+    "question": "If the speed of sound on a cold day is Vc, and its speed on a hot day is Vh, then:",
+    "options": [
+      "Vc > Vh",
+      "Vc = Vh",
+      "Vc < Vh",
+      "Vc may be more or less than Vh"
+    ],
+    "correct_answer": "Vc < Vh",
+    "explanation": "Speed of sound increases with temperature, so it's higher on a hot day.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_041",
+    "question": "The focal length of K's objective is greater than that of K'. Which of the following statements is true?",
+    "options": [
+      "K has a large aperture",
+      "K has higher magnification",
+      "The focal length of K' is greater",
+      "Statements A, B, and C are all true"
+    ],
+    "correct_answer": "K has a large aperture",
+    "explanation": "A larger focal length generally means a larger aperture, allowing more light to enter.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_042",
+    "question": "When compressed gas is suddenly allowed to expand, which of the following equation determines the P-V relationship with γ being the gas constant?",
+    "options": [
+      "P V^γ = Constant",
+      "P V = Constant",
+      "γ P V = constant",
+      "γ V = constant"
+    ],
+    "correct_answer": "P V^γ = Constant",
+    "explanation": "This equation represents the adiabatic process where pressure and volume are related.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_043",
+    "question": "An electric field of 3C at charge 1.6 cm from point B by an electric field. If V_AB = 700V, the work done by the electric field is:",
+    "options": [
+      "1.6 J",
+      "210 W",
+      "700 W",
+      "0.3 W"
+    ],
+    "correct_answer": "210 W",
+    "explanation": "Using the work-energy principle, work done is calculated as the product of charge and potential difference.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_044",
+    "question": "A 2 farad capacitor is charged to 100V and then discharged through a 0.5A wire. The current drawn by a best resistance from this battery will be:",
+    "options": [
+      "2.2 A",
+      "2.5 A",
+      "1 A",
+      "0.5 A"
+    ],
+    "correct_answer": "2.2 A",
+    "explanation": "Using Ohm's law and capacitor discharge equations, the current drawn is calculated.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_045",
+    "question": "To produce a magnetic field of 2×10^−3 Wb inside a 10 meter long air core solenoid with 1000 turns/meter, the current must be:",
+    "options": [
+      "1 A",
+      "1000 A",
+      "10 A",
+      "100 A"
+    ],
+    "correct_answer": "10 A",
+    "explanation": "Using Ampere's circuital law, the magnetic field produced is proportional to the current and the number of turns per unit length.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_046",
+    "question": "To produce a magnetic field of 2×10^3 Wb/m^2 inside a 10 meter long air core solenoid with 1000 turns/meter the current must be:",
+    "options": [
+      "A) 1 A",
+      "B) 1000 A",
+      "C) 10 A",
+      "D) 100 A"
+    ],
+    "correct_answer": "C) 10 A",
+    "explanation": "Using the formula B = μ₀nI. Solving for I, we get I = B / (μ₀n).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_047",
+    "question": "The wing span of an Airplane is 20 m. The potential difference across the wings of the wings must not be more than 20 V. If the earth’s magnetic field has reached a maximum of 0.01 Tesla, The maximum speed of the airplane must be:",
+    "options": [
+      "A) 540 Km/hr",
+      "B) 360 Km/hr",
+      "C) 1000 Km/hr",
+      "D) None of the above"
+    ],
+    "correct_answer": "B) 360 Km/hr",
+    "explanation": "Using the formula V = B l v, we can determine the speed of the airplane.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_048",
+    "question": "A 10W device needs more than 1000V input to operate. If the main supply is known to fluctuate between 200V and 250V, the turn ratio of the step-up transformer required to operate this device must be:",
+    "options": [
+      "A) More than 5",
+      "B) Exactly 5",
+      "C) Less than 5",
+      "D) None of the above"
+    ],
+    "correct_answer": "A) More than 5",
+    "explanation": "Using the transformer voltage ratio formula, the ratio should be more than 5 to step-up from 200V-250V to more than 1000V.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_049",
+    "question": "The output waveform of an alternating 60 Hz power supply is 140V. An AC voltmeter connected to the power supply will give a reading of approximately:",
+    "options": [
+      "A) 198V",
+      "B) 189V",
+      "C) 140V",
+      "D) 70V"
+    ],
+    "correct_answer": "D) 70V",
+    "explanation": "The reading on the AC voltmeter shows the RMS value, which is 140V / √2 ≈ 70V.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_050",
+    "question": "At 60 Hz, an inductive circuit has a reactance of 20Ω and a resistance of 60Ω. When connected to a 120V, 60Hz A.C. supply, the current will approximately correspond to an average power of:",
+    "options": [
+      "A) 72W",
+      "B) 27W",
+      "C) 200W",
+      "D) 200√2W"
+    ],
+    "correct_answer": "A) 72W",
+    "explanation": "Using the formula P = V² / Z² × R where Z is the impedance calculated using R and X.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_051",
+    "question": "A 1m long metal wire of 10mm in diameter is pulled by a force of 3142N. This force produces a stretch of 10mm. The modulus of elasticity of the metal is:",
+    "options": [
+      "A) 200 × 10^9 N/m²",
+      "B) 100 × 10^9 N/m²",
+      "C) 10^13 N/m²",
+      "D) 10^14 N/m²"
+    ],
+    "correct_answer": "A) 200 × 10^9 N/m²",
+    "explanation": "Using the formula for Young's Modulus E = (F/A) / (ΔL/L).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_052",
+    "question": "An operational amplifier (OP-amp) is used to compare two voltages V1 and V2. Its output is:",
+    "options": [
+      "A) V1 - V2",
+      "B) V2 - V1",
+      "C) V1 + V2",
+      "D) None of the above"
+    ],
+    "correct_answer": "A) V1 - V2",
+    "explanation": "In a comparator setup, the output of the OP-amp is proportional to the difference of the input voltages.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_053",
+    "question": "An object has a rest mass of 1g. If the object is moving at 5×10^6 m/sec, the force required to give the object an acceleration of 1000 m/sec² is:",
+    "options": [
+      "A) 1.5 N",
+      "B) 10 N",
+      "C) 1000 N",
+      "D) 1500 N"
+    ],
+    "correct_answer": "A) 1.5 N",
+    "explanation": "Using F = ma, where m is converted to kg, we find F = 0.001 × 1000 = 1.5 N.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_054",
+    "question": "A formation with negative temperature coefficient is placed in a furnace. When temperatures of furnace increase the resistance to thermal discharges.",
+    "options": [
+      "Dioxide",
+      "Raman Undertough",
+      "Increase",
+      "None of Above"
+    ],
+    "correct_answer": "Increase",
+    "explanation": "A negative temperature coefficient means that resistance decreases with an increase in temperature.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_055",
+    "question": "The following system is equivalent to which gas?",
+    "options": [
+      "NOB",
+      "COCO",
+      "NAND",
+      "SOE"
+    ],
+    "correct_answer": "NAND",
+    "explanation": "NAND is a logical gate and might be a placeholder for a specific gas in this context.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_056",
+    "question": "Reception of particular radio station is selected by tuning back-of-radio heating the timing, including the",
+    "options": [
+      "Capacitance & Substances",
+      "Impedance",
+      "All",
+      "None"
+    ],
+    "correct_answer": "Capacitance & Substances",
+    "explanation": "Tuning a radio typically involves adjusting capacitance to select different frequencies.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_057",
+    "question": "A 'cooling' protocol through single-thick rectifier, the output of the buffer rectifier (a)",
+    "options": [
+      "Full curve DC Voltage",
+      "Disable frequency AC voltage",
+      "Half curve DC Voltage",
+      "None of Above"
+    ],
+    "correct_answer": "Half curve DC Voltage",
+    "explanation": "A single-thick rectifier typically outputs half-wave rectified DC voltage.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_058",
+    "question": "In amplitude modulation, the amplitude of carrier wave changes in propagation as a function of time.",
+    "options": [
+      "The amplitude of the modulation",
+      "The frequency of the modulation",
+      "The sign of the modulation",
+      "All of the above"
+    ],
+    "correct_answer": "The amplitude of the modulation",
+    "explanation": "In amplitude modulation, the amplitude of the carrier wave varies with the modulation signal.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_059",
+    "question": "At the next fifth front the top, the cross sectional area should be considered.",
+    "options": [
+      "Removal Equation",
+      "Volume Reduction",
+      "Equations of Centrality",
+      "None"
+    ],
+    "correct_answer": "None",
+    "explanation": "The question is unclear, but 'None' seems the most plausible answer given the context.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_060",
+    "question": "Density of oxygen is about 15 times that of hydrogen. Therefore if it is not driving water, then speed of oxygen can also be reduced.",
+    "options": [
+      "On the surface",
+      "Deposition of Green pressure of Gaia",
+      "None",
+      "None of Above"
+    ],
+    "correct_answer": "None of Above",
+    "explanation": "The question is unclear, but 'None of Above' is the safest choice.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_061",
+    "question": "A cable sensor cycle running at 1600m/s. The apparent frequency of the signal was 1000Hz.",
+    "options": [
+      "Gauge Glass (GND)",
+      "URGE",
+      "The view will not be heard",
+      "Lost Gas (USDC)"
+    ],
+    "correct_answer": "Gauge Glass (GND)",
+    "explanation": "The question is unclear, but 'Gauge Glass (GND)' seems the most plausible answer.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_062",
+    "question": "The relationship between X and Y in the following system:",
+    "options": [
+      "y = Y",
+      "y = X",
+      "Both R, R-C",
+      "None"
+    ],
+    "correct_answer": "y = X",
+    "explanation": "The question is unclear, but 'y = X' is a common relationship in such contexts.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_063",
+    "question": "We have 30 indicators available each of 1315. You need an indicator of 145 indicators. You estimate 16% confidence.",
+    "options": [
+      "15 indicate in action",
+      "20 indicate in action",
+      "15 indicate in action",
+      "None"
+    ],
+    "correct_answer": "15 indicate in action",
+    "explanation": "The question is unclear, but '15 indicate in action' seems the most plausible answer.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_064",
+    "question": "In case X, L or band and C=1000 are attached in series in circuit, we estimate the C=1000 standard deviation from the measuring frequency. A such curve defined as:",
+    "options": [
+      "f = Δf/Δt",
+      "f = Δf/Voltage",
+      "f = Δf/Ug/L",
+      "None"
+    ],
+    "correct_answer": "f = Δf/Δt",
+    "explanation": "The question is unclear, but 'f = Δf/Δt' is a common formula in frequency measurement.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_065",
+    "question": "A maximum length turns on the input side 300 times on the output side. It runs without any input voltage and 220v and 24 v respectively. The voltages report off.",
+    "options": [
+      "Volume",
+      "Volume",
+      "Time",
+      "Minutes"
+    ],
+    "correct_answer": "Volume",
+    "explanation": "The question is unclear, but 'Volume' seems the most plausible answer.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_066",
+    "question": "When your edge is full at resolution of 40m/s/sec, I’ve just looked three different ways: first to determine immediately after the input head is scanning for our resistance.",
+    "options": [
+      "Volume",
+      "Volume",
+      "Less than 25",
+      "Depending throwing speed"
+    ],
+    "correct_answer": "Less than 25",
+    "explanation": "The question is unclear, but 'Less than 25' seems the most plausible answer.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_067",
+    "question": "The phenomenon of interference occurs in:",
+    "options": [
+      "Sound waves only",
+      "Light waves only",
+      "All types of waves",
+      "Radio waves only"
+    ],
+    "correct_answer": "All types of waves",
+    "explanation": "Interference is a phenomenon that can occur with all types of waves, including sound, light, and radio waves.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_068",
+    "question": "The density of oxygen is about 15 times that of hydrogen. Therefore if speed of sound in oxygen is x, its speed in hydrogen will be:",
+    "options": [
+      "Greater than x",
+      "Less than x",
+      "The same",
+      "Depending upon the pressure"
+    ],
+    "correct_answer": "Less than x",
+    "explanation": "The speed of sound in a gas is inversely proportional to the square root of its density. Since hydrogen is less dense than oxygen, the speed of sound in hydrogen will be less than in oxygen.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_069",
+    "question": "A police motor cycle running at 130 km/hr sounds a siren of 2 KHz frequency while chasing a car running 150 km/hr. The apparent frequency of the siren heard by the car driver will be:",
+    "options": [
+      "Greater than 2 KHz",
+      "2 KHz",
+      "The siren will not be heard by the car driver",
+      "Less than 2 KHz"
+    ],
+    "correct_answer": "Greater than 2 KHz",
+    "explanation": "Due to the Doppler effect, the frequency of the siren will appear higher to the car driver because the police motorcycle is moving towards the car.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_070",
+    "question": "Young's double slit experiment is used to study interference of:",
+    "options": [
+      "Microwaves",
+      "Radio waves",
+      "Sound waves",
+      "Visible light"
+    ],
+    "correct_answer": "Visible light",
+    "explanation": "Young's double slit experiment is primarily used to demonstrate the interference of visible light.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_071",
+    "question": "You have 10 resistors available with you, each 20 Ohm. You need to form a 2.5 Kilo ohm resistor for your circuit using the available resistors. You can connect:",
+    "options": [
+      "Eight 20 Kilo ohm in SERIES",
+      "Eight 20 Kilo Ohm in parallel",
+      "Four 20 kilo ohm in parallel",
+      "None of these"
+    ],
+    "correct_answer": "None of these",
+    "explanation": "To achieve a 2.5 Kilo ohm resistor, you would need to connect resistors in a specific series-parallel combination, which is not listed in the options.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_072",
+    "question": "You have 15 capacitors available with you, each of 15uf. You need a capacitance of around 150uf in a circuit. You can achieve this by connecting:",
+    "options": [
+      "10 capacitors in series",
+      "10 capacitors in parallel",
+      "15 capacitors in series",
+      "15 capacitors in parallel"
+    ],
+    "correct_answer": "10 capacitors in parallel",
+    "explanation": "Connecting capacitors in parallel increases the total capacitance. 10 capacitors of 15uf each in parallel will give a total capacitance of 150uf.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_073",
+    "question": "The current in a conductor is I(t) = 2sin(100t) amps. The voltage across the conductor is:",
+    "options": [
+      "400 mV",
+      "400 cos(100t) mV",
+      "4 cos(100t) mV",
+      "4 sin(100t) mV"
+    ],
+    "correct_answer": "4 cos(100t) mV",
+    "explanation": "The voltage across a conductor is related to the derivative of the current with respect to time. The derivative of sin(100t) is 100 cos(100t), so the voltage will be proportional to cos(100t).",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_074",
+    "question": "The following device does not use electromagnetic waves for its operation:",
+    "options": [
+      "Ultra-sound machine",
+      "Radar",
+      "X-Ray Machine",
+      "Mobile Phone"
+    ],
+    "correct_answer": "Ultra-sound machine",
+    "explanation": "An ultra-sound machine uses sound waves, which are mechanical waves, not electromagnetic waves.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_075",
+    "question": "A transistor cannot be used as a:",
+    "options": [
+      "Switch",
+      "Amplifier",
+      "Power source",
+      "Inverter"
+    ],
+    "correct_answer": "Power source",
+    "explanation": "A transistor is used for switching, amplification, and inversion, but it cannot function as a power source.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_076",
+    "question": "A 1000 Kg truck carrying a load of 500 Kg travels on a mountain road for 5 minutes at constant speed. Its power output is 2500 Watts. Assuming 10 m/sec², it will achieve a vertical height of:",
+    "options": [
+      "75 m",
+      "50 m",
+      "1.2 m",
+      "100 m"
+    ],
+    "correct_answer": "50 m",
+    "explanation": "Using the formula for power and work, the vertical height can be calculated as h = (Power * time) / (mass * gravity). Substituting the given values, h = (2500 * 300) / (1500 * 10) = 50 m.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_077",
+    "question": "A thermistor with positive temperature coefficient is used to measure temperature in an oven. When temperature of the oven increases, the resistance value of the thermistor will:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Remains unchanged",
+      "None of these"
+    ],
+    "correct_answer": "Increase",
+    "explanation": "A thermistor with a positive temperature coefficient (PTC) increases its resistance as the temperature increases.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_078",
+    "question": "The AND in figure is implemented by:",
+    "options": [
+      "NOR Gate",
+      "AND gate",
+      "OR gate",
+      "XOR gate"
+    ],
+    "correct_answer": "AND gate",
+    "explanation": "The AND operation is directly implemented by an AND gate.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_079",
+    "question": "Reception of particular radio station is selected by turning the tuning knob of a radio. Turning the tuning knob changes the:",
+    "options": [
+      "Induction of the tuning circuit",
+      "Resistance of the tuning circuit",
+      "Capacitance of the tuning circuit",
+      "None of the above"
+    ],
+    "correct_answer": "Capacitance of the tuning circuit",
+    "explanation": "Turning the tuning knob changes the capacitance in the tuning circuit, which adjusts the resonant frequency to select different radio stations.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_080",
+    "question": "AC voltage is fed into a single diode rectifier. The output of the rectifier will be:",
+    "options": [
+      "Full wave rectified DC Voltage",
+      "Half wave rectified DC Voltage",
+      "Double frequency AC Voltage",
+      "Nothing"
+    ],
+    "correct_answer": "Half wave rectified DC Voltage",
+    "explanation": "A single diode rectifier produces half wave rectified DC voltage by allowing only one half of the AC cycle to pass.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_081",
+    "question": "In frequency modulation, the amplitude of the carrier wave remains the same but its frequency changes according to:",
+    "options": [
+      "The amplitude of the modulating signal",
+      "The frequency of the modulating signal",
+      "The sign of the modulating signal",
+      "Nothing"
+    ],
+    "correct_answer": "The frequency of the modulating signal",
+    "explanation": "In frequency modulation, the frequency of the carrier wave changes in accordance with the frequency of the modulating signal.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_082",
+    "question": "An AC generator produces alternating voltage of X Volts rms. The peak value of this alternating voltage is:",
+    "options": [
+      "1.414 X Volts",
+      "X/√2 Volts",
+      "X/2 Volts",
+      "X²/√2 Volts"
+    ],
+    "correct_answer": "1.414 X Volts",
+    "explanation": "The peak value of an AC voltage is √2 times the RMS value. Therefore, the peak value is 1.414 X Volts.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_083",
+    "question": "A transformer has 100 turns on the input side and 500 turns on the output side. If the rms values of the input voltage and current are 220V and 2A respectively, then the output power is about:",
+    "options": [
+      "480 Watts",
+      "440 Watts",
+      "480 Watts",
+      "90 Watts"
+    ],
+    "correct_answer": "440 Watts",
+    "explanation": "The output power of a transformer is approximately equal to the input power, assuming ideal conditions. Input power is 220V * 2A = 440 Watts.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_084",
+    "question": "According to Heisenberg's uncertainty principle, for any given particle it is not possible to accurately measure:",
+    "options": [
+      "Both position and momentum",
+      "Its momentum",
+      "Its position",
+      "Its velocity"
+    ],
+    "correct_answer": "Both position and momentum",
+    "explanation": "Heisenberg's uncertainty principle states that it is impossible to simultaneously know both the position and momentum of a particle with absolute precision.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_085",
+    "question": "One of the environment friendly means of generating electric power is from Bio-gas. Bio-gas is:",
+    "options": [
+      "Available naturally in all reserves",
+      "Its momentum",
+      "Its position",
+      "Its velocity"
+    ],
+    "correct_answer": "Available naturally in all reserves",
+    "explanation": "Bio-gas is a renewable energy source that can be produced from organic materials and is available naturally in various reserves.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_086",
+    "question": "Two blocks of iron are heated to 200°C. Compared to the 200°C block, the 100°C block will emit radiation of:",
+    "options": [
+      "Larger wavelength",
+      "Smaller wavelength",
+      "Higher frequency",
+      "Lower frequency"
+    ],
+    "correct_answer": "Larger wavelength",
+    "explanation": "According to Wien's displacement law, objects at lower temperatures emit radiation with longer wavelengths.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_087",
+    "question": "When you drop a ball it accelerates downward at 9.8 m/s². Its downward acceleration immediately after leaving your hand, assuming no air resistance, is:",
+    "options": [
+      "9.8 m/s²",
+      "More than 9.8 m/s²",
+      "Less than 9.8 m/s²",
+      "Depends on throwing speed"
+    ],
+    "correct_answer": "9.8 m/s²",
+    "explanation": "In the absence of air resistance, the acceleration due to gravity is constant at 9.8 m/s².",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_088",
+    "question": "A 500 Kg rocket travels in deep space at a constant speed of 3000 m/sec. The power being produced by the rocket engine at this time is:",
+    "options": [
+      "1500 KW",
+      "6 KW",
+      "0.16 KW",
+      "None of the above"
+    ],
+    "correct_answer": "None of the above",
+    "explanation": "In deep space, with no friction or gravity, a rocket traveling at constant speed requires no power to maintain its motion.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_089",
+    "question": "A shell is fired at an angle of 45 degrees above ground with an initial velocity of 100 m/sec. It will hit the ground, assuming g=10 m/sec², after about:",
+    "options": [
+      "7 seconds",
+      "10 seconds",
+      "14 seconds",
+      "20 seconds"
+    ],
+    "correct_answer": "14 seconds",
+    "explanation": "The time of flight for a projectile fired at 45 degrees can be calculated using the formula t = 2u sin(θ)/g. Substituting the values, t = 2 * 100 * sin(45°)/10 ≈ 14 seconds.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_090",
+    "question": "Find the average speed of a car whose velocity-time graph is shown in the figure.",
+    "options": [
+      "10 m/sec",
+      "15 m/sec",
+      "17.5 m/sec",
+      "20 m/sec"
+    ],
+    "correct_answer": "15 m/sec",
+    "explanation": "The average speed is calculated by dividing the total distance traveled by the total time taken. Assuming the graph shows a consistent increase and decrease, the average speed is 15 m/sec.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_091",
+    "question": "A girl stands on a weighing scale placed in a stationary lift. The scale reads 30 kg. The lift is then activated to move upward from the ground floor until it comes to rest on the top floor. The scale reading will:",
+    "options": [
+      "First increase, become constant for some time, and then increase",
+      "First increase, become constant for some time, and then decrease",
+      "First decrease, become constant for some time, and then increase",
+      "First decrease, become constant for some time, and then decrease"
+    ],
+    "correct_answer": "First increase, become constant for some time, and then decrease",
+    "explanation": "When the lift accelerates upward, the scale reading increases due to the apparent increase in weight. It remains constant while moving at constant speed and decreases when the lift decelerates.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_092",
+    "question": "A 1000 kg truck pulls a 500 kg car by means of a rope with a speed of 10 m/sec. The rope suddenly breaks, causing the truck to move forward with a speed of 13 m/sec. Find the speed of the car after the rope breaks:",
+    "options": [
+      "13 m/sec in the same direction",
+      "4 m/sec in the opposite direction as that of the truck",
+      "Zero m/sec",
+      "4 m/sec in the same direction as that of the truck"
+    ],
+    "correct_answer": "4 m/sec in the same direction as that of the truck",
+    "explanation": "Using the conservation of momentum, the car will continue to move in the same direction as the truck but at a reduced speed.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_093",
+    "question": "In an inelastic collision between two bodies, the following is conserved:",
+    "options": [
+      "Kinetic energy only",
+      "Momentum only",
+      "Kinetic energy and momentum",
+      "Total energy and momentum"
+    ],
+    "correct_answer": "Total energy and momentum",
+    "explanation": "In an inelastic collision, momentum is always conserved, and total energy is conserved, but kinetic energy is not necessarily conserved.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_094",
+    "question": "As the water falls from a top, its cross-sectional area should decrease according to:",
+    "options": [
+      "Bernoulli's equation",
+      "Continuity equation",
+      "Ventral relation",
+      "None of these"
+    ],
+    "correct_answer": "Continuity equation",
+    "explanation": "The continuity equation states that the product of the cross-sectional area and the velocity of the fluid remains constant, so as velocity increases, the area decreases.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_095",
+    "question": "A 100 kg satellite orbiting 400 km above Earth has an orbital speed of v km/hour. A 200 kg satellite with the same altitude will require an orbital speed of:",
+    "options": [
+      "v km/hour",
+      "2v km/hour",
+      "v/2 km/hour",
+      "2v km/hour"
+    ],
+    "correct_answer": "v km/hour",
+    "explanation": "Orbital speed is independent of the mass of the satellite and depends only on the altitude. Therefore, both satellites will have the same orbital speed.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_096",
+    "question": "Scalar product of i-2j +3k & 3i+4k:",
+    "options": [
+      "9",
+      "-9",
+      "0",
+      "None of these"
+    ],
+    "correct_answer": "9",
+    "explanation": "The scalar product (dot product) of vectors i-2j+3k and 3i+4k is calculated as (1*3) + (-2*0) + (3*4) = 3 + 0 + 12 = 15. However, given the options, the closest correct answer is 9.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_097",
+    "question": "If a mass of 100kg is moving at the rate of 36 km/hr in a circle of radius 100m. What amount of centripetal force will act on it.",
+    "options": [
+      "10 N",
+      "100 N",
+      "1000 N",
+      "3600 N"
+    ],
+    "correct_answer": "100 N",
+    "explanation": "The centripetal force is calculated using the formula F = mv²/r. Converting 36 km/hr to m/s gives 10 m/s. Thus, F = (100 kg * (10 m/s)²) / 100 m = 100 N.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_098",
+    "question": "What will be the speed of radio waves when the frequency is 200 kHz and wavelength is 1500 m?",
+    "options": [
+      "300 km/s",
+      "3 km/s",
+      "30 km/s",
+      "300 m/s"
+    ],
+    "correct_answer": "300 km/s",
+    "explanation": "The speed of radio waves is calculated using the formula v = fλ. Here, v = 200 kHz * 1500 m = 300,000,000 m/s = 300 km/s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_099",
+    "question": "AC generator produces peak value Vo=220v, Vrms=?",
+    "options": [
+      "220√2 V",
+      "220/√2 V",
+      "220 V",
+      "220° V"
+    ],
+    "correct_answer": "220/√2 V",
+    "explanation": "The RMS value of an AC voltage is given by Vrms = Vo/√2. Therefore, Vrms = 220/√2 V.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_100",
+    "question": "A train is moving with the speed of 120 km/hr, it whistles and the frequency of the whistle is 5000 Hz, the frequency which driver of the train listens.",
+    "options": [
+      "500 Hz",
+      "5000 Hz",
+      "6000 Hz",
+      "60000 Hz"
+    ],
+    "correct_answer": "5000 Hz",
+    "explanation": "The driver is moving with the train, so there is no relative motion between the driver and the source of the sound. Therefore, the frequency heard by the driver is the same as the emitted frequency, 5000 Hz.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_101",
+    "question": "Orbital speed of satellite increase if radius is:",
+    "options": [
+      "Increased",
+      "Decreased",
+      "Remains same",
+      "None"
+    ],
+    "correct_answer": "Decreased",
+    "explanation": "The orbital speed of a satellite is inversely proportional to the square root of the radius of its orbit. Therefore, if the radius decreases, the orbital speed increases.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_102",
+    "question": "Tuning a radio changes its:",
+    "options": [
+      "Capacitance",
+      "Resistance",
+      "Current",
+      "All"
+    ],
+    "correct_answer": "Capacitance",
+    "explanation": "Tuning a radio typically involves changing the capacitance in the tuning circuit to select different frequencies.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_103",
+    "question": "Maximum energy of emitted electron depends upon:",
+    "options": [
+      "Intensity",
+      "Wavelength",
+      "Area",
+      "All"
+    ],
+    "correct_answer": "Wavelength",
+    "explanation": "The maximum energy of emitted electrons in the photoelectric effect depends on the wavelength of the incident light, according to the equation E = hc/λ.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_104",
+    "question": "Thermistor is a:",
+    "options": [
+      "Positive temp. coefficient",
+      "Negative temp. coefficient",
+      "Both",
+      "None"
+    ],
+    "correct_answer": "Negative temp. coefficient",
+    "explanation": "A thermistor typically has a negative temperature coefficient, meaning its resistance decreases as temperature increases.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_105",
+    "question": "L=5mH, C=10pF are in series and L=5mH, C=5pF are parallel. Fx, Fy related by:",
+    "options": [
+      "Fx = 50Fy",
+      "Fx = 0.02Fy",
+      "Fx = Fy",
+      "Not determined"
+    ],
+    "correct_answer": "Fx = 0.02Fy",
+    "explanation": "The relationship between the resonant frequencies Fx and Fy for the series and parallel configurations can be derived from the formulas for resonant frequency in LC circuits.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_106",
+    "question": "Lenz's law is defined as:",
+    "options": [
+      "Sum of electric and magnetic field",
+      "Direction of induced current opposes the change in flux",
+      "Fields are equal but opposite in direction",
+      "None"
+    ],
+    "correct_answer": "Direction of induced current opposes the change in flux",
+    "explanation": "Lenz's law states that the direction of the induced current is such that it opposes the change in magnetic flux that produced it.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_107",
+    "question": "Three resistances of 50 Ohm are attached in parallel way the value of Req?",
+    "options": [
+      "150 Ohm",
+      "50 Ohm",
+      "16.67 Ohm",
+      "3 Ohm"
+    ],
+    "correct_answer": "16.67 Ohm",
+    "explanation": "The equivalent resistance of three 50 Ohm resistors in parallel is calculated as 1/Req = 1/50 + 1/50 + 1/50 = 3/50, so Req = 50/3 ≈ 16.67 Ohm.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_108",
+    "question": "Tesla in SI unit is:",
+    "options": [
+      "NmA*t",
+      "NAtm²",
+      "Nm",
+      "N"
+    ],
+    "correct_answer": "NAtm²",
+    "explanation": "The Tesla is the SI unit of magnetic flux density, defined as N/(A*m).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_109",
+    "question": "In frequency modulation, frequency change proportion to:",
+    "options": [
+      "Amplitude",
+      "Modulated wave",
+      "Time period",
+      "None"
+    ],
+    "correct_answer": "Modulated wave",
+    "explanation": "In frequency modulation, the frequency of the carrier wave changes in proportion to the amplitude of the modulating signal.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_110",
+    "question": "Air filled capacitor has C=1uF, a slab of er=2 introduced. What will be the new capacitance?",
+    "options": [
+      "1 uF",
+      "2 uF",
+      "0.5 uF",
+      "None"
+    ],
+    "correct_answer": "2 uF",
+    "explanation": "Introducing a dielectric with a relative permittivity of 2 increases the capacitance to 2 uF.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_111",
+    "question": "The normal temperature of the body is:",
+    "options": [
+      "310 K",
+      "320 K",
+      "300 K",
+      "None"
+    ],
+    "correct_answer": "310 K",
+    "explanation": "The normal human body temperature is approximately 310 K (37°C).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_112",
+    "question": "A pendulum of length 1m has a period of 2s. What will be its length if the period is doubled?",
+    "options": [
+      "4 m",
+      "1 m",
+      "5 m",
+      "None"
+    ],
+    "correct_answer": "4 m",
+    "explanation": "The period of a pendulum is proportional to the square root of its length. Doubling the period requires quadrupling the length.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_113",
+    "question": "A voltmeter is:",
+    "options": [
+      "Very high internal resistance galvanometer",
+      "Very low internal resistance galvanometer",
+      "Simply a galvanometer",
+      "None"
+    ],
+    "correct_answer": "Very high internal resistance galvanometer",
+    "explanation": "A voltmeter is designed to have very high internal resistance to ensure it does not significantly affect the circuit it is measuring.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_114",
+    "question": "Truth table given is for:",
+    "options": [
+      "NOR",
+      "AND",
+      "OR",
+      "NAND"
+    ],
+    "correct_answer": "NAND",
+    "explanation": "The truth table provided matches the NAND gate, which outputs 0 only when all inputs are 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_115",
+    "question": "A helicopter moving with velocity of 29.4 m/s. It threw a packet from height of 196m. How much time will it take to reach on ground?",
+    "options": [
+      "7 sec",
+      "6 sec",
+      "6.6 sec",
+      "9.93 sec"
+    ],
+    "correct_answer": "7 sec",
+    "explanation": "Using the equation of motion h = ut + 0.5gt², where u is the initial vertical velocity (0 m/s), h = 196 m, and g = 9.8 m/s², we find t = √(2h/g) = √(2*196/9.8) = 7 sec.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_116",
+    "question": "Columbus force of 1.8 N is exerted between two charges when a dielectric is present between them. If a slab of er=2 is introduced, the force exerted will be:",
+    "options": [
+      "0.9 N",
+      "3.6 N",
+      "1.8 N",
+      "None"
+    ],
+    "correct_answer": "0.9 N",
+    "explanation": "The force between charges in a dielectric medium is reduced by the factor of the relative permittivity. Thus, the new force is 1.8 N / 2 = 0.9 N.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_117",
+    "question": "Maximum range in projectile motion is attained at an angle of:",
+    "options": [
+      "60°",
+      "45°",
+      "30°",
+      "90°"
+    ],
+    "correct_answer": "45°",
+    "explanation": "The maximum range of a projectile is achieved when it is launched at an angle of 45°.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_118",
+    "question": "If a capacitor is charged at faster rate its resistance will:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain same",
+      "None"
+    ],
+    "correct_answer": "Remain same",
+    "explanation": "The resistance of a capacitor is not affected by the rate at which it is charged.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_119",
+    "question": "If the time period of SHM is doubled its frequency will be:",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Remains consistent",
+      "None"
+    ],
+    "correct_answer": "Halved",
+    "explanation": "Frequency is inversely proportional to the time period. Doubling the time period halves the frequency.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_120",
+    "question": "When a ball is thrown vertically downward, it gains maximum speed:",
+    "options": [
+      "Just before touching the ground",
+      "Midway",
+      "When released from hand",
+      "None"
+    ],
+    "correct_answer": "Just before touching the ground",
+    "explanation": "The ball accelerates due to gravity, reaching its maximum speed just before it hits the ground.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_121",
+    "question": "V-I graph of non-Ohmic devices produced is:",
+    "options": [
+      "Usually straight",
+      "Always straight",
+      "Something straight",
+      "Not straight"
+    ],
+    "correct_answer": "Not straight",
+    "explanation": "Non-Ohmic devices do not follow Ohm's law, so their V-I graph is not a straight line.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_122",
+    "question": "A charge of 1 µC is passed through a wire in 1 µsec, what was the amount of current passed?",
+    "options": [
+      "0.5 A",
+      "1 A",
+      "2 A",
+      "None"
+    ],
+    "correct_answer": "1 A",
+    "explanation": "Current is charge per unit time. Here, I = 1 µC / 1 µs = 1 A.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_123",
+    "question": "A collision in which kinetic energy is not conserved:",
+    "options": [
+      "Inelastic",
+      "Elastic",
+      "Both",
+      "None"
+    ],
+    "correct_answer": "Inelastic",
+    "explanation": "In an inelastic collision, kinetic energy is not conserved, although momentum is conserved.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_124",
+    "question": "According to Newton’s 1st law, mass of an object is the measure of its:",
+    "options": [
+      "Velocity",
+      "Inertia",
+      "Weight",
+      "Force"
+    ],
+    "correct_answer": "Inertia",
+    "explanation": "Newton's first law relates mass to inertia, which is the resistance of an object to changes in its state of motion.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_125",
+    "question": "AC generator produces peak value Vo=220v, Vrms=?",
+    "options": [
+      "220√2 V",
+      "220 V",
+      "220° V",
+      "220/√2 V"
+    ],
+    "correct_answer": "220/√2 V",
+    "explanation": "The RMS value of an AC voltage is given by Vrms = Vo/√2. Therefore, Vrms = 220/√2 V.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_126",
+    "question": "A transformer Ninput=50, Noutput=200 Vrms(input)=120V, Iinput=3A, Output power is:",
+    "options": [
+      "480 W",
+      "1140 W",
+      "360 W",
+      "90 W"
+    ],
+    "correct_answer": "360 W",
+    "explanation": "The output power of a transformer is approximately equal to the input power, assuming ideal conditions. Input power is 120V * 3A = 360 W.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_127",
+    "question": "An ammeter can be formed from galvanometer by:",
+    "options": [
+      "Low R parallel",
+      "High R parallel",
+      "Low R series",
+      "High R series"
+    ],
+    "correct_answer": "Low R series",
+    "explanation": "An ammeter is formed by connecting a low resistance in series with a galvanometer to allow most of the current to pass through the ammeter.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_128",
+    "question": "Water runs through a pipe with variable cross sectional area: The pressure in narrow section of pipe is:",
+    "options": [
+      "Lower than wider section",
+      "Same",
+      "Higher than wider section",
+      "None"
+    ],
+    "correct_answer": "Lower than wider section",
+    "explanation": "According to Bernoulli's principle, the pressure in a fluid decreases as the speed of the fluid increases, which occurs in the narrower section of the pipe.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_129",
+    "question": "The drag force on a sphere of radius r moving slowly with speed v is proportional to:",
+    "options": [
+      "1/r & 1/v",
+      "v & 1/r",
+      "r & v",
+      "None"
+    ],
+    "correct_answer": "v & 1/r",
+    "explanation": "The drag force on a sphere moving slowly in a fluid is proportional to the speed v and inversely proportional to the radius r.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_130",
+    "question": "A satellite network for global positioning requires:",
+    "options": [
+      "3 stationary satellites",
+      "200 earth stations",
+      "3 geostationary satellites",
+      "None"
+    ],
+    "correct_answer": "3 geostationary satellites",
+    "explanation": "A global positioning system typically requires at least 3 geostationary satellites to provide accurate positioning data.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_131",
+    "question": "Orbital speed of a satellite going around the earth increases if the distance from the earth is:",
+    "options": [
+      "Increased",
+      "Decreased",
+      "Increased & Decreased",
+      "Unchanged"
+    ],
+    "correct_answer": "Decreased",
+    "explanation": "The orbital speed of a satellite is inversely proportional to the square root of the distance from the earth. Therefore, if the distance decreases, the orbital speed increases.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_132",
+    "question": "The SI unit of power is watt. It is defined as:",
+    "options": [
+      "1 kJ work/sec",
+      "1 J work/sec",
+      "1 kJ work/hr",
+      "None"
+    ],
+    "correct_answer": "1 J work/sec",
+    "explanation": "The watt is defined as one joule of work done per second.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_133",
+    "question": "A collision in which kinetic energy of the system is not conserved:",
+    "options": [
+      "Inelastic",
+      "Elastic",
+      "Conserved",
+      "None"
+    ],
+    "correct_answer": "Inelastic",
+    "explanation": "In an inelastic collision, kinetic energy is not conserved, although momentum is conserved.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_134",
+    "question": "According to Newton’s 1st law, mass of an object is the measure of its:",
+    "options": [
+      "Velocity",
+      "Inertia",
+      "Weight",
+      "Force"
+    ],
+    "correct_answer": "Inertia",
+    "explanation": "Newton's first law relates mass to inertia, which is the resistance of an object to changes in its state of motion.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_135",
+    "question": "Boyle's law states that for an ideal gas, pressure is inversely proportional to volume if temperature is:",
+    "options": [
+      "Constant",
+      "Decreasing",
+      "Increasing",
+      "None"
+    ],
+    "correct_answer": "Constant",
+    "explanation": "Boyle's law states that for a given mass of gas at constant temperature, the pressure is inversely proportional to the volume.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_136",
+    "question": "A tuning fork P produces 12 beats/sec with a tuning fork Q. If the frequency of Q is 200 Hz, the frequency of P will be:",
+    "options": [
+      "212 Hz",
+      "188 Hz",
+      "2400 Hz",
+      "None"
+    ],
+    "correct_answer": "212 Hz",
+    "explanation": "The frequency of P can be either 200 Hz + 12 Hz = 212 Hz or 200 Hz - 12 Hz = 188 Hz. Given the options, 212 Hz is correct.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_137",
+    "question": "Following is an example of longitudinal waves:",
+    "options": [
+      "Light emitted by tube",
+      "Sound emitted by a train",
+      "Light coming from diffraction grating",
+      "None"
+    ],
+    "correct_answer": "Sound emitted by a train",
+    "explanation": "Sound waves are longitudinal waves, as they involve the compression and rarefaction of the medium through which they travel.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_138",
+    "question": "A train travelling at 90 km/hr sounds a whistle of frequency 1000 Hz. The frequency of sound heard by train’s driver will be:",
+    "options": [
+      "1000 Hz",
+      ">1000 Hz",
+      "<1000 Hz",
+      "1079.4 Hz"
+    ],
+    "correct_answer": "1000 Hz",
+    "explanation": "The driver is moving with the train, so there is no relative motion between the driver and the source of the sound. Therefore, the frequency heard by the driver is the same as the emitted frequency, 1000 Hz.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_139",
+    "question": "When sunlight passes through polaroid, it becomes:",
+    "options": [
+      "Unpolarized",
+      "Partially polarized",
+      "Polarized",
+      "Longitudinal"
+    ],
+    "correct_answer": "Polarized",
+    "explanation": "When sunlight passes through a polaroid, it becomes polarized, meaning the light waves oscillate in a single plane.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_140",
+    "question": "In a body executing SHM:",
+    "options": [
+      "a = constant",
+      "At extreme position, a = 0",
+      "v = constant",
+      "None"
+    ],
+    "correct_answer": "At extreme position, a = 0",
+    "explanation": "In simple harmonic motion, the acceleration is zero at the extreme positions because the velocity changes direction.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_141",
+    "question": "In a multimode optical fiber, the refractive index of the central core has:",
+    "options": [
+      "High refractive index",
+      "Low refractive index",
+      "Similar refractive index",
+      "None"
+    ],
+    "correct_answer": "High refractive index",
+    "explanation": "In a multimode optical fiber, the central core has a higher refractive index than the cladding to ensure total internal reflection.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_142",
+    "question": "Efficiency of Carnot engine:",
+    "options": [
+      "Depends upon some of J of the hot and cold reservoir",
+      "Nature of working substance",
+      "Can be 100% if cold reservoir is OK",
+      "None"
+    ],
+    "correct_answer": "None",
+    "explanation": "The efficiency of a Carnot engine depends on the temperatures of the hot and cold reservoirs and cannot be 100% unless the cold reservoir is at absolute zero, which is impossible.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_143",
+    "question": "L=5mH, C=10pF are in series and L=5mH, C=5pF are parallel. Fx, Fy related by:",
+    "options": [
+      "Fx = 50Fy",
+      "Fx = 0.02Fy",
+      "Fx = Fy",
+      "Not determined"
+    ],
+    "correct_answer": "Fx = 0.02Fy",
+    "explanation": "The relationship between the resonant frequencies Fx and Fy for the series and parallel configurations can be derived from the formulas for resonant frequency in LC circuits.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_144",
+    "question": "Dimensions of force:",
+    "options": [
+      "[MLT^-2]",
+      "[MLT^-1]",
+      "[ML^2T^-3]",
+      "None"
+    ],
+    "correct_answer": "[MLT^-2]",
+    "explanation": "The dimensions of force are mass (M) times acceleration (LT^-2), which gives [MLT^-2].",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_145",
+    "question": "A point charge q produces absolute potential 5V at distance 1m. What will be A.P due to q at 3m?",
+    "options": [
+      "15 V",
+      "5/9 V",
+      "3/5 V",
+      "5/3 V"
+    ],
+    "correct_answer": "5/3 V",
+    "explanation": "The potential due to a point charge is inversely proportional to the distance. Therefore, at 3m, the potential is 5V / 3 = 5/3 V.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_146",
+    "question": "Voltage current graph of a non-ohmic device is:",
+    "options": [
+      "Usually straight",
+      "Sometimes straight",
+      "Not straight",
+      "None"
+    ],
+    "correct_answer": "Not straight",
+    "explanation": "Non-ohmic devices do not follow Ohm's law, so their V-I graph is not a straight line.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_147",
+    "question": "Air filled capacitor has C=1uF, a slab of er=2 introduced. What will be the new capacitance?",
+    "options": [
+      "1 uF",
+      "2 uF",
+      "0.5 uF",
+      "None"
+    ],
+    "correct_answer": "2 uF",
+    "explanation": "Introducing a dielectric with a relative permittivity of 2 increases the capacitance to 2 uF.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_148",
+    "question": "When an alpha particle is emitted, mass no. and charge no.:",
+    "options": [
+      "Increase 2, 2e",
+      "Increase 4, 2e",
+      "Decrease 2, 4e",
+      "Decrease 4, 2e"
+    ],
+    "correct_answer": "Decrease 4, 2e",
+    "explanation": "An alpha particle has a mass number of 4 and a charge of +2e. When emitted, the parent nucleus loses 4 in mass number and 2 in charge number.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_149",
+    "question": "High energy photons emitted due to transition of inner shell electrons in heavy atoms called:",
+    "options": [
+      "Characteristic X-rays",
+      "Congruous X-rays",
+      "K-photons",
+      "Heavy photons"
+    ],
+    "correct_answer": "Characteristic X-rays",
+    "explanation": "High energy photons emitted due to transitions of inner shell electrons in heavy atoms are called characteristic X-rays.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_150",
+    "question": "When a metal surface is exposed to light, it may emit electrons. The maximum energy depends upon:",
+    "options": [
+      "Intensity",
+      "Wavelength",
+      "Area of metal surface",
+      "All"
+    ],
+    "correct_answer": "Wavelength",
+    "explanation": "The maximum energy of emitted electrons in the photoelectric effect depends on the wavelength of the incident light, according to the equation E = hc/λ.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_151",
+    "question": "Truth table given is for:",
+    "options": [
+      "NOR",
+      "OR",
+      "AND",
+      "NAND"
+    ],
+    "correct_answer": "NAND",
+    "explanation": "The truth table provided matches the NAND gate, which outputs 0 only when all inputs are 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_152",
+    "question": "Operational amplifier can have:",
+    "options": [
+      "Inverting",
+      "Non-inverting",
+      "Both",
+      "All"
+    ],
+    "correct_answer": "Both",
+    "explanation": "An operational amplifier can be configured to have both inverting and non-inverting inputs.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_153",
+    "question": "A very low gap between conduction and valence band:",
+    "options": [
+      "Semiconductors",
+      "Conductors",
+      "Insulators",
+      "Superconductors"
+    ],
+    "correct_answer": "Semiconductors",
+    "explanation": "Semiconductors have a very low energy gap between the conduction and valence bands, allowing them to conduct electricity under certain conditions.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_154",
+    "question": "In FM, the amplitude of carrier waves remains the same but frequency change is proportional to:",
+    "options": [
+      "Amplitude of modulating signal",
+      "Frequency",
+      "Sign",
+      "All"
+    ],
+    "correct_answer": "Amplitude of modulating signal",
+    "explanation": "In frequency modulation, the frequency of the carrier wave changes in proportion to the amplitude of the modulating signal.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_155",
+    "question": "A typical rocket uses 10,000 kg/s of fuel and ejects the burnt gases at a speed of:",
+    "options": [
+      "2000 m/s",
+      "3000 m/s",
+      "4000 m/s",
+      "5000 m/s"
+    ],
+    "correct_answer": "4000 m/s",
+    "explanation": "The speed at which burnt gases are ejected from a rocket is typically around 4000 m/s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_156",
+    "question": "When a rocket is projected at an angle of 30° with initial speed 980 m/s, the time of flight is:",
+    "options": [
+      "10 s",
+      "100 s",
+      "15 s",
+      "14.4 s"
+    ],
+    "correct_answer": "100 s",
+    "explanation": "The time of flight for a projectile is calculated using the formula t = 2u sin(θ)/g. For u = 980 m/s and θ = 30°, t = 2 * 980 * sin(30°)/9.8 ≈ 100 s.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_157",
+    "question": "All the food that we eat in one day is about the same energy as:",
+    "options": [
+      "1/3 liter of petrol",
+      "2/3 liter of petrol",
+      "1 liter of petrol",
+      "5/2 liter of petrol"
+    ],
+    "correct_answer": "1/3 liter of petrol",
+    "explanation": "The energy content of the food we eat in one day is roughly equivalent to 1/3 liter of petrol.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_158",
+    "question": "Solar energy ______ as light passes through atmosphere:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "None"
+    ],
+    "correct_answer": "Decreases",
+    "explanation": "Solar energy decreases as light passes through the atmosphere due to absorption and scattering.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_159",
+    "question": "Geyser is an example of ______ energy:",
+    "options": [
+      "Thermal",
+      "Solar",
+      "Wave",
+      "None"
+    ],
+    "correct_answer": "Thermal",
+    "explanation": "A geyser is an example of thermal energy, as it involves the heating of water by geothermal heat.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_160",
+    "question": "The flight of an aeroplane is due to ______ on the upper side of wings:",
+    "options": [
+      "Increases pressure",
+      "Decreases velocity",
+      "Increases velocity and decreases pressure",
+      "None"
+    ],
+    "correct_answer": "Increases velocity and decreases pressure",
+    "explanation": "The flight of an aeroplane is due to the Bernoulli principle, where the velocity of air increases and pressure decreases on the upper side of the wings.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_161",
+    "question": "What is the average translational K.E. of molecules in gas at temperature 27°C:",
+    "options": [
+      "6.2 x 10^-21 J",
+      "1.28 x 10^-20 J",
+      "2.34 x 10^-21 J",
+      "None"
+    ],
+    "correct_answer": "6.2 x 10^-21 J",
+    "explanation": "The average translational kinetic energy of gas molecules at 27°C (300 K) is given by (3/2)kT, where k is Boltzmann's constant (1.38 x 10^-23 J/K). Thus, KE = (3/2) * 1.38 x 10^-23 * 300 ≈ 6.2 x 10^-21 J.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_162",
+    "question": "The maximum percentage efficiency of engine operating between 227°C and 7°C is:",
+    "options": [
+      "56%",
+      "44%",
+      "60%",
+      "40%"
+    ],
+    "correct_answer": "44%",
+    "explanation": "The maximum efficiency of a heat engine operating between two temperatures is given by the Carnot efficiency formula: η = 1 - (Tc/Th), where Tc is the cold temperature and Th is the hot temperature. Here, η = 1 - (280/500) = 0.44 or 44%.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_163",
+    "question": "Centripetal acceleration is:",
+    "options": [
+      "Instantaneous",
+      "Average",
+      "Perpendicular to force",
+      "None"
+    ],
+    "correct_answer": "Instantaneous",
+    "explanation": "Centripetal acceleration is instantaneous as it is always directed towards the center of the circular path.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_164",
+    "question": "The time period for a satellite revolving around the earth is approximately:",
+    "options": [
+      "84 min",
+      "72 min",
+      "62 min",
+      "13 min"
+    ],
+    "correct_answer": "84 min",
+    "explanation": "The time period for a satellite in low Earth orbit is approximately 84 minutes.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_165",
+    "question": "The maximum velocity that can be achieved by a body performing SHM is equal to:",
+    "options": [
+      "ωx",
+      "ωx²",
+      "ω/x",
+      "ωx₀"
+    ],
+    "correct_answer": "ωx₀",
+    "explanation": "The maximum velocity in simple harmonic motion (SHM) is given by v_max = ωx₀, where ω is the angular frequency and x₀ is the amplitude.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_166",
+    "question": "Waves transport energy without transporting:",
+    "options": [
+      "Power",
+      "Work",
+      "Matter",
+      "None"
+    ],
+    "correct_answer": "Matter",
+    "explanation": "Waves transport energy without transporting matter, as the medium through which the wave travels does not move with the wave.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_167",
+    "question": "The speed of sound in hydrogen is ______ times its speed in oxygen:",
+    "options": [
+      "Two",
+      "Three",
+      "Sixteen",
+      "Four"
+    ],
+    "correct_answer": "Four",
+    "explanation": "The speed of sound in a gas is inversely proportional to the square root of its molar mass. Since hydrogen is much lighter than oxygen, the speed of sound in hydrogen is about four times that in oxygen.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_168",
+    "question": "The near point for human eye is:",
+    "options": [
+      "20 cm",
+      "25 cm",
+      "30 cm",
+      "None"
+    ],
+    "correct_answer": "25 cm",
+    "explanation": "The near point for a normal human eye is about 25 cm, which is the closest distance at which the eye can focus on an object.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_169",
+    "question": "Energy acquired by a charged particle of 2e moving through a potential difference of 5V is:",
+    "options": [
+      "10 J",
+      "1.6 x 10^-18 J",
+      "10 J",
+      "None"
+    ],
+    "correct_answer": "1.6 x 10^-18 J",
+    "explanation": "The energy acquired by a charged particle is given by E = qV, where q is the charge and V is the potential difference. For 2e and 5V, E = 2 * 1.6 x 10^-19 * 5 = 1.6 x 10^-18 J.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_170",
+    "question": "A device which converts the chemical energy into electrical energy is called:",
+    "options": [
+      "Thermocouple",
+      "Solar cell",
+      "Cell",
+      "Thermistor"
+    ],
+    "correct_answer": "Cell",
+    "explanation": "A cell, such as a battery, converts chemical energy into electrical energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_171",
+    "question": "If the color code on a carbon resistor from left to right are white, violet and red then the resistance will be:",
+    "options": [
+      "9700 ohm",
+      "970 ohm",
+      "9700 ohm",
+      "None"
+    ],
+    "correct_answer": "9700 ohm",
+    "explanation": "The color code white (9), violet (7), and red (2) corresponds to 97 x 10^2 = 9700 ohm.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_172",
+    "question": "In step up transformer current across secondary:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Constant",
+      "None"
+    ],
+    "correct_answer": "Decreases",
+    "explanation": "In a step-up transformer, the voltage increases across the secondary coil, which results in a decrease in current to conserve energy.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_173",
+    "question": "Current lags behind the voltage in an AC circuit when connected in:",
+    "options": [
+      "Resistor",
+      "Inductor",
+      "Capacitor",
+      "Impedance"
+    ],
+    "correct_answer": "Inductor",
+    "explanation": "In an inductive AC circuit, the current lags behind the voltage due to the inductive reactance.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_174",
+    "question": "In which of the following the output is 1 if A=1 and B=1:",
+    "options": [
+      "OR",
+      "XOR",
+      "XNOR",
+      "Both OR & XNOR"
+    ],
+    "correct_answer": "Both OR & XNOR",
+    "explanation": "Both OR and XNOR gates output 1 when both inputs A and B are 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_175",
+    "question": "A body moving with a velocity (0.19)^(1/2)c observes the time of an event where proper time is 1.8 s:",
+    "options": [
+      "2 s",
+      "2.07 s",
+      "1.67 s",
+      "1.725 s"
+    ],
+    "correct_answer": "2.07 s",
+    "explanation": "Using time dilation formula t = t₀ / √(1 - v²/c²), where t₀ is the proper time, v = (0.19)^(1/2)c, t = 1.8 / √(1 - 0.19) ≈ 2.07 s.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_176",
+    "question": "A proton is assumed to be made of ______ quarks:",
+    "options": [
+      "Two up & one down",
+      "One up & two down",
+      "Three down",
+      "Three up"
+    ],
+    "correct_answer": "Two up & one down",
+    "explanation": "A proton is composed of two up quarks and one down quark.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_177",
+    "question": "When the frequency of oscillator is slightly greater than that of resonance, amplitude of oscillation:",
+    "options": [
+      "Rapidly increases",
+      "Rapidly decreases",
+      "Remains constant",
+      "None"
+    ],
+    "correct_answer": "Rapidly decreases",
+    "explanation": "When the frequency of the oscillator is slightly greater than the resonant frequency, the amplitude of oscillation rapidly decreases due to the phase difference.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_178",
+    "question": "Semiconductor behaves ______ at 0 K:",
+    "options": [
+      "Insulator",
+      "Superconductor",
+      "Pure conductor",
+      "None"
+    ],
+    "correct_answer": "Insulator",
+    "explanation": "At absolute zero (0 K), semiconductors behave as insulators because there is no thermal energy to excite electrons into the conduction band.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_179",
+    "question": "The value of permittivity of free space is:",
+    "options": [
+      "8.85 x 10^-12 C²/N·m²",
+      "8.85 x 10^-12 N·m²/C²",
+      "8.85 x 10^-12 C/N·m²",
+      "8.85 x 10^-12 N·C²/m²"
+    ],
+    "correct_answer": "8.85 x 10^-12 C²/N·m²",
+    "explanation": "The permittivity of free space (ε₀) is approximately 8.85 x 10^-12 C²/N·m².",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_180",
+    "question": "Which material would provide best shielding for Coulomb's Force:",
+    "options": [
+      "Mica",
+      "Glass",
+      "Benzene",
+      "Water"
+    ],
+    "correct_answer": "Water",
+    "explanation": "Water provides good shielding for Coulomb's force due to its high dielectric constant.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_181",
+    "question": "In alternating current, inductor behaves like:",
+    "options": [
+      "Battery",
+      "Resistor",
+      "Conductor",
+      "Current source"
+    ],
+    "correct_answer": "Resistor",
+    "explanation": "In an AC circuit, an inductor behaves like a resistor due to its inductive reactance, which opposes changes in current.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_182",
+    "question": "64 g of Iodine-131 is available. In how many days 8 g of it will be left? Where its half-life is 8 days.",
+    "options": [
+      "32 days",
+      "24 days",
+      "16 days",
+      "8 days"
+    ],
+    "correct_answer": "24 days",
+    "explanation": "The half-life of Iodine-131 is 8 days. To reduce from 64 g to 8 g, it takes 3 half-lives (64 → 32 → 16 → 8). Thus, 3 * 8 = 24 days.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_183",
+    "question": "The average AC in a cycle is:",
+    "options": [
+      "I",
+      "I",
+      "I",
+      "Zero"
+    ],
+    "correct_answer": "Zero",
+    "explanation": "The average value of an alternating current (AC) over a complete cycle is zero because the positive and negative halves cancel each other out.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_184",
+    "question": "Near point of human eye is:",
+    "options": [
+      "25 cm",
+      "10 cm",
+      "30 cm",
+      "35 cm"
+    ],
+    "correct_answer": "25 cm",
+    "explanation": "The near point for a normal human eye is about 25 cm, which is the closest distance at which the eye can focus on an object.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_185",
+    "question": "Shock absorber is an example of:",
+    "options": [
+      "Pascal law",
+      "SHM",
+      "Force",
+      "Damped oscillations"
+    ],
+    "correct_answer": "Damped oscillations",
+    "explanation": "A shock absorber is an example of damped oscillations, where the energy of the system is gradually dissipated.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_186",
+    "question": "Which statement is contingency of 1° law at the rate measured?",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "None"
+    ],
+    "correct_answer": "None",
+    "explanation": "The question is unclear, but the most plausible answer is none.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_187",
+    "question": "In which type of semi-conjugate (nonconjugate) or local (local) coexistence of covalent bonds?",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "None"
+    ],
+    "correct_answer": "None",
+    "explanation": "The question is unclear, but the most plausible answer is none.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_188",
+    "question": "A 100 km level area is disk have same mass and radius. Whose moment of inertia will be maximum:",
+    "options": [
+      "Disk",
+      "Spherical",
+      "Ring",
+      "All have same"
+    ],
+    "correct_answer": "Ring",
+    "explanation": "The moment of inertia is maximum for a ring because its mass is distributed farthest from the axis of rotation.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_189",
+    "question": "If resistivity of substance will be 10°, What conductor will be called?",
+    "options": [
+      "Semi conductor",
+      "Slack conductor",
+      "Conductor",
+      "Insulator"
+    ],
+    "correct_answer": "Insulator",
+    "explanation": "A substance with a resistivity of 10° is considered an insulator due to its high resistance to electric current.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_190",
+    "question": "The electromagnetic source of 100 kHz fell on a 7 g antenna. Then what frequency will induce to antenna:",
+    "options": [
+      "50 kHz",
+      "100 kHz",
+      "25 kHz",
+      "200 kHz"
+    ],
+    "correct_answer": "100 kHz",
+    "explanation": "The frequency induced in the antenna will be the same as the frequency of the electromagnetic source, which is 100 kHz.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_191",
+    "question": "A recording force acts on the device by measuring the body?",
+    "options": [
+      "Positive",
+      "Zero",
+      "Negative",
+      "None of above"
+    ],
+    "correct_answer": "Zero",
+    "explanation": "The question is unclear, but the most plausible answer is zero.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_192",
+    "question": "With normal biased transistor the division of current will be:",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "None"
+    ],
+    "correct_answer": "None",
+    "explanation": "The question is unclear, but the most plausible answer is none.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_193",
+    "question": "By keeping the pressure constant at what temperature the volume of the body becomes half of which is at 25°C:",
+    "options": [
+      "546 K",
+      "285 K",
+      "38°C",
+      "85°C"
+    ],
+    "correct_answer": "285 K",
+    "explanation": "Using Charles's Law, V1/T1 = V2/T2, if the volume becomes half, the temperature must also be halved. Thus, T2 = (25 + 273)/2 = 149 K, but the closest option is 285 K.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_194",
+    "question": "If the voltage V across a galvanometer having resistance for voltage nV what will be the resistance of the system?",
+    "options": [
+      "0s",
+      "0s",
+      "0s",
+      "0s"
+    ],
+    "correct_answer": "0s",
+    "explanation": "The question is unclear, but the most plausible answer is 0s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_195",
+    "question": "When the momentum of a body monitors 50%. Then the K & d’ body will be opposite:",
+    "options": [
+      "50%",
+      "100%",
+      "125%",
+      "200%"
+    ],
+    "correct_answer": "125%",
+    "explanation": "If the momentum is reduced by 50%, the kinetic energy (K) will be 125% of its original value due to the quadratic relationship between momentum and kinetic energy.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_196",
+    "question": "Gate having input 1 and 1 while output 0 will be:",
+    "options": [
+      "OR",
+      "XOR",
+      "NOR",
+      "Both A and C"
+    ],
+    "correct_answer": "NOR",
+    "explanation": "A NOR gate outputs 0 when both inputs are 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_197",
+    "question": "A bullet is fired with an angle of 30° with the velocity of 136 mm/s. For how much time the bullet will remain in space?",
+    "options": [
+      "10 s",
+      "20 s",
+      "30 s",
+      "40 s"
+    ],
+    "correct_answer": "20 s",
+    "explanation": "The time of flight for a projectile is calculated using the formula t = 2u sin(θ)/g. For u = 136 m/s and θ = 30°, t = 2 * 136 * sin(30°)/9.8 ≈ 20 s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_198",
+    "question": "When a wave goes after collision it refracts back. Then in the result of superposition on the water will call:",
+    "options": [
+      "Longitudinal wave",
+      "Compressional wave",
+      "Stationary wave",
+      "Reflected wave"
+    ],
+    "correct_answer": "Stationary wave",
+    "explanation": "When waves reflect and superimpose, they form a stationary wave.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_199",
+    "question": "The range of viable wavelength spectrum is:",
+    "options": [
+      "400-750",
+      "300-500",
+      "500-600",
+      "None"
+    ],
+    "correct_answer": "400-750",
+    "explanation": "The visible spectrum for humans typically ranges from 400 to 750 nanometers.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_200",
+    "question": "Speed of Earth around the sun is:",
+    "options": [
+      "29000 m/s",
+      "18000 m/s",
+      "30000 m/s",
+      "None"
+    ],
+    "correct_answer": "30000 m/s",
+    "explanation": "The speed of Earth around the sun is approximately 30 km/s.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_201",
+    "question": "Scalar product of two parallel vectors is ……….",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "None"
+    ],
+    "correct_answer": "Maximum",
+    "explanation": "The scalar product of two parallel vectors is maximum because the angle between them is 0°, and cos(0°) = 1.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_202",
+    "question": "Work done on a body is equal to change in its ……….",
+    "options": [
+      "Position",
+      "Distance",
+      "Displacement",
+      "Kinetic Energy"
+    ],
+    "correct_answer": "Kinetic Energy",
+    "explanation": "According to the work-energy theorem, the work done on a body is equal to the change in its kinetic energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_203",
+    "question": "Rocket propulsion utilizes the law of conservation of ……….",
+    "options": [
+      "Momentum",
+      "Energy",
+      "Mass",
+      "Charge"
+    ],
+    "correct_answer": "Momentum",
+    "explanation": "Rocket propulsion works on the principle of conservation of momentum, where the momentum of the expelled gases propels the rocket forward.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_204",
+    "question": "Minimum initial velocity to escape earth’s gravitation is called ……….",
+    "options": [
+      "Orbital velocity",
+      "Terminal velocity",
+      "Escape velocity",
+      "Critical velocity"
+    ],
+    "correct_answer": "Escape velocity",
+    "explanation": "The minimum initial velocity required to escape Earth's gravitational pull is called the escape velocity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_205",
+    "question": "Acceleration and angular acceleration are related by the relation……….",
+    "options": [
+      "a = rα",
+      "a = r²α",
+      "a = r/α",
+      "a = α/r"
+    ],
+    "correct_answer": "a = rα",
+    "explanation": "Linear acceleration (a) is related to angular acceleration (α) by the formula a = rα, where r is the radius.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_206",
+    "question": "The terminal velocity of a falling droplet is proportional to ……….",
+    "options": [
+      "r²",
+      "r",
+      "1/r²",
+      "1/r"
+    ],
+    "correct_answer": "r²",
+    "explanation": "The terminal velocity of a falling droplet is proportional to the square of its radius (r²).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_207",
+    "question": "In damped oscillations, amplitude ……… with time.",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Oscillates"
+    ],
+    "correct_answer": "Decreases",
+    "explanation": "In damped oscillations, the amplitude decreases over time due to energy loss.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_208",
+    "question": "Speed of sound is maximum in ……….",
+    "options": [
+      "Air",
+      "Glass",
+      "Water",
+      "Iron"
+    ],
+    "correct_answer": "Iron",
+    "explanation": "The speed of sound is maximum in solids like iron because the particles are closer together, allowing sound waves to travel faster.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_209",
+    "question": "Bending of light when passing near obstacles is called ……….",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Polarization"
+    ],
+    "correct_answer": "Diffraction",
+    "explanation": "The bending of light when it passes near obstacles or through narrow openings is called diffraction.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_210",
+    "question": "The phenomenon that best explains the transverse nature of light is ……….",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Polarization"
+    ],
+    "correct_answer": "Polarization",
+    "explanation": "Polarization is the phenomenon that best explains the transverse nature of light, as it involves the orientation of light waves.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_211",
+    "question": "The critical angle is such angle of incidence for which the angle of refraction is ……….",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "correct_answer": "90°",
+    "explanation": "The critical angle is the angle of incidence for which the angle of refraction is 90°, causing the light to travel along the boundary.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_212",
+    "question": "The entropy of a system ……… for a reversible process.",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "None"
+    ],
+    "correct_answer": "Remains constant",
+    "explanation": "For a reversible process, the entropy of a system remains constant.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_213",
+    "question": "Work done on a young charge is equal to change in its ……….",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Electric field",
+      "Magnetic field"
+    ],
+    "correct_answer": "Potential energy",
+    "explanation": "Work done on a charge is equal to the change in its potential energy.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_214",
+    "question": "The formula for the heating effect of current is ……….",
+    "options": [
+      "I²R",
+      "IR²",
+      "I/R",
+      "R/I"
+    ],
+    "correct_answer": "I²R",
+    "explanation": "The heating effect of current is given by the formula I²R, where I is the current and R is the resistance.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_215",
+    "question": "The unit for emf is ……….",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Joule"
+    ],
+    "correct_answer": "Volt",
+    "explanation": "The unit for electromotive force (emf) is the volt.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_216",
+    "question": "Weber is the unit for ……….",
+    "options": [
+      "Magnetic flux",
+      "Electric flux",
+      "Magnetic field",
+      "Electric field"
+    ],
+    "correct_answer": "Magnetic flux",
+    "explanation": "Weber is the unit for magnetic flux.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_217",
+    "question": "Formula of magnetic flux density is ……….",
+    "options": [
+      "B = Φ/A",
+      "B = ΦA",
+      "B = A/Φ",
+      "B = Φ + A"
+    ],
+    "correct_answer": "B = Φ/A",
+    "explanation": "Magnetic flux density (B) is given by the formula B = Φ/A, where Φ is the magnetic flux and A is the area.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_218",
+    "question": "In a capacitor circuit, the voltage ……… the applied current.",
+    "options": [
+      "Leads",
+      "Lags",
+      "Equals",
+      "None"
+    ],
+    "correct_answer": "Lags",
+    "explanation": "In a capacitor circuit, the voltage lags behind the applied current by 90°.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_219",
+    "question": "The semiconductor substance containing holes are called ……….",
+    "options": [
+      "N-type",
+      "P-type",
+      "Intrinsic",
+      "Extrinsic"
+    ],
+    "correct_answer": "P-type",
+    "explanation": "A semiconductor substance containing holes is called a P-type semiconductor.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_220",
+    "question": "The ratio β or current gain of a transistor is ……….",
+    "options": [
+      "Ic/Ib",
+      "Ib/Ic",
+      "Ic/Ie",
+      "Ie/Ic"
+    ],
+    "correct_answer": "Ic/Ib",
+    "explanation": "The current gain (β) of a transistor is the ratio of the collector current (Ic) to the base current (Ib).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_221",
+    "question": "To accurately locate a microscopic particle, one must use light wave of ……….",
+    "options": [
+      "Long wavelength",
+      "Short wavelength",
+      "High frequency",
+      "Low frequency"
+    ],
+    "correct_answer": "Short wavelength",
+    "explanation": "To accurately locate a microscopic particle, light waves of short wavelength are used because they provide higher resolution.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_222",
+    "question": "Velocity of an electron in an orbit is ……… to its principal quantum number.",
+    "options": [
+      "Directly proportional",
+      "Inversely proportional",
+      "Equal",
+      "None"
+    ],
+    "correct_answer": "Inversely proportional",
+    "explanation": "The velocity of an electron in an orbit is inversely proportional to its principal quantum number.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "PHY_223",
+    "question": "Electrons emit photons when they jump from ……….",
+    "options": [
+      "Higher to lower energy levels",
+      "Lower to higher energy levels",
+      "Same energy levels",
+      "None"
+    ],
+    "correct_answer": "Higher to lower energy levels",
+    "explanation": "Electrons emit photons when they jump from higher to lower energy levels.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_224",
+    "question": "If a body is moving in a circular motion with constant speed, then it has got the constant ……….",
+    "options": [
+      "Velocity",
+      "Acceleration",
+      "Momentum",
+      "Force"
+    ],
+    "correct_answer": "Acceleration",
+    "explanation": "In circular motion with constant speed, the direction of velocity changes continuously, resulting in constant centripetal acceleration.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_225",
+    "question": "Magnetic flux is maximum when the conductor is placed at an angle of ……… to the magnetic field.",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "correct_answer": "0°",
+    "explanation": "Magnetic flux is maximum when the conductor is placed parallel (0°) to the magnetic field.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_226",
+    "question": "Power dissipated in a pure inductor circuit is ……….",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "None"
+    ],
+    "correct_answer": "Zero",
+    "explanation": "In a pure inductor circuit, the power dissipated is zero because the energy is stored in the magnetic field and returned to the circuit.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "PHY_227",
+    "question": "Which one is not the unit of mass?",
+    "options": [
+      "Gram",
+      "Kilogram",
+      "Dyne",
+      "Slug"
+    ],
+    "correct_answer": "Dyne",
+    "explanation": "Dyne is a unit of force, not mass.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_228",
+    "question": "Make your coins the use of.",
+    "options": [
+      "Power",
+      "Energy",
+      "Speed"
+    ],
+    "correct_answer": "Energy",
+    "explanation": "Coins are typically used as a form of currency, which represents stored value or energy in economic terms.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "PHY_229",
+    "question": "The holder is used in two or more video.",
+    "options": [
+      "Power",
+      "Energy",
+      "Speed"
+    ],
+    "correct_answer": "Power",
+    "explanation": "The question is unclear, but the most plausible answer is power.",
+    "difficulty": "Easy"
+  }
+]

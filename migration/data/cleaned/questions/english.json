@@ -1,0 +1,2771 @@
+[
+    {
+      "id": "ENG_001",
+      "question": "What does the word 'SURPLUS' mean?",
+      "options": [
+        "In excess",
+        "A mathematical term",
+        "Within reach",
+        "Salutation"
+      ],
+      "correct_answer": "In excess",
+      "explanation": "When something is surplus, it exceeds what is needed or used.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_002",
+      "question": "What does the word 'ANCESTOR' mean?",
+      "options": [
+        "Collection of stars",
+        "Branch of astrology",
+        "Forefathers",
+        "Type of receptors"
+      ],
+      "correct_answer": "Forefathers",
+      "explanation": "An ancestor is a person from whom one is descended; a forefather.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_003",
+      "question": "What does the word 'SPILL' mean?",
+      "options": [
+        "Coll",
+        "Deliver",
+        "Spoil",
+        "Spread"
+      ],
+      "correct_answer": "Spread",
+      "explanation": "To spill typically means to cause or allow to spread or run out accidentally.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_004",
+      "question": "Pick the CORRECT option about the supervisor not compromising.",
+      "options": [
+        "The supervisor has nor will ever compromise.",
+        "The supervisor have nor will ever compromise.",
+        "The supervisor has not compromised nor will ever compromise.",
+        "The supervisor has nor will ever compromised."
+      ],
+      "correct_answer": "The supervisor has not compromised nor will ever compromise.",
+      "explanation": "Uses correct verb forms and parallel structure.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_005",
+      "question": "The soup ______ good.",
+      "options": [
+        "Taste",
+        "Tastes",
+        "Is tasting",
+        "Has taste"
+      ],
+      "correct_answer": "Tastes",
+      "explanation": "‘Soup’ is singular and requires ‘tastes’ in simple present tense.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_006",
+      "question": "I ______ him for a long time.",
+      "options": [
+        "Have never known",
+        "Had never knew",
+        "Had never been known",
+        "Would never knew"
+      ],
+      "correct_answer": "Have never known",
+      "explanation": "‘Have never known’ is correct present perfect tense usage.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_007",
+      "question": "Choose the sentence that is punctuated correctly (watch and pray).",
+      "options": [
+        "He said to his disciples 'Watch and pray.'",
+        "He said to his disciples, 'Watch and pray.'",
+        "He said to his disciples, 'watch and pray'",
+        "He said to his disciples” “watch and pray.”"
+      ],
+      "correct_answer": "He said to his disciples, 'Watch and pray.'",
+      "explanation": "Correct punctuation with comma after ‘disciples’ and quotes around ‘Watch and pray.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_008",
+      "question": "Choose the CORRECT spelling (Pharaoh).",
+      "options": [
+        "Pharagh",
+        "Pharoah",
+        "Pherach",
+        "Pharaoh"
+      ],
+      "correct_answer": "Pharaoh",
+      "explanation": "‘Pharaoh’ is the correct spelling for ancient Egyptian ruler.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_009",
+      "question": "Choose the CORRECT sentence about beauty, brains, and wealth.",
+      "options": [
+        "She has beauty, brainsand wealth-a rare combination.",
+        "She has beauty) Heine ard vesit-a rare Combination.",
+        "She has beauty, brains, and wealth; a rare combination.",
+        "She has beauty, brains, and wealth; a rare combination,"
+      ],
+      "correct_answer": "She has beauty, brains, and wealth; a rare combination.",
+      "explanation": "Correct punctuation and conjunction usage with semicolon or dash.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_010",
+      "question": "Choose the correct sentence (1838 Schleiden).",
+      "options": [
+        "In 1838 Schleiden suggested that all plants were made of cells.",
+        "In 1838 Schileiden suggest that all plants were made of cells.",
+        "In 1838 Schleiden suggested that all plant were made of cells.",
+        "In 1838 Schleiden suggested to all plants were made of cells."
+      ],
+      "correct_answer": "In 1838 Schleiden suggested that all plants were made of cells.",
+      "explanation": "Uses correct tense (suggested) and plural ‘plants.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_011",
+      "question": "Words spoken in earnest will convince him, ______.",
+      "options": [
+        "A few",
+        "The few",
+        "Few",
+        "Fewer"
+      ],
+      "correct_answer": "A few",
+      "explanation": "‘A few words spoken in earnest…’ is the standard usage in context.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_012",
+      "question": "He takes ______ his father. (Preposition)",
+      "options": [
+        "Up",
+        "Down",
+        "After",
+        "In"
+      ],
+      "correct_answer": "After",
+      "explanation": "‘Takes after’ means to resemble someone in appearance or behavior.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_013",
+      "question": "Choose the CORRECT sentence about Mr. Hashim, the portrait painter.",
+      "options": [
+        "There's Mr. Hashim whome they say is the best portrait painter in the town.",
+        "There's Mr. Hashim, who they say is the best portrait painter in the town.",
+        "Theres’ Mr. Hashim which they say is the portrait painter in the town",
+        "There's Mr. Hashim who they say is best portrait painter in the town."
+      ],
+      "correct_answer": "There's Mr. Hashim, who they say is the best portrait painter in the town.",
+      "explanation": "Uses comma and relative clause correctly (‘who they say is’).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_014",
+      "question": "Choose the CORRECT sentence about Gulliver's Travels.",
+      "options": [
+        "Gulliver travels was writen to Swift.",
+        "Gulliver travels was writen at Swift.",
+        "Gulliver's Travels was written by Swift.",
+        "Gullivers’ travel was written by Swift"
+      ],
+      "correct_answer": "Gulliver's Travels was written by Swift.",
+      "explanation": "Correct title usage (‘Gulliver's Travels’) and passive construction.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_015",
+      "question": "Choose the CORRECT sentence about 'The unexamined life,' said Socrates.",
+      "options": [
+        "“The unexamined life”, said Socrates, “is unfit to be lived by man.”",
+        "“The unexamined life said Socrates”, is disfit to be lived by man.",
+        "The inexamined life, said Socrates, “is unfit to be lived by man”",
+        "“The disexamined life” said Socrates is unfit to be lived by man."
+      ],
+      "correct_answer": "“The unexamined life”, said Socrates, “is unfit to be lived by man.”",
+      "explanation": "Correct punctuation and wording of Socrates’ quote.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_016",
+      "question": "Choose the CORRECT sentence about hearing of a friend Wahaj Waheed, a barrister.",
+      "options": [
+        "You have often heard of me speeking of my friend Wahaj Waheed a barrister here.",
+        "You have often heard me speak of my friend, Wahaj Waheed, who is a barrister here.",
+        "You have often heard. me, Speak off my friend, wahaj waheed who Is a Barristerhere",
+        "You have often heard me speak about my friend; wahaj waheed-a barrister hear"
+      ],
+      "correct_answer": "You have often heard me speak of my friend, Wahaj Waheed, who is a barrister here.",
+      "explanation": "Correct punctuation, spelling, and introduction of a nonrestrictive clause.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_017",
+      "question": "Choose the CORRECT sentence about the first space traveller Dennis Tito.",
+      "options": [
+        "Thefi shspace t aveller was Dennis Tito Rah United States,",
+        "The First Space Traveller was Dennis Tito, from the United States",
+        "The first space traveller was Dennis Tito-from united State",
+        "The first space travaler was Dennis Tito, from the United States"
+      ],
+      "correct_answer": "The First Space Traveller was Dennis Tito, from the United States",
+      "explanation": "Proper capitalization and clarity. Dennis Tito is recognized as the first space tourist (traveller).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_018",
+      "question": "Choose the CORRECT sentence about proposing a day's picnic at Murree.",
+      "options": [
+        "It was greatly good by you to proposd day's picnic at murree",
+        "It was awfully good by you to proposed a day’s picnic in Murree.",
+        "It was awfully good of you to propose a day's picnic at Murree.",
+        "It was very good off you too propose days picnic in Murree"
+      ],
+      "correct_answer": "It was awfully good of you to propose a day's picnic at Murree.",
+      "explanation": "Correct phrasing, punctuation, and spelling for the expression of gratitude.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_019",
+      "question": "At last the fly was ____ by the spider.",
+      "options": [
+        "Invited by the spider",
+        "Trapped by the spider",
+        "Spared by the spider",
+        "Entertained by the spider"
+      ],
+      "correct_answer": "Trapped by the spider",
+      "explanation": "Contextually, the spider lures and traps the fly.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_020",
+      "question": "A few years ago, it ____ that human beings do not belong to this earth.",
+      "options": [
+        "was found",
+        "were found",
+        "had found",
+        "has found"
+      ],
+      "correct_answer": "was found",
+      "explanation": "Uses correct passive voice: 'it was found that...' is the standard phrasing.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_021",
+      "question": "We felt as if the ground was ____ beneath our feet.",
+      "options": [
+        "slipping",
+        "sipping",
+        "sinking",
+        "snapping"
+      ],
+      "correct_answer": "slipping",
+      "explanation": "Common expression is 'the ground was slipping beneath our feet.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_022",
+      "question": "Choose the sentence that is grammatically correct.",
+      "options": [
+        "He elated himself to demands, quickly finishing them.",
+        "He elevated himself to meet demands, quickly finishing them.",
+        "He elevates him to demand quick finishing them.",
+        "He is elevates quickly, to demand finishing."
+      ],
+      "correct_answer": "He elevated himself to meet demands, quickly finishing them.",
+      "explanation": "Uses proper verb tense and parallel structure in the second clause.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_023",
+      "question": "Which of the following sentences is correct about wanting to live where my parents live?",
+      "options": [
+        "I want to live where my parents live.",
+        "I want to live, where: my parents living.",
+        "I wants to live where, my parents live.",
+        "I want to live where: my parents are living, which is there."
+      ],
+      "correct_answer": "I want to live where my parents live.",
+      "explanation": "Simple statement with correct structure and no extra punctuation.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_024",
+      "question": "Punctuate the sentence about father as Chairman of the Committee on Internal Relations.",
+      "options": [
+        "My father is Chairman of the Committee on Internal Relations; he also heads the Discipline Committee.",
+        "My father is Chairman of the Committee on Internal Relations he also heads the Discipline Committee",
+        "My father is Chairman, of the Committee on Internal Relations; also heads the Discipline Committee.",
+        "My father is Chairman of the Committee on Internal Relations: but he heads the discipline committee"
+      ],
+      "correct_answer": "My father is Chairman of the Committee on Internal Relations; he also heads the Discipline Committee.",
+      "explanation": "Uses a semicolon to connect two independent clauses about father’s roles.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_025",
+      "question": "The pen is expensive; still I ____ it.",
+      "options": [
+        "have bought",
+        "will buy",
+        "move",
+        "sold"
+      ],
+      "correct_answer": "will buy",
+      "explanation": "Indicates future intent despite the pen’s high cost.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_026",
+      "question": "We just ____ a game of tennis.",
+      "options": [
+        "played",
+        "have had",
+        "have been having",
+        "done"
+      ],
+      "correct_answer": "have had",
+      "explanation": "Often expressed as 'We have just had a game of tennis.' in present perfect tense.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_027",
+      "question": "Some methods don't work. Choose the correct demonstrative.",
+      "options": [
+        "This methods don't work.",
+        "These methods don't work.",
+        "That methods doesn't work.",
+        "Those method doesn't works."
+      ],
+      "correct_answer": "These methods don't work.",
+      "explanation": "Uses plural demonstrative 'these' with plural 'methods.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_028",
+      "question": "In winter, the days and nights is cold. Choose the correction.",
+      "options": [
+        "In winter, the days and nights are cold.",
+        "In winter, the days and nights is cold.",
+        "In winter, day and night is cold.",
+        "In winter, the day and the nights are cold."
+      ],
+      "correct_answer": "In winter, the days and nights are cold.",
+      "explanation": "Requires 'are' for plural subject 'days and nights.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_029",
+      "question": "Which side did Will fight during the War, based on the passage?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "None"
+      ],
+      "correct_answer": "South",
+      "explanation": "Passage references he declared ??? and returned. Typically, 'the South' is implied by context.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_030",
+      "question": "Katherine made her children ____ chores on Sunday.",
+      "options": [
+        "make some",
+        "take some",
+        "do some",
+        "does some"
+      ],
+      "correct_answer": "do some",
+      "explanation": "Common phrasing: 'made her children do some chores.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_031",
+      "question": "He had no worries; his pension was adequate, and ____ to speak to you.",
+      "options": [
+        "the caretaker was waiting",
+        "the caretaker is want",
+        "he had no money saved up",
+        "the caretaker was wanting"
+      ],
+      "correct_answer": "the caretaker was waiting",
+      "explanation": "Combines both ideas: his pension is adequate and caretaker is waiting to speak.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_032",
+      "question": "Knowledge and wisdom ____ no time for connection.",
+      "options": [
+        "has",
+        "have",
+        "take",
+        "taking"
+      ],
+      "correct_answer": "have",
+      "explanation": "Both 'knowledge and wisdom' form a plural subject needing 'have.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_033",
+      "question": "Each of these boys ____ to ride.",
+      "options": [
+        "learn",
+        "learns",
+        "were learning",
+        "are learning"
+      ],
+      "correct_answer": "learns",
+      "explanation": "With 'each of these boys' as a singular subject, 'learns' is correct.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_034",
+      "question": "Choose the correctly structured sentence about Mr. Shan going to England with his family.",
+      "options": [
+        "Mr. Shan, together with his family, goes to England.",
+        "Mr. Shan, together with his family, go to England.",
+        "Mr. Shan together with his family goes to England.",
+        "Mr. Shan. with his family, goes to England together."
+      ],
+      "correct_answer": "Mr. Shan, together with his family, goes to England.",
+      "explanation": "Uses commas around the phrase 'together with his family' and correct verb agreement.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_035",
+      "question": "He is appreciated for being 'ambidextrous.' The underlined word means ____.",
+      "options": [
+        "Able to use both hands equally well",
+        "Able to speak two languages",
+        "Unable to read or write",
+        "Having great empathy"
+      ],
+      "correct_answer": "Able to use both hands equally well",
+      "explanation": "‘Ambidextrous’ refers to someone who can use both left and right hands equally.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_036",
+      "question": "My friend has a fine ____ of old stamps.",
+      "options": [
+        "collection",
+        "cling",
+        "callection",
+        "clinging"
+      ],
+      "correct_answer": "collection",
+      "explanation": "‘Collection’ is the common noun referring to a group of items, especially stamps.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_037",
+      "question": "Pick the word with correct spelling.",
+      "options": [
+        "Mercanary",
+        "Mercenary",
+        "Mersanery",
+        "Merresany"
+      ],
+      "correct_answer": "Mercenary",
+      "explanation": "‘Mercenary’ is the correctly spelled word meaning someone primarily concerned with money.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_038",
+      "question": "Identify the errors and choose the correct sentence (context unclear).",
+      "options": [
+        "He tried to manage his land and his country are best.",
+        "He tried manage his land, and country the best.",
+        "He tried to manage his land and his country the best he could.",
+        "He tried manage the best in his land and country."
+      ],
+      "correct_answer": "He tried to manage his land and his country the best he could.",
+      "explanation": "Uses correct parallel phrasing and a logical ending phrase.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_039",
+      "question": "Superficial is opposite in meaning to ____?",
+      "options": [
+        "Deep",
+        "Shallow",
+        "Narrow",
+        "Broad"
+      ],
+      "correct_answer": "Deep",
+      "explanation": "The common antonym of 'superficial' is 'deep.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_040",
+      "question": "You should stick ____ your promise.",
+      "options": [
+        "by",
+        "to",
+        "with",
+        "on"
+      ],
+      "correct_answer": "to",
+      "explanation": "The usual expression is 'stick to your promise.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_041",
+      "question": "Which is a synonym for 'chubby'?",
+      "options": [
+        "Thin",
+        "Fat",
+        "Rigid",
+        "Fragile"
+      ],
+      "correct_answer": "Fat",
+      "explanation": "Chubby typically means plump or fat in a mild sense.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_042",
+      "question": "Fundography is used to study/check the functioning of ____?",
+      "options": [
+        "Heart",
+        "Eye",
+        "Liver",
+        "Stomach"
+      ],
+      "correct_answer": "Eye",
+      "explanation": "Fundoscopy (or fundography) examines the interior surface of the eye (fundus).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_043",
+      "question": "Ali thought, 'She went home.' (Change to indirect speech)",
+      "options": [
+        "Ali thought that she had gone home.",
+        "Ali thought that she goes home.",
+        "Ali thinks that she went home.",
+        "Ali is thinking she went home."
+      ],
+      "correct_answer": "Ali thought that she had gone home.",
+      "explanation": "Indirect speech typically shifts the tense: 'went' → 'had gone.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_044",
+      "question": "Change to passive voice:\n1) The group was watching the movie.\n2) The lion ate the rabbit.\n3) Brush your teeth.",
+      "options": [
+        "1) The movie was being watched by the group.\n2) The rabbit was eaten by the lion.\n3) Let your teeth be brushed.",
+        "1) The movie is watched by the group.\n2) The rabbit ate the lion.\n3) Brush your teeth was done.",
+        "1) The group was watching.\n2) The lion was eaten by the rabbit.\n3) Let them brush teeth.",
+        "1) The movie is being watch.\n2) The rabbit has been eaten.\n3) Let the brush be tooth."
+      ],
+      "correct_answer": "1) The movie was being watched by the group.\n2) The rabbit was eaten by the lion.\n3) Let your teeth be brushed.",
+      "explanation": "Correct transformation to passive in each case.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_045",
+      "question": "He is envious ____ everyone's achievement.",
+      "options": [
+        "from",
+        "of",
+        "to",
+        "upon"
+      ],
+      "correct_answer": "of",
+      "explanation": "Standard usage is 'envious of' someone's achievement.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_046",
+      "question": "The criminal was ____ although it was proved that he was near the scene of the crime.",
+      "options": [
+        "abandoned",
+        "exonerated",
+        "expelled",
+        "absolved"
+      ],
+      "correct_answer": "exonerated",
+      "explanation": "Likely means he was cleared of guilt (exonerated), despite suspicious circumstances.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_047",
+      "question": "Ali said, 'I want to go to Lahore.' (Indirect narration)",
+      "options": [
+        "Ali said that he wanted to go to Lahore.",
+        "Ali said he want to go to Lahore.",
+        "Ali says that I want to go to Lahore.",
+        "Ali told that he goes Lahore."
+      ],
+      "correct_answer": "Ali said that he wanted to go to Lahore.",
+      "explanation": "In indirect speech, present tense 'want' → 'wanted.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_048",
+      "question": "Antonym of 'Moisture'?",
+      "options": [
+        "Dryness",
+        "Wetness",
+        "Humidity",
+        "Vapor"
+      ],
+      "correct_answer": "Dryness",
+      "explanation": "‘Dryness’ is the opposite (antonym) of ‘moisture.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_049",
+      "question": "The teacher said, 'I shall appreciate it.' (Indirect speech)",
+      "options": [
+        "The teacher said that she would appreciate it.",
+        "The teacher said that I shall appreciate it.",
+        "The teacher says she shall appreciate it.",
+        "The teacher said that she should appreciate it."
+      ],
+      "correct_answer": "The teacher said that she would appreciate it.",
+      "explanation": "‘Shall’ often becomes ‘would’ in indirect speech.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_050",
+      "question": "You should stick ____ your promise.",
+      "options": [
+        "by",
+        "to",
+        "with",
+        "in"
+      ],
+      "correct_answer": "to",
+      "explanation": "Standard usage: 'stick to your promise.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_051",
+      "question": "The traveler ____ the great mosque at Delhi.",
+      "options": [
+        "visited",
+        "raised",
+        "sought",
+        "established"
+      ],
+      "correct_answer": "visited",
+      "explanation": "Likely context: the traveler visited the mosque; other verbs are less common in this scenario.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_052",
+      "question": "He was ____ of theft in the court.",
+      "options": [
+        "charged",
+        "reported",
+        "blamed",
+        "accused"
+      ],
+      "correct_answer": "accused",
+      "explanation": "‘He was accused of theft’ is the usual legal phrasing.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_053",
+      "question": "He once ____ a very extraordinary ambition.",
+      "options": [
+        "arrived",
+        "decided",
+        "came upon",
+        "hit upon"
+      ],
+      "correct_answer": "hit upon",
+      "explanation": "Common expression is 'hit upon (or came upon) an extraordinary ambition.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_054",
+      "question": "Choose the correct usage of the statement about e-mail.",
+      "options": [
+        "E-mail is a relatively new mean of communication.",
+        "E-mail is a relatively new means of communication.",
+        "E-mail is relatively new means to communication.",
+        "E-mail is a relatively new mean to communication."
+      ],
+      "correct_answer": "E-mail is a relatively new means of communication.",
+      "explanation": "‘Means’ is correct in this context, not ‘mean.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_055",
+      "question": "Choose the correct usage regarding the computer programmed by Mona.",
+      "options": [
+        "As she said, the computer was programmed by Mona.",
+        "Just like she said the computer was programmed by Mona.",
+        "As she said the computer was program by Mona.",
+        "Just like she had said, the computer was programed by Mona."
+      ],
+      "correct_answer": "As she said, the computer was programmed by Mona.",
+      "explanation": "Uses proper phrasing and tense. ‘As she said’ introduces the statement.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_056",
+      "question": "Choose the correct usage about the remains of the body.",
+      "options": [
+        "The remains of the body was thrown into the sea.",
+        "The remains of the body were thrown into the sea.",
+        "The remain of the body were thrown into the sea.",
+        "The remains of the body were throwed into the sea."
+      ],
+      "correct_answer": "The remains of the body were thrown into the sea.",
+      "explanation": "‘Remains’ is plural, so 'were' is correct.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_057",
+      "question": "Choose the correct usage about leaving their friends.",
+      "options": [
+        "They felt bad about leaving their friends.",
+        "They felt badly about leaving their friends.",
+        "They felt very badly about leaving their friends.",
+        "They felt bad on leaving their friends."
+      ],
+      "correct_answer": "They felt bad about leaving their friends.",
+      "explanation": "‘Felt bad about’ is the standard idiomatic expression.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_058",
+      "question": "Choose the correct usage regarding Masood hiring more salesmen.",
+      "options": [
+        "Masood told me that he would hire more salesmen if he had been in my position.",
+        "Masood told me that he would hire more salesmen if he has been in my position.",
+        "Masood told me that he will hire more salesmen if he had been in my position.",
+        "Masood told me that he hires more salesmen if he is in my position."
+      ],
+      "correct_answer": "Masood told me that he would hire more salesmen if he had been in my position.",
+      "explanation": "Follows conditional structure (would + had been).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_059",
+      "question": "AGHAST means:",
+      "options": [
+        "Critical",
+        "Reluctant",
+        "Happy",
+        "Horrified"
+      ],
+      "correct_answer": "Horrified",
+      "explanation": "‘Aghast’ indicates shock or horror.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_060",
+      "question": "INVIDIOUS means:",
+      "options": [
+        "Unbreakable",
+        "Interesting",
+        "Unpleasant",
+        "Fair"
+      ],
+      "correct_answer": "Unpleasant",
+      "explanation": "‘Invidious’ typically means offensive or causing resentment.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_061",
+      "question": "IMPROMPTU means:",
+      "options": [
+        "Arriving at the right time",
+        "Showing signs of being good",
+        "Done without preparation",
+        "Wretched"
+      ],
+      "correct_answer": "Done without preparation",
+      "explanation": "‘Impromptu’ is something done spontaneously or without prior planning.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_062",
+      "question": "DISCERNMENT means:",
+      "options": [
+        "A system of controlling a country",
+        "The ability to show good judgment",
+        "The act of encouraging somebody",
+        "The ability to show no concern"
+      ],
+      "correct_answer": "The ability to show good judgment",
+      "explanation": "‘Discernment’ is keen perception or insight.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_063",
+      "question": "NEOLOGISM means:",
+      "options": [
+        "A new word",
+        "Pleasant remark",
+        "Brief summary",
+        "An old phrase"
+      ],
+      "correct_answer": "A new word",
+      "explanation": "‘Neologism’ is a newly coined word or phrase.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_064",
+      "question": "FURTIVE means:",
+      "options": [
+        "Furious",
+        "Annoyed",
+        "Secretive",
+        "Easy"
+      ],
+      "correct_answer": "Secretive",
+      "explanation": "‘Furtive’ describes something done secretly or stealthily.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_065",
+      "question": "BOURGEOISIE means:",
+      "options": [
+        "Belonging to a bureaucratic class",
+        "Belonging to the middle class",
+        "Belonging to the upper class",
+        "Belonging to the lower class"
+      ],
+      "correct_answer": "Belonging to the middle class",
+      "explanation": "Historically, ‘bourgeoisie’ refers to the middle class, typically with reference to materialistic values.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_066",
+      "question": "RUMINATE means:",
+      "options": [
+        "Eat greedily",
+        "Think carefully",
+        "Work lazily",
+        "Run fast"
+      ],
+      "correct_answer": "Think carefully",
+      "explanation": "‘Ruminate’ literally means to chew the cud, but figuratively means to ponder or think deeply.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_067",
+      "question": "EMBELLISH means:",
+      "options": [
+        "Adorn",
+        "Nominate",
+        "Finish",
+        "Weaken"
+      ],
+      "correct_answer": "Adorn",
+      "explanation": "‘Embellish’ means to decorate or add ornamental details.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_068",
+      "question": "PARABLE means:",
+      "options": [
+        "Impossible",
+        "Sociable",
+        "Allegory",
+        "Suitable"
+      ],
+      "correct_answer": "Allegory",
+      "explanation": "A ‘parable’ is a short story that illustrates a moral or spiritual lesson, akin to an allegory.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_069",
+      "question": "He once ____ a very extraordinary ambition. (Alternate phrasing from Q49)",
+      "options": [
+        "came upon",
+        "arrived in",
+        "hit on",
+        "decided about"
+      ],
+      "correct_answer": "came upon",
+      "explanation": "Some texts phrase it as 'came upon a very extraordinary ambition' instead of 'hit upon.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_070",
+      "question": "At last the fly was ____ by the spider.",
+      "options": [
+        "Invited by the spider",
+        "Trapped by the spider",
+        "Spared by the spider",
+        "Entertained by the spider"
+      ],
+      "correct_answer": "Trapped by the spider",
+      "explanation": "Contextually, the spider lures and traps the fly.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_071",
+      "question": "A few years ago, it ____ that human beings do not belong to this earth.",
+      "options": [
+        "was found",
+        "were found",
+        "had found",
+        "has found"
+      ],
+      "correct_answer": "was found",
+      "explanation": "Uses correct passive voice: 'it was found that...' is the standard phrasing.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_072",
+      "question": "We felt as if the ground was ____ beneath our feet.",
+      "options": [
+        "slipping",
+        "sipping",
+        "sinking",
+        "snapping"
+      ],
+      "correct_answer": "slipping",
+      "explanation": "Common expression is 'the ground was slipping beneath our feet.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_073",
+      "question": "Choose the sentence that is grammatically correct.",
+      "options": [
+        "He elated himself to demands, quickly finishing them.",
+        "He elevated himself to meet demands, quickly finishing them.",
+        "He elevates him to demand quick finishing them.",
+        "He is elevates quickly, to demand finishing."
+      ],
+      "correct_answer": "He elevated himself to meet demands, quickly finishing them.",
+      "explanation": "Uses proper verb tense and parallel structure in the second clause.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_074",
+      "question": "Which of the following sentences is correct about wanting to live where my parents live?",
+      "options": [
+        "I want to live where my parents live.",
+        "I want to live, where: my parents living.",
+        "I wants to live where, my parents live.",
+        "I want to live where: my parents are living, which is there."
+      ],
+      "correct_answer": "I want to live where my parents live.",
+      "explanation": "Simple statement with correct structure and no extra punctuation.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_075",
+      "question": "Punctuate the sentence about father as Chairman of the Committee on Internal Relations.",
+      "options": [
+        "My father is Chairman of the Committee on Internal Relations; he also heads the Discipline Committee.",
+        "My father is Chairman of the Committee on Internal Relations he also heads the Discipline Committee",
+        "My father is Chairman, of the Committee on Internal Relations; also heads the Discipline Committee.",
+        "My father is Chairman of the Committee on Internal Relations: but he heads the discipline committee"
+      ],
+      "correct_answer": "My father is Chairman of the Committee on Internal Relations; he also heads the Discipline Committee.",
+      "explanation": "Uses a semicolon to connect two independent clauses about father’s roles.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_076",
+      "question": "The pen is expensive; still I ____ it.",
+      "options": [
+        "have bought",
+        "will buy",
+        "move",
+        "sold"
+      ],
+      "correct_answer": "will buy",
+      "explanation": "Indicates future intent despite the pen’s high cost.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_077",
+      "question": "We just ____ a game of tennis.",
+      "options": [
+        "played",
+        "have had",
+        "have been having",
+        "done"
+      ],
+      "correct_answer": "have had",
+      "explanation": "Often expressed as 'We have just had a game of tennis.' in present perfect tense.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_078",
+      "question": "Some methods don't work. Choose the correct demonstrative.",
+      "options": [
+        "This methods don't work.",
+        "These methods don't work.",
+        "That methods doesn't work.",
+        "Those method doesn't works."
+      ],
+      "correct_answer": "These methods don't work.",
+      "explanation": "Uses plural demonstrative 'these' with plural 'methods.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_079",
+      "question": "In winter, the days and nights is cold. Choose the correction.",
+      "options": [
+        "In winter, the days and nights are cold.",
+        "In winter, the days and nights is cold.",
+        "In winter, day and night is cold.",
+        "In winter, the day and the nights are cold."
+      ],
+      "correct_answer": "In winter, the days and nights are cold.",
+      "explanation": "Requires 'are' for plural subject 'days and nights.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_080",
+      "question": "Which side did Will fight during the War, based on the passage?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "None"
+      ],
+      "correct_answer": "South",
+      "explanation": "Passage references that he declared ??? and returned. Typically, 'the South' is implied by context.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_081",
+      "question": "Katherine made her children ____ chores on Sunday.",
+      "options": [
+        "make some",
+        "take some",
+        "do some",
+        "does some"
+      ],
+      "correct_answer": "do some",
+      "explanation": "Common phrasing: 'made her children do some chores.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_082",
+      "question": "Which word is the closest synonym of something 'unchanging'?",
+      "options": [
+        "Fickle",
+        "Uniform",
+        "Invariable",
+        "Variable"
+      ],
+      "correct_answer": "Invariable",
+      "explanation": "‘Invariable’ means constant or unchanging; 'fickle' is the opposite.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_083",
+      "question": "Diseases like diabetes are supposed to be taken seriously or they can be ____.",
+      "options": [
+        "Cursing",
+        "Healthy",
+        "Fatal",
+        "Impersonating"
+      ],
+      "correct_answer": "Fatal",
+      "explanation": "A disease like diabetes can become deadly (fatal) if not managed properly.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_084",
+      "question": "Choose the most appropriate antonym for 'abandonment':",
+      "options": [
+        "Cessation",
+        "Stoppage",
+        "Pause",
+        "Extension"
+      ],
+      "correct_answer": "Extension",
+      "explanation": "‘Abandonment’ implies leaving or giving up, so ‘extension’ implies continuation instead.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_085",
+      "question": "He was the first person ____ ever ploughed this mountain with cattle.",
+      "options": [
+        "who had",
+        "which has",
+        "that have",
+        "whom had"
+      ],
+      "correct_answer": "who had",
+      "explanation": "Common structure: ‘He was the first person who had ever done something.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_086",
+      "question": "By 2030, people ____ reading the works of Charles Dickens for more than 190 years.",
+      "options": [
+        "had",
+        "will",
+        "have",
+        "will have"
+      ],
+      "correct_answer": "will have",
+      "explanation": "Future perfect tense: ‘By 2030, people will have been reading Dickens for 190+ years.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_087",
+      "question": "Choose the most suitable sentence about Penny letting me get my book.",
+      "options": [
+        "Penny did not let me to get my book.",
+        "Penny was not leaving me to get my book.",
+        "Penny did not let me get my book.",
+        "Penny had not left me get my book."
+      ],
+      "correct_answer": "Penny did not let me get my book.",
+      "explanation": "‘Let me get my book’ is the standard usage without ‘to.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_088",
+      "question": "Which one of the following is correct about visiting Istanbul, Turkey, and Kowloon, Hong Kong last summer?",
+      "options": [
+        "We visited, Istanbul Kowloon, Hong Kong last summer.",
+        "We visited Istanbul, Turkey, and Kowloon, Hong Kong last summer.",
+        "We visited: Istanbul, Turkey and Kowloon Hong Kong last summer.",
+        "We visited Istanbul Turkey Kowloon Hong Kong last summer."
+      ],
+      "correct_answer": "We visited Istanbul, Turkey, and Kowloon, Hong Kong last summer.",
+      "explanation": "Uses commas correctly for city/country pairs.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_089",
+      "question": "Which of the following sentences is correct about persuading her mum?",
+      "options": [
+        "How could Sarah perswad her mum to stay out later?",
+        "How could Sarah persuade her mum to stay out later?",
+        "How could Sarah persuad her mum to stay out later?",
+        "How could Sarah parsuade her mum to stay out later?"
+      ],
+      "correct_answer": "How could Sarah persuade her mum to stay out later?",
+      "explanation": "‘Persuade’ is the correct spelling.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_090",
+      "question": "Choose the sentence with the correct use of article regarding Natasha playing instruments.",
+      "options": [
+        "Natasha can play a piano and a violin.",
+        "Natasha can play the piano and the violin.",
+        "Natasha can play the piano and a violin.",
+        "Natasha can play piano and violin."
+      ],
+      "correct_answer": "Natasha can play the piano and a violin.",
+      "explanation": "Typically, we say 'the piano' and 'a violin' if referencing them generally.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_091",
+      "question": "Distribute the handouts ____ the crowd. The best preposition is:",
+      "options": [
+        "into",
+        "among",
+        "on",
+        "with"
+      ],
+      "correct_answer": "among",
+      "explanation": "We usually say ‘distribute the handouts among the crowd.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_092",
+      "question": "Which sentence is correct regarding scissors?",
+      "options": [
+        "This scissors is very sharp.",
+        "These scissor are very sharp.",
+        "This scissor are very sharp.",
+        "These scissors are very sharp."
+      ],
+      "correct_answer": "These scissors are very sharp.",
+      "explanation": "‘Scissors’ is plural, so 'these scissors are very sharp' is correct.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_093",
+      "question": "Identify the error-free sentence from the following (context unclear).",
+      "options": [
+        "He said the day was rather long but he was not enjoying being laughed at.",
+        "He said that day was rathar long but he was not enjoy being laughed at.",
+        "He said day was rather longer but he did not enjoying to be laughed at.",
+        "He said the day was rather along but not enjoying being laughed."
+      ],
+      "correct_answer": "He said the day was rather long but he was not enjoying being laughed at.",
+      "explanation": "Uses correct tense and phrasing with minimal errors.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_094",
+      "question": "Which is the correct usage about Shella and Irum’s result cards?",
+      "options": [
+        "There are Shella and Irum result card",
+        "There are Shella and Irum’s result cards",
+        "There are Shella and Irum result cards",
+        "There are Shellatsi and Irum’s result cards"
+      ],
+      "correct_answer": "There are Shella and Irum’s result cards",
+      "explanation": "Indicates possession correctly (Irum’s) and plural usage (result cards).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_095",
+      "question": "Pick the correct option regarding seven students’ results:",
+      "options": [
+        "Seven student’s results are still awaited.",
+        "Seven students’ results are still awaited.",
+        "Seven student results are still awaited."
+      ],
+      "correct_answer": "Seven students’ results are still awaited.",
+      "explanation": "Uses plural noun (students) and correct possessive (students’).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_096",
+      "question": "Which punctuation mark will be used to separate both clauses in the sentence \"The gang was rounded up the raid they escaped\"?",
+      "options": [
+        "Comma",
+        "Semicolon",
+        "Colon",
+        "Dash"
+      ],
+      "correct_answer": "Semicolon",
+      "explanation": "Two independent clauses typically require a semicolon when closely related.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_097",
+      "question": "Fifteen minutes ____ allowed to each speaker.",
+      "options": [
+        "are",
+        "are being",
+        "was",
+        "were"
+      ],
+      "correct_answer": "are",
+      "explanation": "‘Fifteen minutes’ is treated as a singular measure of time in some contexts, but standard usage often treats it as plural; 'are allowed' is common. (Some might argue ‘is allowed’ is acceptable, but here 'are' is likely intended.)",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_098",
+      "question": "Pick the correct passive voice for: \"How did she defraud him of his savings?\"",
+      "options": [
+        "How had he been defrauded of his savings?",
+        "How was he defrauded by her of his savings?",
+        "How was he defrauded of his savings by them?",
+        "How did he get defrauded by her of his savings?"
+      ],
+      "correct_answer": "How was he defrauded by her of his savings?",
+      "explanation": "Correct transformation to passive voice, retaining the original meaning.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_099",
+      "question": "Identify the errors and choose the correct option: \"The rehersel session started and we have little times to spare.\"",
+      "options": [
+        "The rehearsal session started, and we have little time to spare for other activities.",
+        "The rehearsals session started, and we little time to spare for other activities.",
+        "The rehearsals session starts and we has little time to spare for other activities.",
+        "We are little time to spare for other activities the rehearsals sessions starts."
+      ],
+      "correct_answer": "The rehearsal session started, and we have little time to spare for other activities.",
+      "explanation": "Uses correct spelling (‘rehearsal’), agreement, and phrasing.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_100",
+      "question": "Lions look like any other carnivore, ____ on meat.",
+      "options": [
+        "live",
+        "lives",
+        "does live",
+        "living"
+      ],
+      "correct_answer": "live",
+      "explanation": "‘Lions look like any other carnivore, (they) live on meat.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_101",
+      "question": "The cattle ____ away the crops.",
+      "options": [
+        "has eaten",
+        "is eating",
+        "have eaten",
+        "hooked"
+      ],
+      "correct_answer": "have eaten",
+      "explanation": "‘Cattle’ is plural, so ‘have eaten’ is correct.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_102",
+      "question": "The word 'LABYRINTH' means:",
+      "options": [
+        "Maze",
+        "Heap",
+        "Hive",
+        "Knack"
+      ],
+      "correct_answer": "Maze",
+      "explanation": "‘Labyrinth’ is a complicated maze or network of paths.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_103",
+      "question": "Choose the correct punctuation for 'These are old Those are new.'",
+      "options": [
+        "These are old, Those are new.",
+        "These are old; Those are new.",
+        "These are old. Those are new.",
+        "These, are old, Those are new."
+      ],
+      "correct_answer": "These are old; Those are new.",
+      "explanation": "Two closely related clauses often use a semicolon or a period. A semicolon is likely intended here.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_104",
+      "question": "Ahmed carried out his duty according ____ instructions.",
+      "options": [
+        "too",
+        "to",
+        "under",
+        "on"
+      ],
+      "correct_answer": "to",
+      "explanation": "Standard usage: ‘according to instructions.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_105",
+      "question": "The first space traveller was Dennis Tito from the United States (choose the correct statement).",
+      "options": [
+        "The first space travellf wh dennis tito from united states",
+        "The first space traveller was Dennis Tito from the United States",
+        "The first space travaler was Dennis Tito from the united States",
+        "The First Space Traveller was Dennis Tito from the united States"
+      ],
+      "correct_answer": "The first space traveller was Dennis Tito from the United States",
+      "explanation": "Proper capitalization: ‘The first space traveller was Dennis Tito from the United States.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_106",
+      "question": "Select the right sentence about the box he opened.",
+      "options": [
+        "He opened the square red wooden box.",
+        "He opened the red square wooden box.",
+        "He opened the wooden red square box.",
+        "He opened the red wooden square box."
+      ],
+      "correct_answer": "He opened the square red wooden box.",
+      "explanation": "Typically, the order is 'shape' (square), then 'color' (red), then 'material' (wooden).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_107",
+      "question": "I can’t walk ____.",
+      "options": [
+        "farther",
+        "far",
+        "further",
+        "away"
+      ],
+      "correct_answer": "farther",
+      "explanation": "For physical distance, ‘farther’ is more precise than ‘further.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_108",
+      "question": "Can you tell this fact ____ his face?",
+      "options": [
+        "to",
+        "upon",
+        "with",
+        "about"
+      ],
+      "correct_answer": "to",
+      "explanation": "Common expression: ‘tell this fact to his face.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_109",
+      "question": "Select the right sentence about 'The Three Musketeers' by Dumas.",
+      "options": [
+        "The three Musketeers was written by Dumas.",
+        "The three Musketeers were written by Dumas.",
+        "The three Musketeers has written by Dumas.",
+        "The three Musketeers have written by Dumas."
+      ],
+      "correct_answer": "The three Musketeers was written by Dumas.",
+      "explanation": "It’s a single novel title, so we use ‘was written by Dumas.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_110",
+      "question": "They have painted their house purple. The sentence is an example of:",
+      "options": [
+        "Monotransitive",
+        "Ditransitive",
+        "Complex transitive",
+        "Reflexive transitive"
+      ],
+      "correct_answer": "Complex transitive",
+      "explanation": "Verb + direct object + object complement (house = object, purple = complement).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_111",
+      "question": "He was killed ____ robbers ____ a hatchet.",
+      "options": [
+        "from, with",
+        "by, at",
+        "through, for",
+        "by, with"
+      ],
+      "correct_answer": "by, with",
+      "explanation": "Standard usage: killed by (someone) with (weapon).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_112",
+      "question": "Choose the correct punctuation for the dialogue: \"Well no, perhaps not sir\"",
+      "options": [
+        "\"Well no, perhaps not sir\"",
+        "\"Well no, perhaps not, sir.\"",
+        "\"Well no perhaps, not sir\"",
+        "\"Well no, perhaps not sir.\""
+      ],
+      "correct_answer": "\"Well no, perhaps not, sir.\"",
+      "explanation": "We typically separate ‘sir’ with a comma and end with a period.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_113",
+      "question": "Find out the antonym of 'Mumbled':",
+      "options": [
+        "Unprovoked",
+        "Quiet",
+        "Loud",
+        "Rarely"
+      ],
+      "correct_answer": "Loud",
+      "explanation": "‘Mumbled’ implies speaking softly/unclearly, so ‘loud’ is the opposite.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_114",
+      "question": "A voice ____ us from the either side of the street.",
+      "options": [
+        "addled",
+        "transcended",
+        "purified",
+        "hailed"
+      ],
+      "correct_answer": "hailed",
+      "explanation": "Likely meaning: someone called or hailed from across the street.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_115",
+      "question": "Many of the houses lacked even the basic ____.",
+      "options": [
+        "adroitness",
+        "amenities",
+        "anomaly",
+        "behest"
+      ],
+      "correct_answer": "amenities",
+      "explanation": "‘Amenities’ are basic comforts or facilities.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_116",
+      "question": "The system has the ____ to run more than one program at the same time.",
+      "options": [
+        "acumen",
+        "cadaver",
+        "ability",
+        "adroitness"
+      ],
+      "correct_answer": "ability",
+      "explanation": "Indicates capability of multitasking.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_117",
+      "question": "The Soviet Union was so vast and ____ that it comprised all the conceivable world.",
+      "options": [
+        "incisive",
+        "hermetic",
+        "prolific",
+        "panic"
+      ],
+      "correct_answer": "prolific",
+      "explanation": "Here, 'prolific' suggests it was extensive/abundant (though usage is debatable).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_118",
+      "question": "Journalists must be well acquainted ____ the ethics of Journalism.",
+      "options": [
+        "in",
+        "with",
+        "from",
+        "by"
+      ],
+      "correct_answer": "with",
+      "explanation": "Standard phrasing: 'acquainted with.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_119",
+      "question": "Heat the olive oil ____ a heavy pan.",
+      "options": [
+        "into",
+        "in",
+        "with",
+        "on"
+      ],
+      "correct_answer": "in",
+      "explanation": "We typically say 'Heat the olive oil in a heavy pan.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_120",
+      "question": "She made no attempt to be friendly on anything but ____ the most superficial level.",
+      "options": [
+        "with",
+        "on",
+        "by",
+        "through"
+      ],
+      "correct_answer": "on",
+      "explanation": "Common usage: 'on anything but the most superficial level.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_121",
+      "question": "He abdicated ____ favor of his son.",
+      "options": [
+        "on",
+        "in",
+        "by",
+        "as"
+      ],
+      "correct_answer": "in",
+      "explanation": "Expression is 'abdicated in favor of someone.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_122",
+      "question": "The country is stepping back ____ the edge of an abyss.",
+      "options": [
+        "from",
+        "in",
+        "of",
+        "through"
+      ],
+      "correct_answer": "from",
+      "explanation": "‘Stepping back from the edge of an abyss’ is standard phrasing.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_123",
+      "question": "He lived ____ the style befitting a gentleman.",
+      "options": [
+        "at",
+        "through",
+        "by",
+        "in"
+      ],
+      "correct_answer": "in",
+      "explanation": "We say ‘He lived in the style befitting a gentleman.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_124",
+      "question": "He ____ decided to grow a beard.",
+      "options": [
+        "have",
+        "has",
+        "has been",
+        "have been"
+      ],
+      "correct_answer": "has",
+      "explanation": "Correct subject-verb agreement: ‘He has decided...’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_125",
+      "question": "Their divorce filled a lot of column inches ____ the national newspaper.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "through"
+      ],
+      "correct_answer": "in",
+      "explanation": "‘Filled a lot of column inches in the newspaper’ is typical usage.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_126",
+      "question": "The horse reared ____ on its hind legs.",
+      "options": [
+        "off",
+        "up",
+        "down",
+        "over"
+      ],
+      "correct_answer": "up",
+      "explanation": "Common expression: ‘reared up on its hind legs.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_127",
+      "question": "CENTENNIAL means:",
+      "options": [
+        "A hundredth anniversary",
+        "Relating to continents",
+        "Relating to sins",
+        "Relating to countries"
+      ],
+      "correct_answer": "A hundredth anniversary",
+      "explanation": "‘Centennial’ is the 100-year anniversary of an event.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_128",
+      "question": "COBBLE means:",
+      "options": [
+        "Demon",
+        "Convention",
+        "Cockerel",
+        "Stone"
+      ],
+      "correct_answer": "Stone",
+      "explanation": "A ‘cobble’ is a rounded stone used in paving.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_129",
+      "question": "COCCYX means:",
+      "options": [
+        "Drug",
+        "Bone",
+        "Force",
+        "Shield"
+      ],
+      "correct_answer": "Bone",
+      "explanation": "The coccyx is the tailbone at the base of the spine.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_130",
+      "question": "COMPLACENT means:",
+      "options": [
+        "Self-regarding",
+        "Talented",
+        "Self-conceited",
+        "Self-satisfied"
+      ],
+      "correct_answer": "Self-satisfied",
+      "explanation": "‘Complacent’ implies self-satisfaction or smugness.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_131",
+      "question": "ACCESSORY is best understood as:",
+      "options": [
+        "Coenobium",
+        "Propensity",
+        "Magnate",
+        "Something additional"
+      ],
+      "correct_answer": "Something additional",
+      "explanation": "An ‘accessory’ is an additional or extra item.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_132",
+      "question": "ADMONITION means:",
+      "options": [
+        "Juvenility",
+        "Acquisition",
+        "Warning",
+        "Puberty"
+      ],
+      "correct_answer": "Warning",
+      "explanation": "‘Admonition’ is a gentle reproof or warning.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_133",
+      "question": "AUDACIOUS means:",
+      "options": [
+        "Bashing",
+        "Mawkish",
+        "Autocratic",
+        "Bold"
+      ],
+      "correct_answer": "Bold",
+      "explanation": "‘Audacious’ is daring, bold, or fearless.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_134",
+      "question": "AMORPHOUS means:",
+      "options": [
+        "Flagrant",
+        "Voluptuous",
+        "Nubulous",
+        "Shapeless"
+      ],
+      "correct_answer": "Shapeless",
+      "explanation": "‘Amorphous’ means having no definite form or shape.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_135",
+      "question": "BOUQUET means:",
+      "options": [
+        "Posy",
+        "Necropsy",
+        "Prolegomena",
+        "Damper"
+      ],
+      "correct_answer": "Posy",
+      "explanation": "A ‘bouquet’ is a collection of flowers, similar to a ‘posy.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_136",
+      "question": "In spite of all the torture, the police has failed to ____ any confession from the thief.",
+      "options": [
+        "Convince",
+        "Elicit",
+        "Refuse",
+        "Agree"
+      ],
+      "correct_answer": "Elicit",
+      "explanation": "‘Elicit a confession’ is the standard phrase meaning to draw out or obtain a confession.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_137",
+      "question": "It is the duty of a teacher to ____ moral values in his students.",
+      "options": [
+        "tell",
+        "record",
+        "inculcate",
+        "force"
+      ],
+      "correct_answer": "inculcate",
+      "explanation": "To ‘inculcate moral values’ means to instill them firmly in students’ minds.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_138",
+      "question": "SPOT THE ERROR (Q.107): Not fully legible from the text, so no standard multiple-choice provided. Possibly about ‘Hoskins’ or a miswritten phrase.",
+      "options": [
+        "A) Possibly referencing a name or place spelled incorrectly",
+        "B) Possibly referencing a missing verb",
+        "C) Possibly referencing tense usage",
+        "D) Possibly referencing a punctuation mistake"
+      ],
+      "correct_answer": "A) Possibly referencing a name or place spelled incorrectly",
+      "explanation": "The text is unclear, so we guess the error is in the underlined segment referencing 'Hoskins' or a missing verb.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_139",
+      "question": "SPOT THE ERROR (Q.108): 'His guests found it fun to watch him to make tea — mixing careful spoonful from different caddies.'",
+      "options": [
+        "A) ‘to make’ should be ‘make’",
+        "B) ‘careful spoonful’ should be ‘careful spoonfuls’",
+        "C) ‘guests found it fun to watch him’ is correct, no change",
+        "D) No error"
+      ],
+      "correct_answer": "A) ‘to make’ should be ‘make’",
+      "explanation": "The usual structure is ‘found it fun to watch him make tea...’ without ‘to’ before ‘make.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_140",
+      "question": "SPOT THE ERROR (Q.109): 'You have put your life in his hands many a times.'",
+      "options": [
+        "A) ‘many a times’ should be ‘many a time’",
+        "B) ‘have put’ should be ‘has put’",
+        "C) ‘in his hands’ should be ‘into his hands’",
+        "D) No error"
+      ],
+      "correct_answer": "A) ‘many a times’ should be ‘many a time’",
+      "explanation": "The correct idiomatic expression is ‘many a time’ (singular).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_141",
+      "question": "SPOT THE ERROR (Q.111): 'But the men ate their supper in good appetites.'",
+      "options": [
+        "A) ‘in good appetites’ should be ‘with good appetites’",
+        "B) ‘ate their supper’ should be ‘eaten their supper’",
+        "C) ‘the men’ should be ‘these men’",
+        "D) No error"
+      ],
+      "correct_answer": "A) ‘in good appetites’ should be ‘with good appetites’",
+      "explanation": "We say ‘with a good appetite’ or ‘with good appetites,’ not ‘in good appetites.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_142",
+      "question": "SPOT THE ERROR (Q.112): 'A common sense of failure is a mistaken ambition of the boys on the part of his parents.'",
+      "options": [
+        "A) ‘his parents’ should be ‘their parents’",
+        "B) ‘common sense of failure’ should be ‘common sense for failure’",
+        "C) ‘is a mistaken ambition’ should be ‘are a mistaken ambition’",
+        "D) No error"
+      ],
+      "correct_answer": "A) ‘his parents’ should be ‘their parents’",
+      "explanation": "Referring to ‘the boys’ means parents are plural → ‘their parents.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_143",
+      "question": "Choose the CORRECT sentence about tourism over the last fifteen years.",
+      "options": [
+        "Tourism is burgeoned over the last fifteen years.",
+        "Tourism has burgeoned over the last fifteen years.",
+        "Tourism have burgeoned over the last fifteen years.",
+        "Tourism had burgeoned over the last fifteen years."
+      ],
+      "correct_answer": "Tourism has burgeoned over the last fifteen years.",
+      "explanation": "Uses present perfect tense with singular subject ‘tourism.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_144",
+      "question": "Which is correct about remains being placed in the new cemetery?",
+      "options": [
+        "His remains were interred in the new cemetery.",
+        "His remains was interred in the new cemetery.",
+        "His remains were entered in the new cemetery.",
+        "His remains was entered in the new cemetery."
+      ],
+      "correct_answer": "His remains were interred in the new cemetery.",
+      "explanation": "‘Interred’ means buried. ‘Remains’ is plural, so ‘were interred.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_145",
+      "question": "Which sentence is correct about people dying on the same day?",
+      "options": [
+        "They had died in the same day.",
+        "They had died on the same day.",
+        "They had died over the same day.",
+        "They had died of the same day."
+      ],
+      "correct_answer": "They had died on the same day.",
+      "explanation": "We use ‘on the same day’ to specify time correctly.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_146",
+      "question": "She had turned ____ the supper steaks when the telephone rang.",
+      "options": [
+        "on",
+        "over",
+        "into",
+        "in"
+      ],
+      "correct_answer": "over",
+      "explanation": "Turning over the steaks is the usual phrase for flipping them.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_147",
+      "question": "Complete the phrase: 'Empty of concord is the ____ of wit.'",
+      "options": [
+        "soul",
+        "sole",
+        "role",
+        "howd"
+      ],
+      "correct_answer": "soul",
+      "explanation": "Likely referencing a paraphrase of “Brevity is the soul of wit.” Here, it’s “Empty of concord is the soul of wit.”",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_148",
+      "question": "Which is correct about cherry trees and the woodland ride?",
+      "options": [
+        "The cherry trees stand over the woodland ride.",
+        "The cherry trees stand beside the woodland ride.",
+        "The cheery trees stand on the woodland ride.",
+        "The cheery trees stand about the woodland ride."
+      ],
+      "correct_answer": "The cherry trees stand beside the woodland ride.",
+      "explanation": "Likely referencing a path in the woods: ‘beside the woodland ride.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_149",
+      "question": "He made me ____ the sum on the slip and sign my name in a book.",
+      "options": [
+        "to write",
+        "write",
+        "to write on/at the slip",
+        "to write in a slip"
+      ],
+      "correct_answer": "write",
+      "explanation": "‘Made me write’ is the correct causative structure without ‘to.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_150",
+      "question": "I am looking forward to ____ excellent marks in MCAT.",
+      "options": [
+        "secure",
+        "securing",
+        "to securing",
+        "securely"
+      ],
+      "correct_answer": "securing",
+      "explanation": "‘Looking forward to’ is followed by a gerund: ‘to securing.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_151",
+      "question": "The study of population growth indicates one of the greatest ____ of our time.",
+      "options": [
+        "priorities",
+        "paradoxes",
+        "trends",
+        "solutions"
+      ],
+      "correct_answer": "paradoxes",
+      "explanation": "Likely referencing a statement that it’s one of the greatest paradoxes.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_152",
+      "question": "In North Africa, he barely escaped ____ at the hands of the governor of the province.",
+      "options": [
+        "assassination",
+        "assassination from",
+        "assassination at",
+        "assassination on"
+      ],
+      "correct_answer": "assassination",
+      "explanation": "‘Escaped assassination at the hands of someone’ is the usual phrasing.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_153",
+      "question": "EMPATHY means:",
+      "options": [
+        "Understanding",
+        "Animosity",
+        "Friendship",
+        "Sympathy"
+      ],
+      "correct_answer": "Understanding",
+      "explanation": "‘Empathy’ is the ability to understand and share the feelings of another.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_154",
+      "question": "FELICITY means:",
+      "options": [
+        "Boredom",
+        "Happiness",
+        "Business",
+        "Relaxation"
+      ],
+      "correct_answer": "Happiness",
+      "explanation": "‘Felicity’ is intense happiness or bliss.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_155",
+      "question": "UNCANNY means:",
+      "options": [
+        "Exact",
+        "Strange",
+        "Good",
+        "Opposite"
+      ],
+      "correct_answer": "Strange",
+      "explanation": "‘Uncanny’ means eerie, mysterious, or strangely unsettling.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_156",
+      "question": "VIRULENT means:",
+      "options": [
+        "Progressive",
+        "Harmful",
+        "Healthy",
+        "Positive"
+      ],
+      "correct_answer": "Harmful",
+      "explanation": "‘Virulent’ generally means extremely severe or harmful in its effects.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_157",
+      "question": "RAPT means:",
+      "options": [
+        "Trumpet",
+        "Bewitched",
+        "Rapid",
+        "Rash"
+      ],
+      "correct_answer": "Bewitched",
+      "explanation": "‘Rapt’ means completely fascinated or carried away, akin to ‘bewitched.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_158",
+      "question": "PEDAGOGY means:",
+      "options": [
+        "The study of pediatrics",
+        "The study of teaching methods",
+        "The study of geography",
+        "The study of horticulture"
+      ],
+      "correct_answer": "The study of teaching methods",
+      "explanation": "‘Pedagogy’ is the method and practice of teaching.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_159",
+      "question": "INDICTMENT means:",
+      "options": [
+        "Humiliation",
+        "Accusation",
+        "Offended",
+        "Invisible"
+      ],
+      "correct_answer": "Accusation",
+      "explanation": "‘Indictment’ is a formal accusation or charge.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_160",
+      "question": "NOXIOUS means:",
+      "options": [
+        "Formidable",
+        "Poisonous",
+        "Harmless",
+        "Curious"
+      ],
+      "correct_answer": "Poisonous",
+      "explanation": "‘Noxious’ means harmful or poisonous.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_161",
+      "question": "CONCERTED means:",
+      "options": [
+        "Strenuous",
+        "Curious",
+        "Furious",
+        "Precious"
+      ],
+      "correct_answer": "Strenuous",
+      "explanation": "‘Concerted’ implies jointly arranged or carried out with great effort (akin to ‘strenuous’ or ‘coordinated’).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_162",
+      "question": "ARCANE means:",
+      "options": [
+        "Mysterious",
+        "Arid",
+        "Furious",
+        "Clear"
+      ],
+      "correct_answer": "Mysterious",
+      "explanation": "‘Arcane’ refers to something secret or understood by few; mysterious.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_163",
+      "question": "It is our national duty to ____ our vote in the general election.",
+      "options": [
+        "throw",
+        "cast",
+        "drop",
+        "refuse"
+      ],
+      "correct_answer": "cast",
+      "explanation": "Standard phrase: 'cast a vote.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_164",
+      "question": "She is intelligent enough to ____ her own decisions.",
+      "options": [
+        "pick",
+        "maneuver",
+        "give",
+        "take"
+      ],
+      "correct_answer": "take",
+      "explanation": "Common usage: 'take her own decisions' or 'make her own decisions.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_165",
+      "question": "She ____ about the upcoming wedding of her sister.",
+      "options": [
+        "ran",
+        "jigged",
+        "beamed",
+        "wept"
+      ],
+      "correct_answer": "beamed",
+      "explanation": "Context suggests happiness, so 'beamed' is likely (the text is partially unclear).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_166",
+      "question": "A manager ____ duties and assignments according to each member’s abilities.",
+      "options": [
+        "clarified",
+        "delegated",
+        "suggested",
+        "gathered"
+      ],
+      "correct_answer": "delegated",
+      "explanation": "‘Delegate duties’ is the usual phrasing for assigning tasks.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_167",
+      "question": "SPOT THE ERROR (Q.107): Possibly referencing an unclear phrase with 'Hoskins' or a missing verb, not fully legible.",
+      "options": [
+        "A) Possibly referencing a name or phrase spelled incorrectly",
+        "B) Possibly referencing a missing verb or preposition",
+        "C) Possibly referencing tense usage",
+        "D) No error"
+      ],
+      "correct_answer": "A) Possibly referencing a name or phrase spelled incorrectly",
+      "explanation": "The text is unclear, so we guess the error is in the underlined segment referencing 'Hoskins' or similar.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_168",
+      "question": "\"All is well what ends well,\" said the father when he had finished the story.",
+      "options": [
+        "A) 'what' should be 'that'",
+        "B) 'ends' should be 'ended'",
+        "C) 'the father' should be 'father'",
+        "D) No error"
+      ],
+      "correct_answer": "A) 'what' should be 'that'",
+      "explanation": "Common expression is ‘All is well that ends well.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_169",
+      "question": "SPOT THE ERROR (Q.111): 'The three Abdal Rahman, like his illustrious predecessor, was a young man of twenty-three when he took office.'",
+      "options": [
+        "A) 'The three Abdal Rahman' is unclear; possibly 'The third Abdal Rahman'",
+        "B) 'like his illustrious predecessor' might need punctuation",
+        "C) 'was a young man' might be 'were a young man'",
+        "D) No error"
+      ],
+      "correct_answer": "A) 'The three Abdal Rahman' is unclear; possibly 'The third Abdal Rahman'",
+      "explanation": "Likely it should read ‘The third Abdal Rahman,’ referencing an ordinal, not 'three.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_170",
+      "question": "Enlarged and beautified by later Caliphs, Al-Zahra became the nucleus of a royal city (SPOT THE ERROR Q.112).",
+      "options": [
+        "A) 'become' should be 'became'",
+        "B) 'whose remain partly evacuated' is unclear, possibly 'remains' or 'excavated'",
+        "C) 'partly evacuated' might be 'partly excavated'",
+        "D) No error"
+      ],
+      "correct_answer": "C) 'partly evacuated' might be 'partly excavated'",
+      "explanation": "Likely referencing archaeological excavation, not 'evacuation.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_171",
+      "question": "Which sentence is correct about thinking it over before broaching the subject to Asma?",
+      "options": [
+        "I thought it over very carefully before broaching the subject to Asma.",
+        "I thought it on very carefully before broaching the subject to Asma.",
+        "I thought it by very carefully before broaching the subject to Asma.",
+        "I thought carefully it over before broaching the subject to Asma."
+      ],
+      "correct_answer": "I thought it over very carefully before broaching the subject to Asma.",
+      "explanation": "Common phrasing is ‘thought it over’ plus ‘before broaching the subject.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_172",
+      "question": "He left ____ a blaze of anger.",
+      "options": [
+        "with",
+        "in",
+        "back",
+        "on"
+      ],
+      "correct_answer": "in",
+      "explanation": "‘Left in a blaze of anger’ is a standard expression.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_173",
+      "question": "Shahid ____ Anwar into submission.",
+      "options": [
+        "battered",
+        "battered down",
+        "battered Anwar down",
+        "battered Anwar into"
+      ],
+      "correct_answer": "battered Anwar into submission.",
+      "explanation": "Common phrasing: ‘X battered Y into submission.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_174",
+      "question": "Which is correct about an intrinsic component of his personal makeup?",
+      "options": [
+        "Pride was an intrinsic component of his personal makeup.",
+        "Pride was a intrinsic component of his personal makeup.",
+        "Pride an intrinsic component of his personal makeup.",
+        "Pride were an intrinsic component of his personal makeup."
+      ],
+      "correct_answer": "Pride was an intrinsic component of his personal makeup.",
+      "explanation": "Uses correct article and verb agreement.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_175",
+      "question": "The government introduced tax laws which gave incentives to factory workers to reduce pollution.",
+      "options": [
+        "The government introduced tax laws who gave incentives...",
+        "The government introduced tax laws which gave incentives...",
+        "The government introduced tax laws which have incentives...",
+        "The government introduced tax laws which has incentives..."
+      ],
+      "correct_answer": "The government introduced tax laws which gave incentives...",
+      "explanation": "Uses correct relative pronoun ‘which’ and correct tense ‘gave.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_176",
+      "question": "It was cold and foggy, and he dared not ____ out.",
+      "options": [
+        "to going",
+        "for going",
+        "go",
+        "gone"
+      ],
+      "correct_answer": "go",
+      "explanation": "After ‘dared not,’ we use the bare infinitive ‘go.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_177",
+      "question": "Which is correct about cheering, singing, and a bread fight across the dining hall?",
+      "options": [
+        "There was much cheering and singing and a bread fight across the dining hall.",
+        "There was more cheer and singing and a bread fighting across the dining hall.",
+        "There was much cheering and singing and a bread fighting across the dining hall.",
+        "There was much cheer and singing and a bread fighting across the dining hall."
+      ],
+      "correct_answer": "There was much cheering and singing and a bread fight across the dining hall.",
+      "explanation": "‘Much cheering and singing... a bread fight’ is correct usage.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_178",
+      "question": "Both parents of Jameel were then long ____.",
+      "options": [
+        "died",
+        "dead",
+        "dying",
+        "been died"
+      ],
+      "correct_answer": "dead",
+      "explanation": "Common expression: ‘were then long dead’ means they had been dead for a while.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_179",
+      "question": "Which is correct about a boy being afraid of going to jail?",
+      "options": [
+        "The boy was afraid of going to jail.",
+        "The boy was afraid off going to jail.",
+        "The boy was afraid by going to jail.",
+        "The boy was afraid from going to jail."
+      ],
+      "correct_answer": "The boy was afraid of going to jail.",
+      "explanation": "Standard usage: ‘afraid of [something].’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_180",
+      "question": "DISDAIN means:",
+      "options": [
+        "Vice",
+        "Contempt",
+        "Dislike",
+        "Ignorance"
+      ],
+      "correct_answer": "Contempt",
+      "explanation": "‘Disdain’ is scorn or contempt.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_181",
+      "question": "SAGACITY means:",
+      "options": [
+        "Suspicious",
+        "Wisdom",
+        "Cruelty",
+        "Foolishness"
+      ],
+      "correct_answer": "Wisdom",
+      "explanation": "‘Sagacity’ means keen mental discernment or wisdom.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_182",
+      "question": "FLAUNT means:",
+      "options": [
+        "Snipe",
+        "Show off",
+        "Dance",
+        "Preserve"
+      ],
+      "correct_answer": "Show off",
+      "explanation": "‘Flaunt’ means to display ostentatiously or show off.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_183",
+      "question": "URBANE means:",
+      "options": [
+        "Suave",
+        "Rough",
+        "Bad",
+        "Dishonest"
+      ],
+      "correct_answer": "Suave",
+      "explanation": "‘Urbane’ means courteous, refined, and suave, often in a sophisticated way.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_184",
+      "question": "DIASPORA means:",
+      "options": [
+        "Gathering",
+        "Dispersion",
+        "Alliance",
+        "Animosity"
+      ],
+      "correct_answer": "Dispersion",
+      "explanation": "‘Diaspora’ is the dispersion of people from their original homeland.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_185",
+      "question": "IMPETUOUS means:",
+      "options": [
+        "Honest",
+        "Impulsive",
+        "Lazy",
+        "Large"
+      ],
+      "correct_answer": "Impulsive",
+      "explanation": "‘Impetuous’ means acting quickly or rashly without thought.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_186",
+      "question": "VOCIFEROUS means:",
+      "options": [
+        "Hidden",
+        "Loud",
+        "Long",
+        "Good"
+      ],
+      "correct_answer": "Loud",
+      "explanation": "‘Vociferous’ means expressing or characterized by vehement opinions; loud or forceful.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_187",
+      "question": "ODIUM means:",
+      "options": [
+        "Love",
+        "Hindrance",
+        "Bad name",
+        "Skit"
+      ],
+      "correct_answer": "Bad name",
+      "explanation": "‘Odium’ refers to general or widespread hatred or disapproval, i.e., a bad reputation.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_188",
+      "question": "BEQUEATH means:",
+      "options": [
+        "Grant",
+        "Irrigate",
+        "Imbibe",
+        "Hope"
+      ],
+      "correct_answer": "Grant",
+      "explanation": "‘Bequeath’ is to leave or give property by a will; effectively to grant or pass on.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_189",
+      "question": "Spot the error in the sentence: \"This apartment be perfect, if it were a little larger.\" Which part is incorrect?",
+      "options": [
+        "A) This apartment",
+        "B) be",
+        "C) perfect,",
+        "D) if it were a little larger."
+      ],
+      "correct_answer": "B) be",
+      "explanation": "It should read ‘This apartment would be perfect if it were a little larger.’ The verb ‘be’ is incorrect here; ‘would be’ is needed.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_190",
+      "question": "Spot the error in the sentence: \"He borrowed the money so he could finish his education.\"",
+      "options": [
+        "A) He",
+        "B) borrowed",
+        "C) the money",
+        "D) so he could finish his education."
+      ],
+      "correct_answer": "D) so he could finish his education.",
+      "explanation": "Actually, the sentence appears correct. If forced to pick an error, it might be punctuation or none. Possibly no real error is present. The question is ambiguous.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_191",
+      "question": "Spot the error in the sentence: \"The duties of the new secretary is to answer the telephone, to type letters, and book keeping.\"",
+      "options": [
+        "A) The duties of the new secretary",
+        "B) is to answer the telephone",
+        "C) to type letters",
+        "D) and book keeping"
+      ],
+      "correct_answer": "B) is to answer the telephone",
+      "explanation": "‘Duties’ is plural, so it should be ‘are to answer...’ Also, ‘bookkeeping’ is typically one word.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_192",
+      "question": "Spot the error in the sentence: \"Daina would rather that her husband doesn’t work so hard.\"",
+      "options": [
+        "A) Daina",
+        "B) would rather",
+        "C) that her husband",
+        "D) doesn’t work so hard."
+      ],
+      "correct_answer": "D) doesn’t work so hard.",
+      "explanation": "After ‘would rather,’ use past tense: ‘didn’t work so hard.’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_193",
+      "question": "Choose the correct sentence about drenching herself with perfume.",
+      "options": [
+        "She drenched herself in perfume.",
+        "She drenched herself with perfume.",
+        "She drenched herself into perfume.",
+        "She drenched herself by perfume."
+      ],
+      "correct_answer": "She drenched herself in perfume.",
+      "explanation": "‘Drenched in perfume’ is the standard phrasing.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_194",
+      "question": "Choose the correct sentence about glimpsing Lahore:",
+      "options": [
+        "A day later he reached his first glimpse of Lahore.",
+        "A day later he took his first glimpse of Lahore.",
+        "A day later he found his first glimpse of Lahore.",
+        "A day later he caught his first glimpse of Lahore."
+      ],
+      "correct_answer": "A day later he caught his first glimpse of Lahore.",
+      "explanation": "‘Caught his first glimpse’ is the idiomatic usage.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_195",
+      "question": "Choose the correct sentence about impact on the economy:",
+      "options": [
+        "This has a bad impact on economy.",
+        "This has a bad impact to the economy.",
+        "This has a bad impact for the economy.",
+        "This has a bad impact on the economy."
+      ],
+      "correct_answer": "This has a bad impact on the economy.",
+      "explanation": "We say ‘impact on something.’ The article ‘the’ before ‘economy’ is also typical usage.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_196",
+      "question": "Which sentence is correct regarding saving someone from dying of thirst?",
+      "options": [
+        "He saved him from dying of thirst.",
+        "He saved him for dying of thirst.",
+        "He saved him from dying from thirst.",
+        "He saved him for dying from thirst."
+      ],
+      "correct_answer": "He saved him from dying of thirst.",
+      "explanation": "‘Saved (someone) from dying of thirst’ is the standard expression.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_197",
+      "question": "Choose the correct sentence about pacifying him by kindness and affection:",
+      "options": [
+        "They try to pacify him for kindness and affection.",
+        "They try to pacify him in kindness and affection.",
+        "They try to pacify him by kindness and affection.",
+        "They try to pacify him with kindness and affection."
+      ],
+      "correct_answer": "They try to pacify him with kindness and affection.",
+      "explanation": "‘Pacify (someone) with kindness and affection’ is standard usage.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_198",
+      "question": "Which is correct about disagreeing?",
+      "options": [
+        "Why did you disagree with me?",
+        "Why did you disagree to me?",
+        "Why did you disagree on me?",
+        "Why did you disagree by me?"
+      ],
+      "correct_answer": "Why did you disagree with me?",
+      "explanation": "We say ‘disagree with (someone).’",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_199",
+      "question": "Hell hath no fury like a woman scorned. These lines are taken from:",
+      "options": [
+        "William Shakespeare",
+        "Geoffrey Chaucer",
+        "John Milton",
+        "William Congreve"
+      ],
+      "correct_answer": "William Congreve",
+      "explanation": "This famous line comes from William Congreve's play 'The Mourning Bride.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_200",
+      "question": "The next train ____ after 10 minutes.",
+      "options": [
+        "leaves",
+        "has left",
+        "had left",
+        "was leaving"
+      ],
+      "correct_answer": "leaves",
+      "explanation": "A scheduled event in the near future often uses the simple present tense.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_201",
+      "question": "You have no special privileges ____ your colleagues.",
+      "options": [
+        "in",
+        "at",
+        "for",
+        "over"
+      ],
+      "correct_answer": "over",
+      "explanation": "The correct preposition in this context is 'over.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_202",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "The cat drank the milk.",
+        "The cat drunk the milk.",
+        "The cat drink the milk.",
+        "The cat is drinking the milk."
+      ],
+      "correct_answer": "The cat drank the milk.",
+      "explanation": "'Drank' is the correct past tense form of 'drink.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_203",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "The weather is too hot.",
+        "The weather is so hot.",
+        "The weather is hot enough.",
+        "The weather is hot."
+      ],
+      "correct_answer": "The weather is too hot.",
+      "explanation": "'Too hot' is a common expression indicating an excessive degree of heat.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_204",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "If you come, we will have a party.",
+        "If you will come, we will have a party.",
+        "If you come, we shall have a party.",
+        "If you came, we would have a party."
+      ],
+      "correct_answer": "If you come, we will have a party.",
+      "explanation": "First conditional uses present simple in the 'if' clause and 'will' in the main clause.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_205",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "I prefer tea than coffee.",
+        "I prefer tea over coffee.",
+        "I prefer tea to coffee.",
+        "I prefer tea from coffee."
+      ],
+      "correct_answer": "I prefer tea to coffee.",
+      "explanation": "'Prefer' is followed by 'to' when comparing two things.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_206",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "The sooner you come, the better.",
+        "The soon you come, the better.",
+        "The soon you come, the better it is.",
+        "The sooner you come, the better it is."
+      ],
+      "correct_answer": "The sooner you come, the better.",
+      "explanation": "This is the standard comparative correlative structure.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_207",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "He is used to cold water.",
+        "He is used to of cold water.",
+        "He used to cold water.",
+        "He is used with cold water."
+      ],
+      "correct_answer": "He is used to cold water.",
+      "explanation": "'Used to' is correctly followed by a noun or gerund without 'of.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_208",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "I have lived here since 5 years.",
+        "I have been living here since 5 years.",
+        "I have lived here for 5 years.",
+        "I am living here for 5 years."
+      ],
+      "correct_answer": "I have lived here for 5 years.",
+      "explanation": "Use 'for' with a period of time.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_209",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "He said, 'I am feeling well now.'",
+        "He said, 'I am feeling good now.'",
+        "He said, 'I feel good now.'",
+        "He said, 'I feel well now.'"
+      ],
+      "correct_answer": "He said, 'I am feeling well now.'",
+      "explanation": "Common usage for health is 'feeling well.'",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_210",
+      "question": "The word 'Macho' means:",
+      "options": [
+        "timid",
+        "manly",
+        "cunning",
+        "foolish"
+      ],
+      "correct_answer": "manly",
+      "explanation": "'Macho' generally refers to a manly or masculine quality.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_211",
+      "question": "Fill in the blank: The building was ____ down by the city council.",
+      "options": [
+        "put",
+        "closed",
+        "brought",
+        "knocked"
+      ],
+      "correct_answer": "knocked",
+      "explanation": "'Knocked down' is the correct phrasal verb.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_212",
+      "question": "Identify the sentence with correct punctuation:",
+      "options": [
+        "'Where are you going' asked the policeman.",
+        "'Where are you going?' asked the policeman.",
+        "'Where are you going, asked the policeman?'",
+        "'Where are you going asked the policeman?'"
+      ],
+      "correct_answer": "'Where are you going?' asked the policeman.",
+      "explanation": "The question mark is placed correctly inside the quotes.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ENG_213",
+      "question": "The correct spelling is:",
+      "options": [
+        "definatly",
+        "definitely",
+        "defenately",
+        "defenetly"
+      ],
+      "correct_answer": "definitely",
+      "explanation": "This is the standard correct spelling of the word.",
+      "difficulty": "Medium"
+    }
+  ]
+  

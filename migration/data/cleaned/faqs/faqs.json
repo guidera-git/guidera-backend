@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Guidera?",
+    "answer": "Guidera is an innovative platform designed to streamline the university application journey for students in Pakistan. It provides personalized degree recommendations, comprehensive university data, entry test preparation tools, progress tracking, and 24/7 AI chatbot support."
+  },
+  {
+    "question": "How does Guidera recommend degrees?",
+    "answer": "Using your academic scores, personal preferences, and answers to nature and personality questions, Guidera’s AI-driven engine suggests degree programs that best match your goals and strengths. You can further filter results by subject area, career outcomes, and location."
+  },
+  {
+    "question": "Do you recommend universities or degrees?",
+    "answer": "Guidera recommends degree programs only. Once you select a degree, the platform shows you all Pakistani universities that offer it, along with detailed information on each institution."
+  },
+  {
+    "question": "What university information does Guidera provide?",
+    "answer": "For each university offering your chosen degree, Guidera displays admission criteria, fee structures, course offerings, application opening and closing dates, registration links, and an overall overview of campus facilities and student life."
+  },
+  {
+    "question": "How can I track my application process?",
+    "answer": "After you add a university to your processing list, Guidera presents a preset application workflow (e.g., entry test registration → test preparation → document submission → fee payment). You tick off each step as you complete it and watch your progress in a visual tracker."
+  },
+  {
+    "question": "Are my applications submitted automatically?",
+    "answer": "Not at this time. Guidera provides a preset process and reminders for each application step, but you complete and submit applications yourself. The visual tracker helps you stay organized."
+  },
+  {
+    "question": "How does entry test preparation work?",
+    "answer": "Guidera offers mock entry tests modeled on major Pakistani university exams. After each test, you receive detailed analytics highlighting strengths, weaknesses, and suggested study materials to improve your score."
+  },
+  {
+    "question": "What kind of notifications will I receive?",
+    "answer": "You’ll get automated alerts and reminders for key deadlines—such as test registration cutoffs, application submission dates, and fee payment deadlines—so you never miss an important date."
+  },
+  {
+    "question": "Can I get help with career or academic questions?",
+    "answer": "Yes. Guidera includes a 24/7 AI-powered chatbot that can answer queries about university admissions, degree choices, entry test strategies, and general career guidance."
+  },
+  {
+    "question": "Is Guidera’s university data kept up to date?",
+    "answer": "Absolutely. We continuously update our database with the latest information on admission dates, fee structures, course offerings, and policies directly from official university sources."
+  }
+]

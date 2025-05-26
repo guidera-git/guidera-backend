@@ -1,0 +1,2603 @@
+[
+    {
+      "id": "ANAL_001",
+      "question": "What is the 5th term in the sequence 2, 4, 6, 8, ...?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "correct_answer": "10",
+      "explanation": "The sequence increases by 2. The 5th term is 2 + 4×2 = 10.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_002",
+      "question": "What is the 4th term in the sequence 3, 6, 9, 12, ...?",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "21"
+      ],
+      "correct_answer": "12",
+      "explanation": "Each term increases by 3, so the 4th term is 12.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_003",
+      "question": "What is the 3rd term in the sequence 5, 10, 15, 20, ...?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_answer": "15",
+      "explanation": "The 3rd term is 15 (each term increases by 5).",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_004",
+      "question": "What is the 6th term in the sequence 1, 3, 5, 7, 9, ...?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct_answer": "11",
+      "explanation": "Starting at 1 and adding 2 repeatedly, the 6th term is 11.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_005",
+      "question": "What is the 5th term in the sequence 10, 20, 30, 40, 50, ...?",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "correct_answer": "50",
+      "explanation": "This is an arithmetic progression with common difference 10.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_006",
+      "question": "Find the next number: 7, 14, 28, 56, ?",
+      "options": [
+        "98",
+        "112",
+        "84",
+        "120"
+      ],
+      "correct_answer": "112",
+      "explanation": "Each term doubles; thus 56×2 = 112.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_007",
+      "question": "Find the missing term: 3, 6, __, 12, 15.",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct_answer": "9",
+      "explanation": "The sequence increases by 3: 3, 6, 9, 12, 15.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_008",
+      "question": "What is the 4th term in the sequence: 2, 5, 8, 11, ...?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct_answer": "11",
+      "explanation": "The sequence increases by 3, so the 4th term is 11.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_009",
+      "question": "What is the next number in the sequence: 9, 16, 25, ?",
+      "options": [
+        "30",
+        "34",
+        "36",
+        "40"
+      ],
+      "correct_answer": "36",
+      "explanation": "These are perfect squares: 3², 4², 5², so next is 6² = 36.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_010",
+      "question": "What is the next number in the sequence: 4, 9, 16, 25, ?",
+      "options": [
+        "30",
+        "35",
+        "36",
+        "49"
+      ],
+      "correct_answer": "36",
+      "explanation": "These are consecutive square numbers: 2², 3², 4², 5², so next is 6² = 36.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_011",
+      "question": "A sequence is defined by a(n) = 3 × a(n-1) + 1 with a(1)=2. What is a(3)?",
+      "options": [
+        "7",
+        "15",
+        "19",
+        "22"
+      ],
+      "correct_answer": "22",
+      "explanation": "a(2)=3×2+1=7 and a(3)=3×7+1=22.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_012",
+      "question": "In a geometric sequence, the first term is 3 and the common ratio is 2. What is the 4th term?",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "48"
+      ],
+      "correct_answer": "24",
+      "explanation": "The 4th term is 3 × 2³ = 24.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_013",
+      "question": "Find the missing term in the sequence: 2, 4, 8, __, 32.",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct_answer": "16",
+      "explanation": "Each term doubles: 2, 4, 8, 16, 32.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_014",
+      "question": "The sequence 5, 8, 13, 21, ... follows which pattern?",
+      "options": [
+        "Addition of previous two terms",
+        "Multiplication by 2",
+        "Square numbers",
+        "Prime numbers"
+      ],
+      "correct_answer": "Addition of previous two terms",
+      "explanation": "Each term (after the first two) is the sum of its two predecessors (a Fibonacci-type pattern).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_015",
+      "question": "In the sequence 100, 95, 90, __, 80, what is the missing number?",
+      "options": [
+        "80",
+        "83",
+        "85",
+        "87"
+      ],
+      "correct_answer": "85",
+      "explanation": "The sequence decreases by 5; thus, 90 – 5 = 85.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_016",
+      "question": "All A are B. All B are C. Therefore, all A are:",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "None"
+      ],
+      "correct_answer": "C",
+      "explanation": "By transitive property, if A ⊆ B and B ⊆ C, then A ⊆ C.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_017",
+      "question": "Some P are Q. All Q are R. Therefore:",
+      "options": [
+        "All P are R",
+        "Some P are R",
+        "None",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Some P are R",
+      "explanation": "At least those P that are Q will be R.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_018",
+      "question": "If all doctors are professionals and some professionals are artists, can we conclude that some doctors are artists?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All doctors are artists"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "The given information does not guarantee any overlap between doctors and artists.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_019",
+      "question": "All roses are flowers. Some flowers fade quickly. Can we say that some roses fade quickly?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All roses fade quickly"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "The premises do not specify whether the subset of flowers that fade quickly includes roses.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_020",
+      "question": "No mammals lay eggs. The platypus lays eggs. Therefore, the platypus is:",
+      "options": [
+        "A mammal",
+        "Not a mammal",
+        "A reptile",
+        "An amphibian"
+      ],
+      "correct_answer": "Not a mammal",
+      "explanation": "Based strictly on the premises, since no mammals lay eggs, the egg-laying platypus would not be a mammal (even though real-life biology is more nuanced).",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "ANAL_021",
+      "question": "All poets are dreamers. Some dreamers are visionaries. Therefore, some poets are visionaries?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All poets are visionaries"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "The information isn’t sufficient to conclude the overlap between poets and visionaries.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_022",
+      "question": "No reptiles are warm-blooded. All snakes are reptiles. Therefore, all snakes are:",
+      "options": [
+        "Warm-blooded",
+        "Cold-blooded",
+        "Amphibious",
+        "None of the above"
+      ],
+      "correct_answer": "Cold-blooded",
+      "explanation": "Since snakes are reptiles and reptiles are not warm-blooded, snakes must be cold-blooded.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_023",
+      "question": "If some X are Y, and some Y are Z, then:",
+      "options": [
+        "Some X are definitely Z",
+        "No X are Z",
+        "Cannot be determined",
+        "All X are Z"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "The overlap among X, Y, and Z is not clearly defined.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_024",
+      "question": "Every cat is an animal. Some animals are playful. Therefore, some cats are playful?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All cats are playful"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "The premises do not confirm whether the playful animals include cats.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_025",
+      "question": "If all engineers are logical and some logical people are creative, can we infer that some engineers are creative?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All engineers are creative"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "The statements don’t establish a direct link between engineers and creativity.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_026",
+      "question": "Four friends A, B, C, D sit in a row. If A sits to the left of B and C sits to the right of D, which statement must be true?",
+      "options": [
+        "A is first",
+        "D is last",
+        "B is not first",
+        "C is not last"
+      ],
+      "correct_answer": "B is not first",
+      "explanation": "For A to be to the left of B, B cannot be in the first position.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_027",
+      "question": "Five people A, B, C, D, E are sitting around a circular table. If A sits opposite C and B sits to the right of D, who sits immediately to the left of A?",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct_answer": "E",
+      "explanation": "Using circular arrangement logic, E is the only possible candidate.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "ANAL_028",
+      "question": "In a row of six chairs, if F sits in the third chair and G sits immediately next to F, which positions can G occupy?",
+      "options": [
+        "2nd and 4th",
+        "1st and 6th",
+        "3rd and 4th",
+        "2nd and 5th"
+      ],
+      "correct_answer": "2nd and 4th",
+      "explanation": "G must be adjacent to the third chair, so position 2 or 4.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_029",
+      "question": "Seven students sit in a circle. If H is seated two places away from I and J sits between H and I, who cannot be adjacent to J?",
+      "options": [
+        "H",
+        "I",
+        "Both H and I",
+        "None"
+      ],
+      "correct_answer": "Both H and I",
+      "explanation": "J is strictly between H and I, so neither H nor I can be directly adjacent to J on the outside.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_030",
+      "question": "Four people A, B, C, D sit at a rectangular table. A sits opposite D and next to B. Who sits opposite B?",
+      "options": [
+        "C",
+        "A",
+        "D",
+        "Cannot be determined"
+      ],
+      "correct_answer": "C",
+      "explanation": "Using the table arrangement, C is the one opposite B.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_031",
+      "question": "Six friends are arranged in a row. If M is not at the ends and N is immediately right of M, which position can N NOT occupy?",
+      "options": [
+        "First",
+        "Second",
+        "Fifth",
+        "Sixth"
+      ],
+      "correct_answer": "First",
+      "explanation": "Since N is immediately to the right of M and M is not at the end, N cannot be in the first position.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_032",
+      "question": "Five colleagues sit in a meeting. If the one who started the meeting sits at one end and P did not start the meeting, which seat could P be in?",
+      "options": [
+        "First",
+        "Second",
+        "Fourth",
+        "Fifth"
+      ],
+      "correct_answer": "Second",
+      "explanation": "P cannot be at an end if not the one who started, so a middle seat (e.g., second) is plausible.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_033",
+      "question": "In a circular arrangement of eight, if R is seated between S and T, then R's position is:",
+      "options": [
+        "Unique",
+        "Ambiguous",
+        "Variable",
+        "None of these"
+      ],
+      "correct_answer": "Ambiguous",
+      "explanation": "Without additional information, R’s exact seat cannot be uniquely determined.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_034",
+      "question": "Four students stand in a line. If Q is not at either end and R stands immediately behind Q, which position is impossible for R?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct_answer": "First",
+      "explanation": "R must be behind Q, so cannot be in the first position.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_035",
+      "question": "Five persons A, B, C, D, E are arranged in a circle. If A sits to the left of B and opposite E, who sits to the right of A?",
+      "options": [
+        "C",
+        "B",
+        "D",
+        "Cannot be determined"
+      ],
+      "correct_answer": "B",
+      "explanation": "Using circular seating rules, B must be to the right of A.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_036",
+      "question": "Find the next shape in the series: Circle, Square, Triangle, Circle, Square, ?",
+      "options": [
+        "Triangle",
+        "Circle",
+        "Square",
+        "Rectangle"
+      ],
+      "correct_answer": "Triangle",
+      "explanation": "The shapes repeat in the order: Circle, Square, Triangle.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_037",
+      "question": "Which figure comes next if the pattern is: 1 star, 2 stars, 3 stars, ?",
+      "options": [
+        "2 stars",
+        "4 stars",
+        "5 stars",
+        "3 stars"
+      ],
+      "correct_answer": "4 stars",
+      "explanation": "The pattern increments by one star each time.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_038",
+      "question": "Identify the pattern: 2, 4, 8, 16, ?",
+      "options": [
+        "20",
+        "24",
+        "32",
+        "18"
+      ],
+      "correct_answer": "32",
+      "explanation": "Each term doubles the previous one.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_039",
+      "question": "What comes next in the series: A, C, F, J, ?",
+      "options": [
+        "O",
+        "N",
+        "M",
+        "L"
+      ],
+      "correct_answer": "O",
+      "explanation": "The increments increase by one (A+2=B, then +3, +4, so next +5 from J gives O).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_040",
+      "question": "Find the odd one out: 2, 3, 5, 7, 9.",
+      "options": [
+        "2",
+        "3",
+        "7",
+        "9"
+      ],
+      "correct_answer": "9",
+      "explanation": "9 is not a prime number while the others are.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_041",
+      "question": "Which letter completes the series: B, D, G, K, ?",
+      "options": [
+        "P",
+        "O",
+        "Q",
+        "R"
+      ],
+      "correct_answer": "P",
+      "explanation": "The increments are +2, +3, +4, so next +5 from K gives P.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_042",
+      "question": "Select the number that best completes the series: 10, 7, 4, ?",
+      "options": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "correct_answer": "1",
+      "explanation": "The series decreases by 3 each time.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_043",
+      "question": "Determine the next element: 5, 10, 20, 40, ?",
+      "options": [
+        "50",
+        "60",
+        "80",
+        "100"
+      ],
+      "correct_answer": "80",
+      "explanation": "Each term doubles; 40×2 = 80.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_044",
+      "question": "Which number does not belong in the series: 3, 6, 9, 12, 15, 19?",
+      "options": [
+        "3",
+        "9",
+        "12",
+        "19"
+      ],
+      "correct_answer": "19",
+      "explanation": "19 breaks the pattern of adding 3.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_045",
+      "question": "In the sequence 2, 3, 5, 8, 12, ?, what is the next number?",
+      "options": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "correct_answer": "17",
+      "explanation": "The differences increase by 1 each time (1, 2, 3, 4, so next difference is 5: 12+5=17).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_046",
+      "question": "Is X greater than Y? (1) X = 5, (2) Y = 3",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "X is 5 and Y is 3; thus, X > Y.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_047",
+      "question": "Is the number Z even? (1) Z is divisible by 2, (2) Z is a prime number",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Depends"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "A number divisible by 2 is even, regardless of it being prime.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_048",
+      "question": "What is the value of A? (1) A + 3 = 10, (2) A - 2 = 5",
+      "options": [
+        "7",
+        "8",
+        "5",
+        "Cannot be determined"
+      ],
+      "correct_answer": "7",
+      "explanation": "Both equations yield A = 7.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_049",
+      "question": "Is the number N positive? (1) N² = 16, (2) N is an integer",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Insufficient",
+      "explanation": "N could be 4 or -4, so the information is insufficient.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_050",
+      "question": "Does the rectangle have a longer side than 10? (1) Area = 55, (2) Width = 5",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Depends"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Length = Area/Width = 55/5 = 11, which is greater than 10.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_051",
+      "question": "Find the value of B? (1) 2B = 14, (2) B - 3 = 4",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "Cannot be determined"
+      ],
+      "correct_answer": "7",
+      "explanation": "Both equations yield B = 7.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_052",
+      "question": "Is the sum of two numbers greater than 20? (1) First number = 12, (2) Second number = 9",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Depends"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "12 + 9 = 21, which is greater than 20.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_053",
+      "question": "Determine if C is a multiple of 5. (1) C ends with 5, (2) C is odd",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Depends"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "A number ending in 5 is always a multiple of 5.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_054",
+      "question": "Is the fraction D/E less than 1? (1) D = 3, (2) E = 5",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Depends"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "3/5 is less than 1.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_055",
+      "question": "Is F a prime number? (1) F = 15, (2) F has factors 1, 3, 5, 15",
+      "options": [
+        "Yes",
+        "No",
+        "Insufficient",
+        "Depends"
+      ],
+      "correct_answer": "No",
+      "explanation": "15 has factors other than 1 and itself, so it is not prime.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_056",
+      "question": "Statement: All politicians are honest. Conclusion: Some politicians are honest. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "If all are honest, then at least one is honest.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_057",
+      "question": "Statement: No student is lazy. Conclusion: All lazy people are students. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "No",
+      "explanation": "The conclusion reverses the given statement and is invalid.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_058",
+      "question": "Statement: Every artist is creative. Conclusion: Some creative people are artists. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "If all artists are creative, then at least one creative person is an artist.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_059",
+      "question": "Statement: Some athletes are rich. Conclusion: All rich people are athletes. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "No",
+      "explanation": "The given information does not support the conclusion.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_060",
+      "question": "Statement: All engineers are problem-solvers. Conclusion: Some problem-solvers are engineers. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Since every engineer is a problem-solver, at least one problem-solver must be an engineer.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_061",
+      "question": "Statement: No animal can fly. Conclusion: Some animals cannot fly. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "If no animal can fly, then certainly some animals (indeed, all) cannot fly.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_062",
+      "question": "Statement: Some fruits are sweet. Conclusion: All sweet things are fruits. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "No",
+      "explanation": "The conclusion makes an overgeneralization.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_063",
+      "question": "Statement: Every teacher is knowledgeable. Conclusion: Some knowledgeable people are teachers. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "If every teacher is knowledgeable, then at least one knowledgeable person is a teacher.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_064",
+      "question": "Statement: No building is lightweight. Conclusion: Some heavy objects are buildings. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "If no building is lightweight, then buildings are heavy.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_065",
+      "question": "Statement: All cars are fast. Conclusion: Some fast things are cars. Is the conclusion valid?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "If all cars are fast, then at least one fast thing is a car.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_066",
+      "question": "Book is to Reading as Fork is to:",
+      "options": [
+        "Drawing",
+        "Writing",
+        "Stirring",
+        "Eating"
+      ],
+      "correct_answer": "Eating",
+      "explanation": "A fork is used for eating as a book is used for reading.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_067",
+      "question": "Bird is to Sky as Fish is to:",
+      "options": [
+        "Water",
+        "Land",
+        "Tree",
+        "Desert"
+      ],
+      "correct_answer": "Water",
+      "explanation": "Fish naturally live in water.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_068",
+      "question": "Knife is to Cut as Pen is to:",
+      "options": [
+        "Draw",
+        "Write",
+        "Erase",
+        "Think"
+      ],
+      "correct_answer": "Write",
+      "explanation": "A pen is used for writing.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_069",
+      "question": "Hot is to Cold as Up is to:",
+      "options": [
+        "Down",
+        "Left",
+        "Right",
+        "Forward"
+      ],
+      "correct_answer": "Down",
+      "explanation": "Up is the opposite of down.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_070",
+      "question": "Smile is to Happy as Frown is to:",
+      "options": [
+        "Angry",
+        "Sad",
+        "Mad",
+        "Joyful"
+      ],
+      "correct_answer": "Sad",
+      "explanation": "A frown is typically associated with sadness.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_071",
+      "question": "Day is to Night as Summer is to:",
+      "options": [
+        "Winter",
+        "Autumn",
+        "Spring",
+        "Rainy"
+      ],
+      "correct_answer": "Winter",
+      "explanation": "Summer is opposite to winter.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_072",
+      "question": "Cup is to Drink as Plate is to:",
+      "options": [
+        "Food",
+        "Eat",
+        "Serve",
+        "Clean"
+      ],
+      "correct_answer": "Food",
+      "explanation": "A plate holds food, just as a cup holds a drink.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_073",
+      "question": "Pen is to Writer as Brush is to:",
+      "options": [
+        "Painter",
+        "Dancer",
+        "Singer",
+        "Actor"
+      ],
+      "correct_answer": "Painter",
+      "explanation": "A brush is an instrument used by a painter.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_074",
+      "question": "Engine is to Car as Heart is to:",
+      "options": [
+        "Body",
+        "Organ",
+        "Pump",
+        "Life"
+      ],
+      "correct_answer": "Body",
+      "explanation": "The heart is essential to the body like an engine to a car.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_075",
+      "question": "Light is to Dark as Truth is to:",
+      "options": [
+        "Lie",
+        "Secret",
+        "Myth",
+        "Fiction"
+      ],
+      "correct_answer": "Lie",
+      "explanation": "Truth is the opposite of a lie.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_076",
+      "question": "If 5 pencils cost Rs.25, what is the cost of 8 pencils?",
+      "options": [
+        "Rs.30",
+        "Rs.35",
+        "Rs.40",
+        "Rs.45"
+      ],
+      "correct_answer": "Rs.40",
+      "explanation": "Unit cost = Rs.5; 8 pencils cost 8×5 = Rs.40.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_077",
+      "question": "A car travels 60 km in 1 hour. How far will it travel in 3 hours?",
+      "options": [
+        "120 km",
+        "150 km",
+        "180 km",
+        "200 km"
+      ],
+      "correct_answer": "180 km",
+      "explanation": "Distance = Speed × Time; 60×3 = 180 km.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_078",
+      "question": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+      "options": [
+        "20",
+        "25",
+        "15",
+        "10"
+      ],
+      "correct_answer": "20",
+      "explanation": "For every 3 boys, there are 2 girls; (30/3)×2 = 20.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_079",
+      "question": "A rectangle's length is twice its width. If the perimeter is 36, what is the width?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "6",
+      "explanation": "Let width = w, length = 2w. Then 2(w+2w)=36, so 6w=36, w=6.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_080",
+      "question": "If the average of 5 numbers is 20, what is the sum of the numbers?",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "correct_answer": "100",
+      "explanation": "Total sum = Average × Count = 20×5 = 100.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_081",
+      "question": "If a book is discounted by 20% and its sale price is Rs.80, what is the original price?",
+      "options": [
+        "Rs.100",
+        "Rs.90",
+        "Rs.110",
+        "Rs.120"
+      ],
+      "correct_answer": "Rs.100",
+      "explanation": "Original price = 80/0.8 = Rs.100.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_082",
+      "question": "If 3 oranges cost Rs.15, what is the cost of 7 oranges?",
+      "options": [
+        "Rs.30",
+        "Rs.35",
+        "Rs.40",
+        "Rs.45"
+      ],
+      "correct_answer": "Rs.35",
+      "explanation": "Cost per orange = Rs.5; 7 oranges cost 7×5 = Rs.35.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_083",
+      "question": "If a train travels at 90 km/h, how long does it take to cover 180 km?",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "3 hours",
+        "4 hours"
+      ],
+      "correct_answer": "2 hours",
+      "explanation": "Time = Distance/Speed = 180/90 = 2 hours.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_084",
+      "question": "A shop sells pens in packs of 6. If you buy 4 packs, how many pens do you get?",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correct_answer": "24",
+      "explanation": "4 packs × 6 pens per pack = 24 pens.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_085",
+      "question": "If the sum of two numbers is 50 and one number is 30, what is the other number?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_answer": "20",
+      "explanation": "The other number = 50 - 30 = 20.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_086",
+      "question": "If the 1st of a month is a Monday, what day is the 15th?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "correct_answer": "Monday",
+      "explanation": "14 days later is exactly two weeks, so the day repeats (Monday).",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_087",
+      "question": "In a non-leap year, how many days are there in February?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "correct_answer": "28",
+      "explanation": "February has 28 days in a non-leap year.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_088",
+      "question": "If today is Wednesday, what day will it be 10 days later?",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "correct_answer": "Saturday",
+      "explanation": "10 days later from Wednesday falls on Saturday (10 mod 7 = 3 days ahead).",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_089",
+      "question": "Which month has the least number of days?",
+      "options": [
+        "February",
+        "April",
+        "June",
+        "September"
+      ],
+      "correct_answer": "February",
+      "explanation": "February has the fewest days.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_090",
+      "question": "If the 25th of December is a Wednesday, what day was the 1st of December?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correct_answer": "Sunday",
+      "explanation": "Counting back 24 days (which is 3 weeks and 3 days) from Wednesday gives Sunday.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_091",
+      "question": "Which of the following dates is a palindrome in the format DDMMYY? (Assume it’s a valid date)",
+      "options": [
+        "100121",
+        "121021",
+        "311211",
+        "010101"
+      ],
+      "correct_answer": "010101",
+      "explanation": "010101 reads the same forwards and backwards.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "ANAL_092",
+      "question": "How many months in a year have exactly 31 days?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "correct_answer": "7",
+      "explanation": "There are 7 months with 31 days.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_093",
+      "question": "If a calendar shows February with 28 days, the year is likely:",
+      "options": [
+        "Leap year",
+        "Non-leap year",
+        "Invalid",
+        "Cannot determine"
+      ],
+      "correct_answer": "Non-leap year",
+      "explanation": "February has 28 days in a non-leap year.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_094",
+      "question": "If New Year's Day falls on a Friday, what day is Christmas of the same year? (Assume non-leap year)",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "correct_answer": "Friday",
+      "explanation": "In a non-leap year, 364 days later falls on the same day of the week.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_095",
+      "question": "If a date is written as 12/02/2025 in DD/MM/YYYY format and it is known to be a Wednesday, what day is it?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "correct_answer": "Wednesday",
+      "explanation": "The given information confirms the day as Wednesday.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_096",
+      "question": "Five friends (A, B, C, D, E) have different favorite colors: Red, Blue, Green, Yellow, Purple. If A doesn't like Red, B doesn't like Blue, and C likes Green, which color can E not have?",
+      "options": [
+        "Green",
+        "Red",
+        "Blue",
+        "Yellow"
+      ],
+      "correct_answer": "Green",
+      "explanation": "Since C likes Green, E cannot also have Green if all colors are unique.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_097",
+      "question": "In a race, if F finishes before G and H finishes after G, who is definitely not last?",
+      "options": [
+        "F",
+        "G",
+        "H",
+        "Cannot be determined"
+      ],
+      "correct_answer": "F",
+      "explanation": "F finishes before G, so F cannot be last.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_098",
+      "question": "In a class, if the tallest is not the smartest and the smartest is not the fastest, then can the tallest be the fastest?",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "There is no information contradicting the possibility.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_099",
+      "question": "Four people have different pets: dog, cat, bird, fish. If I doesn't have the dog and J doesn't have the fish, who can have the bird?",
+      "options": [
+        "I",
+        "J",
+        "Either",
+        "None"
+      ],
+      "correct_answer": "Either",
+      "explanation": "There is no restriction preventing either from having the bird.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_100",
+      "question": "In a group where only one person always tells the truth and the others always lie, if person K says 'I am the liar', who is the truth-teller?",
+      "options": [
+        "K",
+        "Not K",
+        "Cannot be determined",
+        "Everyone"
+      ],
+      "correct_answer": "Not K",
+      "explanation": "A truth-teller would never call themselves a liar.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "ANAL_101",
+      "question": "Arrange the words: 'big', 'small', 'tall', 'short' in order of size. Which word comes first?",
+      "options": [
+        "big",
+        "small",
+        "tall",
+        "short"
+      ],
+      "correct_answer": "small",
+      "explanation": "Small is the smallest among the given adjectives.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_102",
+      "question": "Which number does not belong: 4, 8, 15, 16, 23, 42?",
+      "options": [
+        "15",
+        "8",
+        "16",
+        "23"
+      ],
+      "correct_answer": "15",
+      "explanation": "15 is the outlier in this set.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_103",
+      "question": "If the order of preference is A > B > C > D, which one is second?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "B",
+      "explanation": "B is second in the given order.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_104",
+      "question": "Arrange the following numbers in ascending order: 45, 12, 67, 23. Which is the correct order?",
+      "options": [
+        "12, 23, 45, 67",
+        "12, 45, 23, 67",
+        "23, 12, 45, 67",
+        "67, 45, 23, 12"
+      ],
+      "correct_answer": "12, 23, 45, 67",
+      "explanation": "The correct ascending order is 12, 23, 45, 67.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_105",
+      "question": "Which item is the odd one out: Apple, Banana, Carrot, Mango?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Carrot",
+        "Mango"
+      ],
+      "correct_answer": "Carrot",
+      "explanation": "Carrot is a vegetable while the others are fruits.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_106",
+      "question": "Arrange the days of the week starting from Monday. Which day is fourth?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "correct_answer": "Thursday",
+      "explanation": "The order is Monday, Tuesday, Wednesday, Thursday, ...",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_107",
+      "question": "If a sequence of people is arranged by height: L, M, N, O, and M is taller than N, who is likely the shortest?",
+      "options": [
+        "L",
+        "M",
+        "N",
+        "O"
+      ],
+      "correct_answer": "N",
+      "explanation": "N is shorter than M and assumed to be at the lower end.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_108",
+      "question": "Given the order of ages: P < Q < R < S, who is the second oldest?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "correct_answer": "R",
+      "explanation": "From youngest to oldest: P, Q, R, S; hence, second oldest is R.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_109",
+      "question": "Arrange the numbers: 3, 5, 7, 9 in ascending order. Which is the third number?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct_answer": "7",
+      "explanation": "In order: 3, 5, 7, 9 – the third is 7.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_110",
+      "question": "If the order of events is E1, E2, E3, E4, which event happens last?",
+      "options": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "correct_answer": "E4",
+      "explanation": "E4 is the last event in the sequence.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_111",
+      "question": "All fruits have seeds. Tomatoes have seeds. Therefore, tomatoes are:",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Neither",
+        "Both"
+      ],
+      "correct_answer": "Fruits",
+      "explanation": "Based on the syllogism, tomatoes fall under fruits.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_112",
+      "question": "All poets write. Some writers are critics. Therefore, some poets are:",
+      "options": [
+        "Critics",
+        "Writers",
+        "Not writers",
+        "None"
+      ],
+      "correct_answer": "Writers",
+      "explanation": "Since all poets write, they are among the writers.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_113",
+      "question": "All metals conduct electricity. Gold is a metal. Therefore, gold:",
+      "options": [
+        "Conducts electricity",
+        "Does not conduct electricity",
+        "Sometimes conducts electricity",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Conducts electricity",
+      "explanation": "By definition, all metals (including gold) conduct electricity.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_114",
+      "question": "No reptiles have hair. Snakes are reptiles. Therefore, snakes:",
+      "options": [
+        "Have hair",
+        "Do not have hair",
+        "Sometimes have hair",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Do not have hair",
+      "explanation": "Since snakes are reptiles and reptiles lack hair, snakes do not have hair.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_115",
+      "question": "All squares are rectangles. Some rectangles are blue. Therefore, some squares are blue?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All squares are blue"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "We cannot be sure if the blue rectangles include squares.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_116",
+      "question": "Every actor is a performer. Some performers are singers. Therefore, some actors are:",
+      "options": [
+        "Singers",
+        "Not singers",
+        "Both",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "There is not enough information to conclude that any actor is a singer.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_117",
+      "question": "Every car is a vehicle. All cars have wheels. Therefore, some vehicles are cars?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All vehicles are cars"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Since every car is a vehicle, at least one vehicle is a car.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_118",
+      "question": "All computers are electronic. Some electronics are expensive. Therefore, some computers are expensive?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All computers are expensive"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "The premises do not guarantee that any computer is expensive.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_119",
+      "question": "No birds are mammals. Some pets are birds. Therefore, some pets are:",
+      "options": [
+        "Mammals",
+        "Not mammals",
+        "Both",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Not mammals",
+      "explanation": "Since birds are not mammals, pets that are birds are not mammals.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_120",
+      "question": "All mathematicians are logical. Some logical people are creative. Therefore, some mathematicians are creative?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "All mathematicians are creative"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "We cannot confirm that the creative logical people include mathematicians.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_121",
+      "question": "Which shape has exactly 4 equal sides and 4 right angles?",
+      "options": [
+        "Rectangle",
+        "Square",
+        "Rhombus",
+        "Trapezoid"
+      ],
+      "correct_answer": "Square",
+      "explanation": "A square has 4 equal sides and 4 right angles.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_122",
+      "question": "Which of the following is not a polygon?",
+      "options": [
+        "Triangle",
+        "Circle",
+        "Pentagon",
+        "Hexagon"
+      ],
+      "correct_answer": "Circle",
+      "explanation": "A circle is not a polygon because it has no straight sides.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_123",
+      "question": "A hexagon has how many sides?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "6",
+      "explanation": "By definition, a hexagon has 6 sides.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_124",
+      "question": "Which figure has no straight edges?",
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correct_answer": "Circle",
+      "explanation": "A circle has no straight edges.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_125",
+      "question": "Which shape is known to have the most symmetry: an equilateral triangle or a square?",
+      "options": [
+        "Square",
+        "Equilateral triangle",
+        "Both equally",
+        "Neither"
+      ],
+      "correct_answer": "Square",
+      "explanation": "A square has four axes of symmetry while an equilateral triangle has three.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_126",
+      "question": "What is the next logical figure in the series: △, □, △, □, ?",
+      "options": [
+        "△",
+        "□",
+        "Circle",
+        "Hexagon"
+      ],
+      "correct_answer": "△",
+      "explanation": "The figures alternate, so the next is a triangle (△).",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_127",
+      "question": "Which shape best represents a stop sign?",
+      "options": [
+        "Octagon",
+        "Hexagon",
+        "Pentagon",
+        "Circle"
+      ],
+      "correct_answer": "Octagon",
+      "explanation": "Stop signs are octagonal.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_128",
+      "question": "If a shape has 360° total interior angles and 4 sides, what is each angle in a square?",
+      "options": [
+        "90°",
+        "80°",
+        "100°",
+        "120°"
+      ],
+      "correct_answer": "90°",
+      "explanation": "A square has four equal angles: 360° ÷ 4 = 90°.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_129",
+      "question": "Which shape has the least number of sides?",
+      "options": [
+        "Triangle",
+        "Square",
+        "Pentagon",
+        "Circle"
+      ],
+      "correct_answer": "Triangle",
+      "explanation": "A triangle has 3 sides, which is the least for polygons.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_130",
+      "question": "Which of the following shapes does not have parallel sides?",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Trapezoid",
+        "Parallelogram"
+      ],
+      "correct_answer": "Trapezoid",
+      "explanation": "A trapezoid has only one pair of parallel sides.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_131",
+      "question": "In a grid puzzle with 3 rows and 3 columns, how many cells are there?",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "3"
+      ],
+      "correct_answer": "9",
+      "explanation": "A 3×3 grid contains 9 cells.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_132",
+      "question": "If in a grid puzzle each row contains a unique number from 1 to 3, what is the sum of the numbers in each row?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correct_answer": "6",
+      "explanation": "The sum of 1, 2, and 3 is 6.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_133",
+      "question": "In a seating grid, if person A is in row 1 column 1 and person B is in row 1 column 3, who is in the middle column?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "There isn’t enough information to determine who occupies the middle cell.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_134",
+      "question": "If a puzzle grid has 4 rows and 4 columns, how many total cells does it have?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "correct_answer": "16",
+      "explanation": "A 4×4 grid contains 16 cells.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_135",
+      "question": "In a logic puzzle, if 4 colors (red, blue, green, yellow) are each assigned to a unique person, how many assignments are possible?",
+      "options": [
+        "24",
+        "12",
+        "16",
+        "8"
+      ],
+      "correct_answer": "24",
+      "explanation": "There are 4! = 24 possible unique assignments.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_136",
+      "question": "If 3 items can be arranged in 3 positions without repetition, how many arrangements exist?",
+      "options": [
+        "6",
+        "9",
+        "3",
+        "8"
+      ],
+      "correct_answer": "6",
+      "explanation": "There are 3! = 6 possible arrangements.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_137",
+      "question": "In a 5×5 grid, what is the total number of cells?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct_answer": "25",
+      "explanation": "A 5×5 grid contains 25 cells.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_138",
+      "question": "If a puzzle requires matching 4 people with 4 different hobbies, how many unique combinations exist?",
+      "options": [
+        "16",
+        "24",
+        "64",
+        "256"
+      ],
+      "correct_answer": "24",
+      "explanation": "There are 4! = 24 unique combinations.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_139",
+      "question": "In a grid-based puzzle, if two rows share one common attribute and there are 5 total attributes, how many unique attributes remain?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4",
+      "explanation": "One attribute is shared, so 5 - 1 = 4 unique attributes remain.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "ANAL_140",
+      "question": "A logic grid puzzle typically requires what kind of reasoning?",
+      "options": [
+        "Numerical",
+        "Spatial",
+        "Deductive",
+        "Creative"
+      ],
+      "correct_answer": "Deductive",
+      "explanation": "Logic grid puzzles require deductive reasoning.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_141",
+      "question": "If John is older than Mike and Mike is older than Sarah, who is the oldest?",
+      "options": [
+        "John",
+        "Mike",
+        "Sarah",
+        "Cannot be determined"
+      ],
+      "correct_answer": "John",
+      "explanation": "John is older than Mike, who is older than Sarah.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_142",
+      "question": "If all roses are flowers and some flowers fade quickly, can we deduce that some roses fade quickly?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "There isn’t enough information to determine the fading pattern of roses.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_143",
+      "question": "If a statement says 'Every student passed the exam' and you know one student failed, what can you conclude?",
+      "options": [
+        "The statement is false",
+        "The statement is true",
+        "Cannot be determined",
+        "Some students passed"
+      ],
+      "correct_answer": "The statement is false",
+      "explanation": "One failure contradicts the statement that every student passed.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_144",
+      "question": "If A > B and B = C, then A is:",
+      "options": [
+        "Less than C",
+        "Equal to C",
+        "Greater than C",
+        "None of these"
+      ],
+      "correct_answer": "Greater than C",
+      "explanation": "Since B equals C and A is greater than B, A is greater than C.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_145",
+      "question": "If some cars are electric and all electric vehicles are efficient, are all cars efficient?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "Only some cars are electric; the efficiency of non-electric cars is unknown.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_146",
+      "question": "If a person always lies and they say 'I am honest', what can be inferred?",
+      "options": [
+        "They are honest",
+        "They are lying",
+        "No inference",
+        "Ambiguous"
+      ],
+      "correct_answer": "They are lying",
+      "explanation": "A liar claiming honesty creates a paradox indicating falsehood.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_147",
+      "question": "In a contest where the highest score wins, if Tom scores 90, Jerry 85, and Ann 90, who wins?",
+      "options": [
+        "Tom",
+        "Ann",
+        "Both Tom and Ann",
+        "Jerry"
+      ],
+      "correct_answer": "Both Tom and Ann",
+      "explanation": "Tom and Ann tie with the highest score.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_148",
+      "question": "If every time it rains the ground gets wet, and the ground is wet, can we conclude it rained?",
+      "options": [
+        "Yes",
+        "No",
+        "Cannot be determined",
+        "Always"
+      ],
+      "correct_answer": "Cannot be determined",
+      "explanation": "Other factors (like sprinklers) could wet the ground.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_149",
+      "question": "If a red light indicates stop and you see a red light, what should you do?",
+      "options": [
+        "Stop",
+        "Go",
+        "Slow down",
+        "Hurry"
+      ],
+      "correct_answer": "Stop",
+      "explanation": "A red light universally signals to stop.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_150",
+      "question": "No birds are mammals and all sparrows are birds. What can we conclude about sparrows?",
+      "options": [
+        "They are mammals",
+        "They are not mammals",
+        "They are both",
+        "Cannot be determined"
+      ],
+      "correct_answer": "They are not mammals",
+      "explanation": "Since sparrows are birds and birds are not mammals, sparrows are not mammals.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_151",
+      "question": "A bar graph shows sales over 4 quarters: Q1 = 50, Q2 = 60, Q3 = 55, Q4 = 65. Which quarter had the highest sales?",
+      "options": [
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ],
+      "correct_answer": "Q4",
+      "explanation": "Q4 has the highest sales value of 65.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_152",
+      "question": "A line graph shows a rising trend from 10 to 40 over 5 years. What is the average increase per year?",
+      "options": [
+        "7.5",
+        "6.5",
+        "8",
+        "7"
+      ],
+      "correct_answer": "7.5",
+      "explanation": "Average increase = (40 - 10) / 4 = 7.5 (since there are 4 intervals).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_153",
+      "question": "In a pie chart, if 25% represents sales, what fraction is that?",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/3",
+        "1/5"
+      ],
+      "correct_answer": "1/4",
+      "explanation": "25% is equivalent to the fraction 1/4.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_154",
+      "question": "A graph shows that revenue doubled over a year. If initial revenue was Rs.1000, what is the final revenue?",
+      "options": [
+        "Rs.1500",
+        "Rs.2000",
+        "Rs.2500",
+        "Rs.3000"
+      ],
+      "correct_answer": "Rs.2000",
+      "explanation": "Doubling Rs.1000 results in Rs.2000.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_155",
+      "question": "A scatter plot shows a correlation coefficient of 0.9. This indicates:",
+      "options": [
+        "Strong positive correlation",
+        "Weak correlation",
+        "No correlation",
+        "Strong negative correlation"
+      ],
+      "correct_answer": "Strong positive correlation",
+      "explanation": "A coefficient of 0.9 indicates a strong positive relationship.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_156",
+      "question": "If a histogram shows the most frequent score is 70, what does this imply?",
+      "options": [
+        "70 is the mode",
+        "70 is the mean",
+        "70 is the median",
+        "None of the above"
+      ],
+      "correct_answer": "70 is the mode",
+      "explanation": "The mode is the most frequent value.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_157",
+      "question": "A bar graph compares profits of 3 companies: X = 40, Y = 50, Z = 45. Which company is in the middle?",
+      "options": [
+        "X",
+        "Y",
+        "Z",
+        "X and Z"
+      ],
+      "correct_answer": "Z",
+      "explanation": "Company Z’s profit (45) is between X (40) and Y (50).",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_158",
+      "question": "If a line graph's slope is negative, what does it indicate about the trend?",
+      "options": [
+        "Increasing",
+        "Decreasing",
+        "Stable",
+        "Fluctuating"
+      ],
+      "correct_answer": "Decreasing",
+      "explanation": "A negative slope means the value decreases as the independent variable increases.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_159",
+      "question": "A graph shows temperature over a week. If the average temperature is 30°C for 7 days, what is the total sum of temperatures?",
+      "options": [
+        "210°C",
+        "200°C",
+        "220°C",
+        "230°C"
+      ],
+      "correct_answer": "210°C",
+      "explanation": "Total = Average × Number of days = 30×7 = 210°C.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_160",
+      "question": "If a graph shows a 20% increase from Q1 to Q2 and Q1 sales were Rs.500, what are Q2 sales?",
+      "options": [
+        "Rs.600",
+        "Rs.700",
+        "Rs.650",
+        "Rs.550"
+      ],
+      "correct_answer": "Rs.600",
+      "explanation": "20% of 500 = 100; thus, 500 + 100 = Rs.600.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_161",
+      "question": "If the statement 'No dogs are cats' is true, then can any dog be a cat?",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Cannot be determined"
+      ],
+      "correct_answer": "No",
+      "explanation": "By definition, dogs cannot be cats.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_162",
+      "question": "If every number divisible by 4 is even, is 16 even?",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Cannot be determined"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "16 is divisible by 4 and therefore is even.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_163",
+      "question": "If a piece of fruit is an apple, can it be a citrus?",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Cannot be determined"
+      ],
+      "correct_answer": "No",
+      "explanation": "Apples are not classified as citrus fruits.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_164",
+      "question": "If a vehicle is not fuel-efficient, what can be inferred?",
+      "options": [
+        "It uses a lot of fuel",
+        "It uses less fuel",
+        "It is electric",
+        "None of the above"
+      ],
+      "correct_answer": "It uses a lot of fuel",
+      "explanation": "A vehicle that is not fuel-efficient typically consumes more fuel.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_165",
+      "question": "If all squares are rectangles, is every rectangle a square?",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Cannot be determined"
+      ],
+      "correct_answer": "No",
+      "explanation": "Only squares are a special type of rectangle with equal sides.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_166",
+      "question": "If a student scores above 90, they get an A. John scored 92. What grade does John get?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "A",
+      "explanation": "John scored above 90, so he gets an A.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_167",
+      "question": "If a person is a bachelor, what can be inferred?",
+      "options": [
+        "Married",
+        "Unmarried",
+        "Divorced",
+        "None of the above"
+      ],
+      "correct_answer": "Unmarried",
+      "explanation": "A bachelor is by definition an unmarried man.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_168",
+      "question": "If the traffic light is green, what should a driver do?",
+      "options": [
+        "Stop",
+        "Go",
+        "Hurry",
+        "Yield"
+      ],
+      "correct_answer": "Go",
+      "explanation": "A green light signals that it is safe to go.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_169",
+      "question": "If a computer is turned off, can it process data?",
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Cannot be determined"
+      ],
+      "correct_answer": "No",
+      "explanation": "A turned-off computer cannot process data.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_170",
+      "question": "If a story is described as a 'thriller', what is most likely true about it?",
+      "options": [
+        "It is boring",
+        "It is suspenseful",
+        "It is educational",
+        "It is humorous"
+      ],
+      "correct_answer": "It is suspenseful",
+      "explanation": "Thrillers are designed to be suspenseful.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_171",
+      "question": "If you are facing north and turn 90° right, which direction are you facing?",
+      "options": [
+        "East",
+        "West",
+        "South",
+        "North"
+      ],
+      "correct_answer": "East",
+      "explanation": "A 90° right turn from north points east.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_172",
+      "question": "If you face south and then turn 180°, which direction do you face?",
+      "options": [
+        "North",
+        "East",
+        "South",
+        "West"
+      ],
+      "correct_answer": "North",
+      "explanation": "A 180° turn reverses your direction.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_173",
+      "question": "If you are facing west and turn 90° left, which direction will you face?",
+      "options": [
+        "South",
+        "North",
+        "East",
+        "West"
+      ],
+      "correct_answer": "South",
+      "explanation": "A 90° left turn from west points south.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_174",
+      "question": "You travel 5 km north, then 5 km east. Which direction is your resultant displacement?",
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
+      "correct_answer": "North-East",
+      "explanation": "The combined movement is diagonally towards the north-east.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_175",
+      "question": "If you walk 3 km west and then 4 km south, what is the shortest distance from the starting point?",
+      "options": [
+        "5 km",
+        "6 km",
+        "7 km",
+        "4 km"
+      ],
+      "correct_answer": "5 km",
+      "explanation": "By the Pythagorean theorem, the distance is √(3² + 4²) = 5 km.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_176",
+      "question": "If you face east and then turn 270° right, which direction will you face?",
+      "options": [
+        "North",
+        "East",
+        "South",
+        "West"
+      ],
+      "correct_answer": "North",
+      "explanation": "A 270° right turn from east is equivalent to a 90° left turn, resulting in facing north.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "ANAL_177",
+      "question": "If you face north and then make a U-turn, which direction are you facing?",
+      "options": [
+        "South",
+        "East",
+        "West",
+        "North"
+      ],
+      "correct_answer": "South",
+      "explanation": "A U-turn reverses your direction to south.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_178",
+      "question": "If two travelers start from the same point, one going north and one going south, how far apart are they after each travels 10 km?",
+      "options": [
+        "10 km",
+        "20 km",
+        "5 km",
+        "15 km"
+      ],
+      "correct_answer": "20 km",
+      "explanation": "They are 10 km + 10 km = 20 km apart.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_179",
+      "question": "If you are walking east and the wind is blowing from the east, what effect does it have?",
+      "options": [
+        "Pushes you forward",
+        "Opposes you",
+        "No effect",
+        "None of the above"
+      ],
+      "correct_answer": "Opposes you",
+      "explanation": "Wind coming from the east acts as a headwind when moving east.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_180",
+      "question": "If you turn 45° right from north, which direction are you approximately facing?",
+      "options": [
+        "North-East",
+        "East",
+        "North-West",
+        "South-East"
+      ],
+      "correct_answer": "North-East",
+      "explanation": "A 45° turn from north points you towards north-east.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_181",
+      "question": "If a company increases its profit by 20% one year and then decreases it by 20% the next, what is the net change?",
+      "options": [
+        "0%",
+        "4% increase",
+        "4% decrease",
+        "20% decrease"
+      ],
+      "correct_answer": "4% decrease",
+      "explanation": "A 20% increase followed by a 20% decrease results in 1.2 × 0.8 = 0.96, a 4% overall decrease.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_182",
+      "question": "If the ratio of red to blue balls is 3:5 and there are 24 red balls, how many blue balls are there?",
+      "options": [
+        "30",
+        "40",
+        "32",
+        "36"
+      ],
+      "correct_answer": "40",
+      "explanation": "24 red balls correspond to (24/3) × 5 = 40 blue balls.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_183",
+      "question": "If a train leaves at 9 AM and reaches its destination at 1 PM, how long is the journey?",
+      "options": [
+        "3 hours",
+        "4 hours",
+        "5 hours",
+        "6 hours"
+      ],
+      "correct_answer": "4 hours",
+      "explanation": "The journey lasts from 9 AM to 1 PM, which is 4 hours.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_184",
+      "question": "If a product's price increases from Rs.200 to Rs.250, what is the percentage increase?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "correct_answer": "25%",
+      "explanation": "Percentage increase = ((250-200)/200)×100 = 25%.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_185",
+      "question": "If 5 machines produce 100 units in an hour, how many units do 8 machines produce in an hour at the same rate?",
+      "options": [
+        "120",
+        "140",
+        "160",
+        "180"
+      ],
+      "correct_answer": "160",
+      "explanation": "Units per machine = 100/5 = 20; 20×8 = 160.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_186",
+      "question": "If the probability of an event is 0.2, what is the probability it does not occur?",
+      "options": [
+        "0.2",
+        "0.8",
+        "0.5",
+        "0.7"
+      ],
+      "correct_answer": "0.8",
+      "explanation": "Probability of not occurring = 1 - 0.2 = 0.8.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_187",
+      "question": "If a car's value depreciates by 10% each year, what is the multiplier for its value after 1 year?",
+      "options": [
+        "0.9",
+        "0.8",
+        "1.1",
+        "1.0"
+      ],
+      "correct_answer": "0.9",
+      "explanation": "A 10% depreciation means the value becomes 90% (or 0.9 times) of its original.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_188",
+      "question": "If a recipe requires 2 eggs for 4 servings, how many eggs are needed for 10 servings?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct_answer": "5",
+      "explanation": "Eggs per serving = 2/4 = 0.5; for 10 servings, 10×0.5 = 5 eggs.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_189",
+      "question": "If a number is increased by 50% and then decreased by 50%, what is the net effect?",
+      "options": [
+        "No change",
+        "25% decrease",
+        "25% increase",
+        "50% decrease"
+      ],
+      "correct_answer": "25% decrease",
+      "explanation": "1.5 × 0.5 = 0.75; the number becomes 75% of its original value (a 25% decrease).",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_190",
+      "question": "If the perimeter of a square is 40, what is its area?",
+      "options": [
+        "100",
+        "64",
+        "121",
+        "144"
+      ],
+      "correct_answer": "100",
+      "explanation": "Side = 40/4 = 10, so area = 10×10 = 100.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_191",
+      "question": "If a person travels 60 km in 1.5 hours, what is the average speed?",
+      "options": [
+        "40 km/h",
+        "45 km/h",
+        "50 km/h",
+        "60 km/h"
+      ],
+      "correct_answer": "40 km/h",
+      "explanation": "Average speed = 60 / 1.5 = 40 km/h.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_192",
+      "question": "If the sum of angles in a triangle is 180° and two angles are 50° and 60°, what is the third angle?",
+      "options": [
+        "70°",
+        "80°",
+        "90°",
+        "100°"
+      ],
+      "correct_answer": "70°",
+      "explanation": "Third angle = 180 - (50+60) = 70°.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_193",
+      "question": "If an item priced at Rs.200 receives a 15% discount, what is the discount amount?",
+      "options": [
+        "Rs.20",
+        "Rs.25",
+        "Rs.30",
+        "Rs.35"
+      ],
+      "correct_answer": "Rs.30",
+      "explanation": "Discount = 15% of 200 = 0.15×200 = Rs.30.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_194",
+      "question": "If two angles of a parallelogram are 60° and 120°, what are the remaining angles?",
+      "options": [
+        "60° and 120°",
+        "90° and 90°",
+        "120° and 120°",
+        "60° and 60°"
+      ],
+      "correct_answer": "60° and 120°",
+      "explanation": "Opposite angles in a parallelogram are equal, so the angles repeat.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_195",
+      "question": "If a book published in 2020 is 300 pages long, what is the average number of pages per year by 2025?",
+      "options": [
+        "50",
+        "60",
+        "55",
+        "45"
+      ],
+      "correct_answer": "60",
+      "explanation": "Over 5 years, average pages per year = 300 / 5 = 60.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_196",
+      "question": "If an employee's salary increases by Rs.2000 to become Rs.10,000, what was the original salary?",
+      "options": [
+        "Rs.8000",
+        "Rs.9000",
+        "Rs.10000",
+        "Rs.7000"
+      ],
+      "correct_answer": "Rs.8000",
+      "explanation": "Original salary = 10000 - 2000 = Rs.8000.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_197",
+      "question": "If the difference between two numbers is 15 and their sum is 55, what is the larger number?",
+      "options": [
+        "35",
+        "30",
+        "25",
+        "40"
+      ],
+      "correct_answer": "35",
+      "explanation": "Let numbers be x and y with x > y. Then x - y = 15 and x + y = 55. Solving gives x = 35.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "ANAL_198",
+      "question": "If a train's speed increases by 20 km/h from 60 km/h, what is its new speed?",
+      "options": [
+        "70 km/h",
+        "80 km/h",
+        "90 km/h",
+        "100 km/h"
+      ],
+      "correct_answer": "80 km/h",
+      "explanation": "New speed = 60 + 20 = 80 km/h.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_199",
+      "question": "If an investment yields a 5% annual return, what is the return on Rs.1000?",
+      "options": [
+        "Rs.50",
+        "Rs.45",
+        "Rs.55",
+        "Rs.60"
+      ],
+      "correct_answer": "Rs.50",
+      "explanation": "5% of 1000 = 0.05×1000 = Rs.50.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "ANAL_200",
+      "question": "If a shop sells 5 items for Rs.250, what is the cost per item?",
+      "options": [
+        "Rs.40",
+        "Rs.45",
+        "Rs.50",
+        "Rs.55"
+      ],
+      "correct_answer": "Rs.50",
+      "explanation": "Cost per item = 250 / 5 = Rs.50.",
+      "difficulty": "Easy"
+    }
+  ]
+  

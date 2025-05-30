@@ -1,25 +1,28 @@
 // src/index.js
 
-// 1) Load .env from project root (one path import only)
+// Load .env from project root
 const path = require('path');
 require('dotenv').config({
   path: path.resolve(__dirname, '../.env')
 });
 
-const express        = require('express');
-const cors           = require('cors');
-const loginSignupRt  = require('./routes/login_signup');
+const express = require('express');
+const cors = require('cors');
+const loginSignupRt = require('./routes/login_signup');
 const authMiddleware = require('./middleware/auth');
-const profileRt      = require('./routes/profile');
-const degreeRt       = require('./routes/degree');
+const profileRt = require('./routes/profile');
+const degreeRt = require('./routes/degree');
+const chatbotRt = require('./routes/chatbot');
 
 const app = express();
+
+// Middleware
 app.use(cors());
+// Parse JSON and URL-encoded bodies
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ limit: '50mb', extended: false }));
 
-// Public routes
-app.use('/api/auth', loginSignupRt);
+// Public uploads route
 app.use(
   '/uploads',
   express.static(
@@ -28,10 +31,18 @@ app.use(
   )
 );
 
+// Body-parser
+const bodyParser = require('body-parser');
+app.use(bodyParser.json());
+
+// Public auth routes
+app.use('/api/auth', loginSignupRt);
+
 // Protected routes
 app.use('/api', authMiddleware);
 app.use('/api', profileRt);
 app.use('/api', degreeRt);
+app.use('/api', chatbotRt);
 
 // Global error handler
 app.use((err, req, res, next) => {
@@ -39,5 +50,6 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Internal server error' });
 });
 
+// Start server
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Server running on port ${port}`));

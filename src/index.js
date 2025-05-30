@@ -15,6 +15,7 @@ const degreeRt = require('./routes/degree');
 const chatbotRt = require('./routes/chatbot');
 const search = require('./routes/universities');
 const cart = require('./routes/cart');
+const testRoutes = require('./routes/test_questions');
 
 const app = express();
 
@@ -46,6 +47,7 @@ app.use('/api', profileRt);
 app.use('/api', degreeRt);
 app.use('/api', chatbotRt);
 app.use('/api', search);
+app.use('/api/tests', testRoutes);
 
 
 app.use('/api', cart);

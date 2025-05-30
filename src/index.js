@@ -13,6 +13,8 @@ const authMiddleware = require('./middleware/auth');
 const profileRt = require('./routes/profile');
 const degreeRt = require('./routes/degree');
 const chatbotRt = require('./routes/chatbot');
+const search = require('./routes/universities');
+const cart = require('./routes/cart');
 
 const app = express();
 
@@ -43,7 +45,10 @@ app.use('/api', authMiddleware);
 app.use('/api', profileRt);
 app.use('/api', degreeRt);
 app.use('/api', chatbotRt);
+app.use('/api', search);
 
+
+app.use('/api', cart);
 // Global error handler
 app.use((err, req, res, next) => {
   console.error(err.stack);

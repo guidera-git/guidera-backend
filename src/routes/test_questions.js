@@ -64,6 +64,7 @@ router.get(
         attemptId: attempt.attempt_id,
         startedAt: attempt.started_at,
         questions: fetchedQuestions,
+        expectedCount: Object.values(DIFFICULTY_DISTRIBUTION).reduce((sum, count) => sum + count, 0)
       });
 
     } catch (err) {

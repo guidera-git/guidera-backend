@@ -1,0 +1,2527 @@
+[
+  {
+    "id": "CHEM_01",
+    "question": "Which of the following is the chemical formula for sulfuric acid?",
+    "options": [
+      "H2SO3",
+      "H2SO4",
+      "HSO4",
+      "H3SO4"
+    ],
+    "correct_answer": "H2SO4",
+    "explanation": "Sulfuric acid is a strong acid with the chemical formula H2SO4, containing two hydrogen atoms and one sulfate ion (SO4²⁻).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_02",
+    "question": "What is the pH value of a neutral solution at 25°C?",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "10"
+    ],
+    "correct_answer": "7",
+    "explanation": "At 25°C, a neutral solution has equal concentrations of H⁺ and OH⁻ ions, resulting in a pH of 7.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_03",
+    "question": "Which element has the atomic number 6?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon",
+      "Boron"
+    ],
+    "correct_answer": "Carbon",
+    "explanation": "Carbon is the element with atomic number 6, located in group 14 of the periodic table.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_04",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Go"
+    ],
+    "correct_answer": "Au",
+    "explanation": "The chemical symbol for gold is Au, derived from its Latin name 'aurum'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_05",
+    "question": "Which of these is a noble gas?",
+    "options": [
+      "Chlorine",
+      "Oxygen",
+      "Neon",
+      "Nitrogen"
+    ],
+    "correct_answer": "Neon",
+    "explanation": "Neon is in Group 18 of the periodic table, which contains the noble gases known for their low reactivity.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_06",
+    "question": "What is the name of the compound NaCl?",
+    "options": [
+      "Sodium chlorate",
+      "Sodium chloride",
+      "Sodium hypochlorite",
+      "Sodium perchlorate"
+    ],
+    "correct_answer": "Sodium chloride",
+    "explanation": "NaCl is the chemical formula for sodium chloride, commonly known as table salt.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_07",
+    "question": "Which of these is NOT a state of matter?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Energy"
+    ],
+    "correct_answer": "Energy",
+    "explanation": "The traditional states of matter are solid, liquid, and gas. Energy is not considered a state of matter.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_08",
+    "question": "What is the chemical formula for methane?",
+    "options": [
+      "CH4",
+      "C2H6",
+      "CH3",
+      "C2H4"
+    ],
+    "correct_answer": "CH4",
+    "explanation": "Methane is the simplest hydrocarbon with one carbon atom bonded to four hydrogen atoms (CH4).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_09",
+    "question": "Which subatomic particle has a negative charge?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Nucleon"
+    ],
+    "correct_answer": "Electron",
+    "explanation": "Electrons carry a negative charge, protons are positive, and neutrons have no charge.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_10",
+    "question": "What is the chemical formula for ammonia?",
+    "options": [
+      "NH3",
+      "NH4",
+      "NO3",
+      "N2H4"
+    ],
+    "correct_answer": "NH3",
+    "explanation": "Ammonia is a compound of nitrogen and hydrogen with the formula NH3.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_11",
+    "question": "Which of these is a property of bases?",
+    "options": [
+      "Turn litmus red",
+      "Taste sour",
+      "Feel slippery",
+      "React with metals to produce H2 gas"
+    ],
+    "correct_answer": "Feel slippery",
+    "explanation": "Bases turn litmus blue, taste bitter, and feel slippery to the touch.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_12",
+    "question": "What is the oxidation state of oxygen in most compounds?",
+    "options": [
+      "+1",
+      "-1",
+      "+2",
+      "-2"
+    ],
+    "correct_answer": "-2",
+    "explanation": "Oxygen typically has an oxidation state of -2, except in peroxides (-1) and when bonded to fluorine (+2).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_13",
+    "question": "Which type of bond is formed by the sharing of electrons?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "correct_answer": "Covalent bond",
+    "explanation": "Covalent bonds involve the sharing of electron pairs between atoms.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_14",
+    "question": "What is the molar mass of water (H2O)?",
+    "options": [
+      "16 g/mol",
+      "17 g/mol",
+      "18 g/mol",
+      "20 g/mol"
+    ],
+    "correct_answer": "18 g/mol",
+    "explanation": "H (1 g/mol) × 2 + O (16 g/mol) = 18 g/mol.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_15",
+    "question": "Which of these elements is a halogen?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Chlorine",
+      "Argon"
+    ],
+    "correct_answer": "Chlorine",
+    "explanation": "Chlorine is in Group 17 (halogens) of the periodic table.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_16",
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": [
+      "CO",
+      "CO2",
+      "C2O",
+      "CO3"
+    ],
+    "correct_answer": "CO2",
+    "explanation": "Carbon dioxide consists of one carbon atom double-bonded to two oxygen atoms (CO2).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_17",
+    "question": "Which of these is a strong acid?",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Hydrochloric acid",
+      "Carbonic acid"
+    ],
+    "correct_answer": "Hydrochloric acid",
+    "explanation": "Hydrochloric acid (HCl) is one of the strong acids that completely dissociates in water.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_18",
+    "question": "What is the process called when a liquid turns into a gas?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correct_answer": "Evaporation",
+    "explanation": "Evaporation is the process where liquid turns to gas at temperatures below its boiling point.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_19",
+    "question": "Which of these is a transition metal?",
+    "options": [
+      "Sodium",
+      "Magnesium",
+      "Iron",
+      "Aluminum"
+    ],
+    "correct_answer": "Iron",
+    "explanation": "Iron is in the d-block of the periodic table, making it a transition metal.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_20",
+    "question": "What is the chemical formula for glucose?",
+    "options": [
+      "C6H12O6",
+      "C12H22O11",
+      "C6H6O6",
+      "C6H10O5"
+    ],
+    "correct_answer": "C6H12O6",
+    "explanation": "Glucose is a simple sugar with the molecular formula C6H12O6.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_21",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct_answer": "Nitrogen",
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere by volume.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_22",
+    "question": "What is the chemical symbol for potassium?",
+    "options": [
+      "P",
+      "Pt",
+      "K",
+      "Ko"
+    ],
+    "correct_answer": "K",
+    "explanation": "The chemical symbol for potassium is K, derived from its Latin name 'kalium'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_23",
+    "question": "Which of these is an alkaline earth metal?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Aluminum",
+      "Zinc"
+    ],
+    "correct_answer": "Calcium",
+    "explanation": "Calcium is in Group 2 of the periodic table, which contains the alkaline earth metals.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_24",
+    "question": "What is the chemical formula for sodium hydroxide?",
+    "options": [
+      "NaH",
+      "NaOH",
+      "NaO",
+      "Na2O"
+    ],
+    "correct_answer": "NaOH",
+    "explanation": "Sodium hydroxide is a strong base with the formula NaOH.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_25",
+    "question": "Which of these is a property of acids?",
+    "options": [
+      "Turn litmus blue",
+      "Taste bitter",
+      "Feel slippery",
+      "React with carbonates to produce CO2"
+    ],
+    "correct_answer": "React with carbonates to produce CO2",
+    "explanation": "Acids react with carbonates to produce carbon dioxide gas, along with water and a salt.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_26",
+    "question": "What is the oxidation state of hydrogen in most compounds?",
+    "options": [
+      "+1",
+      "-1",
+      "+2",
+      "0"
+    ],
+    "correct_answer": "+1",
+    "explanation": "Hydrogen typically has an oxidation state of +1, except in metal hydrides where it's -1.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_27",
+    "question": "Which of these elements is a metalloid?",
+    "options": [
+      "Sodium",
+      "Silicon",
+      "Chlorine",
+      "Calcium"
+    ],
+    "correct_answer": "Silicon",
+    "explanation": "Silicon is a metalloid, exhibiting properties between metals and nonmetals.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_28",
+    "question": "What is the chemical formula for ozone?",
+    "options": [
+      "O2",
+      "O3",
+      "O4",
+      "OH"
+    ],
+    "correct_answer": "O3",
+    "explanation": "Ozone is an allotrope of oxygen consisting of three oxygen atoms (O3).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_29",
+    "question": "Which of these is a diatomic element?",
+    "options": [
+      "Neon",
+      "Carbon",
+      "Nitrogen",
+      "Sulfur"
+    ],
+    "correct_answer": "Nitrogen",
+    "explanation": "Nitrogen exists as N2 in its elemental form, making it one of the seven diatomic elements.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_30",
+    "question": "What is the chemical formula for calcium carbonate?",
+    "options": [
+      "CaCO3",
+      "Ca2CO3",
+      "Ca(CO3)2",
+      "CaC2O4"
+    ],
+    "correct_answer": "CaCO3",
+    "explanation": "Calcium carbonate is a common compound with the formula CaCO3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_31",
+    "question": "Which of these is a greenhouse gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_answer": "Carbon dioxide",
+    "explanation": "Carbon dioxide is a significant greenhouse gas that traps heat in the atmosphere.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_32",
+    "question": "What is the chemical symbol for silver?",
+    "options": [
+      "Si",
+      "Ag",
+      "Au",
+      "Sr"
+    ],
+    "correct_answer": "Ag",
+    "explanation": "The chemical symbol for silver is Ag, derived from its Latin name 'argentum'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_33",
+    "question": "Which of these is a lanthanide?",
+    "options": [
+      "Uranium",
+      "Cerium",
+      "Radium",
+      "Plutonium"
+    ],
+    "correct_answer": "Cerium",
+    "explanation": "Cerium is one of the lanthanide series elements (atomic numbers 57-71).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_34",
+    "question": "What is the chemical formula for hydrogen peroxide?",
+    "options": [
+      "H2O",
+      "HO",
+      "H2O2",
+      "HO2"
+    ],
+    "correct_answer": "H2O2",
+    "explanation": "Hydrogen peroxide is a chemical compound with the formula H2O2.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_35",
+    "question": "Which of these is a property of metals?",
+    "options": [
+      "Brittle",
+      "Poor conductors of heat",
+      "Malleable",
+      "Dull appearance"
+    ],
+    "correct_answer": "Malleable",
+    "explanation": "Metals are typically malleable (can be hammered into thin sheets) and good conductors of heat and electricity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_36",
+    "question": "What is the oxidation state of alkali metals in compounds?",
+    "options": [
+      "+1",
+      "+2",
+      "-1",
+      "+3"
+    ],
+    "correct_answer": "+1",
+    "explanation": "Alkali metals (Group 1) typically have a +1 oxidation state as they readily lose one valence electron.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_37",
+    "question": "Which of these is an example of a physical change?",
+    "options": [
+      "Burning wood",
+      "Rusting iron",
+      "Melting ice",
+      "Digesting food"
+    ],
+    "correct_answer": "Melting ice",
+    "explanation": "Melting ice is a physical change as it only changes the state of matter (solid to liquid) without altering the chemical composition.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_38",
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "NaCl",
+      "Na2Cl",
+      "NaCl2",
+      "Na2Cl2"
+    ],
+    "correct_answer": "NaCl",
+    "explanation": "Table salt is sodium chloride with the chemical formula NaCl.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_39",
+    "question": "Which of these is a carbohydrate?",
+    "options": [
+      "Protein",
+      "Cellulose",
+      "Lipid",
+      "DNA"
+    ],
+    "correct_answer": "Cellulose",
+    "explanation": "Cellulose is a complex carbohydrate (polysaccharide) found in plant cell walls.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_40",
+    "question": "What is the chemical formula for nitric acid?",
+    "options": [
+      "HNO2",
+      "HNO3",
+      "H2NO3",
+      "H3NO3"
+    ],
+    "correct_answer": "HNO3",
+    "explanation": "Nitric acid is a strong acid with the formula HNO3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_41",
+    "question": "Which gas is produced during photosynthesis?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "Photosynthesis produces oxygen as a byproduct from the splitting of water molecules.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_42",
+    "question": "What is the chemical symbol for iron?",
+    "options": [
+      "Ir",
+      "Fe",
+      "In",
+      "Fi"
+    ],
+    "correct_answer": "Fe",
+    "explanation": "The chemical symbol for iron is Fe, derived from its Latin name 'ferrum'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_43",
+    "question": "Which of these is a property of nonmetals?",
+    "options": [
+      "Good conductors of electricity",
+      "Malleable",
+      "Brittle in solid state",
+      "Shiny luster"
+    ],
+    "correct_answer": "Brittle in solid state",
+    "explanation": "Nonmetals are typically brittle in solid state, poor conductors, and lack metallic luster.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_344",
+    "question": "What is the chemical formula for magnesium oxide?",
+    "options": [
+      "MgO",
+      "Mg2O",
+      "MgO2",
+      "Mg2O3"
+    ],
+    "correct_answer": "MgO",
+    "explanation": "Magnesium oxide is an ionic compound with the formula MgO.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_45",
+    "question": "Which of these is an example of a chemical change?",
+    "options": [
+      "Dissolving sugar in water",
+      "Boiling water",
+      "Burning paper",
+      "Melting butter"
+    ],
+    "correct_answer": "Burning paper",
+    "explanation": "Burning paper is a chemical change as it produces new substances (ash, smoke, gases) with different properties.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_346",
+    "question": "What is the oxidation state of sulfur in H2SO4?",
+    "options": [
+      "+2",
+      "+4",
+      "+6",
+      "-2"
+    ],
+    "correct_answer": "+6",
+    "explanation": "In sulfuric acid (H2SO4), sulfur has an oxidation state of +6 (H = +1, O = -2).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_47",
+    "question": "Which of these is a polyatomic ion?",
+    "options": [
+      "Na+",
+      "Cl-",
+      "SO4²⁻",
+      "O²⁻"
+    ],
+    "correct_answer": "SO4²⁻",
+    "explanation": "SO4²⁻ (sulfate) is a polyatomic ion composed of multiple atoms with a net charge.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_48",
+    "question": "What is the chemical formula for aluminum oxide?",
+    "options": [
+      "AlO",
+      "Al2O",
+      "AlO2",
+      "Al2O3"
+    ],
+    "correct_answer": "Al2O3",
+    "explanation": "Aluminum oxide is a chemical compound with the formula Al2O3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_49",
+    "question": "Which of these is a strong base?",
+    "options": [
+      "Ammonia (NH3)",
+      "Sodium hydroxide (NaOH)",
+      "Carbonic acid (H2CO3)",
+      "Water (H2O)"
+    ],
+    "correct_answer": "Sodium hydroxide (NaOH)",
+    "explanation": "Sodium hydroxide is a strong base that completely dissociates in aqueous solution.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_50",
+    "question": "What is the chemical formula for potassium nitrate?",
+    "options": [
+      "KNO2",
+      "KNO3",
+      "K2NO3",
+      "K3NO4"
+    ],
+    "correct_answer": "KNO3",
+    "explanation": "Potassium nitrate is a chemical compound with the formula KNO3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_51",
+    "question": "Which gas is used in balloons to make them float?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Helium",
+      "Carbon dioxide"
+    ],
+    "correct_answer": "Helium",
+    "explanation": "Helium is less dense than air, causing helium-filled balloons to float.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_52",
+    "question": "What is the chemical symbol for mercury?",
+    "options": [
+      "Me",
+      "Mg",
+      "Mr",
+      "Hg"
+    ],
+    "correct_answer": "Hg",
+    "explanation": "The chemical symbol for mercury is Hg, derived from its Latin name 'hydrargyrum'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_53",
+    "question": "Which of these is an actinide?",
+    "options": [
+      "Lanthanum",
+      "Uranium",
+      "Yttrium",
+      "Hafnium"
+    ],
+    "correct_answer": "Uranium",
+    "explanation": "Uranium is one of the actinide series elements (atomic numbers 89-103).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_54",
+    "question": "What is the chemical formula for acetic acid?",
+    "options": [
+      "CH3COOH",
+      "CH3OH",
+      "CH3COCH3",
+      "CH3CH2OH"
+    ],
+    "correct_answer": "CH3COOH",
+    "explanation": "Acetic acid is a weak acid with the chemical formula CH3COOH.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_55",
+    "question": "Which of these is a property of ionic compounds?",
+    "options": [
+      "Low melting points",
+      "Good conductors in solid state",
+      "Soluble in nonpolar solvents",
+      "Form crystal lattices"
+    ],
+    "correct_answer": "Form crystal lattices",
+    "explanation": "Ionic compounds typically form crystal lattices, have high melting points, and conduct electricity when molten or dissolved.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_56",
+    "question": "What is the oxidation state of chromium in K2Cr2O7?",
+    "options": [
+      "+2",
+      "+3",
+      "+6",
+      "+7"
+    ],
+    "correct_answer": "+6",
+    "explanation": "In potassium dichromate (K2Cr2O7), chromium has an oxidation state of +6 (K = +1, O = -2).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_57",
+    "question": "Which of these is an organic compound?",
+    "options": [
+      "CO2",
+      "CH4",
+      "NaCl",
+      "H2O"
+    ],
+    "correct_answer": "CH4",
+    "explanation": "Methane (CH4) is an organic compound containing carbon-hydrogen bonds.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_58",
+    "question": "What is the chemical formula for calcium hydroxide?",
+    "options": [
+      "CaOH",
+      "Ca(OH)2",
+      "Ca2OH",
+      "CaO2H2"
+    ],
+    "correct_answer": "Ca(OH)2",
+    "explanation": "Calcium hydroxide is a compound with the formula Ca(OH)2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_59",
+    "question": "Which of these is a weak acid?",
+    "options": [
+      "Hydrochloric acid (HCl)",
+      "Sulfuric acid (H2SO4)",
+      "Acetic acid (CH3COOH)",
+      "Nitric acid (HNO3)"
+    ],
+    "correct_answer": "Acetic acid (CH3COOH)",
+    "explanation": "Acetic acid is a weak acid that only partially dissociates in aqueous solution.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_60",
+    "question": "What is the chemical formula for sodium bicarbonate?",
+    "options": [
+      "Na2CO3",
+      "NaHCO3",
+      "Na2HCO3",
+      "NaCO3"
+    ],
+    "correct_answer": "NaHCO3",
+    "explanation": "Sodium bicarbonate is a chemical compound with the formula NaHCO3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_61",
+    "question": "Which gas is responsible for the brown color of photochemical smog?",
+    "options": [
+      "Oxygen",
+      "Nitrogen dioxide",
+      "Carbon monoxide",
+      "Methane"
+    ],
+    "correct_answer": "Nitrogen dioxide",
+    "explanation": "Nitrogen dioxide (NO2) is responsible for the brown color of photochemical smog.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_62",
+    "question": "What is the chemical symbol for lead?",
+    "options": [
+      "Ld",
+      "Pb",
+      "Le",
+      "Pl"
+    ],
+    "correct_answer": "Pb",
+    "explanation": "The chemical symbol for lead is Pb, derived from its Latin name 'plumbum'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_63",
+    "question": "Which of these is a characteristic of transition metals?",
+    "options": [
+      "Form colorless compounds",
+      "Have fixed oxidation states",
+      "Form colored compounds",
+      "Poor conductors of electricity"
+    ],
+    "correct_answer": "Form colored compounds",
+    "explanation": "Transition metals often form colored compounds due to d-d electron transitions.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_64",
+    "question": "What is the chemical formula for phosphoric acid?",
+    "options": [
+      "H3PO3",
+      "H3PO4",
+      "HPO4",
+      "H2PO4"
+    ],
+    "correct_answer": "H3PO4",
+    "explanation": "Phosphoric acid is a chemical compound with the formula H3PO4.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_65",
+    "question": "Which of these is a property of covalent compounds?",
+    "options": [
+      "High melting points",
+      "Conduct electricity when molten",
+      "Formed by electron transfer",
+      "Low melting and boiling points"
+    ],
+    "correct_answer": "Low melting and boiling points",
+    "explanation": "Covalent compounds typically have low melting and boiling points as they consist of molecules with weak intermolecular forces.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_66",
+    "question": "What is the oxidation state of manganese in KMnO4?",
+    "options": [
+      "+2",
+      "+4",
+      "+6",
+      "+7"
+    ],
+    "correct_answer": "+7",
+    "explanation": "In potassium permanganate (KMnO4), manganese has an oxidation state of +7 (K = +1, O = -2).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_67",
+    "question": "Which of these is a carbohydrate monomer?",
+    "options": [
+      "Amino acid",
+      "Nucleotide",
+      "Glucose",
+      "Glycerol"
+    ],
+    "correct_answer": "Glucose",
+    "explanation": "Glucose is a monosaccharide, the monomer unit of many carbohydrates.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_68",
+    "question": "What is the chemical formula for potassium hydroxide?",
+    "options": [
+      "KOH",
+      "K2OH",
+      "K(OH)2",
+      "KO2H2"
+    ],
+    "correct_answer": "KOH",
+    "explanation": "Potassium hydroxide is a compound with the formula KOH.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_69",
+    "question": "Which of these is a buffer solution?",
+    "options": [
+      "HCl and NaCl",
+      "NaOH and KOH",
+      "CH3COOH and CH3COONa",
+      "H2SO4 and Na2SO4"
+    ],
+    "correct_answer": "CH3COOH and CH3COONa",
+    "explanation": "A mixture of a weak acid (CH3COOH) and its conjugate base (CH3COO⁻ from CH3COONa) forms a buffer solution.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_70",
+    "question": "What is the chemical formula for calcium sulfate?",
+    "options": [
+      "CaSO3",
+      "CaSO4",
+      "Ca2SO4",
+      "Ca(SO4)2"
+    ],
+    "correct_answer": "CaSO4",
+    "explanation": "Calcium sulfate is a chemical compound with the formula CaSO4.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_71",
+    "question": "Which gas is known as laughing gas?",
+    "options": [
+      "Nitrogen dioxide",
+      "Nitrous oxide",
+      "Carbon dioxide",
+      "Sulfur dioxide"
+    ],
+    "correct_answer": "Nitrous oxide",
+    "explanation": "Nitrous oxide (N2O) is commonly known as laughing gas due to its euphoric effects.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_72",
+    "question": "What is the chemical symbol for tungsten?",
+    "options": [
+      "Tu",
+      "Tn",
+      "W",
+      "Tg"
+    ],
+    "correct_answer": "W",
+    "explanation": "The chemical symbol for tungsten is W, derived from its German name 'Wolfram'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_73",
+    "question": "Which of these is a property of alkaline earth metals?",
+    "options": [
+      "Form +1 ions",
+      "More reactive than alkali metals",
+      "Form +2 ions",
+      "Exist as diatomic molecules"
+    ],
+    "correct_answer": "Form +2 ions",
+    "explanation": "Alkaline earth metals (Group 2) typically lose two valence electrons to form +2 ions.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_74",
+    "question": "What is the chemical formula for sulfur dioxide?",
+    "options": [
+      "SO",
+      "SO2",
+      "SO3",
+      "S2O"
+    ],
+    "correct_answer": "SO2",
+    "explanation": "Sulfur dioxide is a chemical compound with the formula SO2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_75",
+    "question": "Which of these is an example of a physical property?",
+    "options": [
+      "Flammability",
+      "Reactivity with acid",
+      "Density",
+      "Toxicity"
+    ],
+    "correct_answer": "Density",
+    "explanation": "Density is a physical property that can be measured without changing the substance's chemical identity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_76",
+    "question": "What is the oxidation state of nitrogen in NH3?",
+    "options": [
+      "-3",
+      "-2",
+      "+3",
+      "+5"
+    ],
+    "correct_answer": "-3",
+    "explanation": "In ammonia (NH3), nitrogen has an oxidation state of -3 (H = +1).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_77",
+    "question": "Which of these is a nucleic acid?",
+    "options": [
+      "Glucose",
+      "Collagen",
+      "DNA",
+      "Triglyceride"
+    ],
+    "correct_answer": "DNA",
+    "explanation": "DNA (deoxyribonucleic acid) is a nucleic acid that carries genetic information.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_78",
+    "question": "What is the chemical formula for ammonium chloride?",
+    "options": [
+      "NH4Cl",
+      "NH3Cl",
+      "NH4Cl2",
+      "N2H4Cl"
+    ],
+    "correct_answer": "NH4Cl",
+    "explanation": "Ammonium chloride is a chemical compound with the formula NH4Cl.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_79",
+    "question": "Which of these is a Lewis acid?",
+    "options": [
+      "NH3",
+      "H2O",
+      "BF3",
+      "OH-"
+    ],
+    "correct_answer": "BF3",
+    "explanation": "BF3 is a Lewis acid as it can accept an electron pair (it has an empty p orbital).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_80",
+    "question": "What is the chemical formula for copper(II) sulfate?",
+    "options": [
+      "CuSO3",
+      "CuSO4",
+      "Cu2SO4",
+      "Cu(SO4)2"
+    ],
+    "correct_answer": "CuSO4",
+    "explanation": "Copper(II) sulfate is a chemical compound with the formula CuSO4.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_81",
+    "question": "Which gas is produced when metals react with acids?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "correct_answer": "Hydrogen",
+    "explanation": "Most metals react with acids to produce hydrogen gas (H2) and a salt.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_82",
+    "question": "What is the chemical symbol for tin?",
+    "options": [
+      "Ti",
+      "Tn",
+      "Sn",
+      "Si"
+    ],
+    "correct_answer": "Sn",
+    "explanation": "The chemical symbol for tin is Sn, derived from its Latin name 'stannum'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_83",
+    "question": "Which of these is a characteristic of noble gases?",
+    "options": [
+      "Highly reactive",
+      "Form many compounds",
+      "Colorless and odorless",
+      "Exist as diatomic molecules"
+    ],
+    "correct_answer": "Colorless and odorless",
+    "explanation": "Noble gases are colorless, odorless, and generally unreactive due to their complete valence electron shells.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_84",
+    "question": "What is the chemical formula for carbon monoxide?",
+    "options": [
+      "CO",
+      "CO2",
+      "C2O",
+      "CO3"
+    ],
+    "correct_answer": "CO",
+    "explanation": "Carbon monoxide is a chemical compound with the formula CO.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_85",
+    "question": "Which of these is an example of a heterogeneous mixture?",
+    "options": [
+      "Salt water",
+      "Air",
+      "Granite",
+      "Vinegar"
+    ],
+    "correct_answer": "Granite",
+    "explanation": "Granite is a heterogeneous mixture as its components (quartz, feldspar, mica) are visibly distinct.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_86",
+    "question": "What is the oxidation state of chlorine in NaClO?",
+    "options": [
+      "-1",
+      "+1",
+      "+3",
+      "+5"
+    ],
+    "correct_answer": "+1",
+    "explanation": "In sodium hypochlorite (NaClO), chlorine has an oxidation state of +1 (Na = +1, O = -2).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_87",
+    "question": "Which of these is a protein?",
+    "options": [
+      "Sucrose",
+      "Hemoglobin",
+      "Cellulose",
+      "Triglyceride"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin is a protein that carries oxygen in red blood cells.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_88",
+    "question": "What is the chemical formula for sodium carbonate?",
+    "options": [
+      "NaCO3",
+      "Na2CO3",
+      "Na(CO3)2",
+      "Na3CO3"
+    ],
+    "correct_answer": "Na2CO3",
+    "explanation": "Sodium carbonate is a chemical compound with the formula Na2CO3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_89",
+    "question": "Which of these is a Brønsted-Lowry base?",
+    "options": [
+      "HCl",
+      "NH3",
+      "CH4",
+      "CO2"
+    ],
+    "correct_answer": "NH3",
+    "explanation": "Ammonia (NH3) is a Brønsted-Lowry base as it can accept a proton (H⁺).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_90",
+    "question": "What is the chemical formula for iron(III) oxide?",
+    "options": [
+      "FeO",
+      "Fe2O3",
+      "Fe3O4",
+      "FeO2"
+    ],
+    "correct_answer": "Fe2O3",
+    "explanation": "Iron(III) oxide is a chemical compound with the formula Fe2O3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_91",
+    "question": "Which gas is used in photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_answer": "Carbon dioxide",
+    "explanation": "Plants use carbon dioxide (CO2) during photosynthesis to produce glucose and oxygen.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_92",
+    "question": "What is the chemical symbol for sodium?",
+    "options": [
+      "So",
+      "Sd",
+      "Na",
+      "Nm"
+    ],
+    "correct_answer": "Na",
+    "explanation": "The chemical symbol for sodium is Na, derived from its Latin name 'natrium'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_93",
+    "question": "Which of these is a characteristic of alkali metals?",
+    "options": [
+      "Form -1 ions",
+      "Very hard",
+      "Highly reactive",
+      "Exist as diatomic molecules"
+    ],
+    "correct_answer": "Highly reactive",
+    "explanation": "Alkali metals (Group 1) are highly reactive due to their single valence electron.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_94",
+    "question": "What is the chemical formula for nitrogen dioxide?",
+    "options": [
+      "NO",
+      "NO2",
+      "N2O",
+      "NO3"
+    ],
+    "correct_answer": "NO2",
+    "explanation": "Nitrogen dioxide is a chemical compound with the formula NO2.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_95",
+    "question": "Which of these is an example of a chemical property?",
+    "options": [
+      "Boiling point",
+      "Flammability",
+      "Density",
+      "Melting point"
+    ],
+    "correct_answer": "Flammability",
+    "explanation": "Flammability is a chemical property as it describes how a substance reacts with oxygen to produce new substances.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_96",
+    "question": "What is the oxidation state of carbon in CH4?",
+    "options": [
+      "-4",
+      "-2",
+      "+4",
+      "+2"
+    ],
+    "correct_answer": "-4",
+    "explanation": "In methane (CH4), carbon has an oxidation state of -4 (H = +1).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_97",
+    "question": "Which of these is a lipid?",
+    "options": [
+      "Glucose",
+      "Cholesterol",
+      "Collagen",
+      "DNA"
+    ],
+    "correct_answer": "Cholesterol",
+    "explanation": "Cholesterol is a steroid lipid important in cell membrane structure.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_98",
+    "question": "What is the chemical formula for potassium chloride?",
+    "options": [
+      "KCl",
+      "K2Cl",
+      "KCl2",
+      "K2Cl2"
+    ],
+    "correct_answer": "KCl",
+    "explanation": "Potassium chloride is a chemical compound with the formula KCl.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_99",
+    "question": "Which of these is a Lewis base?",
+    "options": [
+      "BF3",
+      "AlCl3",
+      "NH3",
+      "SO3"
+    ],
+    "correct_answer": "NH3",
+    "explanation": "Ammonia (NH3) is a Lewis base as it can donate an electron pair (lone pair on nitrogen).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_100",
+    "question": "What is the chemical formula for silver nitrate?",
+    "options": [
+      "AgNO2",
+      "AgNO3",
+      "Ag2NO3",
+      "Ag3NO4"
+    ],
+    "correct_answer": "AgNO3",
+    "explanation": "Silver nitrate is a chemical compound with the formula AgNO3.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_101",
+    "question": "The branch of chemistry that deals with the study of carbon compounds is called:",
+    "options": [
+      "Inorganic chemistry",
+      "Organic chemistry",
+      "Physical chemistry",
+      "Analytical chemistry"
+    ],
+    "correct_answer": "Organic chemistry",
+    "explanation": "Organic chemistry specifically focuses on compounds containing carbon and hydrogen, often with other elements like oxygen, nitrogen, etc.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_102",
+    "question": "Which of the following is NOT a state of matter?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Energy"
+    ],
+    "correct_answer": "Energy",
+    "explanation": "The traditional states of matter are solid, liquid, and gas (plus plasma). Energy is not considered a state of matter.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_103",
+    "question": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "10"
+    ],
+    "correct_answer": "7",
+    "explanation": "At 25°C, a neutral solution has equal concentrations of H+ and OH- ions, resulting in a pH of 7.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_104",
+    "question": "Which of the following is a noble gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Argon",
+      "Chlorine"
+    ],
+    "correct_answer": "Argon",
+    "explanation": "Argon is in Group 18 of the periodic table, which contains the noble gases known for their low reactivity.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_105",
+    "question": "The process by which a solid changes directly into gas is called:",
+    "options": [
+      "Evaporation",
+      "Sublimation",
+      "Condensation",
+      "Deposition"
+    ],
+    "correct_answer": "Sublimation",
+    "explanation": "Sublimation is the phase transition from solid to gas without passing through the liquid phase.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_106",
+    "question": "Which element has the atomic number 1?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "correct_answer": "Hydrogen",
+    "explanation": "Hydrogen is the first element in the periodic table with atomic number 1.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_107",
+    "question": "The chemical formula for water is:",
+    "options": [
+      "HO",
+      "H2O",
+      "H2O2",
+      "HO2"
+    ],
+    "correct_answer": "H2O",
+    "explanation": "Water consists of two hydrogen atoms bonded to one oxygen atom, hence H2O.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_108",
+    "question": "Which of the following is a property of acids?",
+    "options": [
+      "Turn litmus blue",
+      "Taste bitter",
+      "Feel slippery",
+      "React with metals to produce H2 gas"
+    ],
+    "correct_answer": "React with metals to produce H2 gas",
+    "explanation": "Acids turn litmus red, taste sour, and react with many metals to produce hydrogen gas.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_109",
+    "question": "The number of electrons in the outermost shell of a neutral oxygen atom is:",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "16"
+    ],
+    "correct_answer": "6",
+    "explanation": "Oxygen (atomic number 8) has electron configuration 2,6, meaning 6 valence electrons.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_110",
+    "question": "Which type of bond involves the sharing of electron pairs between atoms?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "correct_answer": "Covalent bond",
+    "explanation": "Covalent bonds form when atoms share electron pairs to achieve stability.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_111",
+    "question": "The process of removing electrons from an atom is called:",
+    "options": [
+      "Reduction",
+      "Oxidation",
+      "Neutralization",
+      "Ionization"
+    ],
+    "correct_answer": "Oxidation",
+    "explanation": "Oxidation involves the loss of electrons from an atom or molecule.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_112",
+    "question": "Which of the following is a transition metal?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Iron",
+      "Aluminum"
+    ],
+    "correct_answer": "Iron",
+    "explanation": "Iron is in the d-block of the periodic table, making it a transition metal.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_113",
+    "question": "The law that states 'mass is neither created nor destroyed in chemical reactions' is:",
+    "options": [
+      "Law of Multiple Proportions",
+      "Law of Definite Proportions",
+      "Law of Conservation of Mass",
+      "Avogadro's Law"
+    ],
+    "correct_answer": "Law of Conservation of Mass",
+    "explanation": "The Law of Conservation of Mass states that mass remains constant in chemical reactions.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_114",
+    "question": "Which subatomic particle has a negative charge?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Nucleon"
+    ],
+    "correct_answer": "Electron",
+    "explanation": "Electrons carry a negative charge, protons are positive, and neutrons are neutral.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_115",
+    "question": "The SI unit for amount of substance is:",
+    "options": [
+      "Gram",
+      "Mole",
+      "Liter",
+      "Pascal"
+    ],
+    "correct_answer": "Mole",
+    "explanation": "The mole is the SI base unit for amount of substance.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_116",
+    "question": "Which of the following is a halogen?",
+    "options": [
+      "Sodium",
+      "Chlorine",
+      "Argon",
+      "Calcium"
+    ],
+    "correct_answer": "Chlorine",
+    "explanation": "Chlorine is in Group 17 (halogens) of the periodic table.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_117",
+    "question": "The process of converting a liquid to a gas at temperatures below its boiling point is called:",
+    "options": [
+      "Boiling",
+      "Evaporation",
+      "Condensation",
+      "Sublimation"
+    ],
+    "correct_answer": "Evaporation",
+    "explanation": "Evaporation occurs at the surface of a liquid at any temperature, while boiling occurs throughout the liquid at its boiling point.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_118",
+    "question": "Which of the following is a strong acid?",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Hydrochloric acid",
+      "Carbonic acid"
+    ],
+    "correct_answer": "Hydrochloric acid",
+    "explanation": "Hydrochloric acid (HCl) is one of the strong acids that completely dissociates in water.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_119",
+    "question": "The number of protons in an atom is called its:",
+    "options": [
+      "Mass number",
+      "Atomic number",
+      "Atomic mass",
+      "Isotope number"
+    ],
+    "correct_answer": "Atomic number",
+    "explanation": "The atomic number uniquely identifies an element and equals the number of protons in its nucleus.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_120",
+    "question": "Which of the following is NOT a type of chemical reaction?",
+    "options": [
+      "Synthesis",
+      "Decomposition",
+      "Substitution",
+      "Oscillation"
+    ],
+    "correct_answer": "Oscillation",
+    "explanation": "Oscillation refers to periodic motion, not a type of chemical reaction.",
+    "difficulty": "Easy"
+  },
+ {
+    "id": "CHEM_121",
+    "question": "The Nernst equation is given by:",
+    "options": [
+      "E = E° - (RT/nF)lnQ",
+      "E = E° + (RT/nF)lnQ",
+      "E = E° - (nF/RT)lnQ",
+      "E = E° + (nF/RT)lnQ"
+    ],
+    "correct_answer": "E = E° - (RT/nF)lnQ",
+    "explanation": "The Nernst equation relates the reduction potential of an electrochemical reaction to the standard electrode potential, temperature, and activities of the chemical species.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_122",
+    "question": "The Arrhenius equation is:",
+    "options": [
+      "k = Ae^(-Ea/RT)",
+      "k = Ae^(Ea/RT)",
+      "k = ATe^(-Ea/R)",
+      "k = ARe^(-Ea/T)"
+    ],
+    "correct_answer": "k = Ae^(-Ea/RT)",
+    "explanation": "The Arrhenius equation describes the temperature dependence of reaction rates, where k is the rate constant, A is the pre-exponential factor, Ea is the activation energy, R is the gas constant, and T is temperature.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_123",
+    "question": "The van't Hoff equation relates:",
+    "options": [
+      "Equilibrium constant to temperature",
+      "Reaction rate to concentration",
+      "Osmotic pressure to molarity",
+      "Vapor pressure to boiling point"
+    ],
+    "correct_answer": "Equilibrium constant to temperature",
+    "explanation": "The van't Hoff equation describes how the equilibrium constant changes with temperature: d(lnK)/dT = ΔH°/(RT²).",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_124",
+    "question": "The Gibbs free energy equation is:",
+    "options": [
+      "ΔG = ΔH - TΔS",
+      "ΔG = ΔH + TΔS",
+      "ΔG = ΔS - TΔH",
+      "ΔG = ΔS + TΔH"
+    ],
+    "correct_answer": "ΔG = ΔH - TΔS",
+    "explanation": "Gibbs free energy combines enthalpy and entropy to predict reaction spontaneity at constant temperature and pressure.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_125",
+    "question": "The Beer-Lambert law is expressed as:",
+    "options": [
+      "A = εlc",
+      "A = ε/lc",
+      "A = l/εc",
+      "A = c/εl"
+    ],
+    "correct_answer": "A = εlc",
+    "explanation": "A = absorbance, ε = molar absorptivity, l = path length, c = concentration. This law relates absorbance to solution concentration.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_126",
+    "question": "The Henderson-Hasselbalch equation is:",
+    "options": [
+      "pH = pKa + log([A-]/[HA])",
+      "pH = pKa - log([A-]/[HA])",
+      "pH = pKa + log([HA]/[A-])",
+      "pH = pKa - log([HA]/[A-])"
+    ],
+    "correct_answer": "pH = pKa + log([A-]/[HA])",
+    "explanation": "This equation relates pH, pKa, and the ratio of conjugate base [A-] to weak acid [HA] concentrations in buffer solutions.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_127",
+    "question": "The Michaelis-Menten equation describes:",
+    "options": [
+      "Acid-base equilibria",
+      "Enzyme kinetics",
+      "Reaction mechanisms",
+      "Electrode potentials"
+    ],
+    "correct_answer": "Enzyme kinetics",
+    "explanation": "v = (Vmax[S])/(Km + [S]), where v is reaction velocity, Vmax is maximum velocity, [S] is substrate concentration, and Km is Michaelis constant.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_128",
+    "question": "The Clausius-Clapeyron equation relates:",
+    "options": [
+      "Vapor pressure to temperature",
+      "Solubility to pressure",
+      "Conductivity to concentration",
+      "Reaction rate to activation energy"
+    ],
+    "correct_answer": "Vapor pressure to temperature",
+    "explanation": "ln(P2/P1) = (ΔHvap/R)(1/T1 - 1/T2), describing how vapor pressure changes with temperature for a liquid.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_129",
+    "question": "The Debye-Hückel equation calculates:",
+    "options": [
+      "Activity coefficients of ions in solution",
+      "Solubility products",
+      "Diffusion coefficients",
+      "Electrode potentials"
+    ],
+    "correct_answer": "Activity coefficients of ions in solution",
+    "explanation": "logγ± = -A|z+z-|√I, where γ± is mean activity coefficient, z are ion charges, I is ionic strength, and A is a constant.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_130",
+    "question": "The Bragg equation (nλ = 2d sinθ) is used in:",
+    "options": [
+      "UV-Vis spectroscopy",
+      "X-ray crystallography",
+      "Mass spectrometry",
+      "NMR spectroscopy"
+    ],
+    "correct_answer": "X-ray crystallography",
+    "explanation": "The Bragg equation relates the wavelength of X-rays (λ), the distance between crystal planes (d), and the diffraction angle (θ).",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_131",
+    "question": "The Langmuir isotherm equation describes:",
+    "options": [
+      "Enzyme kinetics",
+      "Chemical adsorption",
+      "Reaction mechanisms",
+      "Electrode kinetics"
+    ],
+    "correct_answer": "Chemical adsorption",
+    "explanation": "θ = (KP)/(1 + KP), where θ is surface coverage, K is equilibrium constant, and P is pressure (for gases).",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_132",
+    "question": "The Sackur-Tetrode equation calculates:",
+    "options": [
+      "Entropy of an ideal monatomic gas",
+      "Enthalpy of formation",
+      "Gibbs free energy",
+      "Chemical potential"
+    ],
+    "correct_answer": "Entropy of an ideal monatomic gas",
+    "explanation": "S = Nk[ln(V/Nλ³) + 5/2], where λ is thermal de Broglie wavelength, providing absolute entropy from quantum mechanics.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_133",
+    "question": "The Eyring equation describes:",
+    "options": [
+      "Reaction rates in transition state theory",
+      "Diffusion-controlled reactions",
+      "Enzyme kinetics",
+      "Electrode processes"
+    ],
+    "correct_answer": "Reaction rates in transition state theory",
+    "explanation": "k = (kBT/h)exp(-ΔG‡/RT), where ΔG‡ is Gibbs energy of activation, kB is Boltzmann constant, h is Planck constant.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_134",
+    "question": "The Onsager equation applies to:",
+    "options": [
+      "Conductivity of electrolyte solutions",
+      "Viscosity of liquids",
+      "Diffusion in solids",
+      "Surface tension"
+    ],
+    "correct_answer": "Conductivity of electrolyte solutions",
+    "explanation": "Λ = Λ₀ - K√c, where Λ is molar conductivity, Λ₀ is limiting molar conductivity, c is concentration, K is constant.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_135",
+    "question": "The Schrödinger equation for the hydrogen atom yields:",
+    "options": [
+      "Atomic orbitals",
+      "Molecular orbitals",
+      "Hybrid orbitals",
+      "Crystal field splitting"
+    ],
+    "correct_answer": "Atomic orbitals",
+    "explanation": "Ĥψ = Eψ, solving this differential equation gives the wavefunctions (orbitals) and energy levels of the hydrogen atom.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_136",
+    "question": "The Koopmans' theorem states that:",
+    "options": [
+      "Ionization energy ≈ -εHOMO",
+      "Electron affinity ≈ -εLUMO",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correct_answer": "Ionization energy ≈ -εHOMO",
+    "explanation": "In Hartree-Fock theory, the energy of the highest occupied molecular orbital (HOMO) approximates the first ionization energy.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_137",
+    "question": "The Hammett equation relates:",
+    "options": [
+      "Reaction rates to substituent effects",
+      "Equilibrium constants to temperature",
+      "Solubility to pressure",
+      "Conductivity to concentration"
+    ],
+    "correct_answer": "Reaction rates to substituent effects",
+    "explanation": "log(k/k₀) = ρσ, where σ is substituent constant, ρ is reaction constant, describing linear free energy relationships.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_138",
+    "question": "The Tafel equation describes:",
+    "options": [
+      "Enzyme kinetics",
+      "Electrode kinetics",
+      "Gas adsorption",
+      "Polymerization rates"
+    ],
+    "correct_answer": "Electrode kinetics",
+    "explanation": "η = a + b log i, where η is overpotential, i is current density, a and b are Tafel parameters.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_139",
+    "question": "The Mark-Houwink equation relates:",
+    "options": [
+      "Viscosity to polymer molecular weight",
+      "Diffusion to temperature",
+      "Conductivity to concentration",
+      "Solubility to pressure"
+    ],
+    "correct_answer": "Viscosity to polymer molecular weight",
+    "explanation": "[η] = KMᵃ, where [η] is intrinsic viscosity, M is molecular weight, K and a are constants for a polymer-solvent system.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_140",
+    "question": "The Flory-Huggins theory describes:",
+    "options": [
+      "Polymer solutions",
+      "Electrolyte solutions",
+      "Surface adsorption",
+      "Reaction mechanisms"
+    ],
+    "correct_answer": "Polymer solutions",
+    "explanation": "ΔGmix = RT(n₁lnφ₁ + n₂lnφ₂ + χn₁φ₂), where φ are volume fractions, χ is interaction parameter.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_141",
+    "question": "The BET isotherm describes:",
+    "options": [
+      "Chemisorption",
+      "Multilayer physical adsorption",
+      "Ion exchange",
+      "Surface reactions"
+    ],
+    "correct_answer": "Multilayer physical adsorption",
+    "explanation": "V/Vmon = (cz)/[(1-z)(1-z+cz)], where z = P/P₀, c is BET constant, Vmon is monolayer volume.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_142",
+    "question": "The Freundlich isotherm describes:",
+    "options": [
+      "Non-ideal adsorption",
+      "Ideal gas adsorption",
+      "Ion exchange",
+      "Surface reactions"
+    ],
+    "correct_answer": "Non-ideal adsorption",
+    "explanation": "q = Kc^(1/n), where q is amount adsorbed, c is concentration, K and n are empirical constants.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_143",
+    "question": "The Temkin isotherm assumes:",
+    "options": [
+      "Linear decrease of adsorption heat with coverage",
+      "Exponential decrease of adsorption heat",
+      "Constant adsorption heat",
+      "No interaction between adsorbed molecules"
+    ],
+    "correct_answer": "Linear decrease of adsorption heat with coverage",
+    "explanation": "θ = (RT/ΔQ)ln(K₀c), where ΔQ is heat of adsorption, K₀ is equilibrium constant at zero coverage.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_144",
+    "question": "The Dubinin-Radushkevich equation applies to:",
+    "options": [
+      "Microporous adsorbents",
+      "Non-porous surfaces",
+      "Liquid adsorption",
+      "Ion exchange"
+    ],
+    "correct_answer": "Microporous adsorbents",
+    "explanation": "W = W₀exp[-(A/βE₀)²], where W is adsorbed volume, A is adsorption potential, β is similarity coefficient, E₀ is characteristic energy.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_145",
+    "question": "The Kelvin equation describes:",
+    "options": [
+      "Capillary condensation",
+      "Surface tension",
+      "Viscosity",
+      "Diffusion"
+    ],
+    "correct_answer": "Capillary condensation",
+    "explanation": "ln(P/P₀) = -2γV/(rRT), relating vapor pressure P over curved surface with radius r to saturation pressure P₀.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_146",
+    "question": "The Gibbs adsorption isotherm relates:",
+    "options": [
+      "Surface excess to surface tension",
+      "Adsorption to pressure",
+      "Surface area to adsorption",
+      "Temperature to adsorption"
+    ],
+    "correct_answer": "Surface excess to surface tension",
+    "explanation": "Γ = -(c/RT)(dγ/dc), where Γ is surface excess, γ is surface tension, c is concentration.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_147",
+    "question": "The Young-Laplace equation gives:",
+    "options": [
+      "Capillary pressure",
+      "Surface tension",
+      "Viscosity",
+      "Diffusion coefficient"
+    ],
+    "correct_answer": "Capillary pressure",
+    "explanation": "ΔP = γ(1/R₁ + 1/R₂), where ΔP is pressure difference across interface, γ is surface tension, R are principal radii of curvature.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_148",
+    "question": "The Poiseuille equation describes:",
+    "options": [
+      "Viscous flow through a tube",
+      "Diffusion in liquids",
+      "Surface tension effects",
+      "Electroosmotic flow"
+    ],
+    "correct_answer": "Viscous flow through a tube",
+    "explanation": "Q = (πr⁴ΔP)/(8ηL), where Q is volumetric flow rate, r is tube radius, ΔP is pressure difference, η is viscosity, L is tube length.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_149",
+    "question": "The Stokes-Einstein equation relates:",
+    "options": [
+      "Diffusion coefficient to viscosity",
+      "Viscosity to temperature",
+      "Surface tension to pressure",
+      "Conductivity to concentration"
+    ],
+    "correct_answer": "Diffusion coefficient to viscosity",
+    "explanation": "D = (kBT)/(6πηr), where D is diffusion coefficient, kB is Boltzmann constant, T is temperature, η is viscosity, r is particle radius.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_150",
+    "question": "The Fick's first law of diffusion states:",
+    "options": [
+      "J = -D(dc/dx)",
+      "J = D(dc/dx)",
+      "J = -D(d²c/dx²)",
+      "J = D(d²c/dx²)"
+    ],
+    "correct_answer": "J = -D(dc/dx)",
+    "explanation": "Diffusion flux J is proportional to concentration gradient dc/dx, with D as diffusion coefficient.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_151",
+    "question": "The Fick's second law of diffusion is:",
+    "options": [
+      "∂c/∂t = D(∂²c/∂x²)",
+      "∂c/∂t = -D(∂²c/∂x²)",
+      "∂²c/∂t² = D(∂c/∂x)",
+      "∂²c/∂t² = -D(∂c/∂x)"
+    ],
+    "correct_answer": "∂c/∂t = D(∂²c/∂x²)",
+    "explanation": "Describes how diffusion causes concentration to change with time at a given point.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_152",
+    "question": "The Einstein-Smoluchowski equation relates:",
+    "options": [
+      "Diffusion to mobility",
+      "Viscosity to temperature",
+      "Conductivity to concentration",
+      "Surface tension to pressure"
+    ],
+    "correct_answer": "Diffusion to mobility",
+    "explanation": "D = μkBT, where μ is mobility, kB is Boltzmann constant, T is temperature.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_153",
+    "question": "The Debye equation for polar molecules gives:",
+    "options": [
+      "Dielectric constant",
+      "Viscosity",
+      "Surface tension",
+      "Refractive index"
+    ],
+    "correct_answer": "Dielectric constant",
+    "explanation": "(ε-1)/(ε+2) = (4πN/3V)(α + μ²/3kT), where ε is dielectric constant, α is polarizability, μ is dipole moment.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_154",
+    "question": "The Clausius-Mossotti relation connects:",
+    "options": [
+      "Polarizability to dielectric constant",
+      "Viscosity to temperature",
+      "Surface tension to pressure",
+      "Conductivity to concentration"
+    ],
+    "correct_answer": "Polarizability to dielectric constant",
+    "explanation": "(ε-1)/(ε+2) = (4π/3)Nα, relating dielectric constant ε to molecular polarizability α and number density N.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_155",
+    "question": "The Langevin function describes:",
+    "options": [
+      "Paramagnetism",
+      "Ferromagnetism",
+      "Diamagnetism",
+      "Superconductivity"
+    ],
+    "correct_answer": "Paramagnetism",
+    "explanation": "M = Nμ[coth(a) - 1/a], where a = μB/kBT, describing magnetization M of paramagnetic materials.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_156",
+    "question": "The Curie-Weiss law describes:",
+    "options": [
+      "Paramagnetic susceptibility",
+      "Ferromagnetic transition",
+      "Diamagnetic behavior",
+      "Superconducting transition"
+    ],
+    "correct_answer": "Paramagnetic susceptibility",
+    "explanation": "χ = C/(T - θ), where χ is magnetic susceptibility, C is Curie constant, θ is Weiss constant.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_157",
+    "question": "The London dispersion energy between two molecules is proportional to:",
+    "options": [
+      "1/r³",
+      "1/r⁶",
+      "1/r",
+      "r²"
+    ],
+    "correct_answer": "1/r⁶",
+    "explanation": "E = -C/r⁶, where C is London constant, r is intermolecular distance.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_158",
+    "question": "The Keesom interaction energy between dipoles is proportional to:",
+    "options": [
+      "1/r³",
+      "1/r⁶",
+      "1/r²",
+      "r³"
+    ],
+    "correct_answer": "1/r⁶",
+    "explanation": "E = -(2μ₁²μ₂²)/(3(4πε₀)²kTr⁶), orientation-averaged dipole-dipole interaction energy.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_159",
+    "question": "The Debye interaction energy between a dipole and induced dipole is proportional to:",
+    "options": [
+      "1/r³",
+      "1/r⁶",
+      "1/r²",
+      "r³"
+    ],
+    "correct_answer": "1/r⁶",
+    "explanation": "E = -(μ₁²α₂ + μ₂²α₁)/((4πε₀)²r⁶), where α are polarizabilities.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_160",
+    "question": "The Morse potential describes:",
+    "options": [
+      "Interatomic potential",
+      "Intermolecular potential",
+      "Surface potential",
+      "Electrode potential"
+    ],
+    "correct_answer": "Interatomic potential",
+    "explanation": "V(r) = Dₑ[1 - e^(-a(r-rₑ))]², where Dₑ is dissociation energy, rₑ is equilibrium bond length.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_161",
+    "question": "The Lennard-Jones potential is given by:",
+    "options": [
+      "V(r) = 4ε[(σ/r)¹² - (σ/r)⁶]",
+      "V(r) = 4ε[(σ/r)⁶ - (σ/r)¹²]",
+      "V(r) = 4ε[(r/σ)¹² - (r/σ)⁶]",
+      "V(r) = 4ε[(r/σ)⁶ - (r/σ)¹²]"
+    ],
+    "correct_answer": "V(r) = 4ε[(σ/r)¹² - (σ/r)⁶]",
+    "explanation": "Describes intermolecular potential with repulsive (r⁻¹²) and attractive (r⁻⁶) terms, where ε is depth of potential well, σ is finite distance where potential is zero.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_162",
+    "question": "The Buckingham potential includes:",
+    "options": [
+      "Exponential repulsion and r⁻⁶ attraction",
+      "r⁻¹² repulsion and r⁻⁶ attraction",
+      "r⁻¹⁰ repulsion and r⁻⁸ attraction",
+      "Logarithmic repulsion and linear attraction"
+    ],
+    "correct_answer": "Exponential repulsion and r⁻⁶ attraction",
+    "explanation": "V(r) = Ae^(-Br) - C/r⁶, where A, B, C are parameters, providing more realistic repulsion than r⁻¹² term.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_163",
+    "question": "The Born-Mayer potential describes:",
+    "options": [
+      "Ionic crystal repulsion",
+      "Covalent bonding",
+      "Metallic bonding",
+      "Hydrogen bonding"
+    ],
+    "correct_answer": "Ionic crystal repulsion",
+    "explanation": "V(r) = Ae^(-r/ρ), where A and ρ are parameters, describing short-range repulsion in ionic crystals.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_164",
+    "question": "The Madelung constant appears in:",
+    "options": [
+      "Lattice energy calculations",
+      "Band gap calculations",
+      "Magnetic susceptibility",
+      "Dielectric constant"
+    ],
+    "correct_answer": "Lattice energy calculations",
+    "explanation": "E = (Mq₁q₂)/(4πε₀r₀), where M is Madelung constant, q are ion charges, r₀ is nearest-neighbor distance.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_165",
+    "question": "The Kapustinskii equation estimates:",
+    "options": [
+      "Lattice energy",
+      "Solvation energy",
+      "Ionization energy",
+      "Electron affinity"
+    ],
+    "correct_answer": "Lattice energy",
+    "explanation": "U = (Kν|z⁺z⁻|)/(r⁺ + r⁻)(1 - d/(r⁺ + r⁻)), where K is constant, ν is number of ions in formula unit, z are charges, r are radii, d is constant (~34.5 pm).",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_166",
+    "question": "The Born equation calculates:",
+    "options": [
+      "Lattice energy",
+      "Solvation energy",
+      "Ionization energy",
+      "Electron affinity"
+    ],
+    "correct_answer": "Solvation energy",
+    "explanation": "ΔG°solv = -(z²e²N)/(8πε₀r)(1 - 1/ε), where ε is solvent dielectric constant, r is ion radius.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_167",
+    "question": "The Born-Haber cycle is used to determine:",
+    "options": [
+      "Lattice energy",
+      "Solvation energy",
+      "Ionization energy",
+      "Electron affinity"
+    ],
+    "correct_answer": "Lattice energy",
+    "explanation": "Thermodynamic cycle relating lattice energy to enthalpy of formation, ionization energy, electron affinity, etc.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_168",
+    "question": "The Franck-Condon principle states that:",
+    "options": [
+      "Electronic transitions are vertical",
+      "Vibrational transitions follow selection rules",
+      "Rotational states are quantized",
+      "Spin states must be conserved"
+    ],
+    "correct_answer": "Electronic transitions are vertical",
+    "explanation": "Because electronic transitions are much faster than nuclear motion, they occur without change in nuclear coordinates.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_169",
+    "question": "The Förster resonance energy transfer (FRET) rate depends on:",
+    "options": [
+      "1/r³",
+      "1/r⁴",
+      "1/r⁶",
+      "1/r²"
+    ],
+    "correct_answer": "1/r⁶",
+    "explanation": "kFRET = (1/τ)(R₀/r)⁶, where τ is donor lifetime, R₀ is Förster radius, r is donor-acceptor distance.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_170",
+    "question": "The Dexter electron transfer rate depends on:",
+    "options": [
+      "exp(-βr)",
+      "1/r³",
+      "1/r⁶",
+      "1/r²"
+    ],
+    "correct_answer": "exp(-βr)",
+    "explanation": "kDexter = Jexp(-βr), where J is electronic coupling, β is attenuation factor, r is donor-acceptor distance.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_171",
+    "question": "The Marcus theory of electron transfer predicts:",
+    "options": [
+      "Inverted region at high driving force",
+      "Linear dependence on driving force",
+      "No dependence on reorganization energy",
+      "Constant rate at all temperatures"
+    ],
+    "correct_answer": "Inverted region at high driving force",
+    "explanation": "kET ∝ exp[-(ΔG° + λ)²/4λRT], where λ is reorganization energy, showing rate decrease when -ΔG° > λ.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_172",
+    "question": "The Mulliken electronegativity scale is calculated as:",
+    "options": [
+      "(I + A)/2",
+      "(I - A)/2",
+      "I + A",
+      "I - A"
+    ],
+    "correct_answer": "(I + A)/2",
+    "explanation": "Where I is ionization energy and A is electron affinity, giving average tendency to attract electrons.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_173",
+    "question": "The Pauling electronegativity difference Δχ is related to bond ionic character by:",
+    "options": [
+      "% ionic = 100[1 - exp(-(Δχ)²/4)]",
+      "% ionic = 100Δχ",
+      "% ionic = 100(Δχ)²",
+      "% ionic = 100exp(-Δχ)"
+    ],
+    "correct_answer": "% ionic = 100[1 - exp(-(Δχ)²/4)]",
+    "explanation": "Empirical relationship between electronegativity difference and bond ionic character.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_174",
+    "question": "The Sanderson electronegativity equalization principle states that:",
+    "options": [
+      "Electronegativities equalize in molecules",
+      "Electronegativities remain constant",
+      "Electronegativities increase with bond order",
+      "Electronegativities decrease with coordination number"
+    ],
+    "correct_answer": "Electronegativities equalize in molecules",
+    "explanation": "Atoms adjust their electronegativities to reach an intermediate value in compounds.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_175",
+    "question": "The Woodward-Hoffmann rules predict:",
+    "options": [
+      "Pericyclic reaction outcomes",
+      "Substitution reaction rates",
+      "Elimination reaction products",
+      "Addition reaction mechanisms"
+    ],
+    "correct_answer": "Pericyclic reaction outcomes",
+    "explanation": "Based on conservation of orbital symmetry, predicting stereochemistry of cycloadditions, electrocyclic reactions, etc.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_176",
+    "question": "The Hammond postulate states that:",
+    "options": [
+      "Transition states resemble products or reactants",
+      "Reaction rates increase with temperature",
+      "Catalysts lower activation energy",
+      "Stereochemistry is conserved"
+    ],
+    "correct_answer": "Transition states resemble products or reactants",
+    "explanation": "For endothermic reactions, TS resembles products; for exothermic, TS resembles reactants.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_177",
+    "question": "The Curtin-Hammett principle applies when:",
+    "options": [
+      "Reactants interconvert rapidly",
+      "Products are thermodynamically controlled",
+      "Reaction is irreversible",
+      "Catalyst is present"
+    ],
+    "correct_answer": "Reactants interconvert rapidly",
+    "explanation": "Product distribution depends on transition state energies, not reactant equilibrium populations.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_178",
+    "question": "The Bell-Evans-Polanyi principle relates:",
+    "options": [
+      "Activation energy to reaction enthalpy",
+      "Reaction rate to temperature",
+      "Selectivity to catalyst",
+      "Yield to concentration"
+    ],
+    "correct_answer": "Activation energy to reaction enthalpy",
+    "explanation": "Ea = E₀ + αΔH, where α is typically between 0 and 1 for related reactions.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_179",
+    "question": "The Leffler-Hammond parameter α measures:",
+    "options": [
+      "TS position along reaction coordinate",
+      "Reaction order",
+      "Catalyst efficiency",
+      "Solvent polarity"
+    ],
+    "correct_answer": "TS position along reaction coordinate",
+    "explanation": "α = ∂ΔG‡/∂ΔG°, where α ≈ 0 for reactant-like TS, α ≈ 1 for product-like TS.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_180",
+    "question": "The Brønsted catalysis law relates:",
+    "options": [
+      "Rate constant to equilibrium constant",
+      "pH to reaction rate",
+      "Temperature to activation energy",
+      "Concentration to yield"
+    ],
+    "correct_answer": "Rate constant to equilibrium constant",
+    "explanation": "log k = α log K + C, where α is Brønsted coefficient (0 < α < 1), K is acid/base dissociation constant.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_181",
+    "question": "The Eigen-Wilkins mechanism describes:",
+    "options": [
+      "Electron transfer",
+      "Ligand substitution",
+      "Proton transfer",
+      "Radical recombination"
+    ],
+    "correct_answer": "Ligand substitution",
+    "explanation": "kobs = (k₁k₂[L])/(k₋₁ + k₂[L]), for MLₙ + L' → MLₙ₋₁L' + L via associative mechanism.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_182",
+    "question": "The Marcus cross relation predicts:",
+    "options": [
+      "Electron transfer rates",
+      "Proton transfer rates",
+      "Ligand substitution rates",
+      "Isomerization rates"
+    ],
+    "correct_answer": "Electron transfer rates",
+    "explanation": "k₁₂ = (k₁₁k₂₂K₁₂f₁₂)^½, where f₁₂ ≈ 1, relating rate constants for self-exchange and cross reactions.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_183",
+    "question": "The Eigen-Tamm mechanism describes:",
+    "options": [
+      "Proton transfer",
+      "Electron transfer",
+      "Ligand substitution",
+      "Radical reactions"
+    ],
+    "correct_answer": "Proton transfer",
+    "explanation": "Rate limited by diffusion followed by fast proton transfer within encounter complex.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_184",
+    "question": "The Grotthuss mechanism explains:",
+    "options": [
+      "Proton conduction in water",
+      "Electron conduction in metals",
+      "Ion transport in membranes",
+      "Heat transfer in solutions"
+    ],
+    "correct_answer": "Proton conduction in water",
+    "explanation": "Proton hopping via hydrogen bond network reorganization, not physical diffusion.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_185",
+    "question": "The Eyring-Polanyi equation relates:",
+    "options": [
+      "Reaction rate to activation parameters",
+      "Equilibrium constant to temperature",
+      "Diffusion to viscosity",
+      "Conductivity to concentration"
+    ],
+    "correct_answer": "Reaction rate to activation parameters",
+    "explanation": "k = (kBT/h)exp(-ΔG‡/RT), where ΔG‡ = ΔH‡ - TΔS‡, from transition state theory.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_186",
+    "question": "Which of these compounds has a trigonal planar molecular geometry?",
+    "options": ["CH4", "BF3", "NH3", "H2O"],
+    "correct_answer": "BF3",
+    "explanation": "Boron trifluoride (BF3) has a trigonal planar geometry due to sp2 hybridization.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_187",
+    "question": "What is the color of the flame in a sodium flame test?",
+    "options": ["Green", "Blue", "Yellow", "Red"],
+    "correct_answer": "Yellow",
+    "explanation": "Sodium ions give a bright yellow color in a flame test.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_188",
+    "question": "Which law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?",
+    "options": ["Boyle's Law", "Charles's Law", "Avogadro's Law", "Dalton's Law"],
+    "correct_answer": "Avogadro's Law",
+    "explanation": "Avogadro’s Law states that gas volumes are directly proportional to the number of moles under constant temperature and pressure.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_189",
+    "question": "Which of the following is an example of a colligative property?",
+    "options": ["Density", "Color", "Boiling point elevation", "Viscosity"],
+    "correct_answer": "Boiling point elevation",
+    "explanation": "Colligative properties depend on the number of solute particles, not their identity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_190",
+    "question": "Which element forms the basis of all organic compounds?",
+    "options": ["Oxygen", "Carbon", "Nitrogen", "Phosphorus"],
+    "correct_answer": "Carbon",
+    "explanation": "Organic chemistry is the study of carbon-containing compounds.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_191",
+    "question": "Which compound is used to detect carbon dioxide gas?",
+    "options": ["Limewater", "Benedict's solution", "Iodine solution", "Phenolphthalein"],
+    "correct_answer": "Limewater",
+    "explanation": "Carbon dioxide turns limewater milky due to the formation of calcium carbonate.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_192",
+    "question": "Which of the following metals can displace hydrogen from acids?",
+    "options": ["Copper", "Silver", "Gold", "Zinc"],
+    "correct_answer": "Zinc",
+    "explanation": "Zinc is more reactive than hydrogen and can displace it from dilute acids.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_193",
+    "question": "Which hydrocarbon is the main component of natural gas?",
+    "options": ["Ethane", "Propane", "Butane", "Methane"],
+    "correct_answer": "Methane",
+    "explanation": "Methane (CH4) is the primary component of natural gas.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_194",
+    "question": "Which chemical test is used to identify aldehydes?",
+    "options": ["Fehling's test", "Tollen's test", "Benedict's test", "All of the above"],
+    "correct_answer": "All of the above",
+    "explanation": "Fehling’s, Tollen’s, and Benedict’s tests all detect the presence of aldehyde groups.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "CHEM_195",
+    "question": "Which element is found in chlorophyll and essential for photosynthesis?",
+    "options": ["Calcium", "Iron", "Magnesium", "Sodium"],
+    "correct_answer": "Magnesium",
+    "explanation": "Magnesium is the central atom in the chlorophyll molecule.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_196",
+    "question": "Which compound is used in the manufacture of fertilizers and explosives?",
+    "options": ["NaNO3", "CaCO3", "CH3COOH", "NH4NO3"],
+    "correct_answer": "NH4NO3",
+    "explanation": "Ammonium nitrate is a key compound in fertilizers and explosives.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "CHEM_197",
+    "question": "Which of the following is an allotrope of carbon?",
+    "options": ["Carbon monoxide", "Graphite", "Carbon dioxide", "Methane"],
+    "correct_answer": "Graphite",
+    "explanation": "Graphite is a crystalline allotrope of carbon.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_198",
+    "question": "Which of the following pH values indicates a strong base?",
+    "options": ["3", "7", "9", "13"],
+    "correct_answer": "13",
+    "explanation": "A pH of 13 indicates a highly basic solution.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "CHEM_199",
+    "question": "What is the coordination number of a metal ion in a complex with six ligands?",
+    "options": ["2", "4", "6", "8"],
+    "correct_answer": "6",
+    "explanation": "The coordination number is the number of ligand atoms directly bonded to the central metal ion.",
+    "difficulty": "Medium"
+  },
+  {
+  "id": "CHEM_200",
+  "question": "Which type of isomerism occurs when compounds have the same molecular formula but differ in the connectivity of atoms?",
+  "options": ["Geometrical isomerism", "Optical isomerism", "Structural isomerism", "Tautomerism"],
+  "correct_answer": "Structural isomerism",
+  "explanation": "Structural isomers differ in how atoms are bonded to each other, while maintaining the same molecular formula.",
+  "difficulty": "Medium"
+  }
+]

@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "BIO_1",
+    "question": "Which of the following is the basic unit of life?",
+    "options": [
+      "Cell",
+      "Tissue",
+      "Organ",
+      "Molecule"
+    ],
+    "correct_answer": "Cell",
+    "explanation": "The cell is the smallest structural and functional unit of living organisms, considered the basic unit of life.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_2",
+    "question": "Photosynthesis occurs in which organelle?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast",
+      "Ribosome"
+    ],
+    "correct_answer": "Chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and are the sites of photosynthesis in plant cells.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_3",
+    "question": "Which of these is NOT a function of the liver?",
+    "options": [
+      "Bile production",
+      "Glycogen storage",
+      "Blood filtration",
+      "Insulin production"
+    ],
+    "correct_answer": "Insulin production",
+    "explanation": "Insulin is produced by the beta cells of the pancreas, not the liver.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_4",
+    "question": "The process by which plants lose water vapor is called:",
+    "options": [
+      "Transpiration",
+      "Respiration",
+      "Photosynthesis",
+      "Osmosis"
+    ],
+    "correct_answer": "Transpiration",
+    "explanation": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_5",
+    "question": "Which blood cells are responsible for immune responses?",
+    "options": [
+      "Erythrocytes",
+      "Leukocytes",
+      "Thrombocytes",
+      "Platelets"
+    ],
+    "correct_answer": "Leukocytes",
+    "explanation": "Leukocytes (white blood cells) are responsible for the body's immune responses.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_6",
+    "question": "The 'powerhouse of the cell' is the:",
+    "options": [
+      "Nucleus",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Mitochondria",
+    "explanation": "Mitochondria are called the powerhouse of the cell because they generate most of the cell's ATP.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_7",
+    "question": "Which of these is a function of the kidney?",
+    "options": [
+      "Oxygen transport",
+      "Blood filtration",
+      "Digestion of fats",
+      "Hormone production"
+    ],
+    "correct_answer": "Blood filtration",
+    "explanation": "The kidneys filter blood to remove wastes and excess substances, producing urine.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_8",
+    "question": "DNA replication occurs during which phase of the cell cycle?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correct_answer": "S phase",
+    "explanation": "DNA replication occurs during the Synthesis (S) phase of the cell cycle.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_9",
+    "question": "Which plant hormone promotes cell elongation?",
+    "options": [
+      "Abscisic acid",
+      "Ethylene",
+      "Auxin",
+      "Cytokinin"
+    ],
+    "correct_answer": "Auxin",
+    "explanation": "Auxins are plant hormones that promote cell elongation in stems and roots.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_10",
+    "question": "The process by which mRNA is made from DNA is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "Transcription is the process of creating an RNA copy of a DNA sequence.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_11",
+    "question": "Which of these is NOT a micronutrient for plants?",
+    "options": [
+      "Iron",
+      "Manganese",
+      "Zinc",
+      "Nitrogen"
+    ],
+    "correct_answer": "Nitrogen",
+    "explanation": "Nitrogen is a macronutrient required by plants in large quantities.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_12",
+    "question": "The functional unit of the kidney is called:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveoli",
+      "Villi"
+    ],
+    "correct_answer": "Nephron",
+    "explanation": "The nephron is the microscopic structural and functional unit of the kidney.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_13",
+    "question": "Which of these is a sex-linked disorder?",
+    "options": [
+      "Down syndrome",
+      "Color blindness",
+      "Cystic fibrosis",
+      "Sickle cell anemia"
+    ],
+    "correct_answer": "Color blindness",
+    "explanation": "Color blindness is a sex-linked disorder typically carried on the X chromosome.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_14",
+    "question": "The process by which water moves across a semipermeable membrane is called:",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion"
+    ],
+    "correct_answer": "Osmosis",
+    "explanation": "Osmosis is the movement of water molecules across a selectively permeable membrane.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_15",
+    "question": "Which of these is NOT a function of the skeletal system?",
+    "options": [
+      "Support",
+      "Movement",
+      "Hormone production",
+      "Protection"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "While bones store minerals and produce blood cells, they are not primarily responsible for hormone production.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_16",
+    "question": "The study of fossils is called:",
+    "options": [
+      "Paleontology",
+      "Archaeology",
+      "Geology",
+      "Anthropology"
+    ],
+    "correct_answer": "Paleontology",
+    "explanation": "Paleontology is the scientific study of fossils to understand the history of life on Earth.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_17",
+    "question": "Which of these is a vestigial organ in humans?",
+    "options": [
+      "Appendix",
+      "Heart",
+      "Liver",
+      "Pancreas"
+    ],
+    "correct_answer": "Appendix",
+    "explanation": "The appendix is considered a vestigial organ with no significant function in humans.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_18",
+    "question": "The process by which plants convert light energy to chemical energy is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Photosynthesis",
+    "explanation": "Photosynthesis is the process by which green plants convert light energy into chemical energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_19",
+    "question": "Which blood type is considered the universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correct_answer": "O",
+    "explanation": "Type O negative blood is considered the universal donor for red blood cells.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_20",
+    "question": "The hormone responsible for the 'fight or flight' response is:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Estrogen"
+    ],
+    "correct_answer": "Adrenaline",
+    "explanation": "Adrenaline (epinephrine) is the hormone that triggers the body's fight or flight response.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_21",
+    "question": "Which of these is NOT a type of RNA?",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "dRNA"
+    ],
+    "correct_answer": "dRNA",
+    "explanation": "The main types of RNA are messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA). dRNA is not a recognized type.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_22",
+    "question": "The process by which species gradually change over time is called:",
+    "options": [
+      "Natural selection",
+      "Evolution",
+      "Adaptation",
+      "Mutation"
+    ],
+    "correct_answer": "Evolution",
+    "explanation": "Evolution is the process by which species change over generations through genetic variation and natural selection.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_23",
+    "question": "Which of these is a function of the large intestine?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Protein digestion",
+      "Bile production"
+    ],
+    "correct_answer": "Water absorption",
+    "explanation": "The primary function of the large intestine is water absorption and formation of feces.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_24",
+    "question": "The part of the brain responsible for balance and coordination is the:",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla oblongata",
+      "Hypothalamus"
+    ],
+    "correct_answer": "Cerebellum",
+    "explanation": "The cerebellum is responsible for maintaining balance and coordinating voluntary movements.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_25",
+    "question": "Which of these is NOT a function of the skin?",
+    "options": [
+      "Protection",
+      "Temperature regulation",
+      "Vitamin D synthesis",
+      "Oxygen transport"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "The skin does not transport oxygen; this is the function of the respiratory and circulatory systems.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_26",
+    "question": "The genetic material of a prokaryotic cell is located in the:",
+    "options": [
+      "Nucleus",
+      "Nucleoid",
+      "Cytoplasm",
+      "Mitochondria"
+    ],
+    "correct_answer": "Nucleoid",
+    "explanation": "Prokaryotic cells lack a true nucleus; their DNA is concentrated in the nucleoid region.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_27",
+    "question": "Which of these is a function of the lymphatic system?",
+    "options": [
+      "Oxygen transport",
+      "Immune defense",
+      "Nutrient absorption",
+      "Hormone production"
+    ],
+    "correct_answer": "Immune defense",
+    "explanation": "The lymphatic system plays a crucial role in the body's immune defense mechanisms.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_28",
+    "question": "The process by which pollen is transferred to the stigma is called:",
+    "options": [
+      "Fertilization",
+      "Pollination",
+      "Germination",
+      "Photosynthesis"
+    ],
+    "correct_answer": "Pollination",
+    "explanation": "Pollination is the transfer of pollen from the anther to the stigma of a flower.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_29",
+    "question": "Which of these is NOT a component of the cell membrane?",
+    "options": [
+      "Phospholipids",
+      "Proteins",
+      "Carbohydrates",
+      "DNA"
+    ],
+    "correct_answer": "DNA",
+    "explanation": "DNA is not a component of the cell membrane; it's found in the nucleus or nucleoid.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_30",
+    "question": "The process by which glucose is broken down to release energy is called:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Respiration",
+    "explanation": "Cellular respiration is the process by which cells break down glucose to release energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_31",
+    "question": "Which of these is a function of the endocrine system?",
+    "options": [
+      "Rapid response to stimuli",
+      "Hormone production",
+      "Voluntary movement",
+      "Nutrient digestion"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "The endocrine system produces hormones that regulate various body functions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_32",
+    "question": "The part of the eye that controls the amount of light entering is the:",
+    "options": [
+      "Retina",
+      "Cornea",
+      "Iris",
+      "Lens"
+    ],
+    "correct_answer": "Iris",
+    "explanation": "The iris controls the size of the pupil, regulating the amount of light entering the eye.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_33",
+    "question": "Which of these is NOT a function of the respiratory system?",
+    "options": [
+      "Gas exchange",
+      "pH regulation",
+      "Sound production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Nutrient absorption occurs in the digestive system, not the respiratory system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_34",
+    "question": "The process by which bacteria reproduce asexually is called:",
+    "options": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correct_answer": "Binary fission",
+    "explanation": "Binary fission is the method of asexual reproduction in bacteria.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_35",
+    "question": "Which of these is a function of the nervous system?",
+    "options": [
+      "Hormone production",
+      "Rapid response to stimuli",
+      "Nutrient transport",
+      "Structural support"
+    ],
+    "correct_answer": "Rapid response to stimuli",
+    "explanation": "The nervous system enables rapid response to internal and external stimuli.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_36",
+    "question": "The molecule that carries genetic information is:",
+    "options": [
+      "RNA",
+      "DNA",
+      "ATP",
+      "Protein"
+    ],
+    "correct_answer": "DNA",
+    "explanation": "DNA (deoxyribonucleic acid) carries the genetic instructions for all living organisms.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_37",
+    "question": "Which of these is NOT a type of muscle tissue?",
+    "options": [
+      "Skeletal",
+      "Cardiac",
+      "Smooth",
+      "Adipose"
+    ],
+    "correct_answer": "Adipose",
+    "explanation": "Adipose tissue is fat tissue, not a type of muscle tissue.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_38",
+    "question": "The process by which plants grow toward light is called:",
+    "options": [
+      "Geotropism",
+      "Phototropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Phototropism",
+    "explanation": "Phototropism is the growth of plants in response to light stimuli.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_39",
+    "question": "Which of these is a function of the circulatory system?",
+    "options": [
+      "Nutrient transport",
+      "Waste removal",
+      "Oxygen transport",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "The circulatory system transports nutrients, oxygen, and removes waste products.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_40",
+    "question": "The process by which unspecialized cells become specialized is called:",
+    "options": [
+      "Differentiation",
+      "Mitosis",
+      "Meiosis",
+      "Fertilization"
+    ],
+    "correct_answer": "Differentiation",
+    "explanation": "Cellular differentiation is the process by which cells become specialized in structure and function.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_41",
+    "question": "Which of these is NOT a component of the neuron?",
+    "options": [
+      "Dendrite",
+      "Axon",
+      "Myelin sheath",
+      "Hemoglobin"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin is found in red blood cells, not neurons.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_42",
+    "question": "The process by which water moves up plant stems against gravity is called:",
+    "options": [
+      "Osmosis",
+      "Transpiration pull",
+      "Active transport",
+      "Diffusion"
+    ],
+    "correct_answer": "Transpiration pull",
+    "explanation": "Transpiration pull is the main mechanism for water movement up plants.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_43",
+    "question": "Which of these is a function of the skeletal muscle?",
+    "options": [
+      "Voluntary movement",
+      "Involuntary movement",
+      "Hormone production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Voluntary movement",
+    "explanation": "Skeletal muscles are responsible for voluntary movements of the body.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_44",
+    "question": "The process by which gametes are formed is called:",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correct_answer": "Meiosis",
+    "explanation": "Meiosis is the cell division process that produces gametes with half the normal chromosome number.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_45",
+    "question": "Which of these is NOT a function of the stomach?",
+    "options": [
+      "Protein digestion",
+      "Food storage",
+      "Mechanical digestion",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Most nutrient absorption occurs in the small intestine, not the stomach.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_46",
+    "question": "The process by which plants respond to gravity is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Geotropism",
+    "explanation": "Geotropism (or gravitropism) is the growth response of plants to gravity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_47",
+    "question": "Which of these is a function of the ribosome?",
+    "options": [
+      "ATP production",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "DNA replication"
+    ],
+    "correct_answer": "Protein synthesis",
+    "explanation": "Ribosomes are the cellular structures responsible for protein synthesis.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_48",
+    "question": "The process by which plants take in carbon dioxide and release oxygen is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Photosynthesis",
+    "explanation": "Photosynthesis is the process where plants convert CO₂ and water into glucose and oxygen using sunlight.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_49",
+    "question": "Which of these is NOT a function of the liver?",
+    "options": [
+      "Detoxification",
+      "Bile production",
+      "Glycogen storage",
+      "Insulin production"
+    ],
+    "correct_answer": "Insulin production",
+    "explanation": "Insulin is produced by the pancreas, not the liver.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_50",
+    "question": "The process by which cells engulf large particles is called:",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Phagocytosis",
+      "Pinocytosis"
+    ],
+    "correct_answer": "Phagocytosis",
+    "explanation": "Phagocytosis is the process by which cells engulf large particles or other cells.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_51",
+    "question": "Which of these is NOT a type of connective tissue?",
+    "options": [
+      "Bone",
+      "Blood",
+      "Cartilage",
+      "Neuron"
+    ],
+    "correct_answer": "Neuron",
+    "explanation": "Neurons are nerve cells, not connective tissue.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_52",
+    "question": "The process by which plants lose water vapor through their leaves is called:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Evaporation"
+    ],
+    "correct_answer": "Transpiration",
+    "explanation": "Transpiration is the process of water movement through plants and its evaporation from leaves.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_53",
+    "question": "Which of these is a function of the small intestine?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Bile production",
+      "Food storage"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "The small intestine is primarily responsible for nutrient absorption.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_54",
+    "question": "The process by which DNA makes RNA is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "Transcription is the process of creating RNA from a DNA template.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_55",
+    "question": "Which of these is NOT a function of the skin?",
+    "options": [
+      "Protection",
+      "Temperature regulation",
+      "Vitamin D synthesis",
+      "Oxygen transport"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "The skin does not transport oxygen; this is the function of the respiratory system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_56",
+    "question": "The process by which RNA makes proteins is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "Translation is the process of protein synthesis from mRNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_57",
+    "question": "Which of these is a function of the Golgi apparatus?",
+    "options": [
+      "Protein synthesis",
+      "ATP production",
+      "Modification and packaging of proteins",
+      "DNA replication"
+    ],
+    "correct_answer": "Modification and packaging of proteins",
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins for secretion.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_58",
+    "question": "The process by which populations change over time is called:",
+    "options": [
+      "Natural selection",
+      "Evolution",
+      "Adaptation",
+      "Mutation"
+    ],
+    "correct_answer": "Evolution",
+    "explanation": "Evolution is the process of change in populations over generations.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_59",
+    "question": "Which of these is NOT a function of the kidney?",
+    "options": [
+      "Blood filtration",
+      "Water balance regulation",
+      "pH regulation",
+      "Bile production"
+    ],
+    "correct_answer": "Bile production",
+    "explanation": "Bile is produced by the liver, not the kidneys.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_60",
+    "question": "The process by which plants respond to touch is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Thigmotropism",
+    "explanation": "Thigmotropism is the growth response of plants to touch or contact.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_61",
+    "question": "Which of these is NOT a function of the respiratory system?",
+    "options": [
+      "Gas exchange",
+      "pH regulation",
+      "Sound production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Nutrient absorption occurs in the digestive system, not the respiratory system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_62",
+    "question": "The process by which bacteria exchange genetic material is called:",
+    "options": [
+      "Binary fission",
+      "Conjugation",
+      "Budding",
+      "Fragmentation"
+    ],
+    "correct_answer": "Conjugation",
+    "explanation": "Conjugation is the process by which bacteria exchange genetic material.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_63",
+    "question": "Which of these is a function of the endocrine system?",
+    "options": [
+      "Rapid response to stimuli",
+      "Hormone production",
+      "Voluntary movement",
+      "Nutrient digestion"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "The endocrine system produces hormones that regulate body functions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_64",
+    "question": "The process by which plants grow toward water is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Hydrotropism",
+    "explanation": "Hydrotropism is the growth response of plants to water.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_65",
+    "question": "Which of these is NOT a function of the nervous system?",
+    "options": [
+      "Sensory reception",
+      "Integration of information",
+      "Motor response",
+      "Hormone production"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "Hormone production is a function of the endocrine system, not the nervous system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_66",
+    "question": "The process by which cells break down glucose to release energy is called:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Respiration",
+    "explanation": "Cellular respiration is the process of breaking down glucose to release energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_67",
+    "question": "Which of these is a function of the circulatory system?",
+    "options": [
+      "Nutrient transport",
+      "Waste removal",
+      "Oxygen transport",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "The circulatory system transports nutrients, oxygen, and removes waste products.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_68",
+    "question": "The process by which unspecialized cells become specialized is called:",
+    "options": [
+      "Differentiation",
+      "Mitosis",
+      "Meiosis",
+      "Fertilization"
+    ],
+    "correct_answer": "Differentiation",
+    "explanation": "Cellular differentiation is the process by which cells become specialized.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_69",
+    "question": "Which of these is NOT a component of the neuron?",
+    "options": [
+      "Dendrite",
+      "Axon",
+      "Myelin sheath",
+      "Hemoglobin"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin is found in red blood cells, not neurons.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_70",
+    "question": "The process by which water moves up plant stems against gravity is called:",
+    "options": [
+      "Osmosis",
+      "Transpiration pull",
+      "Active transport",
+      "Diffusion"
+    ],
+    "correct_answer": "Transpiration pull",
+    "explanation": "Transpiration pull is the main mechanism for water movement up plants.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_71",
+    "question": "Which of these is a function of the skeletal muscle?",
+    "options": [
+      "Voluntary movement",
+      "Involuntary movement",
+      "Hormone production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Voluntary movement",
+    "explanation": "Skeletal muscles are responsible for voluntary movements.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_72",
+    "question": "The process by which gametes are formed is called:",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correct_answer": "Meiosis",
+    "explanation": "Meiosis produces gametes with half the normal chromosome number.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_73",
+    "question": "Which of these is NOT a function of the stomach?",
+    "options": [
+      "Protein digestion",
+      "Food storage",
+      "Mechanical digestion",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Most nutrient absorption occurs in the small intestine.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_74",
+    "question": "The process by which plants respond to gravity is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Geotropism",
+    "explanation": "Geotropism is the growth response of plants to gravity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_75",
+    "question": "Which of these is a function of the ribosome?",
+    "options": [
+      "ATP production",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "DNA replication"
+    ],
+    "correct_answer": "Protein synthesis",
+    "explanation": "Ribosomes are responsible for protein synthesis.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_76",
+    "question": "The process by which plants take in carbon dioxide and release oxygen is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Photosynthesis",
+    "explanation": "Photosynthesis converts CO₂ and water into glucose and oxygen using sunlight.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_77",
+    "question": "Which of these is NOT a function of the liver?",
+    "options": [
+      "Detoxification",
+      "Bile production",
+      "Glycogen storage",
+      "Insulin production"
+    ],
+    "correct_answer": "Insulin production",
+    "explanation": "Insulin is produced by the pancreas, not the liver.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_78",
+    "question": "The process by which cells engulf large particles is called:",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Phagocytosis",
+      "Pinocytosis"
+    ],
+    "correct_answer": "Phagocytosis",
+    "explanation": "Phagocytosis is the process by which cells engulf large particles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_79",
+    "question": "Which of these is NOT a type of connective tissue?",
+    "options": [
+      "Bone",
+      "Blood",
+      "Cartilage",
+      "Neuron"
+    ],
+    "correct_answer": "Neuron",
+    "explanation": "Neurons are nerve cells, not connective tissue.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_80",
+    "question": "The process by which plants lose water vapor through their leaves is called:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Evaporation"
+    ],
+    "correct_answer": "Transpiration",
+    "explanation": "Transpiration is the evaporation of water from plant leaves.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_81",
+    "question": "Which of these is a function of the small intestine?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Bile production",
+      "Food storage"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "The small intestine is primarily responsible for nutrient absorption.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_82",
+    "question": "The process by which DNA makes RNA is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "Transcription is the process of creating RNA from DNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_83",
+    "question": "Which of these is NOT a function of the skin?",
+    "options": [
+      "Protection",
+      "Temperature regulation",
+      "Vitamin D synthesis",
+      "Oxygen transport"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "The skin does not transport oxygen.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_84",
+    "question": "The process by which RNA makes proteins is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "Translation is the process of protein synthesis from mRNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_85",
+    "question": "Which of these is a function of the Golgi apparatus?",
+    "options": [
+      "Protein synthesis",
+      "ATP production",
+      "Modification and packaging of proteins",
+      "DNA replication"
+    ],
+    "correct_answer": "Modification and packaging of proteins",
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_86",
+    "question": "The process by which populations change over time is called:",
+    "options": [
+      "Natural selection",
+      "Evolution",
+      "Adaptation",
+      "Mutation"
+    ],
+    "correct_answer": "Evolution",
+    "explanation": "Evolution is the process of change in populations over generations.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_87",
+    "question": "Which of these is NOT a function of the kidney?",
+    "options": [
+      "Blood filtration",
+      "Water balance regulation",
+      "pH regulation",
+      "Bile production"
+    ],
+    "correct_answer": "Bile production",
+    "explanation": "Bile is produced by the liver, not the kidneys.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_88",
+    "question": "The process by which plants respond to touch is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Thigmotropism",
+    "explanation": "Thigmotropism is the growth response of plants to touch.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_89",
+    "question": "Which of these is NOT a function of the respiratory system?",
+    "options": [
+      "Gas exchange",
+      "pH regulation",
+      "Sound production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Nutrient absorption occurs in the digestive system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_90",
+    "question": "The process by which bacteria exchange genetic material is called:",
+    "options": [
+      "Binary fission",
+      "Conjugation",
+      "Budding",
+      "Fragmentation"
+    ],
+    "correct_answer": "Conjugation",
+    "explanation": "Conjugation is the process by which bacteria exchange genetic material.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_91",
+    "question": "Which of these is a function of the endocrine system?",
+    "options": [
+      "Rapid response to stimuli",
+      "Hormone production",
+      "Voluntary movement",
+      "Nutrient digestion"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "The endocrine system produces hormones that regulate body functions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_92",
+    "question": "The process by which plants grow toward water is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Hydrotropism",
+    "explanation": "Hydrotropism is the growth response of plants to water.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_93",
+    "question": "Which of these is NOT a function of the nervous system?",
+    "options": [
+      "Sensory reception",
+      "Integration of information",
+      "Motor response",
+      "Hormone production"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "Hormone production is a function of the endocrine system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_94",
+    "question": "The process by which cells break down glucose to release energy is called:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Respiration",
+    "explanation": "Cellular respiration breaks down glucose to release energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_95",
+    "question": "Which of these is a function of the circulatory system?",
+    "options": [
+      "Nutrient transport",
+      "Waste removal",
+      "Oxygen transport",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "The circulatory system transports nutrients, oxygen, and removes waste.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_96",
+    "question": "The process by which unspecialized cells become specialized is called:",
+    "options": [
+      "Differentiation",
+      "Mitosis",
+      "Meiosis",
+      "Fertilization"
+    ],
+    "correct_answer": "Differentiation",
+    "explanation": "Cellular differentiation is the process by which cells become specialized.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_97",
+    "question": "Which of these is NOT a component of the neuron?",
+    "options": [
+      "Dendrite",
+      "Axon",
+      "Myelin sheath",
+      "Hemoglobin"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin is found in red blood cells, not neurons.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_98",
+    "question": "The process by which water moves up plant stems against gravity is called:",
+    "options": [
+      "Osmosis",
+      "Transpiration pull",
+      "Active transport",
+      "Diffusion"
+    ],
+    "correct_answer": "Transpiration pull",
+    "explanation": "Transpiration pull is the main mechanism for water movement up plants.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_99",
+    "question": "Which of these is a function of the skeletal muscle?",
+    "options": [
+      "Voluntary movement",
+      "Involuntary movement",
+      "Hormone production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Voluntary movement",
+    "explanation": "Skeletal muscles are responsible for voluntary movements.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_100",
+    "question": "The process by which gametes are formed is called:",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correct_answer": "Meiosis",
+    "explanation": "Meiosis produces gametes with half the normal chromosome number.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_101",
+    "question": "Which of these is NOT a function of the stomach?",
+    "options": [
+      "Protein digestion",
+      "Food storage",
+      "Mechanical digestion",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Most nutrient absorption occurs in the small intestine.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_102",
+    "question": "The process by which plants respond to gravity is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Geotropism",
+    "explanation": "Geotropism is the growth response of plants to gravity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_103",
+    "question": "Which of these is a function of the ribosome?",
+    "options": [
+      "ATP production",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "DNA replication"
+    ],
+    "correct_answer": "Protein synthesis",
+    "explanation": "Ribosomes are responsible for protein synthesis.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_104",
+    "question": "The process by which plants take in carbon dioxide and release oxygen is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Photosynthesis",
+    "explanation": "Photosynthesis converts CO₂ and water into glucose and oxygen using sunlight.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_105",
+    "question": "Which of these is NOT a function of the liver?",
+    "options": [
+      "Detoxification",
+      "Bile production",
+      "Glycogen storage",
+      "Insulin production"
+    ],
+    "correct_answer": "Insulin production",
+    "explanation": "Insulin is produced by the pancreas, not the liver.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_106",
+    "question": "The process by which cells engulf large particles is called:",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Phagocytosis",
+      "Pinocytosis"
+    ],
+    "correct_answer": "Phagocytosis",
+    "explanation": "Phagocytosis is the process by which cells engulf large particles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_107",
+    "question": "Which of these is NOT a type of connective tissue?",
+    "options": [
+      "Bone",
+      "Blood",
+      "Cartilage",
+      "Neuron"
+    ],
+    "correct_answer": "Neuron",
+    "explanation": "Neurons are nerve cells, not connective tissue.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_108",
+    "question": "The process by which plants lose water vapor through their leaves is called:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Evaporation"
+    ],
+    "correct_answer": "Transpiration",
+    "explanation": "Transpiration is the evaporation of water from plant leaves.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_109",
+    "question": "Which of these is a function of the small intestine?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Bile production",
+      "Food storage"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "The small intestine is primarily responsible for nutrient absorption.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_110",
+    "question": "The process by which DNA makes RNA is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "Transcription is the process of creating RNA from DNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_111",
+    "question": "Which of these is NOT a function of the skin?",
+    "options": [
+      "Protection",
+      "Temperature regulation",
+      "Vitamin D synthesis",
+      "Oxygen transport"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "The skin does not transport oxygen.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_112",
+    "question": "The process by which RNA makes proteins is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "Translation is the process of protein synthesis from mRNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_113",
+    "question": "Which of these is a function of the Golgi apparatus?",
+    "options": [
+      "Protein synthesis",
+      "ATP production",
+      "Modification and packaging of proteins",
+      "DNA replication"
+    ],
+    "correct_answer": "Modification and packaging of proteins",
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_114",
+    "question": "The process by which populations change over time is called:",
+    "options": [
+      "Natural selection",
+      "Evolution",
+      "Adaptation",
+      "Mutation"
+    ],
+    "correct_answer": "Evolution",
+    "explanation": "Evolution is the process of change in populations over generations.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_115",
+    "question": "Which of these is NOT a function of the kidney?",
+    "options": [
+      "Blood filtration",
+      "Water balance regulation",
+      "pH regulation",
+      "Bile production"
+    ],
+    "correct_answer": "Bile production",
+    "explanation": "Bile is produced by the liver, not the kidneys.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_116",
+    "question": "The process by which plants respond to touch is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Thigmotropism",
+    "explanation": "Thigmotropism is the growth response of plants to touch.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_117",
+    "question": "Which of these is NOT a function of the respiratory system?",
+    "options": [
+      "Gas exchange",
+      "pH regulation",
+      "Sound production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Nutrient absorption occurs in the digestive system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_118",
+    "question": "The process by which bacteria exchange genetic material is called:",
+    "options": [
+      "Binary fission",
+      "Conjugation",
+      "Budding",
+      "Fragmentation"
+    ],
+    "correct_answer": "Conjugation",
+    "explanation": "Conjugation is the process by which bacteria exchange genetic material.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_119",
+    "question": "Which of these is a function of the endocrine system?",
+    "options": [
+      "Rapid response to stimuli",
+      "Hormone production",
+      "Voluntary movement",
+      "Nutrient digestion"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "The endocrine system produces hormones that regulate body functions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_120",
+    "question": "The process by which plants grow toward water is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Hydrotropism",
+    "explanation": "Hydrotropism is the growth response of plants to water.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_121",
+    "question": "Which of these is NOT a function of the nervous system?",
+    "options": [
+      "Sensory reception",
+      "Integration of information",
+      "Motor response",
+      "Hormone production"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "Hormone production is a function of the endocrine system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_122",
+    "question": "The process by which cells break down glucose to release energy is called:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Respiration",
+    "explanation": "Cellular respiration breaks down glucose to release energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_123",
+    "question": "Which of these is a function of the circulatory system?",
+    "options": [
+      "Nutrient transport",
+      "Waste removal",
+      "Oxygen transport",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "The circulatory system transports nutrients, oxygen, and removes waste.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_124",
+    "question": "The process by which unspecialized cells become specialized is called:",
+    "options": [
+      "Differentiation",
+      "Mitosis",
+      "Meiosis",
+      "Fertilization"
+    ],
+    "correct_answer": "Differentiation",
+    "explanation": "Cellular differentiation is the process by which cells become specialized.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_125",
+    "question": "Which of these is NOT a component of the neuron?",
+    "options": [
+      "Dendrite",
+      "Axon",
+      "Myelin sheath",
+      "Hemoglobin"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin is found in red blood cells, not neurons.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_126",
+    "question": "The process by which water moves up plant stems against gravity is called:",
+    "options": [
+      "Osmosis",
+      "Transpiration pull",
+      "Active transport",
+      "Diffusion"
+    ],
+    "correct_answer": "Transpiration pull",
+    "explanation": "Transpiration pull is the main mechanism for water movement up plants.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_127",
+    "question": "Which of these is a function of the skeletal muscle?",
+    "options": [
+      "Voluntary movement",
+      "Involuntary movement",
+      "Hormone production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Voluntary movement",
+    "explanation": "Skeletal muscles are responsible for voluntary movements.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_128",
+    "question": "The process by which gametes are formed is called:",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correct_answer": "Meiosis",
+    "explanation": "Meiosis produces gametes with half the normal chromosome number.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_129",
+    "question": "Which of these is NOT a function of the stomach?",
+    "options": [
+      "Protein digestion",
+      "Food storage",
+      "Mechanical digestion",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Most nutrient absorption occurs in the small intestine.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_130",
+    "question": "The process by which plants respond to gravity is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Geotropism",
+    "explanation": "Geotropism is the growth response of plants to gravity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_131",
+    "question": "Which of these is a function of the ribosome?",
+    "options": [
+      "ATP production",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "DNA replication"
+    ],
+    "correct_answer": "Protein synthesis",
+    "explanation": "Ribosomes are responsible for protein synthesis.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_132",
+    "question": "The process by which plants take in carbon dioxide and release oxygen is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Photosynthesis",
+    "explanation": "Photosynthesis converts CO₂ and water into glucose and oxygen using sunlight.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_133",
+    "question": "Which of these is NOT a function of the liver?",
+    "options": [
+      "Detoxification",
+      "Bile production",
+      "Glycogen storage",
+      "Insulin production"
+    ],
+    "correct_answer": "Insulin production",
+    "explanation": "Insulin is produced by the pancreas, not the liver.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_134",
+    "question": "The process by which cells engulf large particles is called:",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Phagocytosis",
+      "Pinocytosis"
+    ],
+    "correct_answer": "Phagocytosis",
+    "explanation": "Phagocytosis is the process by which cells engulf large particles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_135",
+    "question": "Which of these is NOT a type of connective tissue?",
+    "options": [
+      "Bone",
+      "Blood",
+      "Cartilage",
+      "Neuron"
+    ],
+    "correct_answer": "Neuron",
+    "explanation": "Neurons are nerve cells, not connective tissue.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_136",
+    "question": "The process by which plants lose water vapor through their leaves is called:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Evaporation"
+    ],
+    "correct_answer": "Transpiration",
+    "explanation": "Transpiration is the evaporation of water from plant leaves.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_137",
+    "question": "Which of these is a function of the small intestine?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Bile production",
+      "Food storage"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "The small intestine is primarily responsible for nutrient absorption.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_138",
+    "question": "The process by which DNA makes RNA is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "Transcription is the process of creating RNA from DNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_139",
+    "question": "Which of these is NOT a function of the skin?",
+    "options": [
+      "Protection",
+      "Temperature regulation",
+      "Vitamin D synthesis",
+      "Oxygen transport"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "The skin does not transport oxygen.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_140",
+    "question": "The process by which RNA makes proteins is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "Translation is the process of protein synthesis from mRNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_141",
+    "question": "Which of these is a function of the Golgi apparatus?",
+    "options": [
+      "Protein synthesis",
+      "ATP production",
+      "Modification and packaging of proteins",
+      "DNA replication"
+    ],
+    "correct_answer": "Modification and packaging of proteins",
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_142",
+    "question": "The process by which populations change over time is called:",
+    "options": [
+      "Natural selection",
+      "Evolution",
+      "Adaptation",
+      "Mutation"
+    ],
+    "correct_answer": "Evolution",
+    "explanation": "Evolution is the process of change in populations over generations.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_143",
+    "question": "Which of these is NOT a function of the kidney?",
+    "options": [
+      "Blood filtration",
+      "Water balance regulation",
+      "pH regulation",
+      "Bile production"
+    ],
+    "correct_answer": "Bile production",
+    "explanation": "Bile is produced by the liver, not the kidneys.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_144",
+    "question": "The process by which plants respond to touch is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Thigmotropism",
+    "explanation": "Thigmotropism is the growth response of plants to touch.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_145",
+    "question": "Which of these is NOT a function of the respiratory system?",
+    "options": [
+      "Gas exchange",
+      "pH regulation",
+      "Sound production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Nutrient absorption occurs in the digestive system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_146",
+    "question": "The process by which bacteria exchange genetic material is called:",
+    "options": [
+      "Binary fission",
+      "Conjugation",
+      "Budding",
+      "Fragmentation"
+    ],
+    "correct_answer": "Conjugation",
+    "explanation": "Conjugation is the process by which bacteria exchange genetic material.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_147",
+    "question": "Which of these is a function of the endocrine system?",
+    "options": [
+      "Rapid response to stimuli",
+      "Hormone production",
+      "Voluntary movement",
+      "Nutrient digestion"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "The endocrine system produces hormones that regulate body functions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_148",
+    "question": "The process by which plants grow toward water is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Hydrotropism",
+    "explanation": "Hydrotropism is the growth response of plants to water.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_149",
+    "question": "Which of these is NOT a function of the nervous system?",
+    "options": [
+      "Sensory reception",
+      "Integration of information",
+      "Motor response",
+      "Hormone production"
+    ],
+    "correct_answer": "Hormone production",
+    "explanation": "Hormone production is a function of the endocrine system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_150",
+    "question": "The process by which cells break down glucose to release energy is called:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Respiration",
+    "explanation": "Cellular respiration breaks down glucose to release energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_151",
+    "question": "Which of these is a function of the circulatory system?",
+    "options": [
+      "Nutrient transport",
+      "Waste removal",
+      "Oxygen transport",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "The circulatory system transports nutrients, oxygen, and removes waste.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_152",
+    "question": "The process by which unspecialized cells become specialized is called:",
+    "options": [
+      "Differentiation",
+      "Mitosis",
+      "Meiosis",
+      "Fertilization"
+    ],
+    "correct_answer": "Differentiation",
+    "explanation": "Cellular differentiation is the process by which cells become specialized.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_153",
+    "question": "Which of these is NOT a component of the neuron?",
+    "options": [
+      "Dendrite",
+      "Axon",
+      "Myelin sheath",
+      "Hemoglobin"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin is found in red blood cells, not neurons.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_154",
+    "question": "The process by which water moves up plant stems against gravity is called:",
+    "options": [
+      "Osmosis",
+      "Transpiration pull",
+      "Active transport",
+      "Diffusion"
+    ],
+    "correct_answer": "Transpiration pull",
+    "explanation": "Transpiration pull is the main mechanism for water movement up plants.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_155",
+    "question": "Which of these is a function of the skeletal muscle?",
+    "options": [
+      "Voluntary movement",
+      "Involuntary movement",
+      "Hormone production",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Voluntary movement",
+    "explanation": "Skeletal muscles are responsible for voluntary movements.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_156",
+    "question": "The process by which gametes are formed is called:",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correct_answer": "Meiosis",
+    "explanation": "Meiosis produces gametes with half the normal chromosome number.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_157",
+    "question": "Which of these is NOT a function of the stomach?",
+    "options": [
+      "Protein digestion",
+      "Food storage",
+      "Mechanical digestion",
+      "Nutrient absorption"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "Most nutrient absorption occurs in the small intestine.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_158",
+    "question": "The process by which plants respond to gravity is called:",
+    "options": [
+      "Phototropism",
+      "Geotropism",
+      "Hydrotropism",
+      "Thigmotropism"
+    ],
+    "correct_answer": "Geotropism",
+    "explanation": "Geotropism is the growth response of plants to gravity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_159",
+    "question": "Which of these is a function of the ribosome?",
+    "options": [
+      "ATP production",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "DNA replication"
+    ],
+    "correct_answer": "Protein synthesis",
+    "explanation": "Ribosomes are responsible for protein synthesis.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_160",
+    "question": "The process by which plants take in carbon dioxide and release oxygen is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correct_answer": "Photosynthesis",
+    "explanation": "Photosynthesis converts CO₂ and water into glucose and oxygen using sunlight.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_161",
+    "question": "Which of these is NOT a function of the liver?",
+    "options": [
+      "Detoxification",
+      "Bile production",
+      "Glycogen storage",
+      "Insulin production"
+    ],
+    "correct_answer": "Insulin production",
+    "explanation": "Insulin is produced by the pancreas, not the liver.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_162",
+    "question": "The process by which cells engulf large particles is called:",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Phagocytosis",
+      "Pinocytosis"
+    ],
+    "correct_answer": "Phagocytosis",
+    "explanation": "Phagocytosis is the process by which cells engulf large particles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_163",
+    "question": "Which of these is NOT a type of connective tissue?",
+    "options": [
+      "Bone",
+      "Blood",
+      "Cartilage",
+      "Neuron"
+    ],
+    "correct_answer": "Neuron",
+    "explanation": "Neurons are nerve cells, not connective tissue.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_164",
+    "question": "The process by which plants lose water vapor through their leaves is called:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Evaporation"
+    ],
+    "correct_answer": "Transpiration",
+    "explanation": "Transpiration is the evaporation of water from plant leaves.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_165",
+    "question": "Which of these is a function of the small intestine?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Bile production",
+      "Food storage"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "explanation": "The small intestine is primarily responsible for nutrient absorption.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_166",
+    "question": "The process by which DNA makes RNA is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "Transcription is the process of creating RNA from DNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_167",
+    "question": "Which of these is NOT a function of the skin?",
+    "options": [
+      "Protection",
+      "Temperature regulation",
+      "Vitamin D synthesis",
+      "Oxygen transport"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "The skin does not transport oxygen.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_168",
+    "question": "The process by which RNA makes proteins is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "Translation is the process of protein synthesis from mRNA.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_169",
+    "question": "Which vitamin is primarily synthesized in the skin upon exposure to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correct_answer": "Vitamin D",
+    "explanation": "Vitamin D is synthesized by the skin when it is exposed to ultraviolet B (UVB) rays from sunlight.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_170",
+    "question": "Which enzyme is responsible for breaking down starch into sugars in the mouth?",
+    "options": ["Lipase", "Pepsin", "Amylase", "Trypsin"],
+    "correct_answer": "Amylase",
+    "explanation": "Salivary amylase starts the digestion of starch into maltose in the mouth.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_171",
+    "question": "Which structure in the heart prevents backflow of blood into the atria?",
+    "options": ["Semilunar valves", "Atrioventricular valves", "Chordae tendineae", "Papillary muscles"],
+    "correct_answer": "Atrioventricular valves",
+    "explanation": "Atrioventricular valves (tricuspid and mitral) prevent the backflow of blood from the ventricles into the atria.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_172",
+    "question": "Which of the following is the largest organ in the human body by mass?",
+    "options": ["Heart", "Liver", "Lung", "Skin"],
+    "correct_answer": "Skin",
+    "explanation": "The skin is the largest organ of the human body, both in surface area and weight.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_173",
+    "question": "Which part of the brain controls involuntary actions like heartbeat and breathing?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Thalamus"],
+    "correct_answer": "Medulla oblongata",
+    "explanation": "The medulla oblongata controls vital involuntary functions such as breathing and heart rate.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_174",
+    "question": "Which of the following is responsible for transporting oxygen in the blood?",
+    "options": ["Plasma", "White blood cells", "Hemoglobin", "Platelets"],
+    "correct_answer": "Hemoglobin",
+    "explanation": "Hemoglobin in red blood cells binds to oxygen and transports it to body tissues.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_175",
+    "question": "Which organ is primarily responsible for detoxifying harmful substances in the blood?",
+    "options": ["Liver", "Kidney", "Pancreas", "Spleen"],
+    "correct_answer": "Liver",
+    "explanation": "The liver detoxifies chemicals and metabolizes drugs.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_176",
+    "question": "What type of joint is found in the shoulder and hip?",
+    "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Gliding joint"],
+    "correct_answer": "Ball and socket joint",
+    "explanation": "Ball and socket joints allow movement in multiple directions and are found in shoulders and hips.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_177",
+    "question": "What is the primary function of red blood cells?",
+    "options": ["Fighting infections", "Transporting oxygen", "Clotting blood", "Regulating body temperature"],
+    "correct_answer": "Transporting oxygen",
+    "explanation": "Red blood cells carry oxygen from the lungs to the tissues using hemoglobin.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_178",
+    "question": "Which hormone regulates blood sugar levels?",
+    "options": ["Adrenaline", "Thyroxine", "Insulin", "Estrogen"],
+    "correct_answer": "Insulin",
+    "explanation": "Insulin lowers blood glucose levels by promoting the uptake of glucose into cells.",
+    "difficulty": "Medium"
+  },
+    {
+    "id": "BIO_179",
+    "question": "Which macromolecule is primarily responsible for storing genetic information?",
+    "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+    "correct_answer": "Nucleic acids",
+    "explanation": "Nucleic acids like DNA and RNA store and transmit genetic information.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_180",
+    "question": "Which cellular organelle is involved in lipid synthesis?",
+    "options": ["Rough ER", "Golgi apparatus", "Smooth ER", "Lysosome"],
+    "correct_answer": "Smooth ER",
+    "explanation": "The smooth endoplasmic reticulum is involved in lipid synthesis and detoxification.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_181",
+    "question": "Which phase of mitosis involves the separation of sister chromatids?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "correct_answer": "Anaphase",
+    "explanation": "During anaphase, sister chromatids are pulled apart toward opposite poles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_182",
+    "question": "Which biomolecule is the main component of the cell membrane?",
+    "options": ["Proteins", "Nucleic acids", "Phospholipids", "Carbohydrates"],
+    "correct_answer": "Phospholipids",
+    "explanation": "Cell membranes are primarily composed of a phospholipid bilayer.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_183",
+    "question": "Which part of the flower becomes the fruit after fertilization?",
+    "options": ["Stigma", "Ovary", "Anther", "Petal"],
+    "correct_answer": "Ovary",
+    "explanation": "The ovary of the flower matures into the fruit after fertilization.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_184",
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": ["Veins", "Capillaries", "Arteries", "Venules"],
+    "correct_answer": "Arteries",
+    "explanation": "Arteries carry oxygenated blood away from the heart (except pulmonary arteries).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_185",
+    "question": "Which gland controls the endocrine system?",
+    "options": ["Thyroid", "Adrenal", "Pancreas", "Pituitary"],
+    "correct_answer": "Pituitary",
+    "explanation": "The pituitary gland is the master gland that regulates other endocrine glands.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_186",
+    "question": "Which genetic disorder is caused by the presence of an extra chromosome 21?",
+    "options": ["Turner syndrome", "Down syndrome", "Klinefelter syndrome", "Hemophilia"],
+    "correct_answer": "Down syndrome",
+    "explanation": "Down syndrome is caused by trisomy of chromosome 21.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_187",
+    "question": "What is the role of chlorophyll in photosynthesis?",
+    "options": ["Water absorption", "Sugar synthesis", "Oxygen release", "Light absorption"],
+    "correct_answer": "Light absorption",
+    "explanation": "Chlorophyll absorbs sunlight to drive the photosynthesis process.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_188",
+    "question": "Which structure connects muscles to bones?",
+    "options": ["Ligaments", "Cartilage", "Tendons", "Joints"],
+    "correct_answer": "Tendons",
+    "explanation": "Tendons are connective tissues that attach muscles to bones.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_189",
+    "question": "Which part of the digestive system is primarily responsible for water absorption?",
+    "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+    "correct_answer": "Large intestine",
+    "explanation": "The large intestine absorbs water and forms feces.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_190",
+    "question": "What is the primary energy currency of the cell?",
+    "options": ["DNA", "RNA", "Glucose", "ATP"],
+    "correct_answer": "ATP",
+    "explanation": "Adenosine triphosphate (ATP) is the primary molecule for energy transfer in cells.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_191",
+    "question": "Which kingdom includes mushrooms and yeasts?",
+    "options": ["Plantae", "Fungi", "Protista", "Monera"],
+    "correct_answer": "Fungi",
+    "explanation": "Mushrooms and yeasts belong to the kingdom Fungi.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_192",
+    "question": "What term describes organisms that produce their own food?",
+    "options": ["Heterotrophs", "Consumers", "Decomposers", "Autotrophs"],
+    "correct_answer": "Autotrophs",
+    "explanation": "Autotrophs synthesize their own food using sunlight or chemical energy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_193",
+    "question": "Which cell type has a nucleus?",
+    "options": ["Prokaryotic", "Bacterial", "Archaeal", "Eukaryotic"],
+    "correct_answer": "Eukaryotic",
+    "explanation": "Eukaryotic cells contain a true nucleus and membrane-bound organelles.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_194",
+    "question": "Which organ in humans is responsible for filtering blood and producing urine?",
+    "options": ["Liver", "Lungs", "Kidney", "Pancreas"],
+    "correct_answer": "Kidney",
+    "explanation": "The kidneys filter blood, removing wastes and producing urine.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_195",
+    "question": "Which of these processes directly produces genetic variation in offspring?",
+    "options": ["Mitosis", "Cloning", "Meiosis", "Binary fission"],
+    "correct_answer": "Meiosis",
+    "explanation": "Meiosis includes recombination and independent assortment, producing genetic diversity.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_196",
+    "question": "Which of the following organisms is a prokaryote?",
+    "options": ["Amoeba", "Yeast", "Bacterium", "Alga"],
+    "correct_answer": "Bacterium",
+    "explanation": "Bacteria are unicellular prokaryotes lacking a nucleus.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_197",
+    "question": "Which gas is absorbed during photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "correct_answer": "Carbon dioxide",
+    "explanation": "Plants absorb carbon dioxide from the air during photosynthesis.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "BIO_198",
+    "question": "Which part of the neuron receives signals from other neurons?",
+    "options": ["Axon", "Cell body", "Dendrite", "Synapse"],
+    "correct_answer": "Dendrite",
+    "explanation": "Dendrites receive electrical signals from neighboring neurons.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_199",
+    "question": "What is the role of bile in digestion?",
+    "options": ["Digest proteins", "Emulsify fats", "Absorb water", "Neutralize acid"],
+    "correct_answer": "Emulsify fats",
+    "explanation": "Bile emulsifies fats, breaking them into smaller droplets for digestion.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "BIO_200",
+    "question": "Which of the following helps regulate body temperature?",
+    "options": ["Liver", "Skin", "Pancreas", "Kidneys"],
+    "correct_answer": "Skin",
+    "explanation": "The skin helps regulate temperature through sweat and blood flow.",
+    "difficulty": "Easy"
+  }
+]

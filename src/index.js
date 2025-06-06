@@ -17,6 +17,7 @@ const search = require('./routes/universities');
 const cart = require('./routes/cart');
 const testRoutes = require('./routes/test_questions');
 
+const notificationRoutes = require('./routes/notification');
 const app = express();
 
 // Middleware
@@ -48,6 +49,7 @@ app.use('/api', degreeRt);
 app.use('/api', chatbotRt);
 app.use('/api', search);
 app.use('/api/tests', testRoutes);
+app.use('/api', notificationRoutes);
 
 
 app.use('/api', cart);

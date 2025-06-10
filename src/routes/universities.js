@@ -1,311 +1,245 @@
+// routes/universities.js
+
 const express = require('express');
 const router = express.Router();
 const client = require('../db');
-const auth = require('../middleware/auth'); // Your JWT middleware
+const auth = require('../middleware/auth');
 
-// GET all universities
-router.get('/universities', auth, async (req, res) => {
-    try {
-        const { rows } = await client.query('SELECT * FROM universities ORDER BY university_title ASC');
-        res.json(rows);
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+// ─── 1) ALL PROGRAMS WITH UNIVERSITY INFO ───────────────────────────────────────
+router.get('/programs', auth, async (req, res) => {
+  try {
+    const { rows } = await client.query(`
+      SELECT 
+        p.id          AS program_id,
+        p.program_key,
+        p.program_title,
+        p.program_description,
+        p.program_duration,
+        p.credit_hours,
+        p.fee,
+        p.important_dates,
+        p.merit,
+        p.teaching_system,
+        p.admission_criteria,
+        p.merit_formula,
+        p.course_outline,
+        u.id          AS university_id,
+        u.university_title,
+        u.main_link,
+        u.qs_ranking,
+        u.social_links,
+        u.contact_details,
+        u.introduction,
+        u.campuses,
+        u.location
+      FROM programs p
+      JOIN universities u ON u.id = p.university_id
+      ORDER BY u.university_title ASC, p.program_title ASC
+    `);
+    res.json(rows);
+  } catch (err) {
+    console.error('Error fetching all programs:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
-// SEARCH university by name
-router.get('/universities/search/', auth, async (req, res) => {
-    const { name } = req.params;
-    try {
-        const { rows } = await client.query(
-            `SELECT * FROM universities WHERE LOWER(university_title) LIKE LOWER($1)`,
-            [`%${name}%`]
-        );
-        res.json(rows);
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+// ─── Fuzzy SEARCH universities by name ────────────────────────────────────────
+router.get('/universities/search/:name', auth, async (req, res) => {
+  const { name } = req.params;
+  try {
+    const { rows } = await client.query(
+      `
+      SELECT *
+        FROM universities
+       WHERE university_title ILIKE $1
+          OR university_title % $1
+       ORDER BY similarity(university_title, $1) DESC,
+                university_title ASC
+       LIMIT 50
+      `,
+      [`%${name}%`]
+    );
+    res.json(rows);
+  } catch (err) {
+    console.error('Error searching universities (fuzzy):', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
 
-// GET all programs of a specific university
-router.get('/universities/programs', auth, async (req, res) => {
-    const { universityId } = req.params;
-    try {
-        const { rows } = await client.query(
-            `SELECT * FROM programs WHERE university_id = $1 ORDER BY program_title ASC`,
-            [universityId]
-        );
-        res.json(rows);
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+// ─── 3) PROGRAMS BY UNIVERSITY ────────────────────────────────────────────────
+router.get('/programs/byUniversity/:universityId', auth, async (req, res) => {
+  const { universityId } = req.params;
+  try {
+    const { rows } = await client.query(
+      `
+      SELECT 
+        p.*, 
+        u.university_title, 
+        u.location 
+      FROM programs p
+      JOIN universities u ON u.id = p.university_id
+      WHERE p.university_id = $1
+      ORDER BY p.program_title
+      `,
+      [universityId]
+    );
+    res.json(rows);
+  } catch (err) {
+    console.error('Error fetching programs by university:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
-// SEARCH programs by degree name (program_title)
-router.get('/programs/search/', auth, async (req, res) => {
-    const { degreeName } = req.params;
-    try {
-        const { rows } = await client.query(
-            `SELECT p.*, u.university_title 
-       FROM programs p
-       JOIN universities u ON u.id = p.university_id
-       WHERE LOWER(p.program_title) LIKE LOWER($1)
-       ORDER BY p.program_title ASC`,
-            [`%${degreeName}%`]
-        );
-        res.json(rows);
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+// ─── Fuzzy SEARCH programs by title ───────────────────────────────────────────
+router.get('/programs/search/:programTitle', auth, async (req, res) => {
+  const { programTitle } = req.params;
+  try {
+    const { rows } = await client.query(
+      `
+      SELECT
+        p.id           AS program_id,
+        p.program_title,
+        u.university_title,
+        u.location
+      FROM programs p
+      JOIN universities u ON u.id = p.university_id
+      WHERE p.program_title ILIKE $1
+         OR p.program_title % $1
+      ORDER BY similarity(p.program_title, $1) DESC,
+               p.program_title ASC
+      LIMIT 50
+      `,
+      [`%${programTitle}%`]
+    );
+    res.json(rows);
+  } catch (err) {
+    console.error('Error searching programs (fuzzy):', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
-// GET full program details by programId
-router.get('/programs/specific', auth, async (req, res) => {
-    const { programId } = req.params;
-    try {
-        const { rows } = await client.query(
-            `
-      SELECT p.*, u.*
+
+// ─── 5) FULL DETAILS FOR ONE PROGRAM ──────────────────────────────────────────
+router.get('/programs/specific/:programId', auth, async (req, res) => {
+  const { programId } = req.params;
+  try {
+    const { rows } = await client.query(
+      `
+      SELECT 
+        p.*,
+        u.id            AS university_id,
+        u.university_title,
+        u.main_link,
+        u.qs_ranking,
+        u.social_links,
+        u.contact_details,
+        u.introduction,
+        u.campuses,
+        u.location
       FROM programs p
       JOIN universities u ON u.id = p.university_id
       WHERE p.id = $1
       `,
-            [programId]
-        );
-
-        if (!rows[0]) return res.status(404).json({ error: 'Program not found' });
-
-        const row = rows[0];
-
-        // Extract university fields (adjust based on your schema)
-        const university = {
-            id: row.id,  // university id will clash with program.id, so you may want to rename these keys
-            university_title: row.university_title,
-            main_link: row.main_link,
-            qs_ranking: row.qs_ranking,
-            social_links: row.social_links,
-            contact_details: row.contact_details,
-            introduction: row.introduction,
-            campuses: row.campuses,
-        };
-
-        // Extract program fields, removing university fields
-        const program = {
-            id: row.id,  // clash! So better rename one of them below
-            university_id: row.university_id,
-            program_key: row.program_key,
-            program_title: row.program_title,
-            program_description: row.program_description,
-            program_duration: row.program_duration,
-            credit_hours: row.credit_hours,
-            fee: row.fee,
-            important_dates: row.important_dates,
-            merit: row.merit,
-            teaching_system: row.teaching_system,
-            admission_criteria: row.admission_criteria,
-            merit_formula: row.merit_formula,
-            course_outline: row.course_outline,
-        };
-
-        // Rename to avoid clash:
-        university.id = university.id; // university id stays
-        program.id = program.id;       // program id stays (both are 51 here so this is ambiguous)
-
-        res.json({ program, university });
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Internal server error' });
+      [programId]
+    );
+    if (!rows[0]) {
+      return res.status(404).json({ error: 'Program not found' });
     }
-});
-// GET /universities/ranking
-
-// GET universities with optional location filter
-// GET universities filtered by location (query param 'location' case-insensitive)
-/*
-router.get('/universities/filter', auth, async (req, res) => {
-    const location = req.query.location || req.query.Location;
-
-    if (!location) {
-        return res.status(400).json({ error: 'Location query parameter is required' });
-    }
-
-    try {
-        const { rows } = await client.query(
-            `
-      SELECT *
-      FROM universities
-      WHERE EXISTS (
-        SELECT 1 FROM unnest(locations) AS loc WHERE LOWER(loc) = LOWER($1)
-      )
-      ORDER BY university_title ASC
-      `,
-            [location]
-        );
-
-        res.json(rows);
-    } catch (error) {
-        console.error('Error fetching universities by location:', error);
-        res.status(500).json({ error: 'Internal server error' });
-    }
-});
-// GET all universities sorted by QS Ranking (ascending)
-router.get('/universities/sorted/qs-ranking', auth, async (req, res) => {
-    try {
-        const query = `
-            SELECT *
-            FROM universities
-            ORDER BY 
-              CASE 
-                WHEN qs_ranking ~ '^[0-9]+$' THEN CAST(qs_ranking AS INTEGER)
-                ELSE NULL
-              END ASC
-        `;
-
-        const { rows } = await client.query(query);
-        res.json(rows);
-    } catch (err) {
-        console.error('Error fetching universities by qs_ranking:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+    res.json(rows[0]);
+  } catch (err) {
+    console.error('Error fetching program details:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
-// routes/programs.js
+// ─── 6) COMBINED FILTER ENDPOINT ──────────────────────────────────────────────
+router.get('/programs/filter', auth, async (req, res) => {
+  try {
+    const {
+      location,
+      university_title,
+      program_title,
+      qs_ranking,
+      min_total_fee,
+      max_total_fee,
+      min_credit_fee,
+      max_credit_fee
+    } = req.query;
 
-// Total Tuition Fee filter
-router.get('/programs/filter-by-total-fee', async (req, res) => {
-    try {
-        const { min, max } = req.query;
-        if (!min || !max) {
-            return res.status(400).json({ error: 'Min and max are required' });
-        }
+    const conditions = [];
+    const values = [];
+    let idx = 1;
 
-        const result = await client.query(
-            `
-      SELECT * FROM programs
-      WHERE 
-        REGEXP_REPLACE(fee->0->>'total_tution_fee', '[^0-9]', '', 'g') ~ '^[0-9]+$'
-        AND CAST(REGEXP_REPLACE(fee->0->>'total_tution_fee', '[^0-9]', '', 'g') AS INTEGER)
-        BETWEEN $1 AND $2
-      `,
-            [min, max]
-        );
-
-        res.json(result.rows);
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Server error' });
+    // filter by university.location
+    if (location) {
+      conditions.push(`u.location = $${idx}`);
+      values.push(location);
+      idx++;
     }
-});
 
-// routes/programs.js (same file, continue)
-
-router.get('/programs/filter-by-credit-fee', async (req, res) => {
-    try {
-        const { min, max } = req.query;
-        if (!min || !max) {
-            return res.status(400).json({ error: 'Min and max are required' });
-        }
-
-        const result = await client.query(
-            `
-      SELECT * FROM programs
-      WHERE 
-        REGEXP_REPLACE(fee->0->>'per_credit_hour_fee', '[^0-9]', '', 'g') ~ '^[0-9]+$'
-        AND CAST(REGEXP_REPLACE(fee->0->>'per_credit_hour_fee', '[^0-9]', '', 'g') AS INTEGER)
-        BETWEEN $1 AND $2
-      `,
-            [min, max]
-        );
-
-        res.json(result.rows);
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Server error' });
+    if (university_title) {
+      conditions.push(`LOWER(u.university_title) LIKE LOWER($${idx})`);
+      values.push(`%${university_title}%`);
+      idx++;
     }
-});
-*/
-router.get('/universities/programs/filter', auth, async (req, res) => {
-    try {
-        const {
-            location,
-            university_title,
-            program_title,
-            min_total_fee,
-            max_total_fee,
-            min_credit_fee,
-            max_credit_fee,
-            qs_ranking
-        } = req.query;
 
-        const conditions = [];
-        const values = [];
-        let idx = 1;
+    if (program_title) {
+      conditions.push(`LOWER(p.program_title) LIKE LOWER($${idx})`);
+      values.push(`%${program_title}%`);
+      idx++;
+    }
 
-        if (location) {
-            conditions.push(`EXISTS (SELECT 1 FROM unnest(u.locations) AS loc WHERE LOWER(loc) = LOWER($${idx}))`);
-            values.push(location);
-            idx++;
-        }
+    if (qs_ranking) {
+      conditions.push(`u.qs_ranking::int = $${idx}`);
+      values.push(parseInt(qs_ranking, 10));
+      idx++;
+    }
 
-        if (university_title) {
-            conditions.push(`LOWER(u.university_title) LIKE LOWER($${idx})`);
-            values.push(`%${university_title}%`);
-            idx++;
-        }
-
-        if (program_title) {
-            conditions.push(`LOWER(p.program_title) LIKE LOWER($${idx})`);
-            values.push(`%${program_title}%`);
-            idx++;
-        }
-
-        if (qs_ranking) {
-            conditions.push(`u.qs_ranking = $${idx}`);
-            values.push(qs_ranking);
-            idx++;
-        }
-
-        if (min_total_fee && max_total_fee) {
-            conditions.push(`
-        REGEXP_REPLACE(p.fee->0->>'total_tution_fee', '[^0-9]', '', 'g') ~ '^[0-9]+$' AND
+    // fee JSONB path: p.fee->0->>'total_tution_fee'
+    if (min_total_fee && max_total_fee) {
+      conditions.push(`
         CAST(REGEXP_REPLACE(p.fee->0->>'total_tution_fee', '[^0-9]', '', 'g') AS INTEGER)
-        BETWEEN $${idx} AND $${idx + 1}
+        BETWEEN $${idx} AND $${idx+1}
       `);
-            values.push(min_total_fee, max_total_fee);
-            idx += 2;
-        }
+      values.push(parseInt(min_total_fee, 10), parseInt(max_total_fee, 10));
+      idx += 2;
+    }
 
-        if (min_credit_fee && max_credit_fee) {
-            conditions.push(`
-        REGEXP_REPLACE(p.fee->0->>'per_credit_hour_fee', '[^0-9]', '', 'g') ~ '^[0-9]+$' AND
+    if (min_credit_fee && max_credit_fee) {
+      conditions.push(`
         CAST(REGEXP_REPLACE(p.fee->0->>'per_credit_hour_fee', '[^0-9]', '', 'g') AS INTEGER)
-        BETWEEN $${idx} AND $${idx + 1}
+        BETWEEN $${idx} AND $${idx+1}
       `);
-            values.push(min_credit_fee, max_credit_fee);
-            idx += 2;
-        }
+      values.push(parseInt(min_credit_fee, 10), parseInt(max_credit_fee, 10));
+      idx += 2;
+    }
 
-        const whereClause = conditions.length > 0 ? `WHERE ${conditions.join(' AND ')}` : '';
+    const whereClause = conditions.length ? `WHERE ${conditions.join(' AND ')}` : '';
 
-        const query = `
-      SELECT u.*, p.*
-      FROM universities u
-      JOIN programs p ON p.university_id = u.id
+    const query = `
+      SELECT 
+        p.id            AS program_id,
+        p.program_key,
+        p.program_title,
+        p.program_duration,
+        p.credit_hours,
+        p.fee,
+        u.id            AS university_id,
+        u.university_title,
+        u.location
+      FROM programs p
+      JOIN universities u ON u.id = p.university_id
       ${whereClause}
-      ORDER BY u.university_title ASC
+      ORDER BY u.university_title, p.program_title
     `;
 
-        const { rows } = await client.query(query, values);
-        res.json(rows);
-    } catch (err) {
-        console.error('Error in combined filter:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+    const { rows } = await client.query(query, values);
+    res.json(rows);
+  } catch (err) {
+    console.error('Error in programs filter:', err);
+    res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
 module.exports = router;

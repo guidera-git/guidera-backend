@@ -2,17 +2,19 @@
   {
     "university_title": "Quaid-i-Azam University",
     "main_link": "https://qau.edu.pk/",
+    "location": "Islamabad",
+    "additional_locations": [],
     "social_links": {
       "instagram": "https://www.instagram.com/quaid_i_azam_university_isb/",
       "facebook": "https://www.facebook.com/QAUIslamabadofficial",
       "twitter": "http://www.twitter.com/QAU_Official"
     },
-    "ranking": "1",
+    "qs_ranking": "1",
     "contact_details": {
       "info_email": "info@qau.edu.pk",
       "call": "0092-51-9064-0000"
     },
-    "introduction": "Riphah International University is a private University, chartered by the Federal Government of Pakistan in 2002. The University was established to produce professionals with Islamic moral and ethical values. It is sponsored by a not-for-profit trust; namely, Islamic International Medical College Trust (IIMCT), created in 1995. The first project of the IIMCT was the Islamic International Medical College, Rawalpindi, established in 1996 by its Founding Managing Trustee.",
+    "introduction": "Quaid-i-Azam University is Pakistan's premier public research university, established in 1967 in Islamabad. Named after the founder of Pakistan, Quaid-i-Azam Muhammad Ali Jinnah, the university is renowned for its academic excellence and research contributions. QAU offers a wide range of undergraduate, graduate, and doctoral programs across various disciplines including natural sciences, social sciences, and humanities.",
     "programs": {
       "computer_science": {
         "program_title": "BS Computer Science",
@@ -21,8 +23,8 @@
         "credit_hours": "130",
         "fee": [
           {
-            "per_credit_hour_fee": "5502 PKR",
-            "total_tution_fee": "7,151160 PKR"
+            "per_credit_hour_fee": "5,502 PKR",
+            "total_tution_fee": "715,260 PKR"
           }
         ],
         "important_dates": [
@@ -38,6 +40,7 @@
           }
         ],
         "merit": "60%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -53,7 +56,7 @@
           },
           {
             "s.no": 4,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [

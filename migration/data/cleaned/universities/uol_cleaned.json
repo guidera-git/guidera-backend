@@ -2,21 +2,23 @@
   {
     "university_title": "The University of Lahore",
     "main_link": "https://uol.edu.pk/",
+    "location": "Lahore",
+    "additional_locations": ["Gujranwala", "Khanspur", "Jhelum", "Pothohar"],
     "social_links": {
       "instagram": "https://www.instagram.com/official.uol/",
       "facebook": "https://www.facebook.com/University.Lahore",
       "twitter": "https://twitter.com/ULahore"
     },
-    "ranking": "951",
+    "qs_ranking": "951",
     "contact_details": {
       "info_email": "info@uol.edu.pk",
       "call": "042-111 865-865"
     },
-    "introduction": "The University of Lahore is the largest private sector university in Pakistan with more than 35,000 students. It was established in 1999 and since then it is offering courses in the fields of Medicine & Dentistry, Engineering, Arts, Sciences and Social Sciences. With strong emphasis on balanced progress and focus on human capital, the University has grown to 11 faculties and 45+ departments. The quality of teaching facilities and research excellence have also earned UOL international recognition, placing it amongst the top three in Pakistan according to QS Asia World University Rankings 2022. The Higher Education Commission (HEC) recognizes the University of Lahore at its highest “W4” category of universities reserved for those institutions that fulfill all criterion of an International Quality University. The University has special focus on Professional and Technical Education, as it is an instrument of growth & development of any country’s economy. We are proud to be well-equipped state of the art labs in the programs of Medicine & Dentistry, Public Health, Electrical Engineering, Civil Engineering, Mechanical Engineering, Pharm-D, Nursing and Law. Strong linkages with the industry are of paramount importance for any higher education institution and the University of Lahore enjoys excellent links with international universities. We also have a wide range of knowledge sharing and human resource development programs with major multinationals organizations. The students at the University can avail excellent internship and skills development programs during the course of their studies.",
+    "introduction": "The University of Lahore is the largest private sector university in Pakistan with more than 35,000 students. It was established in 1999 and since then it is offering courses in the fields of Medicine & Dentistry, Engineering, Arts, Sciences and Social Sciences. With strong emphasis on balanced progress and focus on human capital, the University has grown to 11 faculties and 45+ departments. The quality of teaching facilities and research excellence have also earned UOL international recognition, placing it amongst the top three in Pakistan according to QS Asia World University Rankings 2022. The Higher Education Commission (HEC) recognizes the University of Lahore at its highest \"W4\" category of universities reserved for those institutions that fulfill all criterion of an International Quality University.",
     "programs": {
       "computer_science": {
-        "program_title": "Bachelor of Science in Computer Science",
-        "program_description": "The Bachelor of Science in Computer Science is a professional degree program aimed at producing graduates for the job market as software engineers, entrepreneurs, IT consultants, and academic professionals. This program is tailored to introduce, develop, and ingrain the understanding of computing discipline in students. We offer market-oriented courses as indicated in the degree roadmap. To achieve the objective of producing highly talented computer professionals, our program inculcates necessary problem-solving abilities in the students. It enables students to analyze real-life problems, transform them into suitable abstract models, design optimal solutions, and successfully implement them using the latest tools and technologies.",
+        "program_title": "BS Computer Science",
+        "program_description": "The Bachelor of Science in Computer Science is a professional degree program aimed at producing graduates for the job market as software engineers, entrepreneurs, IT consultants, and academic professionals. This program is tailored to introduce, develop, and ingrain the understanding of computing discipline in students. We offer market-oriented courses as indicated in the degree roadmap. To achieve the objective of producing highly talented computer professionals, our program inculcates necessary problem-solving abilities in the students.",
         "program_duration": "4 years",
         "credit_hours": "130",
         "fee": [
@@ -42,7 +44,7 @@
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "12 Year of Education, , Intermediate (HSSC) examination, FSc (Pre-Engineering)/ ICS/ I.Com, A-Level, DAE(computer) with Mathematics and minimum 50% marks or equivalent qualification with Mathematics certified by IBCC."
+            "criteria": "12 Year of Education, Intermediate (HSSC) examination, FSc (Pre-Engineering)/ ICS/ I.Com, A-Level, DAE(computer) with Mathematics and minimum 50% marks or equivalent qualification with Mathematics certified by IBCC."
           },
           {
             "s.no": 2,
@@ -63,14 +65,14 @@
         "course_outline": "https://cs.uol.edu.pk/course/bachelor-of-science-in-computer-science/"
       },
       "software_engineering": {
-        "program_title": "Bachelor of Science in Software Engineering",
-        "program_description": "Software plays a central and underpinning role in almost all aspects of daily life: communications, government, manufacturing, banking and finance, education, transportation, entertainment, medicine, agriculture, and law. The number, size, and application domains of computer programs have grown dramatically; as a result, huge sums are being spent on software development. Most people’s lives and livelihoods depend on this development’s effectiveness. Software products help us to be more efficient and productive. They provide information, make us  more effective problem solvers, and  provide  us with safer, more flexible, and less confining work, entertainment, and recreation environments. Software Engineering is the application of a systematic, disciplined and quantifiable approach to the design, development, operation, and maintenance of software systems.",
+        "program_title": "BS Software Engineering",
+        "program_description": "Software plays a central and underpinning role in almost all aspects of daily life: communications, government, manufacturing, banking and finance, education, transportation, entertainment, medicine, agriculture, and law. Software Engineering is the application of a systematic, disciplined and quantifiable approach to the design, development, operation, and maintenance of software systems.",
         "program_duration": "4 years",
         "credit_hours": "130",
         "fee": [
           {
             "per_credit_hour_fee": "13,776 PKR",
-            "total_tution_fee": "18,57,208 PKR"
+            "total_tution_fee": "1,857,208 PKR"
           }
         ],
         "important_dates": [
@@ -107,8 +109,8 @@
         "course_outline": "https://se.uol.edu.pk/course/bachelor-of-science-in-software-engineering/"
       },
       "artificial_intelligence": {
-        "program_title": "Bachelor of Science in Robotics and Artificial Intelligence",
-        "program_description": "The Bachelor of Science (BS) in Robotics and Artificial Intelligence (AI) program. In this dynamic and interdisciplinary field, students embark on a journey to explore the realms of cutting-edge technology, innovation, and problem-solving. Robotics and AI are revolutionizing industries, from manufacturing to healthcare, and reshaping the way we interact with technology and the world around us.Our curriculum is intended to provide students with a firm foundation in both academic knowledge and practical skills required to succeed in this continuously changing sector. Through a blend of challenging coursework, hands-on projects, industrial training and internship, students will build expertise in fields such as robotics engineering, machine learning, computer vision, human-robot interaction, and more.",
+        "program_title": "BS Robotics and Artificial Intelligence",
+        "program_description": "The Bachelor of Science (BS) in Robotics and Artificial Intelligence (AI) program. In this dynamic and interdisciplinary field, students embark on a journey to explore the realms of cutting-edge technology, innovation, and problem-solving. Robotics and AI are revolutionizing industries, from manufacturing to healthcare, and reshaping the way we interact with technology and the world around us.",
         "program_duration": "4 years",
         "credit_hours": "136",
         "fee": [
@@ -134,7 +136,7 @@
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "12 Years education F.Sc. (Pre-engineering, Pre-medical) or ICS (with Math) or DAE in relevant field or F.A (IT) or Equivalent with Minimum 45% Marks. Students with minimum 45% marks in F.Sc (PreMedical)/FA (IT) must complete a deficiency course in Mathematics.."
+            "criteria": "12 Years education F.Sc. (Pre-engineering, Pre-medical) or ICS (with Math) or DAE in relevant field or F.A (IT) or Equivalent with Minimum 45% Marks. Students with minimum 45% marks in F.Sc (PreMedical)/FA (IT) must complete a deficiency course in Mathematics."
           },
           {
             "s.no": 2,
@@ -151,8 +153,8 @@
         "course_outline": "https://is.uol.edu.pk/course/bachelor-of-science-in-robotics-and-artificial-intelligence"
       },
       "pharm_d": {
-        "program_title": "Doctor of Pharmacy",
-        "program_description": "The goal of the Pharm. D programme is to produce technically and scientifically competent pharmacists who have expertise in Clinical Pharmacology, Pharmaceutical industry, Nutraceuticals, Drug Regulation, Pharmaceutical Chemistry and can apply their knowledge and skills efficiently to provide patients with high-quality healthcare services. Multidisciplinary studies enable pharmacists to be at the forefront of Pharmacy profession and health care in a variety of settings; institutional, community, industries, hospitals, clinical, research & development, academia, regulatory affairs. The integration of theory lessons and laboratory practice is complemented by internships in hospitals and pharmaceutical firms, which are permitted after the third professional year.",
+        "program_title": "Doctor of Pharmacy (Pharm.D)",
+        "program_description": "The goal of the Pharm. D programme is to produce technically and scientifically competent pharmacists who have expertise in Clinical Pharmacology, Pharmaceutical industry, Nutraceuticals, Drug Regulation, Pharmaceutical Chemistry and can apply their knowledge and skills efficiently to provide patients with high-quality healthcare services.",
         "program_duration": "5 years",
         "credit_hours": "198",
         "fee": [
@@ -194,9 +196,9 @@
         ],
         "course_outline": "https://pharm.uol.edu.pk/course/doctor-of-pharmacy/"
       },
-      "bio_medical": {
-        "program_title": "Bachelor of Science in Bio-Medical Engineering Technology",
-        "program_description": "The aim of Bachelor of Science in Bio-Medical Engineering Technology (BS BMET) program is to produces graduates in the country. The graduates will be competent to identify, assess, evaluate, manage and trouble shoot all the problems and errors in biomedical equipment and are eligible enough to get hands on the biomedical equipment and machines to maintain and to repair them. This program produces the graduates having research knowledge and skills. On the basis of knowledge and skills, they will be able to revolutionize the medical technology world.",
+      "biomedical_engineering": {
+        "program_title": "BS Biomedical Engineering Technology",
+        "program_description": "The aim of Bachelor of Science in Bio-Medical Engineering Technology (BS BMET) program is to produces graduates in the country. The graduates will be competent to identify, assess, evaluate, manage and trouble shoot all the problems and errors in biomedical equipment and are eligible enough to get hands on the biomedical equipment and machines to maintain and to repair them.",
         "program_duration": "4 years",
         "credit_hours": "133",
         "fee": [
@@ -240,7 +242,7 @@
       },
       "dental_surgery": {
         "program_title": "Bachelor of Dental Surgery (BDS)",
-        "program_description": "Our curriculum prepares future dentists for success. Our program emphasizes academic understanding, hands-on training, and ethical practices to give patients comprehensive dental care. UCMD emphasizes critical thinking, clinical competency, and compassionate patient care in a student-centered setting. Our skilled faculty members teach the newest dental sciences to educate students in the ever-changing dental sector. Students learn dental sciences, oral diagnosis, treatment planning, and preventative dentistry through interactive lectures, labs, and clinical rotations. Our modern dental clinic and simulation labs allow students to practice their technical skills under the supervision of dental professionals. The UCMD’s undergraduate dentistry program blends academic quality with clinical experience, preparing students for a satisfying career in dentistry. Join us in shaping dental healthcare through education, research, and community service.",
+        "program_description": "Our curriculum prepares future dentists for success. Our program emphasizes academic understanding, hands-on training, and ethical practices to give patients comprehensive dental care. UCMD emphasizes critical thinking, clinical competency, and compassionate patient care in a student-centered setting.",
         "program_duration": "4 years",
         "credit_hours": "Not Available",
         "fee": [
@@ -283,14 +285,14 @@
         "course_outline": "https://ucmd.uol.edu.pk/course/bachelor-of-dental-surgery-bds/"
       },
       "electrical_engineering": {
-        "program_title": "Bachelor of Science in Electrical Engineering",
-        "program_description": "The department has been accorded level II accreditation (substantially equivalent to Washington accord) by PEC with effect from Batch-2016. The undergraduate Electrical Engineering program is based on solid foundation in Mathematics, Natural Sciences, Computer programming and core engineering knowledge to ensure successful completion of the program and to equip the students with future professional growth, rational reasoning and analysis. The program provides a broad engineering core competence which enables students to communicate & interact effectively with engineers in different areas of specialization & to make technological decisions with confidence. On successful completion, the student possesses the ability to perform integrated problems solving ability, problem identification, analysis, hypothesis testing, solution verification, and its implementation. Course Learning Outcomes (CLOs) at appropriate Bloom’s taxonomy level in the three learning domains, namely, Cognitive, Psychomotor and Affective have been developed in accordance with Outcome Based Education. These CLOs are linked with twelve graduate attributes that Department of Electrical Engineering has adopted from Washington Accord/PEC. All the assessments are linked with course learning outcomes. Final Year Projects and Lab experiments etc are marked according to developed scoring rubrics. Problem and activity-based learning is strongly encouraged and students are also prepared for Complex Engineering Problems",
+        "program_title": "BS Electrical Engineering",
+        "program_description": "The department has been accorded level II accreditation (substantially equivalent to Washington accord) by PEC with effect from Batch-2016. The undergraduate Electrical Engineering program is based on solid foundation in Mathematics, Natural Sciences, Computer programming and core engineering knowledge to ensure successful completion of the program and to equip the students with future professional growth, rational reasoning and analysis.",
         "program_duration": "4 years",
         "credit_hours": "136",
         "fee": [
           {
             "per_credit_hour_fee": "14,200 PKR",
-            "total_tution_fee": "113,600 PKR"
+            "total_tution_fee": "1,931,200 PKR"
           }
         ],
         "important_dates": [
@@ -327,14 +329,14 @@
         "course_outline": "https://ee.uol.edu.pk/course/bachelor-of-science-in-electrical-engineering/"
       },
       "mechanical_engineering": {
-        "program_title": "Bachelor of Science in Mechanical Engineering Technology",
-        "program_description": "The development of a country is measured by the efficient use of energy, materials, and developed human capital. Human capital trained in contemporary technologies plays a key role in the progress of a country. Appreciating this importance, the Department of Technology offers an undergraduate program in Mechanical Engineering Technology that contained subjects covering all major fields of Mechanical Industry. The program also offers supervised Industrial training to each and every student in the final year of the program. We provide our students technical and managerial skills coupled with tips for maximum effectiveness in productivity.",
+        "program_title": "BS Mechanical Engineering Technology",
+        "program_description": "The development of a country is measured by the efficient use of energy, materials, and developed human capital. Human capital trained in contemporary technologies plays a key role in the progress of a country. Appreciating this importance, the Department of Technology offers an undergraduate program in Mechanical Engineering Technology that contained subjects covering all major fields of Mechanical Industry.",
         "program_duration": "4 years",
         "credit_hours": "136",
         "fee": [
           {
             "per_credit_hour_fee": "14,200 PKR",
-            "total_tution_fee": "113,600 PKR"
+            "total_tution_fee": "1,931,200 PKR"
           }
         ],
         "important_dates": [
@@ -371,14 +373,14 @@
         "course_outline": "https://tech.uol.edu.pk/course/bachelor-of-science-in-mechanical-engineering-technology/"
       },
       "civil_engineering": {
-        "program_title": "Bachelor of Science in Civil Engineering Technology",
-        "program_description": "The main emphasis of the Civil  Engineering  Technology  Program is to provide the students with a  sound foundation of mathematics and other sciences to utilize their knowledge in solving problems of structure, irrigation and hydraulics, soil mechanics, foundations, highways transportation, and environmental engineering. It enables the students to know about the operation and maintenance of projects and gives them on-job training to work independently as well as team players on projects like infrastructure development and repair works of civil engineering technology. Our students are also trained to use modern engineering software for the construction industry.",
+        "program_title": "BS Civil Engineering Technology",
+        "program_description": "The main emphasis of the Civil Engineering Technology Program is to provide the students with a sound foundation of mathematics and other sciences to utilize their knowledge in solving problems of structure, irrigation and hydraulics, soil mechanics, foundations, highways transportation, and environmental engineering.",
         "program_duration": "4 years",
         "credit_hours": "137",
         "fee": [
           {
             "per_credit_hour_fee": "14,200 PKR",
-            "total_tution_fee": "113,600 PKR"
+            "total_tution_fee": "1,945,400 PKR"
           }
         ],
         "important_dates": [
@@ -416,7 +418,7 @@
       },
       "mbbs": {
         "program_title": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
-        "program_description": "University College of Medicine and Dentistry offers an excellent opportunity for a career in medicine and dentistry. Our aim is to produce healthcare professionals with the highest level of competence and professionalism, who can cater to patients from diverse healthcare domains. It is one of the pioneer institutes to have adopted an integrated modular curriculum, which has been running successfully for the past 8 years. UCMD takes pride in being one of the few institutes in Pakistan to have shifted to an online Learning Management System (LMS) for teaching and assessments. Innovative and different teaching methodologies are employed at UCMD for a student-centered teaching approach including Flip classrooms, early clinical exposure, PBL, TBL, CBL, and small group discussions. Today’s students are tomorrow’s healthcare professionals who have to take on a leadership role in the community. AT UCMD students are provided platforms to develop their interpersonal, leadership and team-building skills through student development program, poster presentations, student-led seminars, co-curricular activities, and participation in various national and international events.",
+        "program_description": "University College of Medicine and Dentistry offers an excellent opportunity for a career in medicine and dentistry. Our aim is to produce healthcare professionals with the highest level of competence and professionalism, who can cater to patients from diverse healthcare domains.",
         "program_duration": "5 years",
         "credit_hours": "Not Available",
         "fee": [

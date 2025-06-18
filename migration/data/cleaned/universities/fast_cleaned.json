@@ -1,13 +1,15 @@
 [
   {
-    "university_title": "National University of computer and emerging sciences",
+    "university_title": "National University of Computer and Emerging Sciences",
     "main_link": "https://www.nu.edu.pk/",
+    "location": "Lahore",
+    "additional_locations": ["Islamabad", "Karachi", "Peshawar", "Chiniot-Faisalabad"],
     "social_links": {
       "instagram": "https://www.instagram.com/fast_nuces/",
       "facebook": "https://www.facebook.com/FastUniversityOfficial/",
       "twitter": "https://www.twitter.com/FastNuOfficial"
     },
-    "ranking": "4",
+    "qs_ranking": "4",
     "contact_details": {
       "info_email": "admissions.lhr@nu.edu.pk",
       "call": "111-128-128"
@@ -16,13 +18,13 @@
     "programs": {
       "software_engineering": {
         "program_title": "BS Software Engineering",
-        "program_description": "Fundamental Knowledge of Software Engineering To have competence in applying Software Engineering principles & best practices across various phases of Software/System Development Life Cycle (SDLC) in diverse professional roles. Ethical and Societal Responsibilities To demonstrate a sound sense of ethical and social responsibilities for sustainable societal development. Communication Skills To effectively communicate ideas clearly and persuasively in written and oral forms. Your career prospects will be excellent: You may become software quality assurance engineer, systems programmer, embedded software engineer, software architect, Chief Technology Officer, Chief Information Officer, User Interface designer, Information Systems manager or computer graphic designer etc.",
+        "program_description": "Fundamental Knowledge of Software Engineering To have competence in applying Software Engineering principles & best practices across various phases of Software/System Development Life Cycle (SDLC) in diverse professional roles. Ethical and Societal Responsibilities To demonstrate a sound sense of ethical and social responsibilities for sustainable societal development. Communication Skills To effectively communicate ideas clearly and persuasively in written and oral forms.",
         "program_duration": "4 years",
         "credit_hours": "133",
         "fee": [
           {
             "per_credit_hour_fee": "10,000 PKR",
-            "total_tution_fee": "1,300,000. PKR"
+            "total_tution_fee": "1,330,000 PKR"
           }
         ],
         "important_dates": [
@@ -38,6 +40,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -77,7 +80,7 @@
         "fee": [
           {
             "per_credit_hour_fee": "10,000 PKR",
-            "total_tution_fee": "1,300,000 PKR"
+            "total_tution_fee": "1,330,000 PKR"
           }
         ],
         "important_dates": [
@@ -93,6 +96,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -126,13 +130,13 @@
       },
       "artificial_intelligence": {
         "program_title": "BS Artificial Intelligence",
-        "program_description": "Knowledge of the fundamentals of Computing and Artificial Intelligence - A graduate who is performing his/her professional roles with understanding of fundamental knowledge of computing and artificial intelligence acquired during his studies. Ethical and Societal Responsibilities - A graduate who is fulfilling his/her professional responsibilities taking into account ethical and societal concerns with special emphasis on artificial intelligence and its applications. A graduate who is effective in oral and written communication of technical and managerial information. A graduate who is effective in a leadership role of a group/team assigned to him/her or in an entrepreneurial environment. A graduate who keeps on exploring new fields and areas in computing and artificial intelligence for his/her organization or conducts research for academic pursuits.",
+        "program_description": "Knowledge of the fundamentals of Computing and Artificial Intelligence - A graduate who is performing his/her professional roles with understanding of fundamental knowledge of computing and artificial intelligence acquired during his studies. Ethical and Societal Responsibilities - A graduate who is fulfilling his/her professional responsibilities taking into account ethical and societal concerns with special emphasis on artificial intelligence and its applications.",
         "program_duration": "4 years",
         "credit_hours": "133",
         "fee": [
           {
             "per_credit_hour_fee": "10,000 PKR",
-            "total_tution_fee": "1,300,000 PKR"
+            "total_tution_fee": "1,330,000 PKR"
           }
         ],
         "important_dates": [
@@ -148,6 +152,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -181,13 +186,13 @@
       },
       "cyber_security": {
         "program_title": "BS Cyber Security",
-        "program_description": "Completion of an accredited program (BS CY) of study designed to prepare graduates as computing professionals. Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements. Identify, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines. Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations.",
+        "program_description": "Completion of an accredited program (BS CY) of study designed to prepare graduates as computing professionals. Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements.",
         "program_duration": "4 years",
         "credit_hours": "133",
         "fee": [
           {
             "per_credit_hour_fee": "10,000 PKR",
-            "total_tution_fee": "1,300,000 PKR"
+            "total_tution_fee": "1,330,000 PKR"
           }
         ],
         "important_dates": [
@@ -203,6 +208,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -236,13 +242,13 @@
       },
       "data_science": {
         "program_title": "BS Data Science",
-        "program_description": "Fundamental Computing and Data Science Knowledge - A graduate who is performing his/her professional roles with understanding of fundamental computing and data science knowledge acquired during his/her studies. Ethical and Societal Responsibilities - A graduate who is fulfilling his/her professional responsibilities taking into account ethical and societal concerns with special emphasis to data protection and usage. Communication Skills - A graduate who is effective in oral and written communication of technical and managerial information.",
+        "program_description": "Fundamental Computing and Data Science Knowledge - A graduate who is performing his/her professional roles with understanding of fundamental computing and data science knowledge acquired during his/her studies. Ethical and Societal Responsibilities - A graduate who is fulfilling his/her professional responsibilities taking into account ethical and societal concerns with special emphasis to data protection and usage.",
         "program_duration": "4 years",
         "credit_hours": "133",
         "fee": [
           {
             "per_credit_hour_fee": "10,000 PKR",
-            "total_tution_fee": "1,300,000 PKR"
+            "total_tution_fee": "1,330,000 PKR"
           }
         ],
         "important_dates": [
@@ -258,6 +264,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -289,15 +296,15 @@
         ],
         "course_outline": "https://www.nu.edu.pk/Program/BS(AI)"
       },
-      "electrical_engineering ": {
+      "electrical_engineering": {
         "program_title": "BS Electrical Engineering",
-        "program_description": "The mission of School of Electrical Engineering is to provide graduates with a strong and stable foundation in the traditional and contemporary areas of electrical engineering. The graduates of this program are able to conceive, formulate and effectively communicate solutions to technological problems in society. They are a responsible and productive member of the society upholding high moral standards having an aptitude and attitude towards the betterment of the society through their knowledge and skills. The undergraduate programs prepare the graduates for corporate and governmental entry level jobs and/or to pursue further education at the graduate level worldwide.",
+        "program_description": "The mission of School of Electrical Engineering is to provide graduates with a strong and stable foundation in the traditional and contemporary areas of electrical engineering. The graduates of this program are able to conceive, formulate and effectively communicate solutions to technological problems in society. They are a responsible and productive member of the society upholding high moral standards having an aptitude and attitude towards the betterment of the society through their knowledge and skills.",
         "program_duration": "4 years",
         "credit_hours": "138",
         "fee": [
           {
             "per_credit_hour_fee": "10,000 PKR",
-            "total_tution_fee": "13,480,000 PKR"
+            "total_tution_fee": "1,380,000 PKR"
           }
         ],
         "important_dates": [
@@ -313,6 +320,7 @@
           }
         ],
         "merit": "60%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -344,7 +352,7 @@
         ],
         "course_outline": "https://www.nu.edu.pk/Program/BS(EE)"
       },
-      "civil_engineering ": {
+      "civil_engineering": {
         "program_title": "BS Civil Engineering",
         "program_description": "Successfully engage in contemporary civil engineering practice to solve real-world problems. Pursue professional growth through continuous learning and experience. Maintain high ethical standards in the conduct of professional practice. Attain increasing level of responsibility with interpersonal and communication skills.",
         "program_duration": "4 years",
@@ -352,7 +360,7 @@
         "fee": [
           {
             "per_credit_hour_fee": "10,000 PKR",
-            "total_tution_fee": "13,480,000 PKR"
+            "total_tution_fee": "1,380,000 PKR"
           }
         ],
         "important_dates": [
@@ -368,6 +376,7 @@
           }
         ],
         "merit": "60%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -398,14 +407,14 @@
           }
         ],
         "course_outline": "https://www.nu.edu.pk/Program/BS(CV)"
-      },
-      "campuses": {
-        "islamabad_campus: ": "http://isb.nu.edu.pk/",
-        "lahore_campus": "https://www.nu.edu.pk/",
-        "chinot_faislabad": "https://cfd.nu.edu.pk/",
-        "karachi_campus": "https://khi.nu.edu.pk/",
-        "peshawar_campus": "http://pwr.nu.edu.pk/"
       }
+    },
+    "campuses": {
+      "islamabad_campus": "http://isb.nu.edu.pk/",
+      "lahore_campus": "https://www.nu.edu.pk/",
+      "chiniot_faisalabad": "https://cfd.nu.edu.pk/",
+      "karachi_campus": "https://khi.nu.edu.pk/",
+      "peshawar_campus": "http://pwr.nu.edu.pk/"
     }
   }
 ]

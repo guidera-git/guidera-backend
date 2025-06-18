@@ -1,0 +1,144 @@
+[
+  {
+    "university_title": "University of Education",
+    "main_link": "https://ue.edu.pk/",
+    "location": "Lahore",
+    "additional_locations": ["Attock", "DG Khan", "Faisalabad", "Jauharabad", "Multan", "Vehari"],
+    "social_links": {
+      "facebook": "https://www.facebook.com/ue.edu.pk.official/",
+      "twitter": "https://twitter.com/ue_edu_pk",
+      "instagram": "https://www.instagram.com/ue.edu.pk/",
+      "youtube": "https://www.youtube.com/c/UniversityofEducation",
+      "linkedin": "https://www.linkedin.com/school/ue-edu-pk/"
+    },
+    "qs_ranking": "23",
+    "contact_details": {
+      "email": "registrar@ue.edu.pk",
+      "phone": "092-42-99262227-8"
+    },
+    "introduction": "University of Education, which was established in 2002, offers degree programs ranging from undergraduate to PhD level in various disciplines. The University of Education constitutes 9 campuses which are spread across the remotest parts of the province of Punjab. The constituent campuses of the University include century old Institutions for teacher education in the sub continent, with good repute and traditions of excellence",
+    "programs": {
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "Provide a broad and in depth latest knowledge of concepts, theory, techniques through intensive education/training in varying domains within the field of computer science as well as supporting areas of science, mathematics and management. To impart problem solving and analytical thinking capabilities to propose and develop solution with practical applications in the industry and research.",
+        "program_duration": "4 years",
+        "credit_hours": "130-140",
+        "fee": [
+          {
+            "per_credit_hour_fee": "N/A",
+            "total_tution_fee": "183,940 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "Jan 3, 2025",
+            "deadline_pay_application_fee": "Jan 15, 2025",
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": "Jan 27, 2025"
+          }
+        ],
+        "merit": null,
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "The minimum requirements for admission in a Bachelor degree program in Computer Science is at least 50% marks in Intermediate (HSSC) examination or equivalent qualification with Mathematics (200 Marks) or Computer Science (200 Marks)"
+          },
+          {
+            "s.no": 2,
+            "criteria": "Age limit is not applicable in this program"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Minimum 50% marks in Intermediate/12 years schooling/A- Level (HSSC) or Equivalent with Mathematics are required for admission in BS Computer Science Program."
+          },
+          {
+            "s.no": 4,
+            "criteria": "Equivalency certificate by IBCC will be required in case of education from some other country or system."
+          },
+          {
+            "s.no": 5,
+            "criteria": "FSc pre-medical students are also eligible but the students have to pass deficiency courses (Pre-Calculus-I and Pre-Calculus-II / Equivalent). These deficiency mathematics courses are the prerequisite of other mathematical courses to ensure that the students have completed their deficiency in first year of their studies. Additionally, courses will be considered as non-credited courses."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "30",
+            "F.Sc./A-level/relevant DAE": "70"
+          }
+        ],
+        "course_outline": "https://ue.edu.pk/programs.php?id=163"
+      },
+      "information_technology": {
+        "program_title": "BS Information Technology",
+        "program_description": "To prepare students to learn concrete ideas of IT, to analyze problems and to develop problem-solving projects. To encourage students to become independent learners. To encourage students to help other disciplines as engineering, physics, economics, finance using IT.",
+        "program_duration": "4 years",
+        "credit_hours": "130-140",
+        "fee": [
+          {
+            "per_credit_hour_fee": "N/A",
+            "total_tution_fee": "183,940 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "Jan 3, 2025",
+            "deadline_pay_application_fee": "Jan 15, 2025",
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": "Jan 27, 2025"
+          }
+        ],
+        "merit": null,
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "ICS or FA/F.Sc (Pre Eng.) with Mathematics (200 Marks) or Computer Science (200 Marks) or equivalent."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Age limit is not applicable in this program"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Minimum 50% marks in Intermediate/12 years schooling/A- Level (HSSC) or Equivalent with Mathematics are required for admission in BS Information Technology Program."
+          },
+          {
+            "s.no": 4,
+            "criteria": "Equivalency certificate by IBCC will be required in case of education from some other country or system."
+          },
+          {
+            "s.no": 5,
+            "criteria": "FSc pre-medical students are also eligible but the students have to pass deficiency courses (Pre-Calculus-I and Pre-Calculus-II / Equivalent). These deficiency mathematics courses are the prerequisite of other mathematical courses to ensure that the students have completed their deficiency in first year of their studies. Additionally, courses will be considered as non-credited courses."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "30",
+            "F.Sc./A-level/relevant DAE": "70"
+          }
+        ],
+        "course_outline": "https://ue.edu.pk/programs.php?id=78"
+      }
+    },
+    "campuses": {
+      "Attock Campus": "https://ue.edu.pk/campus.php?id=48",
+      "Bank Road Campus, Lahore": "https://ue.edu.pk/campus.php?id=37",
+      "DG Khan Campus": "https://ue.edu.pk/campus.php?id=38",
+      "Faisalabad Campus": "https://ue.edu.pk/campus.php?id=39",
+      "Jauharabad Campus": "https://ue.edu.pk/campus.php?id=4",
+      "Lower Mall Campus, Lahore": "https://ue.edu.pk/campus.php?id=41",
+      "Multan Campus": "https://ue.edu.pk/campus.php?id=42",
+      "Township Campus, Lahore": "https://ue.edu.pk/campus.php?id=40",
+      "Vehari Campus": "https://ue.edu.pk/campus.php?id=11"
+    }
+  }
+]

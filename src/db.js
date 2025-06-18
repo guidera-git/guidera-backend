@@ -1,5 +1,3 @@
-// src/db.js
-
 // Load environment variables from .env in project root
 require('dotenv').config({
   path: require('path').resolve(__dirname, '../.env')

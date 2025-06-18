@@ -2,17 +2,19 @@
   {
     "university_title": "Riphah International University",
     "main_link": "https://riphah.edu.pk/#",
+    "location": "Islamabad",
+    "additional_locations": ["Lahore", "Faisalabad", "Malakand"],
     "social_links": {
       "instagram": "https://www.instagram.com/riphahuniversity/",
       "facebook": "https://www.facebook.com/RiphahUniversity",
       "twitter": "https://twitter.com/riphahggc"
     },
-    "ranking": "Not Available",
+    "qs_ranking": "Not Available",
     "contact_details": {
       "info_email": "admission@riphah.edu.pk",
       "call": "042-111-747-424"
     },
-    "introduction": "Riphah International University is a private University, chartered by the Federal Government of Pakistan in 2002. The University was established to produce professionals with Islamic moral and ethical values. It is sponsored by a not-for-profit trust; namely, Islamic International Medical College Trust (IIMCT), created in 1995. The first project of the IIMCT was the Islamic International Medical College, Rawalpindi, established in 1996 by its Founding Managing Trustee.",
+    "introduction": "Riphah International University is a private University, chartered by the Federal Government of Pakistan in 2002. The University was established to produce professionals with Islamic moral and ethical values. It is sponsored by a not-for-profit trust; namely, Islamic International Medical College Trust (IIMCT), created in 1995.",
     "programs": {
       "electrical_engineering": {
         "program_title": "BS Electrical Engineering",
@@ -21,8 +23,8 @@
         "credit_hours": "136",
         "fee": [
           {
-            "per_credit_hour_fee": "7337 PKR",
-            "total_tution_fee": "4,25520 PKR"
+            "per_credit_hour_fee": "7,337 PKR",
+            "total_tution_fee": "997,832 PKR"
           }
         ],
         "important_dates": [
@@ -38,6 +40,7 @@
           }
         ],
         "merit": "60%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -57,7 +60,7 @@
           },
           {
             "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -71,13 +74,13 @@
       },
       "computer_science": {
         "program_title": "BS Computer Science",
-        "program_description": "Establish an environment that provides state-of-the-art computer science education and training with integration of universal Islamic ethical values. Produce professionals who will contribute towards providing innovative computing-based solutions for the society.Contribute to the development of community in the field of computer science.",
+        "program_description": "Establish an environment that provides state-of-the-art computer science education and training with integration of universal Islamic ethical values. Produce professionals who will contribute towards providing innovative computing-based solutions for the society. Contribute to the development of community in the field of computer science.",
         "program_duration": "4 years",
         "credit_hours": "134",
         "fee": [
           {
             "per_credit_hour_fee": "7,851 PKR",
-            "total_tution_fee": "173,178 PKR"
+            "total_tution_fee": "1,052,034 PKR"
           }
         ],
         "important_dates": [
@@ -93,6 +96,7 @@
           }
         ],
         "merit": "60%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -112,7 +116,7 @@
           },
           {
             "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -126,13 +130,13 @@
       },
       "software_engineering": {
         "program_title": "BS Software Engineering",
-        "program_description": "This modern era of information age, the field of computing is advancing at an ultra-high speed. With the recent advancements in different areas of computing e.g. Internet of Things, Big Data, Cloud Computing, Cyber Security, although there has been a growing demand to excel in these particular areas, however, the importance of having a strong foundation of the core principles of computing has also got more attention. The need to build the core competency in the area of a foundation of the computing, the underlying hardware and software platforms, programming interfaces, complex algorithms, trends in user interface designs, the emergence of new businesses, has increased. This program of BSSE is aimed to fulfill this need of the new era. The BS-SE program will try to produce the high-quality computer scientists who will have the necessary theoretical background to understand the computing problems, will be equipped with the necessary tools and techniques to design, develop and deliver the solutions for these problems and will have the necessary ethical values to apply this skill set in the appropriately right way.",
+        "program_description": "This modern era of information age, the field of computing is advancing at an ultra-high speed. The BS-SE program will try to produce the high-quality computer scientists who will have the necessary theoretical background to understand the computing problems, will be equipped with the necessary tools and techniques to design, develop and deliver the solutions for these problems and will have the necessary ethical values to apply this skill set in the appropriately right way.",
         "program_duration": "4 years",
         "credit_hours": "130",
         "fee": [
           {
             "per_credit_hour_fee": "7,851 PKR",
-            "total_tution_fee": "173,187 PKR"
+            "total_tution_fee": "1,020,630 PKR"
           }
         ],
         "important_dates": [
@@ -148,6 +152,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -167,7 +172,7 @@
           },
           {
             "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -179,15 +184,15 @@
         ],
         "course_outline": "https://riphah.edu.pk/program/bs-software-engineering-lhr/"
       },
-      "artificial_intelligence ": {
-        "program_title": "BS Artfical Intelligence",
-        "program_description": "The BS (AI) prepares the students with in-depth knowledge to transform large and complex scenarios into actionable decisions. The program and its curriculum focus on how complex inputs such as knowledge, vision, language, and huge databases/dataset repositories can be used for knowledge extraction and optimum real-time decision making in real-world applications. The curriculum of the BS (AI) program covers the domain such as soft-computing, mathematics, automated reasoning, statistics, computational theory & modeling, knowledge representation & reasoning, machine learning, deep learning, natural language processing, vision, and symbolic computation, etc. The program also encourages students to take courses in ethics and social responsibility, with the opportunity to participate in long term projects in which artificial intelligence can be applied to solve problems that can change the world for the better in areas like agriculture, defense, healthcare, governance, transportation, e-commerce, finance, and education.",
+      "artificial_intelligence": {
+        "program_title": "BS Artificial Intelligence",
+        "program_description": "The BS (AI) prepares the students with in-depth knowledge to transform large and complex scenarios into actionable decisions. The program and its curriculum focus on how complex inputs such as knowledge, vision, language, and huge databases/dataset repositories can be used for knowledge extraction and optimum real-time decision making in real-world applications.",
         "program_duration": "4 years",
         "credit_hours": "130",
         "fee": [
           {
             "per_credit_hour_fee": "7,137 PKR",
-            "total_tution_fee": "155,867 PKR"
+            "total_tution_fee": "927,810 PKR"
           }
         ],
         "important_dates": [
@@ -203,6 +208,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -222,7 +228,7 @@
           },
           {
             "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -236,13 +242,13 @@
       },
       "cyber_security": {
         "program_title": "BS Cyber Security",
-        "program_description": "In this modern era of the information age, the field of computing is advancing at an ultra-high-speed. With the recent advancements in Cyber Security, there has been a growing demand to excel in these particular areas, however, the importance of having a strong foundation of the core principles of Cyber Security has also got more attention. The need to build the core competency in the area of foundation of Cyber Security, the underlying hardware and software security platforms, programming interfaces, complex algorithms, trends in user interface designs, the emergence of new businesses, has increased. This program of Bachelor of Science in Cyber Security (BSCY) is aimed to fulfill this need of the new era. The BS-CY program will try to produce high-quality Cyber Security specialists who will have the necessary theoretical background to understand the computing problems, will be equipped with the necessary tools and techniques to design, develop and deliver the solutions for these problems and will have the necessary ethical values to apply this skill set in the appropriately right way. This program will equip to master the foundational goals of Cyber Security. This will apply current technical tools and methodologies to solve security problems. Upon completion, students will be able to evaluate security trends, recognize best practices, and understand IT security products and threats.",
+        "program_description": "In this modern era of the information age, the field of computing is advancing at an ultra-high-speed. This program of Bachelor of Science in Cyber Security (BSCY) is aimed to fulfill this need of the new era. The BS-CY program will try to produce high-quality Cyber Security specialists who will have the necessary theoretical background to understand the computing problems, will be equipped with the necessary tools and techniques to design, develop and deliver the solutions for these problems.",
         "program_duration": "4 years",
         "credit_hours": "134",
         "fee": [
           {
             "per_credit_hour_fee": "7,622 PKR",
-            "total_tution_fee": "166,072 PKR"
+            "total_tution_fee": "1,021,348 PKR"
           }
         ],
         "important_dates": [
@@ -258,6 +264,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -277,7 +284,7 @@
           },
           {
             "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -291,13 +298,13 @@
       },
       "data_science": {
         "program_title": "BS Data Science",
-        "program_description": "Data science is an interdisciplinary field of scientific methods, processes and systems for understanding the modern-age data sources, modeling the data behavior, extracting the business insight from that data, predicting future behavior and delivering useful data-driven business applications. In 2013, IBM estimated that two and a half million terabytes of data are created every day.",
+        "program_description": "Data science is an interdisciplinary field of scientific methods, processes and systems for understanding the modern-age data sources, modeling the data behavior, extracting the business insight from that data, predicting future behavior and delivering useful data-driven business applications.",
         "program_duration": "4 years",
         "credit_hours": "134",
         "fee": [
           {
             "per_credit_hour_fee": "7,137 PKR",
-            "total_tution_fee": "155,867 PKR"
+            "total_tution_fee": "956,358 PKR"
           }
         ],
         "important_dates": [
@@ -313,6 +320,7 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
@@ -332,7 +340,7 @@
           },
           {
             "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -345,14 +353,14 @@
         "course_outline": "https://riphah.edu.pk/program/bs-data-science-bsds/"
       },
       "doctor_physical_therapy": {
-        "program_title": "BS Doctor of Physical Therapy",
-        "program_description": "DPT is the first 5 years professional degree program in physical therapy comprising of 10 semesters, equivalent to 17 years of schooling and endorsed by the Higher Education Commission of Pakistan(HEC). The degree program will produce physical therapy professionals who will be Doctor of Physical Therapy and will be competent to diagnose and treat movement dysfunctions due to injuries or diseases by using all physical means including; manual therapy techniques, exercise therapy, electrotherapy and preventative measures. Physical Therapists with the DPT degree will be practitioners of choice to whom public will have direct access for the diagnosis of, interventions for, and prevention of impairments, activity limitations, participation restrictions, and environmental barriers related to movement, function, and health. This degree program include foundational science courses, such as anatomy, physiology, histology, exercise physiology, neuroscience, biomechanics, pharmacology, pathology, and radiology/imaging, along with behavioral science courses, such as evidence-based practice and clinical reasoning. In this degree program the students also study the clinically-based courses include medical screening, examination tests and measures, diagnostic process, therapeutic interventions, outcomes assessment, and practice management. The DPT degree also fulfills the international requirements for physical therapy education, so the DPT graduates could get equivalency easily abroad.",
+        "program_title": "Doctor of Physical Therapy (DPT)",
+        "program_description": "DPT is the first 5 years professional degree program in physical therapy comprising of 10 semesters, equivalent to 17 years of schooling and endorsed by the Higher Education Commission of Pakistan(HEC). The degree program will produce physical therapy professionals who will be Doctor of Physical Therapy and will be competent to diagnose and treat movement dysfunctions due to injuries or diseases.",
         "program_duration": "5 years",
         "credit_hours": "179",
         "fee": [
           {
             "per_credit_hour_fee": "13,213 PKR",
-            "total_tution_fee": "319,049 PKR"
+            "total_tution_fee": "2,365,127 PKR"
           }
         ],
         "important_dates": [
@@ -368,14 +376,15 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "Intermediate of Computer Science (ICS) with at least 60% obtained marks"
+            "criteria": "Intermediate with at least 60% obtained marks"
           },
           {
             "s.no": 2,
-            "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+            "criteria": "F.Sc. Pre-Medical with at least 50% obtained marks"
           },
           {
             "s.no": 3,
@@ -383,15 +392,7 @@
           },
           {
             "s.no": 4,
-            "criteria": "DAE and 17% of interview as per PEC"
-          },
-          {
-            "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
-          },
-          {
-            "s.no": 6,
-            "criteria": "F.Sc. Pre. Medical with at least 50% obtained marks"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -405,13 +406,13 @@
       },
       "nursing": {
         "program_title": "BS Nursing",
-        "program_description": "The BSN program is 04 years program that comprises of 08 semesters. It has a total of 136 credit hours. The program is recognized by Pakistan Nursing Council (PNC).The RCN College is committed to provide the highest standards in nursing education programs, in line with Riphah International University vision.",
+        "program_description": "The BSN program is 04 years program that comprises of 08 semesters. It has a total of 136 credit hours. The program is recognized by Pakistan Nursing Council (PNC). The RCN College is committed to provide the highest standards in nursing education programs, in line with Riphah International University vision.",
         "program_duration": "4 years",
         "credit_hours": "136",
         "fee": [
           {
             "per_credit_hour_fee": "5,290 PKR",
-            "total_tution_fee": "216,983 PKR"
+            "total_tution_fee": "719,440 PKR"
           }
         ],
         "important_dates": [
@@ -427,14 +428,15 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            "criteria": "Intermediate with at least 50% obtained marks"
           },
           {
             "s.no": 2,
-            "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
+            "criteria": "F.Sc. Pre-Medical with at least 50% obtained marks"
           },
           {
             "s.no": 3,
@@ -442,15 +444,7 @@
           },
           {
             "s.no": 4,
-            "criteria": "DAE and 17% of interview as per PEC"
-          },
-          {
-            "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
-          },
-          {
-            "s.no": 6,
-            "criteria": "F.Sc. Pre. Medical with at least 50% obtained marks"
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -463,8 +457,8 @@
         "course_outline": "https://riphah.edu.pk/program/bsn-isb/"
       },
       "mbbs": {
-        "program_title": "BS MBBS",
-        "program_description": "Globally healthcare courses have modified and improved over the years. These changes are results of the feedback from medical practitioners, staff and students. Our Bachelor of Medicine and Bachelor of Surgery (MBBS) program contains an innovative tailored curriculum, highly designed to meet the healthcare needs of Pakistan. It is recognized from Pakistan Medical and Dental Council and extensively accredited by many International medical certification bodies.The quality of our modules matches the best offered MBBS anywhere in the world.The program was started in 1996. It is a pioneering degree program integrated with multi-disciplinary clinical training that not only allows you to achieve solid scientific understanding about medicine but also provides you the perfect opportunity to practice appropriate clinical skills and become a leader in your field. The curriculum is taught by expert faculty. They redefine medicine and develop pathways for research in healthcare. The sixteen batches have already graduated and provided their services in the national and global health care industry and many more are yet to go.",
+        "program_title": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+        "program_description": "Globally healthcare courses have modified and improved over the years. Our Bachelor of Medicine and Bachelor of Surgery (MBBS) program contains an innovative tailored curriculum, highly designed to meet the healthcare needs of Pakistan. It is recognized from Pakistan Medical and Dental Council and extensively accredited by many International medical certification bodies.",
         "program_duration": "5 years",
         "credit_hours": null,
         "fee": [
@@ -486,26 +480,19 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Year System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            "criteria": "F.Sc. Pre-Medical with at least 60% obtained marks"
           },
           {
             "s.no": 2,
-            "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
-          },
-          {
-            "s.no": 3,
             "criteria": "Passed the Riphah Admission test"
           },
           {
-            "s.no": 4,
-            "criteria": "DAE and 17% of interview as per PEC"
-          },
-          {
-            "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "s.no": 3,
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -517,9 +504,9 @@
         ],
         "course_outline": "https://riphah.edu.pk/bachelor-of-medicine-bachelor-of-surgery-mbbs/"
       },
-      "bachelor_of_dental_surgery": {
-        "program_title": "BS Bachelor of Dental SurgeryS",
-        "program_description": "diagnose and manage common oral and dental problems in the community. (Knowledge). practice general clinical dentistry. (Skill). identify, formulate and provide innovative and effective solution to oral health problems (Critical thinking). interact effectively with patients, peers and community. (Communication).",
+      "dental_surgery": {
+        "program_title": "Bachelor of Dental Surgery (BDS)",
+        "program_description": "The BDS program is designed to diagnose and manage common oral and dental problems in the community. The program focuses on practicing general clinical dentistry, identifying, formulating and providing innovative and effective solution to oral health problems, and interacting effectively with patients, peers and community.",
         "program_duration": "5 years",
         "credit_hours": null,
         "fee": [
@@ -541,26 +528,19 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Year System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            "criteria": "F.Sc. Pre-Medical with at least 60% obtained marks"
           },
           {
             "s.no": 2,
-            "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
-          },
-          {
-            "s.no": 3,
             "criteria": "Passed the Riphah Admission test"
           },
           {
-            "s.no": 4,
-            "criteria": "DAE and 17% of interview as per PEC"
-          },
-          {
-            "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "s.no": 3,
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [
@@ -572,15 +552,15 @@
         ],
         "course_outline": "https://riphah.edu.pk/program/bachelor-of-dental-surgery-bds/"
       },
-      "pharma_d": {
-        "program_title": "BS Pharma D",
-        "program_description": "This is an undergraduate 5 years degree program for those who are interested to pursue a career in the field of health and Pharmaceutical Sciences. Students with medical backgrounds can opt for this degree fulfilling the admission criteria. During their stay at RIPS, the students study various subjects and go through practical training to qualify for the degree of Doctor of Pharmacy(Pharm-D). This degree is recognized by the Pharmacy Council of Pakistan and is widely accepted nationally and internationally. The graduates can fulfill the increasing demand of retail pharmacists and they can join the government and private sector hospitals. The graduates can also continue their studies further as RIPS provides an opportunity to study up to the Ph.D. level. They can become part of the ongoing research worldwide in the ­field of Pharmacy. The pharm-D program is recognized by the Pharmaceutical Council of Pakistan. This Pharm-D program is designed to develop the learning and practical skills of the current students and teach the state-of-the-art syllabus with reference to Islamic values. We have veteran and highly qualified teaching faculty.",
+      "pharm_d": {
+        "program_title": "Doctor of Pharmacy (Pharm.D)",
+        "program_description": "This is an undergraduate 5 years degree program for those who are interested to pursue a career in the field of health and Pharmaceutical Sciences. The pharm-D program is recognized by the Pharmaceutical Council of Pakistan. This Pharm-D program is designed to develop the learning and practical skills of the current students and teach the state-of-the-art syllabus with reference to Islamic values.",
         "program_duration": "5 years",
         "credit_hours": "198",
         "fee": [
           {
-            "per_credit_hour_fee": 9541,
-            "total_tution_fee": "312,960 PKR"
+            "per_credit_hour_fee": "9,541 PKR",
+            "total_tution_fee": "1,889,118 PKR"
           }
         ],
         "important_dates": [
@@ -596,26 +576,19 @@
           }
         ],
         "merit": "50%",
+        "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+            "criteria": "F.Sc. Pre-Medical with at least 60% obtained marks"
           },
           {
             "s.no": 2,
-            "criteria": "F.Sc. Pre-Engineering with at least 60% obtained marks"
-          },
-          {
-            "s.no": 3,
             "criteria": "Passed the Riphah Admission test"
           },
           {
-            "s.no": 4,
-            "criteria": "DAE and 17% of interview as per PEC"
-          },
-          {
-            "s.no": 5,
-            "criteria": "A’ Levels (IBCC Equivalence Required)"
+            "s.no": 3,
+            "criteria": "A' Levels (IBCC Equivalence Required)"
           }
         ],
         "merit_formula": [

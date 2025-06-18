@@ -1,0 +1,104 @@
+[
+  {
+    "university_title": "Beaconhouse National University",
+    "main_link": "https://www.bnu.edu.pk/",
+    "location": "Lahore",
+    "additional_locations": [],
+    "social_links": {
+      "instagram": "https://www.instagram.com/bnulahore/",
+      "facebook": "https://www.facebook.com/BeaconhouseNationalUniversity/",
+      "twitter": "https://twitter.com/BNULahore",
+      "dailymotion": "https://www.dailymotion.com/BNU_university",
+      "linkedin": "https://www.linkedin.com/school/beaconhouse-national-university-lahore/"
+    },
+    "qs_ranking": "Not Available",
+    "contact_details": {
+      "info_email": "info@bnu.edu.pk",
+      "call": "042-38100156"
+    },
+    "introduction": "Established in 2003 and chartered by the Government of Punjab in 2005, Beaconhouse National University (BNU) is Pakistan's pioneering not-for-profit liberal arts institution. Rooted in values of diversity, inclusiveness, and academic freedom, BNU offers a comprehensive education spanning conventional and emerging disciplines. Its commitment to need-based scholarships has provided over one billion rupees in financial assistance, ensuring accessibility for all eligible students.",
+    "programs": {
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "In view of the ubiquitous presence of computers in industry, business and everyday life; ICT professionals need to possess an in-depth knowledge of computer hardware and software along with their applications. The BSc (Hons) in Computer Science program prepares CS graduates for a variety of careers that require specialized skills for designing computer-based solutions. These skills are in demand in IT departments of corporate sector or in the software industry.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "To be announced"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 50% marks in intermediate/A level, HSD and IB equivalent with compulsion of Math. Students from the Pre-Medical group can also apply."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "Not Available",
+            "F.Sc./A-level/relevant DAE": "Not Available",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "https://bnu.edu.pk/program/bsc-hons-in-computer-science#courses"
+      },
+      "software_engineering": {
+        "program_title": "BS Software Engineering",
+        "program_description": "The high percentage of software component in ICT devices has provided a window of opportunity for developing countries like Pakistan to venture into the field of software development. This can help the country to leap frog the digital divide and bring about socio-economic benefits for its people. The BSc (Hons) in Software Engineering program prepares graduates for careers in the software industry and corporate sector IT departments.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "To be announced"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "At least 50% marks in intermediate/A level, HSD and IB equivalent with compulsion of Math. Students from the Pre-Medical group can also apply."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "Not Available",
+            "F.Sc./A-level/relevant DAE": "Not Available",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "https://bnu.edu.pk/program/bsc-hons-software-engineering"
+      }
+    },
+    "campuses": null
+  }
+]

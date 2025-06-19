@@ -1,6 +1,6 @@
 [
   {
-    "university_title": "The University of Lahore",
+    "university_title": "The University of Lahore (UOL)",
     "main_link": "https://uol.edu.pk/",
     "location": "Lahore",
     "additional_locations": ["Gujranwala", "Khanspur", "Jhelum", "Pothohar"],
@@ -197,7 +197,7 @@
         "course_outline": "https://pharm.uol.edu.pk/course/doctor-of-pharmacy/"
       },
       "biomedical_engineering": {
-        "program_title": "BS Biomedical Engineering Technology",
+        "program_title": "BS Biomedical Engineering",
         "program_description": "The aim of Bachelor of Science in Bio-Medical Engineering Technology (BS BMET) program is to produces graduates in the country. The graduates will be competent to identify, assess, evaluate, manage and trouble shoot all the problems and errors in biomedical equipment and are eligible enough to get hands on the biomedical equipment and machines to maintain and to repair them.",
         "program_duration": "4 years",
         "credit_hours": "133",
@@ -329,7 +329,7 @@
         "course_outline": "https://ee.uol.edu.pk/course/bachelor-of-science-in-electrical-engineering/"
       },
       "mechanical_engineering": {
-        "program_title": "BS Mechanical Engineering Technology",
+        "program_title": "BS Mechanical Engineering",
         "program_description": "The development of a country is measured by the efficient use of energy, materials, and developed human capital. Human capital trained in contemporary technologies plays a key role in the progress of a country. Appreciating this importance, the Department of Technology offers an undergraduate program in Mechanical Engineering Technology that contained subjects covering all major fields of Mechanical Industry.",
         "program_duration": "4 years",
         "credit_hours": "136",
@@ -373,7 +373,7 @@
         "course_outline": "https://tech.uol.edu.pk/course/bachelor-of-science-in-mechanical-engineering-technology/"
       },
       "civil_engineering": {
-        "program_title": "BS Civil Engineering Technology",
+        "program_title": "BS Civil Engineering",
         "program_description": "The main emphasis of the Civil Engineering Technology Program is to provide the students with a sound foundation of mathematics and other sciences to utilize their knowledge in solving problems of structure, irrigation and hydraulics, soil mechanics, foundations, highways transportation, and environmental engineering.",
         "program_duration": "4 years",
         "credit_hours": "137",

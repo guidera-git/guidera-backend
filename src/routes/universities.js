@@ -120,38 +120,38 @@ router.get('/programs/search/:programTitle', auth, async (req, res) => {
 });
 
 
-// ─── 5) FULL DETAILS FOR ONE PROGRAM ──────────────────────────────────────────
-router.get('/programs/specific/:programId', auth, async (req, res) => {
-  const { programId } = req.params;
-  try {
-    const { rows } = await client.query(
-      `
-      SELECT 
-        p.*,
-        u.id            AS university_id,
-        u.university_title,
-        u.main_link,
-        u.qs_ranking,
-        u.social_links,
-        u.contact_details,
-        u.introduction,
-        u.campuses,
-        u.location
-      FROM programs p
-      JOIN universities u ON u.id = p.university_id
-      WHERE p.id = $1
-      `,
-      [programId]
-    );
-    if (!rows[0]) {
-      return res.status(404).json({ error: 'Program not found' });
+  // ─── 5) FULL DETAILS FOR ONE PROGRAM ──────────────────────────────────────────
+  router.get('/programs/specific/:programId', auth, async (req, res) => {
+    const { programId } = req.params;
+    try {
+      const { rows } = await client.query(
+        `
+        SELECT 
+          p.*,
+          u.id            AS university_id,
+          u.university_title,
+          u.main_link,
+          u.qs_ranking,
+          u.social_links,
+          u.contact_details,
+          u.introduction,
+          u.campuses,
+          u.location
+        FROM programs p
+        JOIN universities u ON u.id = p.university_id
+        WHERE p.id = $1
+        `,
+        [programId]
+      );
+      if (!rows[0]) {
+        return res.status(404).json({ error: 'Program not found' });
+      }
+      res.json(rows[0]);
+    } catch (err) {
+      console.error('Error fetching program details:', err);
+      res.status(500).json({ error: 'Internal server error' });
     }
-    res.json(rows[0]);
-  } catch (err) {
-    console.error('Error fetching program details:', err);
-    res.status(500).json({ error: 'Internal server error' });
-  }
-});
+  });
 
 // ─── 6) COMBINED FILTER ENDPOINT ──────────────────────────────────────────────
 router.get('/programs/filter', auth, async (req, res) => {

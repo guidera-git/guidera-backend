@@ -5,6 +5,16 @@ const { body, validationResult } = require('express-validator');
 const bcrypt                = require('bcrypt');
 const jwt                   = require('jsonwebtoken');
 const pool                  = require('../db');
+const admin = require("../firebase/firebaseAdmin");
+// Initialize Firebase Admin only once
+if (!admin.apps.length) {
+  const serviceAccount = require("../../firebase/serviceAccountKey.json"); // make sure this file exists
+
+  admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount),
+  });
+}
+
 
 const router     = express.Router();
 const JWT_SECRET = process.env.JWT_SECRET;
@@ -73,7 +83,6 @@ router.post(
     }
   }
 );
-
 // POST /api/auth/login
 router.post(
   '/login',
@@ -132,5 +141,69 @@ router.post(
     }
   }
 );
+// POST /api/auth/google
+router.post("/google", async (req, res) => {
+  const { idToken } = req.body;
+
+  if (!idToken) {
+    return res.status(400).json({ error: "Missing ID token" });
+  }
+
+  try {
+    const decodedToken = await admin.auth().verifyIdToken(idToken);
+    const { uid, name, email, picture } = decodedToken;
+
+    let user;
+    const existingUser = await pool.query(
+      "SELECT * FROM student WHERE firebase_uid = $1",
+      [uid]
+    );
+
+    if (existingUser.rows.length === 0) {
+      // check by email in case user exists without firebase UID
+      const emailUser = await pool.query(
+        "SELECT * FROM student WHERE email = $1",
+        [email]
+      );
+
+      if (emailUser.rows.length === 0) {
+        // new user - insert
+        const insertUser = await pool.query(
+          `INSERT INTO student 
+           (full_name, email, password, background_photo, profile_photo, gender, birthdate, about_me, firebase_uid)
+           VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
+           RETURNING *`,
+          [name || "", email, null, null, picture || null, null, null, null, uid]
+        );
+        user = insertUser.rows[0];
+      } else {
+        // user exists by email, update firebase_uid
+        await pool.query(
+          "UPDATE student SET firebase_uid = $1 WHERE student_id = $2",
+          [uid, emailUser.rows[0].student_id]
+        );
+        user = emailUser.rows[0];
+      }
+    } else {
+      user = existingUser.rows[0];
+    }
+
+    // Issue JWT with student_id
+    const appToken = jwt.sign({ userId: user.student_id }, process.env.JWT_SECRET,{ expiresIn: "7d" });
+    res.status(200).json({
+      success: true,
+      token: appToken,
+      user: {
+        id: user.student_id,
+        full_name: user.full_name,
+        email: user.email,
+        profile_photo: user.profile_photo,
+      },
+    });
+  } catch (err) {
+    console.error("Google Login Error:", err);
+    res.status(401).json({ error: "Invalid ID token" });
+  }
+});
 
 module.exports = router;

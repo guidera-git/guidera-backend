@@ -1,0 +1,70 @@
+[
+  {
+    "university_title": "The Aga Khan University (AKU)",
+    "main_link": "https://www.aku.edu/Pages/home.aspx",
+    "location": "Karachi",
+    "additional_locations": ["Nairobi", "Kampala", "Dar es Salaam", "London"],
+    "social_links": {
+      "instagram": "https://www.instagram.com/akuglobal/",
+      "facebook": "https://www.facebook.com/AKUGlobal",
+      "twitter": "https://twitter.com/akuglobal"
+    },
+    "qs_ranking": "250",
+    "contact_details": {
+      "info_email": "communications@aku.edu",
+      "call": "+92 21 3493 0051"
+    },
+    "introduction": "The mission of the Aga Khan University (AKU) is to improve the quality of life in the developing world and beyond through world-class teaching, research and health-care delivery. The University educates students about local and global leadership, generates new knowledge to solve problems that affect millions of people, and raises standards and aspirations in the countries in which it works. Founded in 1983 as Pakistan's first private university, AKU is a not-for-profit institution and an agency of the Aga Khan Development Network.",
+    "programs": {
+      "mbbs": {
+        "program_title": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+        "program_description": "The Medical College offers a five-year Bachelor of Medicine, Bachelor of Surgery (MBBS) programme. The programme is open to all academically qualified candidates without consideration to gender, religion, race, creed, colour or domicile. Students from anywhere in Pakistan and overseas may apply. There are no quotas, reserved seats or admissions against donations. Merit-based admissions are open to candidates from around the world.",
+        "program_duration": "5 years",
+        "credit_hours": "Not Available",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "10,193,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_LCAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Year System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Submission of valid MDCAT scores as administered by PMDC."
+          },
+          {
+            "s.no": 2,
+            "criteria": "The admission regulations as described in the PMDC notification (Admission regulations 2022) allow candidates who have passed biology, chemistry and either physics or mathematics in the Higher Secondary School Certificate or an equivalent 12th grade qualification recognised in Pakistan are eligible to apply to the MBBS programme."
+          },
+          {
+            "s.no": 3,
+            "criteria": "AKU Test for shortlisting."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": null,
+            "F.Sc./A-level/relevant DAE": null,
+            "Entry Test": null
+          }
+        ],
+        "course_outline": "https://www.aku.edu/admissions/mbbs/Pages/home.aspx"
+      }
+    },
+    "campuses": null
+  }
+]

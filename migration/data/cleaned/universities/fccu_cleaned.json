@@ -1,0 +1,84 @@
+[
+  {
+    "university_title": "Forman Christian College University (FCCU)",
+    "main_link": "https://www.fccollege.edu.pk/",
+    "location": "Lahore",
+    "additional_locations": [],
+    "social_links": {
+      "instagram": "https://www.instagram.com/formanchristiancollege/",
+      "facebook": "https://www.facebook.com/fccollege/",
+      "twitter": "https://twitter.com/FCCollege/",
+      "youtube": "https://www.youtube.com/channel/UCdfF8WCBUgLiwNohkXv2vlg",
+      "linkedin": "https://www.linkedin.com/school/forman-christian-college/"
+    },
+    "qs_ranking": "Not Available",
+    "contact_details": {
+      "info_email": "contact@fccollege.edu.pk",
+      "call": "(92 42) 99231581-8"
+    },
+    "introduction": "FCCU was founded in 1864 with a vision to impart quality education to the people of this region and to contribute to their academic, economic and social development. From the premises of a small college, FCCU has grown into an academically robust university that offers a wide range of opportunities to its students to grow and reach their full potential. FCCU welcomes students from all backgrounds and all regions of Pakistan and abroad to a University where they live, grow and learn, meet some of the greatest thinkers in their chosen disciplines and make lifelong friendships- a place they can truly call home.",
+    "programs": {
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "The BS Computer Science degree program at FCCU is duly accredited by NCEAC (National Computing Education Accreditation Council) of HEC and is complemented by the University's liberal arts education system. The program provides a solid understanding of the theory and techniques of Computer Science so that upon graduation the students can enter various industries or pursue graduate studies. Our courses are a mix from various areas that reflect the excitement and joy of computing, e.g. mathematics, electronics, algorithms, programming, theoretical computer science, artificial intelligence, application development, software engineering, networks, operating systems, databases, computer vision, human-computer interaction and more.",
+        "program_duration": "4 years",
+        "credit_hours": "Not Available",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "337,000 PKR per semester"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": null,
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": null,
+            "commencement_of_classes": null
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Students who have passed their Intermediate"
+          },
+          {
+            "s.no": 2,
+            "criteria": "A- Level students who have cleared at least 3 principal A-Level exams (not AS Level)"
+          },
+          {
+            "s.no": 3,
+            "criteria": "A- Level students who have given their A levels exams in October, November and are awaiting"
+          },
+          {
+            "s.no": 4,
+            "criteria": "Students who have done their American High School. Equivalence needed attested from the"
+          },
+          {
+            "s.no": 5,
+            "criteria": "Students who have done their Intermediate from the Technical Board"
+          },
+          {
+            "s.no": 6,
+            "criteria": "Students applying for BS (Hons) Biotechnology must have done FSc Pre-Medical or should have"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "Not Available",
+            "F.Sc./A-level/relevant DAE": "Not Available",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "https://www.fccollege.edu.pk/baccalaureate-in-computer-sciences/"
+      }
+    },
+    "campuses": null
+  }
+]

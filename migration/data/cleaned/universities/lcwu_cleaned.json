@@ -1,0 +1,254 @@
+[
+  {
+    "university_title": "Lahore College for Women University (LCWU)",
+    "main_link": "https://www.lcwu.edu.pk/",
+    "location": "Lahore",
+    "additional_locations": [],
+    "social_links": {
+      "youtube": "https://www.youtube.com/channel/UC6nOyKC6gx_IaXUYHZsnqyw",
+      "facebook": "https://web.facebook.com/lcwu.official",
+      "instagram": null
+    },
+    "qs_ranking": "Not Available",
+    "contact_details": {
+      "info_email": "registrar@lcwu.edu.pk",
+      "call": "+92-42-99203801-9"
+    },
+    "introduction": "Welcome to Lahore College for Women University, one of the historic and the largest Women University in Asia. LCWU is a hub of academic excellence for women empowerment and entrepreneurship in Asia. This institute has played a pivotal role in empowering generations of women by providing quality higher education and has been contributing in the socio-economic development of the country since its inception.",
+    "programs": {
+      "software_engineering": {
+        "program_title": "BS Software Engineering",
+        "program_description": "Software Engineering is the application of a systematic, disciplined and quantifiable approach to the design, development, operation, and maintenance of software systems. It is in fact the practice of designing and implementing large, reliable, efficient and economical software by applying the principles and practices of engineering. The department aims to train students in all aspects of the software life cycle from specification through analysis and design to testing, maintenance and evolution of software products.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "310,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": "OCT 4,2024",
+            "commencement_of_classes": "OCT 28 2024"
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "The minimum requirements for admission in a Bachelor degree program in Software Engineering, is at least 50% marks in Intermediate (HSSC) examination with Mathematics"
+          },
+          {
+            "s.no": 2,
+            "criteria": "Equivalent qualification with Mathematics certified by IBCC."
+          },
+          {
+            "s.no": 3,
+            "criteria": "The students who have not studied Mathematics at intermediate level may be allowed provisional admission, However such student shall have to pass deficiency courses of Mathematics (0 Credits) in first two semester OR provide additional mathematics result from relevant examination board within first semester"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "Not Available",
+            "F.Sc./A-level/relevant DAE": "Not Available",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "https://www.lcwu.edu.pk/se-scheme-studies.html"
+      },
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "University provides depth and breadth of knowledge in computer science as evidenced by an understanding of computing systems and science coupled with the capacity to produce feasible and responsible solutions to complex computing problems.Critical thinking as evidenced by skills in interpretation, analysis, evaluation, inference, argumentation, and reflection.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "320,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": "OCT 4,2024",
+            "commencement_of_classes": "OCT 28 2024"
+          }
+        ],
+        "merit": "50%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Candidates having Intermediate or equivalent with Mathematics with at least 50% marks."
+          },
+          {
+            "s.no": 2,
+            "criteria": "Equivalence must be from IBCC."
+          },
+          {
+            "s.no": 3,
+            "criteria": "The students who have not studied Mathematics at intermediate level may be allowed provisional admission, However such student shall have to pass deficiency courses of Mathematics (0 Credits) in first two semester OR provide additional mathematics result from relevant examination board within first semester"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "Not Available",
+            "F.Sc./A-level/relevant DAE": "Not Available",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "https://www.lcwu.edu.pk/cs-scheme-of-studies.html"
+      },
+      "electrical_engineering": {
+        "program_title": "BS Electrical Engineering",
+        "program_description": "Lahore College for Women is providing quality education to produce qualified female engineers who can address the modern challenges and excel at national and international level. The department has successfully obtained accreditation from Pakistan Engineering Council (PEC) from first batch starting in 2004-2008 till 2018-2022. DEE has implemented the Outcome Based Education (OBE) system in fall 2018 sas per the requirement of Pakistan Engineering Council.",
+        "program_duration": "4 years",
+        "credit_hours": "135",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "320,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": "OCT 4,2024",
+            "commencement_of_classes": "OCT 28 2024"
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "HSC/HSSC Pre-Engineering Examination with Physics, Chemistry and Mathematics, securing at least 60% marks. OR a combination of Physics, Mathematics and Computer Studies/Computer Science (ICS) with at least 60% marks OR DAE (Electronics/Electrical) / B.Sc. (Math, Physics, and Chemistry) with at least 60% marks are eligible to apply"
+          },
+          {
+            "s.no": 2,
+            "criteria": "Entry Test result (from any designated entry test conducting entity/body as per PEC admission policy) must be attached with the form."
+          },
+          {
+            "s.no": 3,
+            "criteria": "Following are the designated Entity/Testing Agencies to conduct Entry test as per PEC admission Policy(UET Lahore,NED-UET - Karachi and MUET - Jamshoro,NUST - Islamabad,NTS,ETEA or Any other existing recognized entity)."
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "17%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://www.lcwu.edu.pk/ee-scheme-studies.html"
+      },
+      "pharm_d": {
+        "program_title": "Doctor of Pharmacy (Pharm.D)",
+        "program_description": "The Department of Pharmacy was established in 2002 when the first batch was admitted in Pharm — D with the aim of providing a free access of education to female students desirous of acquiring knowledge of Pharmacy in a friendly environment. The globally recognized profession of Pharmacy is an essential and integral part of a National Health Care system of any country.",
+        "program_duration": "5 years",
+        "credit_hours": "Not Available",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "425,520 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": "OCT 4,2024",
+            "commencement_of_classes": "OCT 28 2024"
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "FSc Pre-Medical/ Health Science or equivalent with minimum 60% marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "The candidates having studied Applied Sciences (Physics, Chemistry) and basic Medical Sciences (Anatomy, Physiology) at Intermediate Level are also eligible to apply for Doctor of Physical Therapy (DPT) program admission on open merit seats as well as reserved seats"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "Not Available",
+            "F.Sc./A-level/relevant DAE": "Not Available",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "https://lcwu.edu.pk/pharmacy-overview.html"
+      },
+      "doctor_physical_therapy": {
+        "program_title": "Doctor of Physical Therapy (DPT)",
+        "program_description": "Lahore College for Women is providing quality education to produce qualified female engineers who can address the modern challenges and excel at national and international level. The department has successfully obtained accreditation from Pakistan Engineering Council (PEC) from first batch starting in 2004-2008 till 2018-2022.",
+        "program_duration": "5 years",
+        "credit_hours": "Not Available",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "425,520 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
+            "deadline_pay_application_fee": null,
+            "deadline_finencial_aid_application": null,
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": null,
+            "admission_decision": "OCT 4,2024",
+            "commencement_of_classes": "OCT 28 2024"
+          }
+        ],
+        "merit": "Not Available",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Only F.Sc. Pre—Medical group with minimum 60% marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "'A' level students with Pre—Medical subjects (with minimum 60% equivalance marks) are eligible to apply for Pharm —D"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "Not Available",
+            "F.Sc./A-level/relevant DAE": "Not Available",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "Not Available"
+      }
+    },
+    "campuses": null
+  }
+]

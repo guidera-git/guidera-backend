@@ -1,0 +1,30 @@
+[
+  {
+    "university_title": "COMSATS University Islamabad",
+    "main_link": "https://www.comsats.edu.pk/",
+    "location": "Islamabad",
+    "additional_locations": ["Lahore", "Abbottabad", "Attock", "Sahiwal", "Vehari", "Wah"],
+    "social_links": {
+      "instagram": "https://www.instagram.com/cuinews",
+      "facebook": "https://www.facebook.com/cuiofficial/",
+      "twitter": "https://twitter.com/CUIofficial",
+      "youtube": "https://www.youtube.com/@cuiofficial"
+    },
+    "qs_ranking": "Not Available",
+    "contact_details": {
+      "info_email": "rizwan_ahmed@comsats.edu.pk",
+      "call": "(92-51) 9049 5032-5"
+    },
+    "introduction": "COMSATS University Islamabad (CUI) is a public sector university recognized by the Higher Education Commission of Pakistan. The university was established in 1998 as COMSATS Institute of Information Technology and was granted university status in 2018. CUI is known for its excellence in engineering, computer science, and technology programs, with multiple campuses across Pakistan serving thousands of students.",
+    "programs": {},
+    "campuses": {
+      "islamabad_campus": "https://www.comsats.edu.pk/",
+      "lahore_campus": "https://lahore.comsats.edu.pk/",
+      "abbottabad_campus": "https://abbottabad.comsats.edu.pk/",
+      "attock_campus": "https://attock.comsats.edu.pk/",
+      "sahiwal_campus": "https://sahiwal.comsats.edu.pk/",
+      "vehari_campus": "https://vehari.comsats.edu.pk/",
+      "wah_campus": "https://wah.comsats.edu.pk/"
+    }
+  }
+]

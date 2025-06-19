@@ -1,7 +1,8 @@
-// src/db.js
-
 // Load environment variables from .env in project root
-require('dotenv').config();
+require('dotenv').config({
+  path: require('path').resolve(__dirname, '../.env')
+});
+
 
 const { Pool } = require('pg');
 

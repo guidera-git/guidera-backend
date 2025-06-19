@@ -2,6 +2,8 @@
   {
     "university_title": "Lahore University of Management Sciences (LUMS)",
     "main_link": "https://lums.edu.pk/",
+    "location": "Lahore",
+    "additional_locations": [],
     "social_links": {
       "instagram": "https://www.instagram.com/lifeatlums/",
       "facebook": "https://www.facebook.com/lahoreuniversityofmanagementsciences",
@@ -22,7 +24,7 @@
         "fee": [
           {
             "per_credit_hour_fee": "37,070 PKR",
-            "total_tution_fee": "4819100 PKR"
+            "total_tution_fee": "4,819,100 PKR"
           }
         ],
         "important_dates": [
@@ -46,7 +48,7 @@
           },
           {
             "s.no": 2,
-            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least ‘B’ in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
+            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least 'B' in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
           },
           {
             "s.no": 3,
@@ -68,13 +70,13 @@
       },
       "chemical_engineering": {
         "program_title": "BS Chemical Engineering",
-        "program_description": "The LUMS BS Chemical Engineering is a rigorous four-year programme that prepares students to compete in global markets. Pakistan’s chemical industry is rapidly expanding to provide products to enhance the standard of living, protect the environment, ensure industrial safety and create new processes that provide value added products. To keep up with this rapid development, the Department of Chemistry and Chemical Engineering at the Syed Babar Ali School of Science and Engineering (SBASSE) is educating tomorrow’s leaders in modern Chemical Engineering.",
+        "program_description": "The LUMS BS Chemical Engineering is a rigorous four-year programme that prepares students to compete in global markets. Pakistan's chemical industry is rapidly expanding to provide products to enhance the standard of living, protect the environment, ensure industrial safety and create new processes that provide value added products. To keep up with this rapid development, the Department of Chemistry and Chemical Engineering at the Syed Babar Ali School of Science and Engineering (SBASSE) is educating tomorrow's leaders in modern Chemical Engineering.",
         "program_duration": "4 years",
         "credit_hours": "138",
         "fee": [
           {
             "per_credit_hour_fee": "37,070 PKR",
-            "total_tution_fee": "4819100 PKR"
+            "total_tution_fee": "4,819,100 PKR"
           }
         ],
         "important_dates": [
@@ -98,7 +100,7 @@
           },
           {
             "s.no": 2,
-            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least ‘B’ in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
+            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least 'B' in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
           },
           {
             "s.no": 3,
@@ -122,11 +124,11 @@
         "program_title": "BS Electrical Engineering",
         "program_description": "The curriculum of the BS Electrical Engineering programme at the Syed Babar Ali School of Science and Engineering (SBASSE) has been designed to teach students to apply knowledge of mathematics, science and engineering fundamentals to find solutions of complex engineering problems.",
         "program_duration": "4 years",
-        "credit_hours": "135+",
+        "credit_hours": "135",
         "fee": [
           {
             "per_credit_hour_fee": "37,070 PKR",
-            "total_tution_fee": "48,19100 PKR"
+            "total_tution_fee": "4,819,100 PKR"
           }
         ],
         "important_dates": [
@@ -150,7 +152,7 @@
           },
           {
             "s.no": 2,
-            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least ‘B’ in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
+            "criteria": "O Level result (in at least 18 subjects) with an average grade of at least 'B' in all subjects attempted and A-Level (in at least three full-credit A-Level subjects) with an 2average of 2 Bs and 1 C grade across best three subjects. The three best subjects cannot include any Advanced Subsidiary subjects, the A-Level General Paper, or an A-Level grade less than an E. The full-credit A-level subjects for SBASSE are Biology, Chemistry, Computing, Computer Science, Mathematics, Further Mathematics, Information Technology and Physics."
           },
           {
             "s.no": 3,

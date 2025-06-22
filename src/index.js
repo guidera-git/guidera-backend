@@ -16,8 +16,6 @@ const testRoutes = require('./routes/test_questions');
 const savedProgramsRoutes = require('./routes/saved_programs');
 const applicationsRoutes = require('./routes/applications');
 const notificationRoutes = require('./routes/notification');
-
-
 const app = express();
 
 // Middleware
@@ -52,6 +50,7 @@ app.use('/api/tests', testRoutes);
 app.use('/api', savedProgramsRoutes);
 app.use('/api', applicationsRoutes);
 app.use('/api', notificationRoutes);
+
 
 
 // Global error handler

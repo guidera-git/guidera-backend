@@ -1,3 +1,5 @@
 node_modules/
 .env
 config/guidera-backend-firebase-adminsdk-fbsvc-d8877d0413.json
+src/firebase/serviceAccountKey.json
+

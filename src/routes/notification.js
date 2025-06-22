@@ -1,68 +1,289 @@
 const express = require('express');
-const dayjs = require('dayjs');
-const auth = require('../middleware/auth');
-const client = require('../db');
-
 const router = express.Router();
+const client = require('../db');
+const auth = require('../middleware/auth');
+const { applicationEvents, EVENTS } = require('../utils/eventEmitter');
 
-router.get('/reminders', auth, async (req, res) => {
-    const studentId = req.user.id;
+const NotificationRules = require('../utils/notificationRules');
 
-    try {
-        const today = dayjs().startOf('day');
+// Utility to extract student ID from the token payload
+function getStudentId(req) {
+  return req.user.student_id ?? req.user.userId ?? req.user.id;
+}
 
-        const result = await client.query(
-            `SELECT id,program_id, university_name, message, notification_date,status
-       FROM notifications
-       WHERE student_id = $1`,
-            [studentId]
-        );
-
-        const reminders = result.rows.filter(row => {
-            const date = dayjs(row.notification_date).startOf('day');
-            const diff = date.diff(today, 'day');
-            return [0, 1, 3, 7].includes(diff);
-        });
-
-        const formatted = reminders.map(row => ({
-            id: row.id,
-            program_id: row.program_id,
-            university: row.university_name,
-            message: row.message,
-            date: dayjs(row.notification_date).format('YYYY-MM-DD'),
-            status: row.status
-        }));
-
-        res.json({ reminders: formatted });
-
-    } catch (err) {
-        console.error('Error fetching reminders:', err);
-        res.status(500).json({ error: 'Internal server error' });
-    }
+// Phase 2: Event Subscription - Set up notification event listeners
+applicationEvents.on(EVENTS.APPLICATION_CREATED, async (eventData) => {
+  console.log('Processing application.created event:', eventData);
+  await NotificationRules.processApplicationCreated(eventData);
 });
-router.patch('/reminders/:id/read', auth, async (req, res) => {
-    const studentId = req.user.id;
-    const notificationId = req.params.id;
 
-    try {
-        const result = await client.query(
-            `UPDATE notifications
-             SET status = TRUE
-             WHERE id = $1 AND student_id = $2
-             RETURNING *`,
-            [notificationId, studentId]
-        );
+applicationEvents.on(EVENTS.APPLICATION_PHASE_CHANGED, async (eventData) => {
+  console.log('Processing application.phaseChanged event:', eventData);
+  await NotificationRules.processPhaseChanged(eventData);
+});
 
-        if (result.rowCount === 0) {
-            return res.status(404).json({ message: 'Notification not found or access denied.' });
-        }
-
-        res.json({ message: 'Notification marked as read.' });
-
-    } catch (err) {
-        console.error('Error updating notification status:', err);
-        res.status(500).json({ error: 'Internal server error' });
+// ─── 1) CREATE NOTIFICATION (Manual) ────────────────────────────────────────────
+router.post('/notifications', auth, async (req, res) => {
+  try {
+    const student_id = getStudentId(req);
+    if (!student_id) {
+      return res.status(401).json({ error: 'Invalid authentication payload' });
     }
+
+    const { title, message, type, related_id, scheduled_for } = req.body;
+    if (!title || !message || !type) {
+      return res.status(400).json({ error: 'title, message, and type are required' });
+    }
+
+    const insertQuery = `
+      INSERT INTO notifications (
+        student_id,
+        title,
+        message,
+        type,
+        related_id,
+        scheduled_for,
+        created_at
+      )
+      VALUES ($1, $2, $3, $4, $5, $6, NOW())
+      RETURNING *
+    `;
+
+    const result = await client.query(insertQuery, [
+      student_id,
+      title,
+      message,
+      type,
+      related_id || null,
+      scheduled_for || null
+    ]);
+
+    return res.status(201).json(result.rows[0]);
+  } catch (err) {
+    console.error('Error creating notification:', err);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// ─── 2) GET ALL NOTIFICATIONS FOR USER ──────────────────────────────────────────
+router.get('/notifications', auth, async (req, res) => {
+  try {
+    const student_id = getStudentId(req);
+    if (!student_id) {
+      return res.status(401).json({ error: 'Invalid authentication payload' });
+    }
+
+    const { limit = 50, offset = 0, unread_only = false } = req.query;
+
+    let query = `
+      SELECT
+        n.*,
+        CASE
+          WHEN n.type IN ('deadline', 'milestone') AND n.related_id IS NOT NULL THEN (
+            SELECT u.university_title
+            FROM applications a
+            JOIN universities u ON a.university_id = u.id
+            WHERE a.id = n.related_id::int
+          )
+          ELSE NULL
+        END AS university_title
+      FROM notifications n
+      WHERE n.student_id = $1
+    `;
+
+    const queryParams = [student_id];
+    let paramCount = 1;
+
+    if (unread_only === 'true') {
+      query += ` AND n.is_read = false`;
+    }
+
+    query += ` ORDER BY n.created_at DESC LIMIT $${++paramCount} OFFSET $${++paramCount}`;
+    queryParams.push(parseInt(limit), parseInt(offset));
+
+    const result = await client.query(query, queryParams);
+
+    return res.json(result.rows);
+  } catch (err) {
+    console.error('Error fetching notifications:', err);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// ─── 3) MARK NOTIFICATION AS READ ───────────────────────────────────────────────
+router.patch('/notifications/:notification_id/read', auth, async (req, res) => {
+  try {
+    const student_id = getStudentId(req);
+    if (!student_id) {
+      return res.status(401).json({ error: 'Invalid authentication payload' });
+    }
+
+    const { notification_id } = req.params;
+    const updateQuery = `
+      UPDATE notifications
+      SET is_read = true, read_at = NOW()
+      WHERE id = $1 AND student_id = $2
+      RETURNING *
+    `;
+    const result = await client.query(updateQuery, [notification_id, student_id]);
+
+    if (result.rows.length === 0) {
+      return res.status(404).json({ error: 'Notification not found' });
+    }
+
+    return res.json(result.rows[0]);
+  } catch (err) {
+    console.error('Error marking notification as read:', err);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// ─── 3.1) MARK ALL NOTIFICATIONS AS READ ────────────────────────────────────────
+router.patch('/notifications/mark-all-read', auth, async (req, res) => {
+  try {
+    const student_id = getStudentId(req);
+    if (!student_id) {
+      return res.status(401).json({ error: 'Invalid authentication payload' });
+    }
+
+    const updateQuery = `
+      UPDATE notifications
+      SET is_read = true, read_at = NOW()
+      WHERE student_id = $1 AND is_read = false
+      RETURNING *
+    `;
+    const result = await client.query(updateQuery, [student_id]);
+
+    return res.json({ 
+      message: 'All notifications marked as read',
+      updated_count: result.rows.length,
+      notifications: result.rows
+    });
+  } catch (err) {
+    console.error('Error marking all notifications as read:', err);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// ─── 4) GET NOTIFICATION SUMMARY ────────────────────────────────────────────────
+router.get('/notifications/summary', auth, async (req, res) => {
+  try {
+    const student_id = getStudentId(req);
+    if (!student_id) {
+      return res.status(401).json({ error: 'Invalid authentication payload' });
+    }
+
+    const summaryQuery = `
+      SELECT
+        COUNT(*) as total_notifications,
+        COUNT(CASE WHEN is_read = false THEN 1 END) as unread_count,
+        COUNT(CASE WHEN type = 'deadline' THEN 1 END) as deadline_notifications,
+        COUNT(CASE WHEN type = 'milestone' THEN 1 END) as milestone_notifications,
+        COUNT(CASE WHEN type = 'welcome' THEN 1 END) as welcome_notifications,
+        COUNT(CASE WHEN created_at >= NOW() - INTERVAL '7 days' THEN 1 END) as recent_notifications
+      FROM notifications
+      WHERE student_id = $1
+    `;
+
+    const result = await client.query(summaryQuery, [student_id]);
+    return res.json(result.rows[0]);
+  } catch (err) {
+    console.error('Error fetching notification summary:', err);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// ─── 5) GET DEADLINE NOTIFICATIONS ──────────────────────────────────────────────
+router.get('/deadlines', auth, async (req, res) => {
+  try {
+    const student_id = getStudentId(req);
+    if (!student_id) {
+      return res.status(401).json({ error: 'Invalid authentication payload' });
+    }
+
+    const query = `
+      SELECT
+        a.id AS application_id,
+        u.university_title,
+        p.program_title,
+        p.important_dates,
+        a.created_at AS application_date,
+        a.status AS application_status
+      FROM applications a
+      JOIN programs p ON a.program_id = p.id
+      JOIN universities u ON a.university_id = u.id
+      WHERE a.student_id = $1
+        AND p.important_dates IS NOT NULL
+        AND jsonb_array_length(p.important_dates) > 0
+        AND a.status != 'completed'
+      ORDER BY a.created_at DESC
+    `;
+
+    const result = await client.query(query, [student_id]);
+    const deadlines = result.rows
+      .map(row => {
+        const dates = row.important_dates[0];
+        const currentDate = new Date();
+        
+        // Find the next upcoming deadline
+        const possibleDeadlines = [
+          { date: dates.deadline_application_submission, type: 'Application Submission' },
+          { date: dates.deadline_admission_test_ecat, type: 'Admission Test' },
+          { date: dates.deadline_sat, type: 'SAT Test' }
+        ].filter(d => d.date && new Date(d.date) > currentDate);
+
+        const nextDeadline = possibleDeadlines[0];
+        
+        if (nextDeadline) {
+          const daysUntil = Math.ceil((new Date(nextDeadline.date) - currentDate) / (1000 * 60 * 60 * 24));
+          
+          return {
+            application_id: row.application_id,
+            university: row.university_title,
+            program: row.program_title,
+            deadline: nextDeadline.date,
+            deadline_type: nextDeadline.type,
+            days_until: daysUntil,
+            is_urgent: daysUntil <= 7
+          };
+        }
+        return null;
+      })
+      .filter(Boolean)
+      .sort((a, b) => a.days_until - b.days_until);
+
+    return res.json(deadlines);
+  } catch (err) {
+    console.error('Error fetching deadlines:', err);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// ─── 6) DELETE NOTIFICATION ─────────────────────────────────────────────────────
+router.delete('/notifications/:notification_id', auth, async (req, res) => {
+  try {
+    const student_id = getStudentId(req);
+    if (!student_id) {
+      return res.status(401).json({ error: 'Invalid authentication payload' });
+    }
+
+    const { notification_id } = req.params;
+    const deleteQuery = `
+      DELETE FROM notifications
+      WHERE id = $1 AND student_id = $2
+      RETURNING *
+    `;
+    const result = await client.query(deleteQuery, [notification_id, student_id]);
+
+    if (result.rows.length === 0) {
+      return res.status(404).json({ error: 'Notification not found' });
+    }
+
+    return res.json({ message: 'Notification deleted successfully' });
+  } catch (err) {
+    console.error('Error deleting notification:', err);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
 });
 
 module.exports = router;

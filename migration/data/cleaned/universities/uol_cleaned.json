@@ -29,14 +29,14 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application":  null,
             "daedline_ACT": null,
             "daedline_SAT": null,
             "deadline_admission_test_LCAT": null,
             "admission_decision": null,
-            "commencement_of_classes": null
+            "commencement_of_classes": "June 29, 2025"
           }
         ],
         "merit": "Not Available",

@@ -1,5 +1,3 @@
-// src/index.js
-
 // Load .env from project root
 const path = require('path');
 require('dotenv').config({
@@ -14,10 +12,12 @@ const profileRt = require('./routes/profile');
 const degreeRt = require('./routes/degree');
 const chatbotRt = require('./routes/chatbot');
 const search = require('./routes/universities');
-const cart = require('./routes/cart');
 const testRoutes = require('./routes/test_questions');
-
+const savedProgramsRoutes = require('./routes/saved_programs');
+const applicationsRoutes = require('./routes/applications');
 const notificationRoutes = require('./routes/notification');
+
+
 const app = express();
 
 // Middleware
@@ -49,10 +49,11 @@ app.use('/api', degreeRt);
 app.use('/api', chatbotRt);
 app.use('/api', search);
 app.use('/api/tests', testRoutes);
+app.use('/api', savedProgramsRoutes);
+app.use('/api', applicationsRoutes);
 app.use('/api', notificationRoutes);
 
 
-app.use('/api', cart);
 // Global error handler
 app.use((err, req, res, next) => {
   console.error(err.stack);

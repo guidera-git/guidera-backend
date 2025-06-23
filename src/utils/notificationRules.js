@@ -8,8 +8,8 @@ class NotificationRules {
       // Rule: Send welcome notification on application creation
       const welcomeNotification = {
         student_id: userId,
-        title: 'Application Started Successfully!',
-        message: `Congratulations! Your application to ${universityTitle} for ${programTitle} has been started. Complete all the required steps to finalize your application.`,
+        title: 'Application Started - Begin Document Gathering!',
+        message: `Welcome! Your application to ${universityTitle} for ${programTitle} has been started. First step: Start gathering all required documents like transcripts, certificates, and other necessary paperwork. Complete each stage to move forward with your application.`,
         type: 'welcome',
         related_id: applicationId.toString(),
         created_at: new Date()
@@ -39,49 +39,41 @@ class NotificationRules {
   }
 
   static async processPhaseChanged(eventData) {
-    const { applicationId, userId, phase, programTitle, universityTitle } = eventData;
+    const { applicationId, userId, phase, programTitle, universityTitle, progressPercentage } = eventData;
     
     try {
       let notificationData = null;
 
-      // Rule engine for different phases
+      // Rule engine for the new 4 phases
       switch (phase) {
-        case 'documents_uploaded':
+        case 'document_gathering':
           notificationData = {
-            title: 'Next Step: Prepare for Tests',
-            message: `Documents uploaded successfully for ${universityTitle}! Time to prepare for your admission tests.`,
+            title: 'Great Start! Next Step: Submit Application',
+            message: `Excellent! You've completed document gathering for ${programTitle} at ${universityTitle}. Now proceed to submit your application with all the documents you've prepared.`,
             type: 'milestone'
           };
           break;
         
-        case 'test_scheduled':
+        case 'application_submission':
           notificationData = {
-            title: 'Test Scheduled Successfully',
-            message: `Your admission test for ${programTitle} at ${universityTitle} has been scheduled. Check your important dates for details.`,
+            title: 'Application Submitted! Time for Fee Payment',
+            message: `Your application for ${programTitle} at ${universityTitle} has been successfully submitted! Next step: Pay the application fee. Check the deadline to ensure timely payment.`,
             type: 'milestone'
           };
           break;
         
-        case 'test_completed':
+        case 'application_fee_submission':
           notificationData = {
-            title: 'Test Completed! Next: Interview',
-            message: `Great job completing your test for ${universityTitle}! Now prepare for the interview phase.`,
+            title: 'Fee Paid! Prepare for Entry Test',
+            message: `Application fee payment completed for ${programTitle} at ${universityTitle}! Now prepare for your entry test and interview. Good luck with the final stage!`,
             type: 'milestone'
           };
           break;
         
-        case 'interview_scheduled':
+        case 'entry_test_and_result':
           notificationData = {
-            title: 'Interview Scheduled',
-            message: `Your interview for ${programTitle} at ${universityTitle} has been scheduled. Best of luck!`,
-            type: 'milestone'
-          };
-          break;
-        
-        case 'offer_received':
-          notificationData = {
-            title: '🎉 Admission Offer Received!',
-            message: `Congratulations! You've received an admission offer from ${universityTitle} for ${programTitle}. Time to make your decision!`,
+            title: '🎉 Congratulations! Application Process Complete!',
+            message: `Fantastic news! You have successfully completed all stages for your application to ${programTitle} at ${universityTitle}. Your admission journey is now complete. Whether you received an offer or not, you've shown great dedication. Best wishes for your future endeavors!`,
             type: 'milestone'
           };
           break;
@@ -117,38 +109,87 @@ class NotificationRules {
 
       const dates = importantDates[0];
       const deadlines = [
-        { date: dates.deadline_application_submission, type: 'application_deadline' },
-        { date: dates.deadline_admission_test_ecat, type: 'test_deadline' },
-        { date: dates.deadline_sat, type: 'sat_deadline' }
+        { date: dates.deadline_application_submission, type: 'Application Submission', phase: 'application_submission' },
+        { date: dates.deadline_application_fee, type: 'Application Fee Payment', phase: 'application_fee_submission' },
+        { date: dates.deadline_admission_test_ecat, type: 'Entry Test', phase: 'entry_test_and_result' }
       ].filter(d => d.date);
 
       for (const deadline of deadlines) {
-        // Schedule reminder notification 7 days before deadline
-        const reminderDate = new Date(deadline.date);
-        reminderDate.setDate(reminderDate.getDate() - 7);
-
-        if (reminderDate > new Date()) {
+        // Only create deadline notification if it's in the future
+        const deadlineDate = new Date(deadline.date);
+        const currentDate = new Date();
+        
+        if (deadlineDate > currentDate) {
           const insertQuery = `
             INSERT INTO notifications (
-              student_id, title, message, type, related_id, scheduled_for, created_at
-            ) VALUES ($1, $2, $3, $4, $5, $6, NOW())
+              student_id, title, message, type, related_id, created_at
+            ) VALUES ($1, $2, $3, $4, $5, NOW())
             RETURNING *
           `;
 
           await client.query(insertQuery, [
             userId,
-            'Deadline Reminder',
-            `Your ${deadline.type.replace('_', ' ')} is approaching in 7 days. Don't forget to complete all requirements!`,
+            `${deadline.type} Deadline`,
+            `Don't forget! Your ${deadline.type.toLowerCase()} deadline is approaching on ${deadlineDate.toLocaleDateString()}. Make sure to complete this step on time to keep your application on track.`,
             'deadline',
-            applicationId.toString(),
-            reminderDate
+            applicationId.toString()
           ]);
 
-          console.log(`Deadline reminder scheduled for application ${applicationId}`);
+          console.log(`Deadline notification created for ${deadline.type} - application ${applicationId}`);
         }
       }
     } catch (err) {
       console.error('Error scheduling deadline reminders:', err);
+    }
+  }
+
+  // ─── NEW METHOD: REMOVE SPECIFIC DEADLINE NOTIFICATIONS ─────────────────────
+  static async removeDeadlineNotifications(applicationId, userId, deadlineType) {
+    try {
+      const updateQuery = `
+        UPDATE notifications
+        SET is_read = true, read_at = NOW()
+        WHERE student_id = $1 
+          AND related_id = $2 
+          AND type = 'deadline'
+          AND title LIKE $3
+          AND is_read = false
+        RETURNING *
+      `;
+
+      const result = await client.query(updateQuery, [
+        userId, 
+        applicationId.toString(), 
+        `%${deadlineType}%`
+      ]);
+      
+      console.log(`Removed ${result.rowCount} deadline notifications for ${deadlineType} - application ${applicationId}`);
+      return result.rows;
+    } catch (err) {
+      console.error('Error removing deadline notifications:', err);
+    }
+  }
+
+  static async removeApplicationFeeDeadline(applicationId, userId) {
+    try {
+      // Mark application fee deadline notifications as read/completed
+      const updateQuery = `
+        UPDATE notifications
+        SET is_read = true, read_at = NOW()
+        WHERE student_id = $1 
+          AND related_id = $2 
+          AND type = 'deadline'
+          AND title LIKE '%Fee%'
+          AND is_read = false
+        RETURNING *
+      `;
+
+      const result = await client.query(updateQuery, [userId, applicationId.toString()]);
+      
+      console.log(`Removed ${result.rowCount} fee deadline notifications for application ${applicationId}`);
+      return result.rows;
+    } catch (err) {
+      console.error('Error removing application fee deadline:', err);
     }
   }
 }

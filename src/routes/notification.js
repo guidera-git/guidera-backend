@@ -208,7 +208,8 @@ router.get('/deadlines', auth, async (req, res) => {
         p.program_title,
         p.important_dates,
         a.created_at AS application_date,
-        a.status AS application_status
+        a.status AS application_status,
+        a.phases
       FROM applications a
       JOIN programs p ON a.program_id = p.id
       JOIN universities u ON a.university_id = u.id
@@ -220,37 +221,74 @@ router.get('/deadlines', auth, async (req, res) => {
     `;
 
     const result = await client.query(query, [student_id]);
-    const deadlines = result.rows
-      .map(row => {
-        const dates = row.important_dates[0];
-        const currentDate = new Date();
-        
-        // Find the next upcoming deadline
-        const possibleDeadlines = [
-          { date: dates.deadline_application_submission, type: 'Application Submission' },
-          { date: dates.deadline_admission_test_ecat, type: 'Admission Test' },
-          { date: dates.deadline_sat, type: 'SAT Test' }
-        ].filter(d => d.date && new Date(d.date) > currentDate);
+    const deadlines = [];
 
-        const nextDeadline = possibleDeadlines[0];
-        
-        if (nextDeadline) {
-          const daysUntil = Math.ceil((new Date(nextDeadline.date) - currentDate) / (1000 * 60 * 60 * 24));
-          
-          return {
-            application_id: row.application_id,
-            university: row.university_title,
-            program: row.program_title,
-            deadline: nextDeadline.date,
-            deadline_type: nextDeadline.type,
-            days_until: daysUntil,
-            is_urgent: daysUntil <= 7
-          };
+    for (const row of result.rows) {
+      const dates = row.important_dates[0];
+      const phases = row.phases;
+      const currentDate = new Date();
+      
+      // Check which phases are not completed and have deadlines
+      const phaseDeadlines = [];
+
+      // Application submission deadline - show only if not completed
+      const appSubmissionPhase = phases.find(p => p.phase === 'application_submission');
+      if (!appSubmissionPhase?.completed && dates.deadline_application_submission) {
+        const deadline = new Date(dates.deadline_application_submission);
+        if (deadline > currentDate) {
+          phaseDeadlines.push({
+            date: dates.deadline_application_submission,
+            type: 'Application Submission'
+          });
         }
-        return null;
-      })
-      .filter(Boolean)
-      .sort((a, b) => a.days_until - b.days_until);
+      }
+
+      // Application fee deadline - show only if not completed
+      const appFeePhase = phases.find(p => p.phase === 'application_fee_submission');
+      if (!appFeePhase?.completed && dates.deadline_application_fee) {
+        const deadline = new Date(dates.deadline_application_fee);
+        if (deadline > currentDate) {
+          phaseDeadlines.push({
+            date: dates.deadline_application_fee,
+            type: 'Application Fee Payment'
+          });
+        }
+      }
+
+      // Entry test deadline - show only if not completed
+      const entryTestPhase = phases.find(p => p.phase === 'entry_test_and_result');
+      if (!entryTestPhase?.completed && dates.deadline_admission_test_ecat) {
+        const deadline = new Date(dates.deadline_admission_test_ecat);
+        if (deadline > currentDate) {
+          phaseDeadlines.push({
+            date: dates.deadline_admission_test_ecat,
+            type: 'Entry Test'
+          });
+        }
+      }
+
+      // Add each deadline to the results
+      for (const deadline of phaseDeadlines) {
+        const daysUntil = Math.ceil((new Date(deadline.date) - currentDate) / (1000 * 60 * 60 * 24));
+        
+        deadlines.push({
+          application_id: row.application_id,
+          university: row.university_title,
+          program: row.program_title,
+          deadline: deadline.date,
+          deadline_type: deadline.type,
+          days_until: daysUntil,
+          is_urgent: daysUntil <= 7
+        });
+      }
+    }
+
+    // Sort by urgency and days until
+    deadlines.sort((a, b) => {
+      if (a.is_urgent && !b.is_urgent) return -1;
+      if (!a.is_urgent && b.is_urgent) return 1;
+      return a.days_until - b.days_until;
+    });
 
     return res.json(deadlines);
   } catch (err) {

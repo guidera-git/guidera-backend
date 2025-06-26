@@ -31,23 +31,14 @@
         ],
         "important_dates": [
           {
-<<<<<<< HEAD
-            "deadline_application_submission": "June 23, 2025",
-            "deadline_pay_application_fee": "Juen 25, 2025",
-=======
             "deadline_application_submission": "Jan 3, 2025",
             "deadline_pay_application_fee": "Jan 15, 2025",
->>>>>>> 2095fbc5b1b75d65f1acef24a57c80acca570e41
             "deadline_finencial_aid_application": null,
             "daedline_ACT": null,
             "daedline_SAT": null,
             "deadline_admission_test_ECAT": null,
             "admission_decision": null,
-<<<<<<< HEAD
-            "commencement_of_classes": "June 27, 2025"
-=======
             "commencement_of_classes": "Jan 27, 2025"
->>>>>>> 2095fbc5b1b75d65f1acef24a57c80acca570e41
           }
         ],
         "merit": null,

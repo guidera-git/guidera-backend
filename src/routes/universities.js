@@ -237,31 +237,28 @@ router.get('/programs/filter', auth, async (req, res) => {
     }
 
     // Filter by calculated total fee range
-    if (min_total_fee || max_total_fee) {
-      if (min_total_fee && max_total_fee) {
-        conditions.push(`
-          p.calculated_total_fee IS NOT NULL 
-          AND CAST(REGEXP_REPLACE(p.calculated_total_fee, '[^0-9]', '', 'g') AS INTEGER) 
-          BETWEEN $${idx} AND $${idx+1}
-        `);
-        values.push(parseInt(min_total_fee, 10), parseInt(max_total_fee, 10));
-        idx += 2;
-      } else if (min_total_fee) {
-        conditions.push(`
-          p.calculated_total_fee IS NOT NULL 
-          AND CAST(REGEXP_REPLACE(p.calculated_total_fee, '[^0-9]', '', 'g') AS INTEGER) >= $${idx}
-        `);
-        values.push(parseInt(min_total_fee, 10));
-        idx++;
-      } else if (max_total_fee) {
-        conditions.push(`
-          p.calculated_total_fee IS NOT NULL 
-          AND CAST(REGEXP_REPLACE(p.calculated_total_fee, '[^0-9]', '', 'g') AS INTEGER) <= $${idx}
-        `);
-        values.push(parseInt(max_total_fee, 10));
-        idx++;
-      }
-    }
+if (min_total_fee || max_total_fee) {
+  // First check if the calculated_total_fee contains at least one digit
+  const feeCondition = `
+    p.calculated_total_fee IS NOT NULL 
+    AND p.calculated_total_fee ~ '[0-9]'
+    AND CAST(NULLIF(REGEXP_REPLACE(p.calculated_total_fee, '[^0-9]', '', 'g'), '') AS INTEGER)
+  `;
+
+  if (min_total_fee && max_total_fee) {
+    conditions.push(`${feeCondition} BETWEEN $${idx} AND $${idx+1}`);
+    values.push(parseInt(min_total_fee, 10), parseInt(max_total_fee, 10));
+    idx += 2;
+  } else if (min_total_fee) {
+    conditions.push(`${feeCondition} >= $${idx}`);
+    values.push(parseInt(min_total_fee, 10));
+    idx++;
+  } else if (max_total_fee) {
+    conditions.push(`${feeCondition} <= $${idx}`);
+    values.push(parseInt(max_total_fee, 10));
+    idx++;
+  }
+}
 
     const whereClause = conditions.length ? `WHERE ${conditions.join(' AND ')}` : '';
 

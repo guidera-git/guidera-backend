@@ -6,6 +6,8 @@ const bcrypt                = require('bcrypt');
 const jwt                   = require('jsonwebtoken');
 const pool                  = require('../db');
 const admin = require("../firebase/firebaseAdmin");
+const rateLimit = require("express-rate-limit");
+
 // Initialize Firebase Admin only once
 if (!admin.apps.length) {
   const serviceAccount = require("../../firebase/serviceAccountKey.json"); // make sure this file exists
@@ -205,5 +207,4 @@ router.post("/google", async (req, res) => {
     res.status(401).json({ error: "Invalid ID token" });
   }
 });
-
 module.exports = router;

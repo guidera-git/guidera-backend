@@ -36,7 +36,8 @@ app.use(
 // Body-parser
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
-
+const testScoreRoutes = require('./routes/test_score');
+app.use('/api', testScoreRoutes);
 // Public auth routes
 app.use('/api/auth', loginSignupRt);
 

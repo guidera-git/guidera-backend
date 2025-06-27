@@ -12,9 +12,9 @@ const formatErrors = errs =>
 
 // Constants for question distribution
 const DIFFICULTY_DISTRIBUTION = {
-  Easy: 2,
-  Medium: 2,
-  Hard: 1,
+  Easy: 3,
+  Medium: 5,
+  Hard: 2,
 };
 
 // GET /api/tests/:subject

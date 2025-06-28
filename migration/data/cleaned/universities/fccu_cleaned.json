@@ -11,7 +11,7 @@
       "youtube": "https://www.youtube.com/channel/UCdfF8WCBUgLiwNohkXv2vlg",
       "linkedin": "https://www.linkedin.com/school/forman-christian-college/"
     },
-    "qs_ranking": "Not Available",
+    "qs_ranking": "951",
     "contact_details": {
       "info_email": "contact@fccollege.edu.pk",
       "call": "(92 42) 99231581-8"
@@ -22,61 +22,113 @@
         "program_title": "BS Computer Science",
         "program_description": "The BS Computer Science degree program at FCCU is duly accredited by NCEAC (National Computing Education Accreditation Council) of HEC and is complemented by the University's liberal arts education system. The program provides a solid understanding of the theory and techniques of Computer Science so that upon graduation the students can enter various industries or pursue graduate studies. Our courses are a mix from various areas that reflect the excitement and joy of computing, e.g. mathematics, electronics, algorithms, programming, theoretical computer science, artificial intelligence, application development, software engineering, networks, operating systems, databases, computer vision, human-computer interaction and more.",
         "program_duration": "4 years",
-        "credit_hours": "Not Available",
+        "credit_hours": "130",
         "fee": [
           {
-            "per_credit_hour_fee": "Not Available",
-            "total_tution_fee": "337,000 PKR per semester"
+            "per_credit_hour_fee": "25,923 PKR",
+            "total_tution_fee": "3,370,000 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
-            "daedline_ACT": null,
-            "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_application_submission": "July 15, 2025",
+            "deadline_pay_application_fee": "July 20, 2025",
+            "deadline_finencial_aid_application": "August 15, 2025",
+            "daedline_ACT": "August 10, 2025",
+            "daedline_SAT": "August 10, 2025",
+            "deadline_admission_test_ECAT": "August 5, 2025",
+            "admission_decision": "August 25, 2025",
+            "commencement_of_classes": "September 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "85%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "Students who have passed their Intermediate"
+            "criteria": "Students who have passed their Intermediate with at least 60% marks"
           },
           {
             "s.no": 2,
-            "criteria": "A- Level students who have cleared at least 3 principal A-Level exams (not AS Level)"
+            "criteria": "A-Level students who have cleared at least 3 principal A-Level exams (not AS Level) with minimum B grades"
           },
           {
             "s.no": 3,
-            "criteria": "A- Level students who have given their A levels exams in October, November and are awaiting"
+            "criteria": "A-Level students who have given their A levels exams in October, November and are awaiting results"
           },
           {
             "s.no": 4,
-            "criteria": "Students who have done their American High School. Equivalence needed attested from the"
+            "criteria": "Students who have done their American High School with minimum 70% marks. Equivalence needed attested from IBCC"
           },
           {
             "s.no": 5,
-            "criteria": "Students who have done their Intermediate from the Technical Board"
+            "criteria": "Students who have done their Intermediate from the Technical Board with minimum 60% marks"
           },
           {
             "s.no": 6,
-            "criteria": "Students applying for BS (Hons) Biotechnology must have done FSc Pre-Medical or should have"
+            "criteria": "Mathematics is mandatory for Computer Science program"
           }
         ],
         "merit_formula": [
           {
-            "Matric": "Not Available",
-            "F.Sc./A-level/relevant DAE": "Not Available",
-            "Entry Test": "Not Available"
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "25%"
           }
         ],
         "course_outline": "https://www.fccollege.edu.pk/baccalaureate-in-computer-sciences/"
+      },
+      "software_engineering": {
+        "program_title": "BS Software Engineering",
+        "program_description": "The BS Software Engineering program at FCCU is designed to produce skilled software engineers who can design, develop, and maintain complex software systems. The program combines theoretical foundations with practical experience, preparing students for careers in software development, project management, and technology leadership.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "25,923 PKR",
+            "total_tution_fee": "3,447,759 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "July 15, 2025",
+            "deadline_pay_application_fee": "July 20, 2025",
+            "deadline_finencial_aid_application": "August 15, 2025",
+            "daedline_ACT": "August 10, 2025",
+            "daedline_SAT": "August 10, 2025",
+            "deadline_admission_test_ECAT": "August 5, 2025",
+            "admission_decision": "August 25, 2025",
+            "commencement_of_classes": "September 15, 2025"
+          }
+        ],
+        "merit": "82%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Students who have passed their Intermediate with at least 60% marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "A-Level students who have cleared at least 3 principal A-Level exams with minimum B grades"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Mathematics is mandatory for Software Engineering program"
+          },
+          {
+            "s.no": 4,
+            "criteria": "FCCU Entry Test is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "25%"
+          }
+        ],
+        "course_outline": "https://www.fccollege.edu.pk/baccalaureate-in-software-engineering/"
       }
     },
     "campuses": null

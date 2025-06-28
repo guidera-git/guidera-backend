@@ -1,3 +1,7 @@
 {
-  "recommendations": ["denoland.vscode-deno"]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }

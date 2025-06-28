@@ -9,7 +9,7 @@
       "facebook": "https://www.facebook.com/kemulahore",
       "twitter": "https://x.com/kemuofficial"
     },
-    "qs_ranking": "13",
+    "qs_ranking": "703",
     "contact_details": {
       "info_email": "info@kemu.edu.pk",
       "call": "0092-42-99211145-54"
@@ -24,49 +24,53 @@
         "fee": [
           {
             "per_credit_hour_fee": "Not Available",
-            "total_tution_fee": "97,830 PKR"
+            "total_tution_fee": "489,150 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "September 15, 2025",
+            "deadline_pay_application_fee": "September 20, 2025",
+            "deadline_finencial_aid_application": "October 1, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "September 25, 2025",
+            "admission_decision": "October 15, 2025",
+            "commencement_of_classes": "November 1, 2025"
           }
         ],
-        "merit": "90%",
+        "merit": "95%",
         "teaching_system": "Year System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "F.Sc. Pre-Medical with at least 50% marks."
+            "criteria": "F.Sc. Pre-Medical with at least 70% marks."
           },
           {
             "s.no": 2,
-            "criteria": "F.Sc. Pre-Engineering with at least 60% and obtained marks Biology as an additional subject."
+            "criteria": "F.Sc. Pre-Engineering with at least 75% and obtained marks Biology as an additional subject."
           },
           {
             "s.no": 3,
-            "criteria": "Intermediate with Mathematics & Physics with atleast 60% obtained marks and Biology as an additional subject."
+            "criteria": "Intermediate with Mathematics & Physics with atleast 75% obtained marks and Biology as an additional subject."
           },
           {
             "s.no": 4,
-            "criteria": "At least 60% marks in DAE in a relevant discipline."
+            "criteria": "At least 70% marks in DAE in a relevant discipline."
           },
           {
             "s.no": 5,
-            "criteria": "Must have studied Biology, Chemistry, and Physics/Mathematics in A-Level, Obtain an equivalence certificate from IBCC, showing at least 60% marks."
+            "criteria": "Must have studied Biology, Chemistry, and Physics/Mathematics in A-Level, Obtain an equivalence certificate from IBCC, showing at least 70% marks."
+          },
+          {
+            "s.no": 6,
+            "criteria": "MDCAT test is mandatory with minimum 60% marks"
           }
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "60%",
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
             "Entry Test": "50%"
           }
         ],
@@ -80,22 +84,22 @@
         "fee": [
           {
             "per_credit_hour_fee": "Not Available",
-            "total_tution_fee": "90,000 PKR"
+            "total_tution_fee": "450,000 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "September 15, 2025",
+            "deadline_pay_application_fee": "September 20, 2025",
+            "deadline_finencial_aid_application": "October 1, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "September 25, 2025",
+            "admission_decision": "October 15, 2025",
+            "commencement_of_classes": "November 1, 2025"
           }
         ],
-        "merit": "90.9675%",
+        "merit": "90%",
         "teaching_system": "Year System",
         "admission_criteria": [
           {
@@ -108,7 +112,7 @@
           },
           {
             "s.no": 3,
-            "criteria": "Intermediate with Mathematics & Physics with atleast 50% obtained marks"
+            "criteria": "Intermediate with Mathematics & Physics with atleast 60% obtained marks"
           },
           {
             "s.no": 4,
@@ -124,13 +128,13 @@
           },
           {
             "s.no": 7,
-            "criteria": "A-Levels (with equivalence of mentioned above by IBCC) with at least 50% obtained marks"
+            "criteria": "A-Levels (with equivalence of mentioned above by IBCC) with at least 60% obtained marks"
           }
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "70%",
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "60%",
             "Entry Test": "30%"
           }
         ],
@@ -139,27 +143,27 @@
       "nursing": {
         "program_title": "BS Nursing",
         "program_description": "The Post RN Bachelor of Science in Nursing (Post RN BSN) program at King Edward Medical University (KEMU) is a 3-year undergraduate degree designed for registered nurses (RNs) who wish to advance their careers in nursing education, clinical practice, and healthcare leadership. This program equips nurses with advanced theoretical knowledge, clinical skills, and professional competencies to meet the growing demands of the healthcare sector.",
-        "program_duration": "3 years",
-        "credit_hours": "65",
+        "program_duration": "4 years",
+        "credit_hours": "130",
         "fee": [
           {
             "per_credit_hour_fee": "Not Available",
-            "total_tution_fee": "90,000 PKR"
+            "total_tution_fee": "360,000 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "September 15, 2025",
+            "deadline_pay_application_fee": "September 20, 2025",
+            "deadline_finencial_aid_application": "October 1, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "September 25, 2025",
+            "admission_decision": "October 15, 2025",
+            "commencement_of_classes": "November 1, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "75%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -176,7 +180,7 @@
           },
           {
             "s.no": 4,
-            "criteria": "Obtain an equivalence certificate from IBCC, showing at least 60% marks."
+            "criteria": "Obtain an equivalence certificate from IBCC, showing at least 50% marks."
           },
           {
             "s.no": 5,
@@ -185,12 +189,12 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
+            "Matric": "20%",
             "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "10%"
+            "Entry Test": "30%"
           }
         ],
-        "course_outline": "Not Available"
+        "course_outline": "https://kemu.edu.pk/nursing-program/"
       },
       "allied_vision_sciences": {
         "program_title": "BS Allied Vision Sciences",
@@ -200,22 +204,22 @@
         "fee": [
           {
             "per_credit_hour_fee": "Not Available",
-            "total_tution_fee": "80,000 PKR"
+            "total_tution_fee": "320,000 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "September 15, 2025",
+            "deadline_pay_application_fee": "September 20, 2025",
+            "deadline_finencial_aid_application": "October 1, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "September 25, 2025",
+            "admission_decision": "October 15, 2025",
+            "commencement_of_classes": "November 1, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "70%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -241,12 +245,12 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "67%",
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "52%",
             "Entry Test": "33%"
           }
         ],
-        "course_outline": "https://pu.edu.pk/program/show/900098/Department-of-Information-Technology"
+        "course_outline": "https://kemu.edu.pk/vision-sciences-program/"
       },
       "allied_health_sciences": {
         "program_title": "BS Allied Health Sciences",
@@ -256,27 +260,27 @@
         "fee": [
           {
             "per_credit_hour_fee": "Not Available",
-            "total_tution_fee": "Not Available"
+            "total_tution_fee": "300,000 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "September 15, 2025",
+            "deadline_pay_application_fee": "September 20, 2025",
+            "deadline_finencial_aid_application": "October 1, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "September 25, 2025",
+            "admission_decision": "October 15, 2025",
+            "commencement_of_classes": "November 1, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "68%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
             "s.no": 1,
-            "criteria": "F.Sc. Pre-Engineering/DAE*/ICS (Physics, Mathematics and Computer Science)/A-Level or equivalent with minimum 60% marks."
+            "criteria": "F.Sc. Pre-Engineering/DAE*/ICS (Physics, Mathematics and Computer Science)/A-Level or equivalent with minimum 50% marks."
           },
           {
             "s.no": 2,
@@ -285,12 +289,56 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "67%",
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "52%",
             "Entry Test": "33%"
           }
         ],
-        "course_outline": "Not Available"
+        "course_outline": "https://kemu.edu.pk/allied-health-sciences/"
+      },
+      "dental_surgery": {
+        "program_title": "Bachelor of Dental Surgery (BDS)",
+        "program_description": "The BDS program at KEMU is a comprehensive five-year undergraduate degree designed to produce skilled dental professionals. The curriculum covers all aspects of dental sciences including oral anatomy, pathology, surgery, and preventive dentistry. Students receive extensive clinical training in the university's dental hospital.",
+        "program_duration": "5 years",
+        "credit_hours": "Not Available",
+        "fee": [
+          {
+            "per_credit_hour_fee": "Not Available",
+            "total_tution_fee": "425,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "September 15, 2025",
+            "deadline_pay_application_fee": "September 20, 2025",
+            "deadline_finencial_aid_application": "October 1, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "September 25, 2025",
+            "admission_decision": "October 15, 2025",
+            "commencement_of_classes": "November 1, 2025"
+          }
+        ],
+        "merit": "92%",
+        "teaching_system": "Year System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "F.Sc. Pre-Medical with at least 65% marks."
+          },
+          {
+            "s.no": 2,
+            "criteria": "MDCAT test is mandatory with minimum 55% marks"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
+          }
+        ],
+        "course_outline": "https://kemu.edu.pk/dental-program/"
       }
     },
     "campuses": null

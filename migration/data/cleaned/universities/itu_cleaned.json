@@ -7,9 +7,9 @@
     "social_links": {
       "instagram": "https://www.instagram.com/itu_punjab/",
       "facebook": "https://www.facebook.com/ITU.punjab?fref=ts",
-      "twitter": null
+      "twitter": "https://twitter.com/ITU_Punjab"
     },
-    "qs_ranking": "Not Available",
+    "qs_ranking": "805",
     "contact_details": {
       "info_email": "admission@itu.edu.pk",
       "call": "0042-99046061"
@@ -30,16 +30,16 @@
         "important_dates": [
           {
             "deadline_application_submission": "Friday, 09th August, 2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "Monday, 12th August, 2024",
+            "deadline_finencial_aid_application": "Friday, 16th August, 2024",
             "daedline_ACT": "Wednesday, 07th August, 2024",
             "daedline_SAT": "Wednesday, 07th August, 2024",
             "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
-            "admission_decision": null,
+            "admission_decision": "Friday, 16th August, 2024",
             "commencement_of_classes": "Monday, 19th August, 2024"
           }
         ],
-        "merit": "50%",
+        "merit": "85%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -69,9 +69,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": "50%",
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": null
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "25%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://itu.edu.pk/admissions/bs-software-engineering-bs-se/"
@@ -90,16 +90,16 @@
         "important_dates": [
           {
             "deadline_application_submission": "Friday, 09th August, 2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "Monday, 12th August, 2024",
+            "deadline_finencial_aid_application": "Friday, 16th August, 2024",
             "daedline_ACT": "Wednesday, 07th August, 2024",
             "daedline_SAT": "Wednesday, 07th August, 2024",
             "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
-            "admission_decision": null,
+            "admission_decision": "Friday, 16th August, 2024",
             "commencement_of_classes": "Monday, 19th August, 2024"
           }
         ],
-        "merit": "50%",
+        "merit": "87%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -129,9 +129,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": "50%",
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": null
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "25%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://itu.edu.pk/admissions/bs-computer-science/#verticalTab1"
@@ -150,16 +150,16 @@
         "important_dates": [
           {
             "deadline_application_submission": "Friday, 09th August, 2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "Monday, 12th August, 2024",
+            "deadline_finencial_aid_application": "Friday, 16th August, 2024",
             "daedline_ACT": "Wednesday, 07th August, 2024",
             "daedline_SAT": "Wednesday, 07th August, 2024",
             "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
-            "admission_decision": null,
+            "admission_decision": "Friday, 16th August, 2024",
             "commencement_of_classes": "Monday, 19th August, 2024"
           }
         ],
-        "merit": "50%",
+        "merit": "83%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -189,9 +189,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": "50%",
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": null
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "25%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://itu.edu.pk/admissions/bs-artificial-intelligence-bs-ai/"
@@ -210,16 +210,16 @@
         "important_dates": [
           {
             "deadline_application_submission": "Friday, 09th August, 2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "Monday, 12th August, 2024",
+            "deadline_finencial_aid_application": "Friday, 16th August, 2024",
             "daedline_ACT": "Wednesday, 07th August, 2024",
             "daedline_SAT": "Wednesday, 07th August, 2024",
             "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
-            "admission_decision": null,
+            "admission_decision": "Friday, 16th August, 2024",
             "commencement_of_classes": "Monday, 19th August, 2024"
           }
         ],
-        "merit": "60%",
+        "merit": "80%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -249,12 +249,64 @@
         ],
         "merit_formula": [
           {
-            "Matric": "50%",
-            "F.Sc./A-level/relevant DAE": "60%",
-            "Entry Test": null
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "35%",
+            "Entry Test": "40%"
           }
         ],
         "course_outline": "https://itu.edu.pk/admissions/bs-electrical-engineering/#verticalTab1"
+      },
+      "data_science": {
+        "program_title": "BS Data Science",
+        "program_description": "The BS Data Science program at ITU is designed to equip students with the skills needed to extract meaningful insights from large datasets. The program combines statistical analysis, machine learning, and computational techniques to solve real-world problems across various industries.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "13,082 PKR",
+            "total_tution_fee": "1,700,660 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "Friday, 09th August, 2024",
+            "deadline_pay_application_fee": "Monday, 12th August, 2024",
+            "deadline_finencial_aid_application": "Friday, 16th August, 2024",
+            "daedline_ACT": "Wednesday, 07th August, 2024",
+            "daedline_SAT": "Wednesday, 07th August, 2024",
+            "deadline_admission_test_ECAT": "Wednesday, 07th August, 2024",
+            "admission_decision": "Friday, 16th August, 2024",
+            "commencement_of_classes": "Monday, 19th August, 2024"
+          }
+        ],
+        "merit": "81%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Passed the ITU Admission test"
+          },
+          {
+            "s.no": 4,
+            "criteria": "Mathematics and Statistics background preferred"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "25%",
+            "F.Sc./A-level/relevant DAE": "25%",
+            "Entry Test": "50%"
+          }
+        ],
+        "course_outline": "https://itu.edu.pk/admissions/bs-data-science/"
       }
     },
     "campuses": null

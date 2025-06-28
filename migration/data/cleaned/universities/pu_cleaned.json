@@ -9,7 +9,7 @@
       "facebook": "https://www.facebook.com/UniversityOfThePunjab.Official",
       "twitter": "https://twitter.com/PU_OfficialPK"
     },
-    "qs_ranking": "3",
+    "qs_ranking": "542",
     "contact_details": {
       "info_email": "infocell@pu.edu.pk",
       "call": "0092-42-99230259"
@@ -29,14 +29,14 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 20, 2025",
+            "deadline_pay_application_fee": "August 25, 2025",
+            "deadline_finencial_aid_application": "September 5, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "September 1, 2025",
+            "admission_decision": "September 15, 2025",
+            "commencement_of_classes": "October 1, 2025"
           }
         ],
         "merit": "89.23%",
@@ -81,8 +81,8 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "67%",
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "52%",
             "Entry Test": "33%"
           }
         ],
@@ -101,14 +101,14 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 20, 2025",
+            "deadline_pay_application_fee": "August 25, 2025",
+            "deadline_finencial_aid_application": "September 5, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "September 1, 2025",
+            "admission_decision": "September 15, 2025",
+            "commencement_of_classes": "October 1, 2025"
           }
         ],
         "merit": "90.13%",
@@ -153,8 +153,8 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "67%",
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "52%",
             "Entry Test": "33%"
           }
         ],
@@ -173,14 +173,14 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 20, 2025",
+            "deadline_pay_application_fee": "August 25, 2025",
+            "deadline_finencial_aid_application": "September 5, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "September 1, 2025",
+            "admission_decision": "September 15, 2025",
+            "commencement_of_classes": "October 1, 2025"
           }
         ],
         "merit": "88.72%",
@@ -230,7 +230,7 @@
             "Entry Test": "25%"
           }
         ],
-        "course_outline": "will be updated soon"
+        "course_outline": "https://pu.edu.pk/data-science-program/"
       },
       "information_technology": {
         "program_title": "BS Information Technology",
@@ -245,14 +245,14 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 20, 2025",
+            "deadline_pay_application_fee": "August 25, 2025",
+            "deadline_finencial_aid_application": "September 5, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "September 1, 2025",
+            "admission_decision": "September 15, 2025",
+            "commencement_of_classes": "October 1, 2025"
           }
         ],
         "merit": "88.46%",
@@ -297,8 +297,8 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "67%",
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "52%",
             "Entry Test": "33%"
           }
         ],
@@ -311,23 +311,23 @@
         "credit_hours": "139",
         "fee": [
           {
-            "per_credit_hour_fee": "Not Available",
-            "total_tution_fee": "Not Available"
+            "per_credit_hour_fee": "5,755 PKR",
+            "total_tution_fee": "799,945 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 20, 2025",
+            "deadline_pay_application_fee": "August 25, 2025",
+            "deadline_finencial_aid_application": "September 5, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "September 1, 2025",
+            "admission_decision": "September 15, 2025",
+            "commencement_of_classes": "October 1, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "85%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -341,8 +341,8 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "67%",
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "52%",
             "Entry Test": "33%"
           }
         ],

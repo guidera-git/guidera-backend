@@ -11,7 +11,7 @@
       "youtube": "https://www.youtube.com/c/UniversityofEducation",
       "linkedin": "https://www.linkedin.com/school/ue-edu-pk/"
     },
-    "qs_ranking": "23",
+    "qs_ranking": "800",
     "contact_details": {
       "email": "registrar@ue.edu.pk",
       "phone": "092-42-99262227-8"
@@ -22,10 +22,10 @@
         "program_title": "BS Computer Science",
         "program_description": "Provide a broad and in depth latest knowledge of concepts, theory, techniques through intensive education/training in varying domains within the field of computer science as well as supporting areas of science, mathematics and management. To impart problem solving and analytical thinking capabilities to propose and develop solution with practical applications in the industry and research.",
         "program_duration": "4 years",
-        "credit_hours": "130-140",
+        "credit_hours": "130",
         "fee": [
           {
-            "per_credit_hour_fee": "N/A",
+            "per_credit_hour_fee": "1,415 PKR",
             "total_tution_fee": "183,940 PKR"
           }
         ],
@@ -33,15 +33,15 @@
           {
             "deadline_application_submission": "Jan 3, 2025",
             "deadline_pay_application_fee": "Jan 15, 2025",
-            "deadline_finencial_aid_application": null,
+            "deadline_finencial_aid_application": "Jan 20, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
+            "deadline_admission_test_ECAT": "Jan 25, 2025",
+            "admission_decision": "Jan 26, 2025",
             "commencement_of_classes": "Jan 27, 2025"
           }
         ],
-        "merit": null,
+        "merit": "75%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -67,8 +67,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": "30",
-            "F.Sc./A-level/relevant DAE": "70"
+            "Matric": "30%",
+            "F.Sc./A-level/relevant DAE": "70%",
+            "Entry Test": "Not Available"
           }
         ],
         "course_outline": "https://ue.edu.pk/programs.php?id=163"
@@ -77,10 +78,10 @@
         "program_title": "BS Information Technology",
         "program_description": "To prepare students to learn concrete ideas of IT, to analyze problems and to develop problem-solving projects. To encourage students to become independent learners. To encourage students to help other disciplines as engineering, physics, economics, finance using IT.",
         "program_duration": "4 years",
-        "credit_hours": "130-140",
+        "credit_hours": "130",
         "fee": [
           {
-            "per_credit_hour_fee": "N/A",
+            "per_credit_hour_fee": "1,415 PKR",
             "total_tution_fee": "183,940 PKR"
           }
         ],
@@ -88,15 +89,15 @@
           {
             "deadline_application_submission": "Jan 3, 2025",
             "deadline_pay_application_fee": "Jan 15, 2025",
-            "deadline_finencial_aid_application": null,
+            "deadline_finencial_aid_application": "Jan 20, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
+            "deadline_admission_test_ECAT": "Jan 25, 2025",
+            "admission_decision": "Jan 26, 2025",
             "commencement_of_classes": "Jan 27, 2025"
           }
         ],
-        "merit": null,
+        "merit": "72%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -122,11 +123,60 @@
         ],
         "merit_formula": [
           {
-            "Matric": "30",
-            "F.Sc./A-level/relevant DAE": "70"
+            "Matric": "30%",
+            "F.Sc./A-level/relevant DAE": "70%",
+            "Entry Test": "Not Available"
           }
         ],
         "course_outline": "https://ue.edu.pk/programs.php?id=78"
+      },
+      "software_engineering": {
+        "program_title": "BS Software Engineering",
+        "program_description": "The BS Software Engineering program at UOE focuses on systematic approaches to software development, including requirements analysis, design, implementation, testing, and maintenance of software systems.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "1,383 PKR",
+            "total_tution_fee": "183,939 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "Jan 3, 2025",
+            "deadline_pay_application_fee": "Jan 15, 2025",
+            "deadline_finencial_aid_application": "Jan 20, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "Jan 25, 2025",
+            "admission_decision": "Jan 26, 2025",
+            "commencement_of_classes": "Jan 27, 2025"
+          }
+        ],
+        "merit": "70%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Minimum 50% marks in Intermediate with Mathematics"
+          },
+          {
+            "s.no": 2,
+            "criteria": "ICS or F.Sc Pre-Engineering preferred"
+          },
+          {
+            "s.no": 3,
+            "criteria": "UOE Entry Test may be required"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "30%",
+            "F.Sc./A-level/relevant DAE": "70%",
+            "Entry Test": "Not Available"
+          }
+        ],
+        "course_outline": "https://ue.edu.pk/software-engineering-program/"
       }
     },
     "campuses": {

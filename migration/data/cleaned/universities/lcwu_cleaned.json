@@ -7,9 +7,9 @@
     "social_links": {
       "youtube": "https://www.youtube.com/channel/UC6nOyKC6gx_IaXUYHZsnqyw",
       "facebook": "https://web.facebook.com/lcwu.official",
-      "instagram": null
+      "instagram": "https://www.instagram.com/lcwu_official/"
     },
-    "qs_ranking": "Not Available",
+    "qs_ranking": "1002",
     "contact_details": {
       "info_email": "registrar@lcwu.edu.pk",
       "call": "+92-42-99203801-9"
@@ -23,23 +23,23 @@
         "credit_hours": "130",
         "fee": [
           {
-            "per_credit_hour_fee": "Not Available",
+            "per_credit_hour_fee": "2,385 PKR",
             "total_tution_fee": "310,000 PKR"
           }
         ],
         "important_dates": [
           {
             "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "SEP 25,2024",
+            "deadline_finencial_aid_application": "OCT 1,2024",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
+            "deadline_admission_test_ECAT": "SEP 30,2024",
             "admission_decision": "OCT 4,2024",
             "commencement_of_classes": "OCT 28 2024"
           }
         ],
-        "merit": "Not Available",
+        "merit": "78%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -57,9 +57,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": "Not Available",
-            "F.Sc./A-level/relevant DAE": "Not Available",
-            "Entry Test": "Not Available"
+            "Matric": "30%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "20%"
           }
         ],
         "course_outline": "https://www.lcwu.edu.pk/se-scheme-studies.html"
@@ -71,23 +71,23 @@
         "credit_hours": "133",
         "fee": [
           {
-            "per_credit_hour_fee": "Not Available",
+            "per_credit_hour_fee": "2,406 PKR",
             "total_tution_fee": "320,000 PKR"
           }
         ],
         "important_dates": [
           {
             "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "SEP 25,2024",
+            "deadline_finencial_aid_application": "OCT 1,2024",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
+            "deadline_admission_test_ECAT": "SEP 30,2024",
             "admission_decision": "OCT 4,2024",
             "commencement_of_classes": "OCT 28 2024"
           }
         ],
-        "merit": "50%",
+        "merit": "80%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -105,9 +105,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": "Not Available",
-            "F.Sc./A-level/relevant DAE": "Not Available",
-            "Entry Test": "Not Available"
+            "Matric": "30%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "20%"
           }
         ],
         "course_outline": "https://www.lcwu.edu.pk/cs-scheme-of-studies.html"
@@ -119,23 +119,23 @@
         "credit_hours": "135",
         "fee": [
           {
-            "per_credit_hour_fee": "Not Available",
+            "per_credit_hour_fee": "2,370 PKR",
             "total_tution_fee": "320,000 PKR"
           }
         ],
         "important_dates": [
           {
             "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "SEP 25,2024",
+            "deadline_finencial_aid_application": "OCT 1,2024",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
+            "deadline_admission_test_ECAT": "SEP 30,2024",
             "admission_decision": "OCT 4,2024",
             "commencement_of_classes": "OCT 28 2024"
           }
         ],
-        "merit": "Not Available",
+        "merit": "75%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -164,26 +164,26 @@
         "program_title": "Doctor of Pharmacy (Pharm.D)",
         "program_description": "The Department of Pharmacy was established in 2002 when the first batch was admitted in Pharm — D with the aim of providing a free access of education to female students desirous of acquiring knowledge of Pharmacy in a friendly environment. The globally recognized profession of Pharmacy is an essential and integral part of a National Health Care system of any country.",
         "program_duration": "5 years",
-        "credit_hours": "Not Available",
+        "credit_hours": "198",
         "fee": [
           {
-            "per_credit_hour_fee": "Not Available",
+            "per_credit_hour_fee": "2,149 PKR",
             "total_tution_fee": "425,520 PKR"
           }
         ],
         "important_dates": [
           {
             "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "SEP 25,2024",
+            "deadline_finencial_aid_application": "OCT 1,2024",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
+            "deadline_admission_test_ECAT": "SEP 30,2024",
             "admission_decision": "OCT 4,2024",
             "commencement_of_classes": "OCT 28 2024"
           }
         ],
-        "merit": "Not Available",
+        "merit": "85%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -197,9 +197,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": "Not Available",
-            "F.Sc./A-level/relevant DAE": "Not Available",
-            "Entry Test": "Not Available"
+            "Matric": "20%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "30%"
           }
         ],
         "course_outline": "https://lcwu.edu.pk/pharmacy-overview.html"
@@ -208,26 +208,26 @@
         "program_title": "Doctor of Physical Therapy (DPT)",
         "program_description": "Lahore College for Women is providing quality education to produce qualified female engineers who can address the modern challenges and excel at national and international level. The department has successfully obtained accreditation from Pakistan Engineering Council (PEC) from first batch starting in 2004-2008 till 2018-2022.",
         "program_duration": "5 years",
-        "credit_hours": "Not Available",
+        "credit_hours": "170",
         "fee": [
           {
-            "per_credit_hour_fee": "Not Available",
+            "per_credit_hour_fee": "2,503 PKR",
             "total_tution_fee": "425,520 PKR"
           }
         ],
         "important_dates": [
           {
             "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_pay_application_fee": "SEP 25,2024",
+            "deadline_finencial_aid_application": "OCT 1,2024",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
+            "deadline_admission_test_ECAT": "SEP 30,2024",
             "admission_decision": "OCT 4,2024",
             "commencement_of_classes": "OCT 28 2024"
           }
         ],
-        "merit": "Not Available",
+        "merit": "82%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -241,12 +241,56 @@
         ],
         "merit_formula": [
           {
-            "Matric": "Not Available",
-            "F.Sc./A-level/relevant DAE": "Not Available",
-            "Entry Test": "Not Available"
+            "Matric": "20%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "30%"
           }
         ],
-        "course_outline": "Not Available"
+        "course_outline": "https://lcwu.edu.pk/dpt-program/"
+      },
+      "business_administration": {
+        "program_title": "BBA Business Administration",
+        "program_description": "The BBA program at LCWU provides comprehensive business education with focus on management, marketing, finance, and entrepreneurship. The program is designed to develop leadership skills and business acumen in female students.",
+        "program_duration": "4 years",
+        "credit_hours": "124",
+        "fee": [
+          {
+            "per_credit_hour_fee": "2,016 PKR",
+            "total_tution_fee": "250,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "SEP 09,2024 to SEP 23,2024",
+            "deadline_pay_application_fee": "SEP 25,2024",
+            "deadline_finencial_aid_application": "OCT 1,2024",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "SEP 30,2024",
+            "admission_decision": "OCT 4,2024",
+            "commencement_of_classes": "OCT 28 2024"
+          }
+        ],
+        "merit": "65%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate with minimum 45% marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "LCWU Entry Test is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "30%",
+            "F.Sc./A-level/relevant DAE": "50%",
+            "Entry Test": "20%"
+          }
+        ],
+        "course_outline": "https://www.lcwu.edu.pk/bba-program/"
       }
     },
     "campuses": null

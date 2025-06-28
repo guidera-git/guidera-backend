@@ -9,7 +9,7 @@
       "facebook": "https://www.facebook.com/QAUIslamabadofficial",
       "twitter": "http://www.twitter.com/QAU_Official"
     },
-    "qs_ranking": "1",
+    "qs_ranking": "401",
     "contact_details": {
       "info_email": "info@qau.edu.pk",
       "call": "0092-51-9064-0000"
@@ -29,17 +29,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "July 30, 2025",
+            "deadline_pay_application_fee": "August 5, 2025",
+            "deadline_finencial_aid_application": "August 15, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 20, 2025",
+            "admission_decision": "September 1, 2025",
+            "commencement_of_classes": "September 15, 2025"
           }
         ],
-        "merit": "60%",
+        "merit": "88%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -61,12 +61,156 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "60%",
+            "Matric": "20%",
+            "F.Sc./A-level/relevant DAE": "47%",
             "Entry Test": "33%"
           }
         ],
         "course_outline": "https://cs.qau.edu.pk/"
+      },
+      "software_engineering": {
+        "program_title": "BS Software Engineering",
+        "program_description": "The BS Software Engineering program at QAU focuses on systematic approaches to software development, including requirements analysis, design, implementation, testing, and maintenance of large-scale software systems.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "5,502 PKR",
+            "total_tution_fee": "731,766 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "July 30, 2025",
+            "deadline_pay_application_fee": "August 5, 2025",
+            "deadline_finencial_aid_application": "August 15, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "August 20, 2025",
+            "admission_decision": "September 1, 2025",
+            "commencement_of_classes": "September 15, 2025"
+          }
+        ],
+        "merit": "85%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate of Computer Science (ICS) with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "Passed the QAU Admission test"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "20%",
+            "F.Sc./A-level/relevant DAE": "47%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://qau.edu.pk/software-engineering/"
+      },
+      "physics": {
+        "program_title": "BS Physics",
+        "program_description": "The BS Physics program at QAU provides comprehensive education in theoretical and experimental physics, preparing students for careers in research, industry, and academia.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "4,923 PKR",
+            "total_tution_fee": "640,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "July 30, 2025",
+            "deadline_pay_application_fee": "August 5, 2025",
+            "deadline_finencial_aid_application": "August 15, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "August 20, 2025",
+            "admission_decision": "September 1, 2025",
+            "commencement_of_classes": "September 15, 2025"
+          }
+        ],
+        "merit": "75%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "Mathematics and Physics are mandatory"
+          },
+          {
+            "s.no": 3,
+            "criteria": "QAU Entry Test is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "20%",
+            "F.Sc./A-level/relevant DAE": "47%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://qau.edu.pk/physics-program/"
+      },
+      "mathematics": {
+        "program_title": "BS Mathematics",
+        "program_description": "The BS Mathematics program provides rigorous training in pure and applied mathematics, developing analytical and problem-solving skills essential for various career paths.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "4,923 PKR",
+            "total_tution_fee": "640,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "July 30, 2025",
+            "deadline_pay_application_fee": "August 5, 2025",
+            "deadline_finencial_aid_application": "August 15, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "August 20, 2025",
+            "admission_decision": "September 1, 2025",
+            "commencement_of_classes": "September 15, 2025"
+          }
+        ],
+        "merit": "70%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "F.Sc. Pre-Engineering with at least 50% obtained marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "ICS with Mathematics with at least 50% obtained marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "QAU Entry Test is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "20%",
+            "F.Sc./A-level/relevant DAE": "47%",
+            "Entry Test": "33%"
+          }
+        ],
+        "course_outline": "https://qau.edu.pk/mathematics-program/"
       }
     },
     "campuses": null

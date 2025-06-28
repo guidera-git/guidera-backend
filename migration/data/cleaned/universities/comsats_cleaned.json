@@ -10,13 +10,162 @@
       "twitter": "https://twitter.com/CUIofficial",
       "youtube": "https://www.youtube.com/@cuiofficial"
     },
-    "qs_ranking": "Not Available",
+    "qs_ranking": "652",
     "contact_details": {
       "info_email": "rizwan_ahmed@comsats.edu.pk",
       "call": "(92-51) 9049 5032-5"
     },
     "introduction": "COMSATS University Islamabad (CUI) is a public sector university recognized by the Higher Education Commission of Pakistan. The university was established in 1998 as COMSATS Institute of Information Technology and was granted university status in 2018. CUI is known for its excellence in engineering, computer science, and technology programs, with multiple campuses across Pakistan serving thousands of students.",
-    "programs": {},
+    "programs": {
+      "computer_science": {
+        "program_title": "BS Computer Science",
+        "program_description": "The BS Computer Science program at COMSATS provides students with a comprehensive foundation in computing principles, programming, algorithms, and software development. The program is designed to produce skilled computer scientists capable of solving complex computational problems and contributing to technological advancement.",
+        "program_duration": "4 years",
+        "credit_hours": "130",
+        "fee": [
+          {
+            "per_credit_hour_fee": "4,615 PKR",
+            "total_tution_fee": "600,000 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "August 15, 2025",
+            "deadline_pay_application_fee": "August 20, 2025",
+            "deadline_finencial_aid_application": "September 1, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "August 25, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 30, 2025"
+          }
+        ],
+        "merit": "85%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate with Mathematics and minimum 60% marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "ICS with minimum 60% marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "F.Sc Pre-Engineering with minimum 60% marks"
+          },
+          {
+            "s.no": 4,
+            "criteria": "COMSATS Entry Test is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
+          }
+        ],
+        "course_outline": "https://www.comsats.edu.pk/cs-program/"
+      },
+      "software_engineering": {
+        "program_title": "BS Software Engineering",
+        "program_description": "The BS Software Engineering program focuses on the systematic approach to software development, including design, development, testing, and maintenance of large-scale software systems. Students learn modern software engineering practices and methodologies.",
+        "program_duration": "4 years",
+        "credit_hours": "133",
+        "fee": [
+          {
+            "per_credit_hour_fee": "4,615 PKR",
+            "total_tution_fee": "613,845 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "August 15, 2025",
+            "deadline_pay_application_fee": "August 20, 2025",
+            "deadline_finencial_aid_application": "September 1, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "August 25, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 30, 2025"
+          }
+        ],
+        "merit": "82%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "Intermediate with Mathematics and minimum 60% marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "ICS with minimum 60% marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "COMSATS Entry Test is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
+          }
+        ],
+        "course_outline": "https://www.comsats.edu.pk/se-program/"
+      },
+      "electrical_engineering": {
+        "program_title": "BS Electrical Engineering",
+        "program_description": "The BS Electrical Engineering program provides comprehensive education in electrical systems, electronics, power systems, and control systems. Students gain practical experience through laboratory work and industry projects.",
+        "program_duration": "4 years",
+        "credit_hours": "136",
+        "fee": [
+          {
+            "per_credit_hour_fee": "4,615 PKR",
+            "total_tution_fee": "627,640 PKR"
+          }
+        ],
+        "important_dates": [
+          {
+            "deadline_application_submission": "August 15, 2025",
+            "deadline_pay_application_fee": "August 20, 2025",
+            "deadline_finencial_aid_application": "September 1, 2025",
+            "daedline_ACT": null,
+            "daedline_SAT": null,
+            "deadline_admission_test_ECAT": "August 25, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 30, 2025"
+          }
+        ],
+        "merit": "80%",
+        "teaching_system": "Semester System",
+        "admission_criteria": [
+          {
+            "s.no": 1,
+            "criteria": "F.Sc Pre-Engineering with minimum 60% marks"
+          },
+          {
+            "s.no": 2,
+            "criteria": "DAE in Electrical/Electronics with minimum 60% marks"
+          },
+          {
+            "s.no": 3,
+            "criteria": "COMSATS Entry Test is mandatory"
+          }
+        ],
+        "merit_formula": [
+          {
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
+          }
+        ],
+        "course_outline": "https://www.comsats.edu.pk/ee-program/"
+      }
+    },
     "campuses": {
       "islamabad_campus": "https://www.comsats.edu.pk/",
       "lahore_campus": "https://lahore.comsats.edu.pk/",

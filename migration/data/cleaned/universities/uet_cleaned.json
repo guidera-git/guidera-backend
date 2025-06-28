@@ -7,7 +7,7 @@
     "social_links": {
       "instagram": "https://www.instagram.com/uet_lahore_official/",
       "facebook": "https://www.facebook.com/UETLahore.official/",
-      "twitter": null
+      "twitter": "https://twitter.com/UETLahore"
     },
     "qs_ranking": "751",
     "contact_details": {
@@ -31,15 +31,15 @@
           {
             "deadline_application_submission": "June 27, 2025",
             "deadline_pay_application_fee":  "June 28, 2025",
-            "deadline_finencial_aid_application": null,
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "85%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -57,9 +57,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": null,
-            "Entry Test": null
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://csksk.uet.edu.pk/computer-science/"
@@ -77,17 +77,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "83%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -101,9 +101,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": null,
-            "Entry Test": null
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://csksk.uet.edu.pk/software-engineering/"
@@ -121,17 +121,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "81%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -145,9 +145,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": null,
-            "Entry Test": null
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://ee.uet.edu.pk/b-sc-artificial-intelligence/"
@@ -165,17 +165,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "78%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -185,9 +185,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": null,
-            "Entry Test": null
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://bmec.uet.edu.pk/bs-biomedical-engineering/"
@@ -205,17 +205,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "80%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -249,17 +249,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "88%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -273,9 +273,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": null,
-            "Entry Test": null
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://ee.uet.edu.pk/curriculum-for-bsc-electrical-engineering/"
@@ -293,17 +293,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "86%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -317,9 +317,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": null,
-            "Entry Test": null
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://mechanical.uet.edu.pk/curriculum/"
@@ -337,17 +337,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "June 27, 2025",
+            "deadline_pay_application_fee":  "June 28, 2025",
+            "deadline_finencial_aid_application": "July 10, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_LCAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_LCAT": "July 5, 2025",
+            "admission_decision": "July 20, 2025",
+            "commencement_of_classes": "August 15, 2025"
           }
         ],
-        "merit": "Not Available",
+        "merit": "84%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -361,9 +361,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": null,
-            "Entry Test": null
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://civil.uet.edu.pk/undergraduate-programs/"

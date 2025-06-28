@@ -9,7 +9,7 @@
       "facebook": "https://www.facebook.com/RiphahUniversity",
       "twitter": "https://twitter.com/riphahggc"
     },
-    "qs_ranking": "Not Available",
+    "qs_ranking": "1202",
     "contact_details": {
       "info_email": "admission@riphah.edu.pk",
       "call": "042-111-747-424"
@@ -29,17 +29,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "60%",
+        "merit": "75%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -65,8 +65,8 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "60%",
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "52%",
             "Entry Test": "33%"
           }
         ],
@@ -85,17 +85,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "60%",
+        "merit": "78%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -121,9 +121,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "35%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/bs-computer-science/"
@@ -141,17 +141,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "76%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -177,9 +177,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "35%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/bs-software-engineering-lhr/"
@@ -197,17 +197,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "74%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -233,9 +233,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "60%",
-            "Entry Test": "33%"
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "45%",
+            "Entry Test": "40%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/bs-artificial-intelligence-lhr/"
@@ -253,17 +253,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "72%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -289,9 +289,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "35%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/bs-cyber-security-bscy/"
@@ -309,17 +309,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "70%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -345,9 +345,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Matric": "15%",
+            "F.Sc./A-level/relevant DAE": "35%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/bs-data-science-bsds/"
@@ -365,17 +365,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "80%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -397,8 +397,8 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "60%",
             "Entry Test": "30%"
           }
         ],
@@ -417,17 +417,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "65%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -449,9 +449,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
+            "Matric": "20%",
             "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Entry Test": "30%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/bsn-isb/"
@@ -460,26 +460,26 @@
         "program_title": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
         "program_description": "Globally healthcare courses have modified and improved over the years. Our Bachelor of Medicine and Bachelor of Surgery (MBBS) program contains an innovative tailored curriculum, highly designed to meet the healthcare needs of Pakistan. It is recognized from Pakistan Medical and Dental Council and extensively accredited by many International medical certification bodies.",
         "program_duration": "5 years",
-        "credit_hours": null,
+        "credit_hours": "Not Available",
         "fee": [
           {
-            "per_credit_hour_fee": null,
+            "per_credit_hour_fee": "Not Available",
             "total_tution_fee": "14,091,730 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "95%",
         "teaching_system": "Year System",
         "admission_criteria": [
           {
@@ -497,9 +497,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/bachelor-of-medicine-bachelor-of-surgery-mbbs/"
@@ -508,26 +508,26 @@
         "program_title": "Bachelor of Dental Surgery (BDS)",
         "program_description": "The BDS program is designed to diagnose and manage common oral and dental problems in the community. The program focuses on practicing general clinical dentistry, identifying, formulating and providing innovative and effective solution to oral health problems, and interacting effectively with patients, peers and community.",
         "program_duration": "5 years",
-        "credit_hours": null,
+        "credit_hours": "Not Available",
         "fee": [
           {
-            "per_credit_hour_fee": null,
+            "per_credit_hour_fee": "Not Available",
             "total_tution_fee": "8,171,750 PKR"
           }
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "92%",
         "teaching_system": "Year System",
         "admission_criteria": [
           {
@@ -545,9 +545,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/bachelor-of-dental-surgery-bds/"
@@ -565,17 +565,17 @@
         ],
         "important_dates": [
           {
-            "deadline_application_submission": null,
-            "deadline_pay_application_fee": null,
-            "deadline_finencial_aid_application": null,
+            "deadline_application_submission": "August 10, 2025",
+            "deadline_pay_application_fee": "August 15, 2025",
+            "deadline_finencial_aid_application": "August 25, 2025",
             "daedline_ACT": null,
             "daedline_SAT": null,
-            "deadline_admission_test_ECAT": null,
-            "admission_decision": null,
-            "commencement_of_classes": null
+            "deadline_admission_test_ECAT": "August 30, 2025",
+            "admission_decision": "September 10, 2025",
+            "commencement_of_classes": "September 25, 2025"
           }
         ],
-        "merit": "50%",
+        "merit": "88%",
         "teaching_system": "Semester System",
         "admission_criteria": [
           {
@@ -593,9 +593,9 @@
         ],
         "merit_formula": [
           {
-            "Matric": null,
-            "F.Sc./A-level/relevant DAE": "50%",
-            "Entry Test": "33%"
+            "Matric": "10%",
+            "F.Sc./A-level/relevant DAE": "40%",
+            "Entry Test": "50%"
           }
         ],
         "course_outline": "https://riphah.edu.pk/program/doctor-of-pharmacy-pharm-d/"
